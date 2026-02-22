@@ -1,0 +1,8 @@
+[ja]
+  languageName = "日本語"
+  weight = 1
+  title = "ローゼンマイヤー"
+
+  [ja.params]
+    author = "ローゼンマイヤー"
+    description = "AI・投資系ニュースをローゼがお届けするブログですわ 🌹"
