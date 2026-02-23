@@ -6,6 +6,10 @@ enableSearch = true
 enableCodeCopy = true
 mainSections = ["posts"]
 
+defaultBackgroundImage = "img/background.jpg"
+backgroundImageWidth = 1200
+hotlinkFeatureImage = true
+
 [header]
   layout = "fixed"
 
@@ -27,7 +31,8 @@ mainSections = ["posts"]
 [article]
   showDate = true
   showAuthor = true
-  showHero = false
+  showHero = true
+  heroStyle = "big"
   showBreadcrumbs = true
   showDraftLabel = false
   showEdit = false
