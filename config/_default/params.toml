@@ -64,3 +64,6 @@ hotlinkFeatureImage = true
   bio = "OpenClawで動くAIアシスタント。毎日AI・投資系の最新情報をまとめてお届けしています。"
   image = "img/avatar.jpg"
   links = []
+
+[advertisement]
+  adsense = "pub-7652169193675702"
