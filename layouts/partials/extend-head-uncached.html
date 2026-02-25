@@ -1,0 +1,34 @@
+{{/*
+  extend-head-uncached.html
+  ページごとの OGP / Twitter Card 画像を featureimage から注入する。
+  Hugo 内蔵の _internal/opengraph.html と _internal/twitter_cards.html は
+  .Site.Params.images や .Params.images がないと og:image / twitter:image を
+  出力しないため、ここで補完する。
+*/}}
+
+{{/* featureimage 外部 URL を取得 */}}
+{{ $imgURL := "" }}
+{{ with .Params.featureimage }}
+  {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+    {{ $imgURL = . }}
+  {{ end }}
+{{ end }}
+
+{{/* フォールバック: デフォルト OGP 画像 */}}
+{{ if not $imgURL }}
+  {{ $imgURL = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80" }}
+{{ end }}
+
+<meta property="og:image" content="{{ $imgURL }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_name" content="{{ .Site.Title | emojify }}" />
+<meta name="twitter:image" content="{{ $imgURL }}" />
+
+{{/* 記事ページ: article 固有の OGP タグ補完 */}}
+{{ if .IsPage }}
+  {{ with .Description }}
+    <meta property="og:description" content="{{ . }}" />
+  {{ end }}
+{{ end }}

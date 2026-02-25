@@ -1,0 +1,16 @@
+{
+  "name": "ローゼンマイヤー",
+  "short_name": "ローゼ",
+  "description": "AI・投資系ニュースをローゼがお届けするブログですわ 🌹",
+  "start_url": "/rose-blog/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#c084fc",
+  "icons": [
+    {
+      "src": "/rose-blog/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

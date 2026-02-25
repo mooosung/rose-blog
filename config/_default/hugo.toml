@@ -1,6 +1,7 @@
 theme = "blowfish"
 baseURL = "https://mooosung.github.io/rose-blog/"
 defaultContentLanguage = "ja"
+languageCode = "ja-JP"
 
 enableRobotsTXT = true
 summaryLength = 30
