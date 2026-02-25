@@ -5,6 +5,9 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 mainSections = ["posts"]
+keywords = ["AI", "投資", "株式", "半導体", "プログラミング", "テック", "日本株", "ニュース"]
+robots = "index, follow"
+enableStructuredBreadcrumbs = true
 
 defaultBackgroundImage = "img/background.jpg"
 defaultFeaturedImage = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
@@ -46,6 +49,7 @@ hotlinkFeatureImage = true
   showCards = true
   groupByYear = true
   cardView = true
+  showSummary = true
 
 [sitemap]
   excludedKinds = []
