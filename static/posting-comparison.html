@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ポスティング3社比較</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', sans-serif;
+    background: #f0f2f5;
+    padding: 32px 16px;
+    color: #1a1a2e;
+  }
+  h1 {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: #1a1a2e;
+  }
+  .subtitle {
+    text-align: center;
+    color: #666;
+    font-size: 13px;
+    margin-bottom: 28px;
+  }
+  .table-wrap {
+    overflow-x: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+    margin-bottom: 28px;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    min-width: 700px;
+    background: #fff;
+  }
+  thead tr {
+    background: #1a1a2e;
+    color: #fff;
+  }
+  thead th {
+    padding: 14px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 0.03em;
+  }
+  thead th:first-child { text-align: left; }
+  tbody tr:nth-child(even) { background: #f8f9fb; }
+  tbody tr:hover { background: #eef2ff; transition: 0.15s; }
+  td {
+    padding: 12px 16px;
+    font-size: 13px;
+    border-bottom: 1px solid #e8eaf0;
+    text-align: center;
+    vertical-align: middle;
+  }
+  td:first-child {
+    text-align: left;
+    font-weight: 600;
+    color: #444;
+    white-space: nowrap;
+  }
+  .best { color: #16a34a; font-weight: 700; }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 99px;
+    font-size: 11px;
+    font-weight: 600;
+    margin-left: 4px;
+  }
+  .badge-best { background: #dcfce7; color: #16a34a; }
+  .badge-note { background: #fef9c3; color: #854d0e; }
+  .badge-warn { background: #fee2e2; color: #b91c1c; }
+  .badge-ref  { background: #e0e7ff; color: #4338ca; }
+
+  /* 評価セクション */
+  .eval-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+  .eval-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    padding: 20px;
+  }
+  .eval-card h3 {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .stars { color: #f59e0b; letter-spacing: 1px; }
+  .eval-card ul {
+    list-style: none;
+    font-size: 12.5px;
+    line-height: 1.8;
+    color: #444;
+  }
+  .eval-card ul li::before { content: "✅ "; }
+  .eval-card ul li.warn::before { content: "▲ "; color: #f59e0b; }
+
+  /* 市場相場 */
+  .market-box {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    padding: 20px 24px;
+    margin-bottom: 28px;
+  }
+  .market-box h2 {
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #1a1a2e;
+  }
+  .market-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+  .market-bar-wrap {
+    flex: 1;
+    background: #e8eaf0;
+    border-radius: 99px;
+    height: 10px;
+    overflow: hidden;
+  }
+  .market-bar {
+    height: 100%;
+    border-radius: 99px;
+  }
+  .label-left { width: 160px; color: #555; font-size: 12px; }
+  .label-right { width: 80px; text-align: right; font-size: 12px; font-weight: 600; }
+
+  /* まとめ */
+  .summary-box {
+    background: #1a1a2e;
+    color: #fff;
+    border-radius: 12px;
+    padding: 20px 24px;
+    font-size: 13.5px;
+    line-height: 1.9;
+  }
+  .summary-box h2 { font-size: 15px; margin-bottom: 10px; color: #a5b4fc; }
+  .summary-box strong { color: #86efac; }
+  .footer { text-align: center; font-size: 11px; color: #aaa; margin-top: 16px; }
+</style>
+</head>
+<body>
+
+<h1>🌹 ポスティング3社比較</h1>
+<p class="subtitle">A4両面・5,000部・国分寺市内藤周辺（西国分寺駅・国立駅エリア）</p>
+
+<!-- メイン比較表 -->
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>項目</th>
+      <th>① 株式会社ライン</th>
+      <th>② 株式会社アト</th>
+      <th>③ ランズ・イット</th>
+      <th>④ アドネット <span class="badge badge-ref">参考</span></th>
+      <th>⑤ オレンジネット <span class="badge badge-ref">参考</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>配布単価（税別）</td>
+      <td>@4.80円</td>
+      <td class="best">@4.50円 <span class="badge badge-best">最安</span></td>
+      <td class="best">@4.50円 <span class="badge badge-best">最安</span></td>
+      <td>要見積</td>
+      <td>要見積</td>
+    </tr>
+    <tr>
+      <td>印刷単価（税別）</td>
+      <td>@2.60円</td>
+      <td>@2.50円</td>
+      <td class="best">@2.30円 <span class="badge badge-best">最安</span></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>配布のみ（5,000部・税込）</td>
+      <td>26,400円</td>
+      <td class="best">24,750円</td>
+      <td class="best">24,750円</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>配布＋印刷（5,000部・税込）</td>
+      <td>40,700円</td>
+      <td>38,500円</td>
+      <td class="best">37,400円 <span class="badge badge-best">最安</span></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>国分寺市対応</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅ 専門</td>
+      <td>✅ 専門</td>
+    </tr>
+    <tr>
+      <td>ターゲット絞込</td>
+      <td>ファミリー特化可<br><span class="badge badge-note">単価UP</span></td>
+      <td>国勢データ活用<br>町丁目単位</td>
+      <td>1属性3,000円〜</td>
+      <td>不明</td>
+      <td>GPS管理・精密</td>
+    </tr>
+    <tr>
+      <td>最低ロット</td>
+      <td>5,000部</td>
+      <td>5,000部</td>
+      <td>5,000部</td>
+      <td>不明</td>
+      <td>不明</td>
+    </tr>
+    <tr>
+      <td>配布方法</td>
+      <td>軒並み</td>
+      <td>軒並み / 集合 / 戸建て<br>選択可</td>
+      <td>軒並み</td>
+      <td>不明</td>
+      <td>GPS管理ルート</td>
+    </tr>
+    <tr>
+      <td>見積書</td>
+      <td><strong>PDF正式見積あり</strong> ✅</td>
+      <td>本文中の単価のみ <span class="badge badge-warn">簡易</span></td>
+      <td>Excelの料金表のみ <span class="badge badge-warn">概算</span></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>クレーム対応</td>
+      <td>全件引取り</td>
+      <td>過去クレーム物件除外<br>全件対応</td>
+      <td>全件対応</td>
+      <td>不明</td>
+      <td>不明</td>
+    </tr>
+    <tr>
+      <td>支払条件</td>
+      <td>初回前払い<br>2回目以降：月末締め翌月末払い</td>
+      <td>配布3日前入金<br>売掛相談可</td>
+      <td>初回前払い<br>（詳細不明）</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>メール評価</td>
+      <td><span class="stars">★★★★★</span></td>
+      <td><span class="stars">★★★★</span>☆</td>
+      <td><span class="stars">★★★</span>☆☆</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- 市場相場バー -->
+<div class="market-box">
+  <h2>📉 市場相場との比較（東京郊外・軒並み配布・A4）</h2>
+  <div class="market-row">
+    <div class="label-left">① ライン（@4.8円）</div>
+    <div class="market-bar-wrap"><div class="market-bar" style="width:55%;background:#6366f1;"></div></div>
+    <div class="label-right">4.8円</div>
+  </div>
+  <div class="market-row">
+    <div class="label-left">② アト / ③ ランズ（@4.5円）</div>
+    <div class="market-bar-wrap"><div class="market-bar" style="width:50%;background:#22c55e;"></div></div>
+    <div class="label-right">4.5円</div>
+  </div>
+  <div class="market-row">
+    <div class="label-left">相場下限</div>
+    <div class="market-bar-wrap"><div class="market-bar" style="width:40%;background:#d1d5db;"></div></div>
+    <div class="label-right">3.5円</div>
+  </div>
+  <div class="market-row">
+    <div class="label-left">相場上限（東京郊外）</div>
+    <div class="market-bar-wrap"><div class="market-bar" style="width:90%;background:#f87171;"></div></div>
+    <div class="label-right">8.0円</div>
+  </div>
+  <div class="market-row">
+    <div class="label-left">ラクスル調べ目安（5,000部）</div>
+    <div class="market-bar-wrap"><div class="market-bar" style="width:80%;background:#fb923c;"></div></div>
+    <div class="label-right">7.3円</div>
+  </div>
+  <p style="font-size:12px;color:#888;margin-top:10px;">→ 3社いずれも相場の下限〜中間で良心的な価格水準です。</p>
+</div>
+
+<!-- メール評価カード -->
+<div class="eval-grid">
+  <div class="eval-card">
+    <h3>① 株式会社ライン <span class="stars">★★★★★</span></h3>
+    <ul>
+      <li>PDF正式見積書を2種類添付（最も充実）</li>
+      <li>エリア表・資料2点も添付</li>
+      <li>質問への回答が項目別に整理</li>
+      <li>Web打合せ用カレンダーリンクを提示</li>
+      <li>ビジネス文書として最も完成度が高い</li>
+      <li class="warn">単価はわずかに他社より高め</li>
+    </ul>
+  </div>
+  <div class="eval-card">
+    <h3>② 株式会社アト <span class="stars">★★★★</span>☆</h3>
+    <ul>
+      <li>回答を罫線セクションで区切り視認性が高い</li>
+      <li>セグメント配布の説明が充実</li>
+      <li>国勢調査データを活用できる点が強み</li>
+      <li class="warn">見積書PDFなし（本文中の単価のみ）</li>
+      <li class="warn">「電話したが不通のためメール」の書き出し</li>
+    </ul>
+  </div>
+  <div class="eval-card">
+    <h3>③ ランズ・イット <span class="stars">★★★</span>☆☆</h3>
+    <ul>
+      <li>料金表ExcelとMAP（徒歩20分圏）を添付</li>
+      <li>属性セグメントも対応</li>
+      <li class="warn">文体が砕けており構成が散漫</li>
+      <li class="warn">「ご意向によりお見積もり」→正式見積ではない</li>
+      <li class="warn">支払条件の記載が不明確</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 総評 -->
+<div class="summary-box">
+  <h2>🌹 ローゼの総評</h2>
+  <p>
+    <strong>コスパ最優先</strong> → ③ランズ・イット（配布＋印刷 37,400円 税込）<br>
+    <strong>ファミリー層への精度重視</strong> → ②アト（国勢データでセグメント絞込・売掛相談可）<br>
+    <strong>信頼感・対応力</strong> → ①ライン（正式見積書・丁寧な回答・実績感）<br>
+    <br>
+    国分寺市専門の <strong>アドネット</strong>（創業30年）・<strong>オレンジネット</strong>（GPS管理）へも見積依頼すれば、さらに良条件が出る可能性があります。
+  </p>
+</div>
+
+<p class="footer">作成: ローゼ 🌹 / 2026-02-25</p>
+</body>
+</html>
