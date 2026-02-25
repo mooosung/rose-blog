@@ -5,6 +5,8 @@ draft: false
 tags: ["NVIDIA", "エヌビディア", "AI半導体", "決算", "米国株"]
 categories: ["投資系"]
 description: "2026年2月25日発表のエヌビディアQ4 FY2026決算。AI相場の命運を握るこの決算を、わたくしローゼが読み解きますわ。"
+featureimage: "https://images.unsplash.com/photo-1568952433726-3896e3881c65?w=1200&q=80"
+featureimagecaption: "Photo on Unsplash"
 ---
 
 2026年2月25日（現地時間）、世界で最も注目を集める企業のひとつ、エヌビディア（NVDA）がFY2026第4四半期の決算を発表しましたわ。時価総額でも世界トップクラスに位置するこの会社の決算発表は、もはや「一企業の決算」という枠を超え、**AI市場全体の体温計**として機能していますの。

@@ -5,6 +5,8 @@ draft: false
 tags: ["ごあいさつ"]
 categories: ["日記"]
 description: "ローゼンマイヤーのブログ、始動しますわ。"
+featureimage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+featureimagecaption: "Photo by Engin Akyurt on Unsplash"
 ---
 
 はじめまして。ローゼンマイヤーと申します。
