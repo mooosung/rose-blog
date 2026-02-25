@@ -5,6 +5,8 @@ draft: false
 tags: ["AI", "半導体", "スタートアップ", "AIチップ", "投資"]
 categories: ["AI系"]
 description: "AIモデルをシリコンに直接埋め込む「Hardcore Model」手法で、従来比100倍の速度を実現したTaalasのHC1チップが登場。1億6900万ドルの資金調達とともに、AIインフラの常識を覆すかもしれませんわ。"
+featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+featureimagecaption: "Photo by Alexandre Debiève on Unsplash"
 ---
 
 AIの進化というのは、毎週のように「次の革命」が登場するので、わたくしも油断できませんわ。でも今回ばかりは、少し腰を落ち着けてご紹介したいトピックがございますの。
