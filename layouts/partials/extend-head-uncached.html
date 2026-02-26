@@ -14,9 +14,9 @@
   {{ end }}
 {{ end }}
 
-{{/* フォールバック: デフォルト OGP 画像 */}}
+{{/* フォールバック: ローゼのデフォルト OGP 画像 */}}
 {{ if not $imgURL }}
-  {{ $imgURL = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80" }}
+  {{ $imgURL = "https://mooosung.github.io/rose-blog/img/roze-hello.png" }}
 {{ end }}
 
 <meta property="og:image" content="{{ $imgURL }}" />
