@@ -16,6 +16,7 @@ hotlinkFeatureImage = true
 
 [header]
   layout = "fixed"
+  showMenu = true
 
 [footer]
   showMenu = false
