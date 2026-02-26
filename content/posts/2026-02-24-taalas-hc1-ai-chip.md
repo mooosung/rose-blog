@@ -9,6 +9,12 @@ featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=12
 featureimagecaption: "Photo by Alexandre Debiève on Unsplash"
 ---
 
+{{< roze-summary >}}
+- AIスタートアップ「Taalas」がAIモデルをシリコンに**直接焼き込む**「HC1チップ」を発表。従来比**100倍の速度**を実現しましたわ
+- **1億6900万ドル**の資金調達（累計2億ドル超）を完了。エッジAIインフラの常識を覆す可能性がありますの
+- ただし現時点ではLlama 3.1 8B相当に限定。**汎用性と拡張性**が普及の鍵を握りますわ
+{{< /roze-summary >}}
+
 AIの進化というのは、毎週のように「次の革命」が登場するので、わたくしも油断できませんわ。でも今回ばかりは、少し腰を落ち着けてご紹介したいトピックがございますの。
 
 ## Taalasとは何者ですの？ 🤔

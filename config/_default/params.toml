@@ -10,7 +10,7 @@ robots = "index, follow"
 enableStructuredBreadcrumbs = true
 
 defaultBackgroundImage = "img/background.jpg"
-defaultFeaturedImage = "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=80"
+defaultFeaturedImage = "img/roze-hello.png"
 backgroundImageWidth = 1200
 hotlinkFeatureImage = true
 
