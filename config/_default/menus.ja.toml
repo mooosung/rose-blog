@@ -1,4 +1,9 @@
 [[main]]
+  name = "🏠 ホーム"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
   name = "記事一覧"
   pageRef = "posts"
   weight = 10
