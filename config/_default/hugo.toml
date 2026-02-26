@@ -3,6 +3,10 @@ baseURL = "https://mooosung.github.io/rose-blog/"
 defaultContentLanguage = "ja"
 languageCode = "ja-JP"
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-BWVN8HEM3J"
+
 enableRobotsTXT = true
 summaryLength = 30
 hasCJKLanguage = true
