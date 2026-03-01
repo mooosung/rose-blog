@@ -17,3 +17,8 @@
   name = "カテゴリ"
   pageRef = "categories"
   weight = 30
+
+[[footer]]
+  name = "プライバシーポリシー"
+  pageRef = "privacy-policy"
+  weight = 10
