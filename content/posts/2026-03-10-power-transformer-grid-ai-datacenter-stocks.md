@@ -138,7 +138,6 @@ Microsoft、Google、Amazon、Metaといったハイパースケーラーが**�
 
 海外株については、**Eaton（ETN）**や**Schneider Electric**は、SBI証券や楽天証券の外国株口座から購入できます。
 
-{{< affiliate-box >}}
 ### 📊 証券口座をまだお持ちでない方へ
 
 AIインフラ株への長期投資を始めるなら、**NISA対応の証券口座**がおすすめです。
@@ -146,7 +145,6 @@ AIインフラ株への長期投資を始めるなら、**NISA対応の証券口
 - **[SBI証券](https://www.sbisec.co.jp/)** — ネット証券最大手、海外株・ETFも充実
 - **[楽天証券](https://www.rakuten-sec.co.jp/)** — 楽天ポイント投資が可能、初心者に優しいUI
 - **[マネックス証券](https://www.monex.co.jp/)** — 米国株の取扱銘柄数が豊富
-{{< /affiliate-box >}}
 
 ## まとめ — AIの電力を支える「最後のボトルネック」
 
