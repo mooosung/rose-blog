@@ -5,7 +5,7 @@ draft: false
 description: "CrowdStrikeの事業モデル・強み・財務指標・リスクを徹底解説。AIセキュリティ時代に注目のSaaS銘柄CRWDへの投資判断ポイントをわかりやすく解説します。"
 tags: ["CrowdStrike", "CRWD", "AI SaaS", "サイバーセキュリティ", "米国株", "SaaS銘柄", "成長株", "AI銘柄"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
-series: ["AI SaaS銘柄分析"]
+
 ---
 
 ## CrowdStrikeとは？AIセキュリティのリーディングカンパニー
