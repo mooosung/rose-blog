@@ -5,7 +5,6 @@ draft: false
 description: "米国ETFでコア・サテライト戦略を実践する方法を解説。VOO・VTI をコアに、QQQ・VYM・セクターETFをサテライトに配置する具体的なポートフォリオ例を紹介します。"
 tags: ["米国株", "ETF", "コアサテライト戦略", "VOO", "QQQ", "VYM", "長期投資", "ポートフォリオ"]
 categories: ["米国株・ETF長期投資"]
-series: ["米国ETF入門"]
 ---
 
 ## コア・サテライト戦略とは？
