@@ -5,6 +5,8 @@ slug: "industrial-gas-specialty-chemicals-ai-semiconductor"
 description: "半導体製造に不可欠な産業用ガス・特殊化学品。AIブームの裏側で安定成長を続ける大陽日酸・Air Liquide・Lindeなどの銘柄を解説し、投資妙味を探ります。"
 tags: ["ツルハシ投資", "産業用ガス", "特殊化学品", "半導体", "AIインフラ", "大陽日酸", "Linde", "Air Liquide", "長期投資"]
 categories: ["ツルハシ投資"]
+featureimage: "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&q=80"
+featureimagecaption: "Photo by Unsplash"
 keywords:
   - 産業用ガス 投資
   - 半導体 特殊化学品 銘柄
