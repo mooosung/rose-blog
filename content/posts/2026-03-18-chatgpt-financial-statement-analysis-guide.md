@@ -3,6 +3,8 @@ title: "ChatGPTで決算書を10分で読み解く｜AI決算分析の実践ガ�
 date: 2026-03-18
 draft: false
 description: "ChatGPTやClaudeを使って企業の決算書（損益計算書・貸借対照表・キャッシュフロー計算書）を素早く分析する方法を解説。プロンプト例付きで初心者でもすぐ実践できます。"
+featureimage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80"
+featureimagecaption: "Photo by Unsplash"
 tags: ["AI活用術", "ChatGPT", "Claude", "決算分析", "財務諸表", "投資", "生産性ハック"]
 categories: ["AI活用術"]
 ---
