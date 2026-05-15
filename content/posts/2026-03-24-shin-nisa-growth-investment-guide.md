@@ -5,8 +5,8 @@ draft: false
 tags: ["新NISA", "成長投資枠", "つみたて投資枠", "資産運用", "投資信託"]
 categories: ["NISA・iDeCo"]
 description: "新NISAの成長投資枠の仕組み・対象商品・つみたて投資枠との違いをわかりやすく解説。初心者が迷わない活用戦略とおすすめの使い方を紹介します。"
-featureimage: "https://picsum.photos/seed/2026-03-24-shin-nisa-growth-investment-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 ## 新NISAの成長投資枠とは？

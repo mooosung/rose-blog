@@ -5,8 +5,8 @@ draft: false
 tags: ["変圧器", "トランス", "送電インフラ", "電力設備", "データセンター", "日立エナジー", "ダイヘン", "明電舎", "Eaton", "Siemens Energy", "AIインフラ株", "長期投資", "NISA"]
 categories: ["AIバブルのツルハシ銘柄", "AI時代の資産運用"]
 description: "AIデータセンター急増で世界的な変圧器不足が深刻化。変圧器の基本的な仕組みから、なぜAI時代のボトルネックになっているのか、日立エナジー・ダイヘン・明電舎など注目の関連銘柄を初心者向けにわかりやすく解説します。"
-featureimage: "https://picsum.photos/seed/2026-03-10-power-transformer-grid-ai-datacenter-stocks/1200/630"
-featureimagecaption: "Photo by Matthew Henry on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 {{< roze-summary >}}

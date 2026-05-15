@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "半導体", "SOXX", "SMH", "株式投資", "AI投資"]
 categories: ["投資・資産運用"]
 description: "SOXX・SMHの違いと特徴を徹底解説。AI・データセンター需要で急成長する半導体セクターに、ETFで分散投資する方法をわかりやすく紹介します。"
-featureimage: "https://picsum.photos/seed/2026-04-08-semiconductor-etf-soxx-smh-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 2026年、AIブームはさらなる加速を見せています。ChatGPT、Gemini、Claude——これらの生成AIを動かしているのは、大量の**半導体チップ**です。

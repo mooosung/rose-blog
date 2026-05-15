@@ -5,8 +5,8 @@ draft: false
 tags: ["REIT", "不動産投資", "不労所得", "投資信託", "資産運用"]
 categories: ["投資・資産運用"]
 description: "REIT（不動産投資信託）とは何か、仕組みからメリット・デメリット、国内REIT・米国REITの選び方まで徹底解説。数万円から始められる不動産投資の全貌をわかりやすく説明します。"
-featureimage: "https://picsum.photos/seed/2026-05-06-reit-investment-guide-2026/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_54157739166_da09fefc1d_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 不動産投資に興味はあるけれど、「数千万円の資金が必要」「管理が大変そう」と感じて踏み出せない人は多いでしょう。そんな方に注目してほしいのが**REIT（リート）**です。REITを使えば、数万円という少額からでも不動産に投資し、安定した配当収入を得ることができます。

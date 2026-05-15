@@ -5,8 +5,8 @@ draft: false
 tags: ["データセンター", "UPS", "電力インフラ", "AI投資", "富士電機", "Vertiv", "Eaton", "シュナイダーエレクトリック", "長期投資", "NISA"]
 categories: ["AIバブルのツルハシ", "AI時代の資産運用"]
 description: "AI需要の爆発でデータセンターの電力消費が急増中。UPS（無停電電源装置）や電源システムを提供する企業は、まさにAIバブルの「ツルハシ売り」。富士電機・Vertiv・Eatonなど注目銘柄を解説します。"
-featureimage: "https://picsum.photos/seed/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/1200/630"
-featureimagecaption: "Photo by imgix on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 ## はじめに：AIが「電気を食い尽くす」時代

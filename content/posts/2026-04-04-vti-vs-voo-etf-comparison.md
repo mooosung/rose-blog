@@ -5,8 +5,8 @@ draft: false
 tags: ["VTI", "VOO", "ETF比較", "米国株", "S&P500", "全米株式", "長期投資"]
 categories: ["米国株・ETF長期投資"]
 description: "VTI（全米株式）と VOO（S&P500）の違いを徹底比較。構成銘柄・経費率・リターン・新NISA活用法まで解説します。"
-featureimage: "https://picsum.photos/seed/2026-04-04-vti-vs-voo-etf-comparison/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 ## 「VTIとVOO、どっちがいいの？」という疑問

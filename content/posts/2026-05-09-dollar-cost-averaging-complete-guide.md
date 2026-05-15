@@ -5,8 +5,8 @@ draft: false
 tags: ["積立投資", "ドルコスト平均法", "NISA", "インデックス投資", "資産運用"]
 categories: ["投資基礎知識"]
 description: "ドルコスト平均法（積立投資）の仕組みをわかりやすく解説。NISA・iDeCoとの組み合わせ方、メリット・デメリット、実践的な始め方まで完全網羅。"
-featureimage: "https://picsum.photos/seed/2026-05-09-dollar-cost-averaging-complete-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 資産形成を始めようとしたとき、多くの人が最初に悩むのが「いつ買えばいいのか」という問題です。株価は毎日上下し、「今が高値なのか、安値なのか」を判断するのはプロでも難しい。

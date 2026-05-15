@@ -5,8 +5,8 @@ draft: false
 tags: ["Python", "株式投資", "データ分析", "スキル投資", "副業", "プログラミング", "yfinance", "pandas", "自動化", "AI時代"]
 categories: ["スキル投資・副業戦略"]
 description: "Pythonを使って株式投資のデータ分析を始める方法を初心者向けに徹底解説。環境構築からyfinanceでの株価取得、pandasでの分析、スクリーニング自動化まで、AI時代に個人投資家が身につけるべきスキルをステップバイステップで紹介します。"
-featureimage: "https://picsum.photos/seed/2026-03-15-python-stock-investing-beginners-guide/1200/630"
-featureimagecaption: "Photo by Markus Spiske on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 {{< roze-summary >}}

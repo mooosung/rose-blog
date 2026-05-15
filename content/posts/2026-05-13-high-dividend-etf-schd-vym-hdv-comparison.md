@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "高配当", "SCHD", "VYM", "HDV", "配当投資", "米国株"]
 categories: ["投資・資産運用"]
 description: "SCHD・VYM・HDVの3大高配当ETFを徹底比較。配当利回り・増配実績・構成銘柄・コストの違いを解説し、あなたに合った選び方を紹介します。"
-featureimage: "https://picsum.photos/seed/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 高配当ETFへの投資を検討しているなら、必ず名前が挙がるのが **SCHD・VYM・HDV** の3つです。どれも米国を代表する高配当ETFですが、中身はかなり異なります。

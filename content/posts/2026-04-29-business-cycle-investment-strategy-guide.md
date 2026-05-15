@@ -5,8 +5,8 @@ draft: false
 tags: ["投資", "景気循環", "資産運用", "株式", "セクター投資"]
 categories: ["投資戦略"]
 description: "景気循環の4つのフェーズ（回復・拡張・後退・底）それぞれに最適な投資戦略を解説。どのセクター・資産クラスがどの局面で強いかを理解して、長期資産形成を有利に進める方法を紹介します。"
-featureimage: "https://picsum.photos/seed/2026-04-29-business-cycle-investment-strategy-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 投資をしていると「今は景気が良いのか、悪いのか」が気になりますよね。実は景気には一定のサイクルがあり、そのフェーズに合わせた投資戦略をとることで、リターンを高めたり損失を抑えたりすることができます。

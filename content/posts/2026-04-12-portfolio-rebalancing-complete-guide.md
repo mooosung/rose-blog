@@ -5,8 +5,8 @@ draft: false
 tags: ["リバランス", "ポートフォリオ", "資産運用", "インデックス投資", "分散投資"]
 categories: ["投資入門"]
 description: "ポートフォリオのリバランスとは何か、なぜ必要なのか、いつどうやってやるのかを初心者向けに徹底解説。税金・コストを最小化しながら最適な資産配分を維持する方法を紹介します。"
-featureimage: "https://picsum.photos/seed/2026-04-12-portfolio-rebalancing-complete-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 長期投資を続けていると、最初に設定した「株式60%・債券40%」という資産配分が、いつの間にか「株式75%・債券25%」にずれていた——そんな経験はありませんか？

@@ -5,8 +5,8 @@ draft: false
 tags: ["光通信", "光ファイバー", "AIインフラ株", "データセンター", "フォトニクス", "Coherent", "古河電工", "フジクラ", "長期投資", "NISA", "AIバブル"]
 categories: ["AIバブルのツルハシ", "通信インフラ"]
 description: "AI時代のデータ爆発を支える「光通信・光ファイバー」技術を徹底解説。なぜ今この分野が注目されているのか、関連する投資銘柄をNISA・長期投資の観点からわかりやすく解説します。"
-featureimage: "https://picsum.photos/seed/2026-03-03-optical-communication-fiber-ai-stocks/1200/630"
-featureimagecaption: "Photo by Compare Fibre on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 {{< roze-summary >}}

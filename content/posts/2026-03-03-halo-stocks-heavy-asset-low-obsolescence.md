@@ -5,8 +5,8 @@ draft: false
 tags: ["HALO銘柄", "Heavy Asset Low Obsolescence", "SaaSの死", "AI時代の投資", "バリュー株", "エネルギー株", "インフラ株", "長期投資", "NISA", "ウォール街"]
 categories: ["投資テーマ解説", "AI時代の資産運用"]
 description: "2026年ウォール街で話題の「HALO銘柄」（Heavy Asset Low Obsolescence）を徹底解説。AIに代替されにくい重厚資産企業への投資戦略、具体的な銘柄例、日本株への応用まで初心者にもわかりやすく解説します。"
-featureimage: "https://picsum.photos/seed/2026-03-03-halo-stocks-heavy-asset-low-obsolescence/1200/630"
-featureimagecaption: "Photo by Aditya Vyas on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 {{< roze-summary >}}

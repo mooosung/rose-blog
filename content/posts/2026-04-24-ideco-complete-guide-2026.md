@@ -5,8 +5,8 @@ draft: false
 tags: ["iDeCo", "個人型確定拠出年金", "節税", "老後資金", "資産運用"]
 categories: ["投資・資産運用"]
 description: "iDeCo（個人型確定拠出年金）の仕組み、税制メリット、運用商品の選び方、受け取り方まで2026年最新情報で徹底解説。新NISAとの併用戦略も紹介。"
-featureimage: "https://picsum.photos/seed/2026-04-24-ideco-complete-guide-2026/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_52750815631_dc3e825ab5_o_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 老後資金の準備として、iDeCo（個人型確定拠出年金）はいま最も注目されている制度のひとつです。新NISAと並んで「絶対に使うべき非課税制度」として語られることが多いですが、「掛金をどう設定するのか」「どんな商品を選べばいいのか」と迷っている方も多いのではないでしょうか。

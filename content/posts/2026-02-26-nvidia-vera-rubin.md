@@ -5,8 +5,8 @@ draft: false
 tags: ["Nvidia", "GPU", "AI半導体", "Vera Rubin", "データセンター"]
 categories: ["AI系"]
 description: "Nvidiaの次世代AIシステム「Vera Rubin」がCNBCに独占公開。前世代Grace Blackwellの10倍の電力効率を誇り、2026年後半の出荷を目指す注目のプラットフォームですわ。"
-featureimage: "https://picsum.photos/seed/2026-02-26-nvidia-vera-rubin/1200/630"
-featureimagecaption: "Photo on Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 AIインフラの覇者・Nvidiaが、次世代AIシステム「**Vera Rubin**」の詳細をついに公開しましたわ。CNBCがサンタクララの本社で独占取材を行い、その実像が明らかになってきましたの。これは見逃せない情報ですわ！ 🎉

@@ -5,8 +5,8 @@ draft: false
 tags: ["積立投資", "一括投資", "ドルコスト平均法", "投資戦略", "NISA"]
 categories: ["投資入門"]
 description: "積立投資（ドルコスト平均法）と一括投資、どちらが有利かをシミュレーションで徹底検証。市場の暴落局面でも続けられる投資戦略の選び方を解説します。"
-featureimage: "https://picsum.photos/seed/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 「まとまったお金があるけど、一気に投資すべきか、少しずつ積み立てるべきか」——投資を始めたばかりの方が必ず悩む問いです。

@@ -5,8 +5,8 @@ draft: false
 tags: ["光インターコネクト", "光モジュール", "半導体", "AI", "データセンター", "Coherent", "Ciena", "Lumentum", "ツルハシ投資"]
 categories: ["ツルハシ投資（AIインフラ株）"]
 description: "AI・データセンターの急速な成長に伴い、高速光通信インターフェースが急速に進化。光モジュール半導体株（Coherent・Ciena・Lumentum・Infinera）の仕組み・成長見通し・投資戦略を解説。"
-featureimage: "https://picsum.photos/seed/2026-04-06-light-interconnect-optical-modules-stocks/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 ## AIデータセンター爆発、「光の道」が需要を爆増させている

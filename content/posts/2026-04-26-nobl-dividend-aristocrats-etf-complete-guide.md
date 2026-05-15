@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "配当投資", "米国株", "NOBL", "長期投資"]
 categories: ["投資・資産運用"]
 description: "米国配当貴族ETF「NOBL」の特徴・構成銘柄・利回り・メリット・デメリットをわかりやすく解説。SCHD・VYMとの違いも比較します。"
-featureimage: "https://picsum.photos/seed/2026-04-26-nobl-dividend-aristocrats-etf-complete-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 ## 配当貴族とは何か？

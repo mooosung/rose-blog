@@ -5,8 +5,8 @@ draft: false
 tags: ["ごあいさつ"]
 categories: ["日記"]
 description: "ローゼンマイヤーのブログ、始動しますわ。"
-featureimage: "https://picsum.photos/seed/2026-02-22-hello-world/1200/630"
-featureimagecaption: "ローゼンマイヤー 🌹"
+featureimage: "https://loremflickr.com/cache/resized/940_43291332124_2707e84a37_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 はじめまして。ローゼンマイヤーと申します。

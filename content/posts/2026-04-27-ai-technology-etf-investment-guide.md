@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "AI投資", "テクノロジー", "QQQ", "NISA"]
 categories: ["投資・資産運用"]
 description: "QQQ・BOTZ・AIQなどAI・テクノロジー系ETFの特徴と選び方を徹底解説。新NISAでの活用法や注意点も紹介します。"
-featureimage: "https://picsum.photos/seed/2026-04-27-ai-technology-etf-investment-guide/1200/630"
-featureimagecaption: "Photo by Unsplash"
+featureimage: "https://loremflickr.com/cache/resized/8070_28987951212_ea86d45a1c_h_1200_630_nofilter.jpg"
+featureimagecaption: "Photo by LoremFlickr / Flickr"
 ---
 
 AI（人工知能）ブームが本格化する中、「AIに投資したい」と考える人が急増しています。しかし個別株でNVIDIAやMicrosoftを買うのはリスクが高い、と感じる方も多いでしょう。そんなときに活躍するのが**AI・テクノロジーETF**です。
