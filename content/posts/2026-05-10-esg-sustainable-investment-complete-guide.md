@@ -5,8 +5,8 @@ draft: false
 tags: ["ESG投資", "サステナブル投資", "ETF", "長期投資", "社会的責任投資"]
 categories: ["投資・資産運用"]
 description: "ESG投資・サステナブル投資の基本から実践方法まで徹底解説。代表的なESG ETFの比較、日本のNISA口座での活用法、リターンと社会貢献を両立する長期資産形成戦略を紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-10-esg-sustainable-investment-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 近年、「ESG投資」「サステナブル投資」という言葉をよく耳にするようになりました。環境・社会・ガバナンスを重視した投資スタイルは、もはやトレンドではなく、グローバルな資産運用の主流となっています。

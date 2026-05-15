@@ -5,8 +5,8 @@ draft: false
 tags: ["国債", "個人向け国債", "債券投資", "安全資産", "資産運用"]
 categories: ["投資基礎"]
 description: "個人向け国債（変動10年・固定5年・固定3年）の仕組みと選び方を解説。定期預金との比較や購入方法、メリット・デメリットまで初心者向けにわかりやすく紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-15-japan-government-bonds-kojin-kokusai-guide.jpg"
+featureimagecaption: ""
 ---
 
 株価が乱高下するたびに「もっと安全な資産はないか」と感じたことはありませんか？

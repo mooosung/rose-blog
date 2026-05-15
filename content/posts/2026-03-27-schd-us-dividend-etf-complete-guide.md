@@ -5,8 +5,8 @@ draft: false
 tags: ["SCHD", "ETF", "米国株", "高配当", "長期投資", "配当金"]
 categories: ["米国株・ETF"]
 description: "SCHD（シュワブ米国配当株式ETF）の特徴・配当利回り・構成銘柄・VYMとの違いを徹底解説。長期投資家に人気の理由と、NISAでの活用法まで網羅。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-27-schd-us-dividend-etf-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 米国の高配当ETFといえば、**SCHD（シュワブ米国配当株式ETF）**は外せない存在です。

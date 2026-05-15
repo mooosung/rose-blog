@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "配当投資", "カバードコール", "QYLD", "XYLD", "米国株"]
 categories: ["投資・資産運用"]
 description: "カバードコール型ETFのQYLDとXYLDについて、仕組み・利回り・リスク・向いている投資家像まで徹底解説。高配当の裏にある代償を理解して賢く活用しましょう。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-25-covered-call-etf-qyld-xyld-guide.jpg"
+featureimagecaption: ""
 ---
 
 毎月高い分配金が受け取れる——そんな魅力的な触れ込みで注目を集めているのが、**カバードコール型ETF**です。代表格の**QYLD**や**XYLD**は年利回り10〜15%超という数字を誇り、配当投資家の間で人気を博しています。

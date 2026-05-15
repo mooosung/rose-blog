@@ -5,8 +5,8 @@ draft: false
 tags: ["NVIDIA", "エヌビディア", "AI半導体", "決算", "米国株"]
 categories: ["投資系"]
 description: "2026年2月25日発表のエヌビディアQ4 FY2026決算。AI相場の命運を握るこの決算を、わたくしローゼが読み解きますわ。"
-featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-02-26-nvidia-q4-fy2026-earnings.jpg"
+featureimagecaption: ""
 ---
 
 {{< roze-summary >}}

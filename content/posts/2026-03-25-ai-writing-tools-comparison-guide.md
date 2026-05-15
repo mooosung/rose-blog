@@ -5,8 +5,8 @@ draft: false
 tags: ["AI", "ChatGPT", "Claude", "Gemini", "ライティング", "生産性"]
 categories: ["AI活用術"]
 description: "ChatGPT、Claude、Geminiなど主要AIライティングツールを徹底比較。それぞれの強み・弱み・料金・最適な用途を解説し、目的別の使い分け方を紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/2797_4456469876_7e6ae30d7e_k_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-25-ai-writing-tools-comparison-guide.jpg"
+featureimagecaption: ""
 ---
 
 AIを使った文章作成が当たり前になった2026年。しかし「結局どのツールを使えばいいの？」と迷っている人は多いはず。

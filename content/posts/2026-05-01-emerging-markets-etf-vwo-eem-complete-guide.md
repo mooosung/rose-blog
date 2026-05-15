@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "新興国", "VWO", "EEM", "投資", "分散投資"]
 categories: ["ETF・投資信託"]
 description: "VWO・EEMをはじめとする新興国株式ETFの特徴・コスト・リスク・活用法を徹底解説。米国株に偏ったポートフォリオに世界の成長を取り込む方法をわかりやすく紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/4310_35170351973_f62b94d687_k_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 世界の経済成長のエンジンは、米国だけではありません。インド・中国・ブラジル・インドネシアといった新興国が、今後数十年で世界GDPの主役になるといわれています。

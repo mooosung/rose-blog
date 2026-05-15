@@ -5,8 +5,8 @@ draft: false
 tags: ["投資信託", "インデックスファンド", "アクティブファンド", "NISA", "資産運用"]
 categories: ["投資基礎"]
 description: "インデックスファンドとアクティブファンドの違いを徹底解説。手数料・パフォーマンス・リスクを比較し、新NISAで初心者がどちらを選ぶべきかをわかりやすく説明します。"
-featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-17-index-fund-vs-active-fund-guide.jpg"
+featureimagecaption: ""
 ---
 
 投資信託を始めようとすると、必ず出てくる疑問があります。「インデックスファンドとアクティブファンド、どっちがいいの？」

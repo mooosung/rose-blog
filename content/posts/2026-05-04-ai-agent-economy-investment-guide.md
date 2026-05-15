@@ -5,8 +5,8 @@ draft: false
 tags: ["AIエージェント", "米国株", "投資", "AI株", "テック株"]
 categories: ["AI投資"]
 description: "ChatGPTから始まったAI革命は、今やAIエージェント時代へと進化しています。自律的に行動するAIエージェントが経済を変えつつある今、個人投資家はどの企業・ETFに注目すべきか徹底解説します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-04-ai-agent-economy-investment-guide.jpg"
+featureimagecaption: ""
 ---
 
 2023年のChatGPT登場から約3年。AIは「質問に答えるツール」から、「自ら考えて行動するエージェント」へと進化しています。

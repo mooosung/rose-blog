@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "ヘルスケア", "XLV", "VHT", "米国株", "投資", "セクター投資"]
 categories: ["ETF・投資信託", "米国株投資"]
 description: "ヘルスケアETFの代表格XLVとVHTを徹底比較。医薬品・医療機器・保険など守りに強いセクターへの投資方法、リターン実績、新NISA活用法まで初心者にも分かりやすく解説します。"
-featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-12-healthcare-etf-xlv-vht-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 景気が悪化しても、人は病院に行かなければなりません。

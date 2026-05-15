@@ -5,8 +5,8 @@ draft: false
 tags: ["バフェット", "バークシャー・ハサウェイ", "価値投資", "長期投資", "米国株"]
 categories: ["株式投資"]
 description: "ウォーレン・バフェットのCEO引退を受け、バークシャー・ハサウェイの歩みと投資哲学を振り返ります。日本人個人投資家が今こそ学ぶべき「本物の長期投資」とは何かを解説します。"
-featureimage: "https://loremflickr.com/cache/resized/8070_28987951212_ea86d45a1c_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-30-berkshire-hathaway-buffett-retirement-value-investing-guide.jpg"
+featureimagecaption: ""
 ---
 
 2025年、投資界に大きなニュースが飛び込みました。「オマハの賢人」と称されるウォーレン・バフェットが、バークシャー・ハサウェイのCEOを退任し、グレッグ・アベルに後を託すことを発表したのです。

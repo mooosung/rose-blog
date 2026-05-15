@@ -5,8 +5,8 @@ draft: false
 tags: ["スキル投資", "副業", "AI活用", "資産形成", "キャリア"]
 categories: ["スキル投資・副業戦略"]
 description: "「スキル投資」は最も利回りの高い投資のひとつ。AI時代に需要が急騰している5つのスキルと、副業収入につながる具体的な学習ロードマップを解説します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-29-skill-investment-side-job-guide.jpg"
+featureimagecaption: ""
 ---
 
 ## スキル投資こそ「最高利回りの投資」

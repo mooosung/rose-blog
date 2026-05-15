@@ -5,8 +5,8 @@ draft: false
 tags: ["S&P500", "ETF", "VOO", "IVV", "SPY", "米国株", "インデックス投資"]
 categories: ["投資・資産運用"]
 description: "S&P500に連動する代表的なETFであるVOO・IVV・SPYを徹底比較。経費率・流動性・配当利回り・パフォーマンスなど多角的な観点から、どのETFが最適かを解説します。"
-featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-02-sp500-etf-voo-ivv-spy-comparison.jpg"
+featureimagecaption: ""
 ---
 
 米国株投資の王道といえば、S&P500インデックスへの投資です。そのS&P500に連動するETFとして最も有名な3つが**VOO・IVV・SPY**です。いずれもS&P500に連動する優れた商品ですが、細部に違いがあります。

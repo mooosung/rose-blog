@@ -5,8 +5,8 @@ draft: false
 tags: ["QQQ", "ナスダック100", "ETF", "米国株", "長期投資", "インデックス投資"]
 categories: ["米国株・ETF長期投資"]
 description: "QQQ（インベスコQQQトラスト）を徹底解説。ナスダック100の構成銘柄・経費率・リターン実績・S&P500との違い・買い方まで、初心者にもわかりやすく紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/4310_35170351973_f62b94d687_k_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-03-qqq-nasdaq100-etf-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 ## QQQとは？ナスダック100に連動する人気ETF

@@ -5,8 +5,8 @@ draft: false
 tags: ["高配当株", "日本株", "配当投資", "長期投資", "インカムゲイン"]
 categories: ["高配当株・配当再投資"]
 description: "日本の高配当株を選ぶ際にチェックすべき5つの指標と、配当利回りランキングだけで選ぶと失敗する理由を解説。減配リスクの見極め方から業種別の注目セクターまで網羅的に紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-21-japan-high-dividend-stocks-selection-guide.jpg"
+featureimagecaption: ""
 ---
 
 ## はじめに：高配当＝安全ではない

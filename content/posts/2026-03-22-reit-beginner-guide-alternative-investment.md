@@ -5,8 +5,8 @@ draft: false
 tags: ["REIT", "不動産投資信託", "オルタナティブ投資", "J-REIT", "分配金", "少額投資"]
 categories: ["オルタナティブ投資"]
 description: "REIT（不動産投資信託）の仕組み・メリット・デメリットをわかりやすく解説。J-REITと海外REITの違い、銘柄の選び方、NISAでの活用法まで初心者向けに網羅します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_54342869872_fc92ae0aad_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-22-reit-beginner-guide-alternative-investment.jpg"
+featureimagecaption: ""
 ---
 
 ## REITとは？不動産に少額から投資できる仕組み

@@ -5,8 +5,8 @@ draft: false
 tags: ["関税", "米国株", "長期投資", "ポートフォリオ", "暴落対策", "ドルコスト平均法", "貿易戦争", "ETF", "リスク管理"]
 categories: ["投資戦略・資産運用"]
 description: "トランプ政権の相互関税発動で世界株式が急落。こんな時に長期投資家が取るべき5つの戦略を徹底解説。「今すぐ売るべきか？」の答えと、暴落を味方につける積立投資の真実。"
-featureimage: "https://loremflickr.com/cache/resized/4310_35170351973_f62b94d687_k_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-06-trump-tariff-shock-investment-strategy.jpg"
+featureimagecaption: ""
 ---
 
 2026年4月上旬、トランプ政権が発動した「相互関税」により、米国株・日本株をはじめとする世界の株式市場が急落しました。S&P500は数日で10%超の下落、日経平均も大幅安を記録。SNSでは「今すぐ売るべきか」「投資をやめるべきか」という声があふれています。

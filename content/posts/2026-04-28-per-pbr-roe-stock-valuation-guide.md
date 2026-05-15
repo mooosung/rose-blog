@@ -5,8 +5,8 @@ draft: false
 tags: ["PER", "PBR", "ROE", "株式投資", "初心者"]
 categories: ["投資基礎"]
 description: "PER・PBR・ROEの意味と使い方を初心者向けにわかりやすく解説。割安株を見つけるための実践的な活用法も紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-28-per-pbr-roe-stock-valuation-guide.jpg"
+featureimagecaption: ""
 ---
 
 株式投資を始めたばかりの方が最初につまずくのが、チャートや財務指標の読み方です。なかでも**PER・PBR・ROE**の3つは、あらゆる投資家が使う「株式評価の基本三種の神器」とも呼ばれます。

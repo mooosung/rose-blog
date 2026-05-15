@@ -3,8 +3,8 @@ title: "米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組�
 date: 2026-03-13
 draft: false
 description: "米国ETFでコア・サテライト戦略を実践する方法を解説。VOO・VTI をコアに、QQQ・VYM・セクターETFをサテライトに配置する具体的なポートフォリオ例を紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/4314_35591587410_b4b6f37215_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-13-us-etf-core-satellite-strategy.jpg"
+featureimagecaption: ""
 tags: ["米国株", "ETF", "コアサテライト戦略", "VOO", "QQQ", "VYM", "長期投資", "ポートフォリオ"]
 categories: ["米国株・ETF長期投資"]
 ---

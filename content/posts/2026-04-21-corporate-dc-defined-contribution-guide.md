@@ -5,8 +5,8 @@ draft: false
 tags: ["確定拠出年金", "企業型DC", "老後資金", "節税", "資産運用"]
 categories: ["投資入門"]
 description: "企業型確定拠出年金（企業型DC）の仕組みから運用商品の選び方、iDeCoとの違いまで徹底解説。会社員が活用すべき税制優遇のポイントとは？"
-featureimage: "https://loremflickr.com/cache/resized/5588_30473356365_b7ce2f2be0_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-21-corporate-dc-defined-contribution-guide.jpg"
+featureimagecaption: ""
 ---
 
 老後資金の準備と聞いて、iDeCo（個人型確定拠出年金）は知っていても、**企業型DC（確定拠出年金）**を上手に活用できている会社員は意外と少ないものです。

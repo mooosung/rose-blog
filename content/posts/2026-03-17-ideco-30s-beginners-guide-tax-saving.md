@@ -4,8 +4,8 @@ date: 2026-03-17
 draft: false
 slug: "ideco-30s-beginners-guide-tax-saving"
 description: "30代会社員がiDeCoを始めるべき理由を、節税シミュレーション・おすすめ商品選び・NISAとの使い分けまで徹底解説。30年で100万円以上の節税効果を逃さないための完全ガイドです。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-17-ideco-30s-beginners-guide-tax-saving.jpg"
+featureimagecaption: ""
 tags: ["iDeCo", "イデコ", "30代", "節税", "確定拠出年金", "NISA", "資産形成", "老後資金", "インデックス投資", "SBI証券", "楽天証券"]
 categories: ["NISA・iDeCo攻略"]
 ---

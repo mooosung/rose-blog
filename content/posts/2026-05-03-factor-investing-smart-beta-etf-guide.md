@@ -5,8 +5,8 @@ draft: false
 tags: ["ファクター投資", "スマートベータ", "ETF", "バリュー投資", "資産運用"]
 categories: ["投資・資産運用"]
 description: "ファクター投資（スマートベータ）の基本から実践まで徹底解説。バリュー・モメンタム・クオリティ・低ボラティリティなど主要ファクターとおすすめETFを紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/1832_44010087121_3b318e9670_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-03-factor-investing-smart-beta-etf-guide.jpg"
+featureimagecaption: ""
 ---
 
 インデックス投資はシンプルで優れた戦略ですが、「市場平均をもう少し上回りたい」「リスクを抑えながらリターンを追求したい」と感じる方も多いでしょう。そこで注目されるのが**ファクター投資（スマートベータ）**です。

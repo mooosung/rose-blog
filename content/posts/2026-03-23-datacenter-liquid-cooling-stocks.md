@@ -5,8 +5,8 @@ draft: false
 tags: ["データセンター", "液冷", "AI投資", "ツルハシ銘柄", "Vertiv", "Ecolab"]
 categories: ["AI投資"]
 description: "AIデータセンターの消費電力急増で注目される冷却技術。液冷（リキッドクーリング）関連の注目銘柄を網羅的に解説します。"
-featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-23-datacenter-liquid-cooling-stocks.jpg"
+featureimagecaption: ""
 ---
 
 AIの進化がとまらない。GPUの消費電力は年々上がり、データセンターの発熱量は限界に近づいている。

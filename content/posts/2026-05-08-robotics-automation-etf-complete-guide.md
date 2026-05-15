@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "ロボティクス", "AI", "自動化", "投資"]
 categories: ["ETF投資"]
 description: "ロボティクス・AI自動化分野に投資するETFを徹底比較。ROBO・IRBO・ARKQの特徴・コスト・パフォーマンスを解説し、最適な選び方を紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/8070_28987951212_ea86d45a1c_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-05-08-robotics-automation-etf-complete-guide.jpg"
+featureimagecaption: ""
 ---
 
 AI・自動化の波は、製造業からサービス業まで経済のあらゆる場面に押し寄せています。この変革の恩恵を投資で受け取る方法として注目されているのが、**ロボティクス・自動化ETF**です。

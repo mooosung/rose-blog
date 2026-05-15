@@ -5,8 +5,8 @@ draft: false
 tags: ["新NISA", "成長投資枠", "投資", "ETF", "インデックス投資"]
 categories: ["投資・資産運用"]
 description: "新NISAの成長投資枠240万円を最大限に活用する戦略を解説。つみたて投資枠との使い分け、おすすめ銘柄選び、注意点まで初心者にもわかりやすく説明します。"
-featureimage: "https://loremflickr.com/cache/resized/4310_35170351973_f62b94d687_k_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-16-new-nisa-growth-investment-strategies.jpg"
+featureimagecaption: ""
 ---
 
 2024年1月からスタートした**新NISA制度**。毎年360万円という大きな非課税投資枠が設けられ、多くの投資家が注目しています。なかでも「成長投資枠」は年間240万円まで幅広い金融商品を非課税で保有できる強力な仕組みです。

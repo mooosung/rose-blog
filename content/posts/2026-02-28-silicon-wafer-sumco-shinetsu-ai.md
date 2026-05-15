@@ -5,8 +5,8 @@ draft: false
 tags: ["シリコンウェハ", "SUMCO", "信越化学", "半導体素材株", "AIインフラ株", "長期投資", "NISA", "AIバブル"]
 categories: ["AIバブルのツルハシ", "半導体・素材"]
 description: "AIブームを支える「縁の下の力持ち」——シリコンウェハとは何か、なぜSUMCO・信越化学がAI時代の必須企業なのかをわかりやすく解説。長期投資・NISA向けの視点で分析します。"
-featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-02-28-silicon-wafer-sumco-shinetsu-ai.jpg"
+featureimagecaption: ""
 ---
 
 {{< roze-summary >}}

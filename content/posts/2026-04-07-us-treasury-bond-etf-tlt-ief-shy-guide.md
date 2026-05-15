@@ -5,8 +5,8 @@ draft: false
 tags: ["ETF", "米国債", "TLT", "債券投資", "ポートフォリオ"]
 categories: ["投資・資産運用"]
 description: "TLT・IEF・SHYの違いと特徴を徹底解説。株式市場が暴落するとき、米国債ETFがなぜ資産を守るのか。初心者にもわかりやすく、実践的な組み合わせ方まで紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide.jpg"
+featureimagecaption: ""
 ---
 
 2026年春、トランプ政権の関税ショックで世界株式市場が大きく揺れました。こういった局面で注目されるのが**米国債ETF**です。

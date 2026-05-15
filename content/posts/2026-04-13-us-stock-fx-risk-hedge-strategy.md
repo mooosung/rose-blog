@@ -5,8 +5,8 @@ draft: false
 tags: ["為替リスク", "米国株", "ドル円", "ヘッジ", "投資戦略"]
 categories: ["投資戦略"]
 description: "米国株に投資する日本人投資家が直面する為替リスクを徹底解説。円高局面での損失を最小化する実践的なヘッジ戦略と、長期投資における為替の考え方を紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906730711_e13fd579a3_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-04-13-us-stock-fx-risk-hedge-strategy.jpg"
+featureimagecaption: ""
 ---
 
 米国株に投資している日本人投資家なら、一度は「円高で資産が減ってしまった」という経験をしたことがあるのではないでしょうか。株価は上がっているのに、円換算すると損失…という状況は、為替リスクを正しく理解していないと避けられません。

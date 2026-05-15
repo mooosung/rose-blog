@@ -3,8 +3,8 @@ title: "高配当ETF×配当再投資の複利効果｜月3万円積立で20年�
 date: 2026-03-14
 draft: false
 description: "高配当ETF（VYM・HDV・SPYD・SCHD）に月3万円を積立投資し、配当を再投資した場合の資産シミュレーションを徹底解説。配当再投資（DRIP）の複利効果と、各ETFの特徴比較から最適な選び方まで紹介します。"
-featureimage: "https://loremflickr.com/cache/resized/65535_50906031218_9fcb62aa4d_h_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
+featureimagecaption: ""
 tags: ["高配当ETF", "配当再投資", "DRIP", "複利効果", "VYM", "HDV", "SPYD", "SCHD", "積立投資", "シミュレーション"]
 categories: ["高配当株・配当再投資"]
 ---

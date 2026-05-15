@@ -5,8 +5,8 @@ draft: false
 tags: ["液浸冷却", "Immersion Cooling", "データセンター", "AIインフラ株", "冷却技術", "SMC", "オルガノ", "長期投資", "NISA", "AIバブル"]
 categories: ["AIバブルのツルハシ", "データセンターインフラ"]
 description: "AIサーバーの熱問題を解決する「液浸冷却（Immersion Cooling）」を徹底解説。なぜ今この技術が注目されているのか、関連する投資銘柄はどこか、NISA・長期投資の観点から分かりやすく解説します。"
-featureimage: "https://loremflickr.com/cache/resized/2014_2073280535_20398d7a14_1200_630_nofilter.jpg"
-featureimagecaption: "Photo by LoremFlickr / Flickr"
+featureimage: "/img/thumbnails/2026-03-02-immersion-cooling-ai-datacenter-stocks.jpg"
+featureimagecaption: ""
 ---
 
 {{< roze-summary >}}
