@@ -5,7 +5,7 @@ draft: false
 tags: ["Notion AI", "AI活用術", "生産性ハック", "業務効率化", "ライティング"]
 categories: ["AI活用術"]
 description: "Notion AIの使い方を徹底解説。タスク管理・議事録自動化・文章生成・翻訳まで、ビジネスパーソンが今すぐ使える活用法を具体例つきで紹介します。"
-featureimage: "/img/thumbnails/2026-04-01-notion-ai-complete-guide.jpg"
+featureimage: "img/thumbnails/2026-04-01-notion-ai-complete-guide.jpg"
 featureimagecaption: ""
 ---
 

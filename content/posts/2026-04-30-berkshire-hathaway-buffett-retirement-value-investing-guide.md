@@ -5,7 +5,7 @@ draft: false
 tags: ["バフェット", "バークシャー・ハサウェイ", "価値投資", "長期投資", "米国株"]
 categories: ["株式投資"]
 description: "ウォーレン・バフェットのCEO引退を受け、バークシャー・ハサウェイの歩みと投資哲学を振り返ります。日本人個人投資家が今こそ学ぶべき「本物の長期投資」とは何かを解説します。"
-featureimage: "/img/thumbnails/2026-04-30-berkshire-hathaway-buffett-retirement-value-investing-guide.jpg"
+featureimage: "img/thumbnails/2026-04-30-berkshire-hathaway-buffett-retirement-value-investing-guide.jpg"
 featureimagecaption: ""
 ---
 

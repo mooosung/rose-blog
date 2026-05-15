@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "投資信託", "インデックス投資", "資産運用", "初心者"]
 categories: ["投資入門"]
 description: "ETFと投資信託の違いを手数料・流動性・税金・使いやすさの観点から徹底比較。NISAでどちらを選ぶべきか、初心者向けにわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-11-etf-vs-toshin-comparison-guide.jpg"
+featureimage: "img/thumbnails/2026-05-11-etf-vs-toshin-comparison-guide.jpg"
 featureimagecaption: ""
 ---
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "米国債", "TLT", "債券投資", "ポートフォリオ"]
 categories: ["投資・資産運用"]
 description: "TLT・IEF・SHYの違いと特徴を徹底解説。株式市場が暴落するとき、米国債ETFがなぜ資産を守るのか。初心者にもわかりやすく、実践的な組み合わせ方まで紹介します。"
-featureimage: "/img/thumbnails/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide.jpg"
+featureimage: "img/thumbnails/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide.jpg"
 featureimagecaption: ""
 ---
 

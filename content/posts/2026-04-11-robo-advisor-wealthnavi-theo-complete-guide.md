@@ -5,7 +5,7 @@ draft: false
 tags: ["ロボアドバイザー", "ウェルスナビ", "THEO", "資産運用", "投資初心者"]
 categories: ["投資入門"]
 description: "ロボアドバイザーの仕組みから、ウェルスナビとTHEOの手数料・実績・特徴まで徹底比較。投資初心者が自動で資産運用を始めるための完全ガイドです。"
-featureimage: "/img/thumbnails/2026-04-11-robo-advisor-wealthnavi-theo-complete-guide.jpg"
+featureimage: "img/thumbnails/2026-04-11-robo-advisor-wealthnavi-theo-complete-guide.jpg"
 featureimagecaption: ""
 ---
 

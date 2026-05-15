@@ -5,7 +5,7 @@ draft: false
 tags: ["量子コンピュータ", "株式投資", "テクノロジー株", "IBM", "Google", "次世代テクノロジー"]
 categories: ["テクノロジー投資"]
 description: "量子コンピューティングの基礎から投資戦略まで徹底解説。IBM・Google・IonQなど有望銘柄の特徴と、初心者でも実践できるリスク管理方法をわかりやすく紹介します。"
-featureimage: "/img/thumbnails/2026-05-05-quantum-computing-investment-guide-2026.jpg"
+featureimage: "img/thumbnails/2026-05-05-quantum-computing-investment-guide-2026.jpg"
 featureimagecaption: ""
 ---
 

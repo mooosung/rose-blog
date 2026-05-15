@@ -5,7 +5,7 @@ draft: false
 tags: ["SBI証券", "楽天証券", "NISA", "証券会社比較", "投資初心者"]
 categories: ["投資入門"]
 description: "SBI証券と楽天証券をNISA・手数料・使いやすさで徹底比較。投資初心者がどちらの証券会社を選べばよいか、具体的なポイントを解説します。"
-featureimage: "/img/thumbnails/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison.jpg"
+featureimage: "img/thumbnails/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison.jpg"
 featureimagecaption: ""
 ---
 

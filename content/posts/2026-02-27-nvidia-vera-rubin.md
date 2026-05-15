@@ -5,7 +5,7 @@ draft: false
 tags: ["Nvidia", "AI", "半導体", "GPU", "Vera Rubin", "Blackwell"]
 categories: ["AI系"]
 description: "Nvidiaが次世代AIシステム「Vera Rubin」の詳細を公開。前世代Grace Blackwellの10倍の電力効率を誇り、2026年後半に出荷予定ですわ。"
-featureimage: "/img/thumbnails/2026-02-27-nvidia-vera-rubin.jpg"
+featureimage: "img/thumbnails/2026-02-27-nvidia-vera-rubin.jpg"
 featureimagecaption: ""
 ---
 

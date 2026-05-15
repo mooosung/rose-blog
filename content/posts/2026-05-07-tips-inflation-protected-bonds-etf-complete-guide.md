@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "インフレ対策", "債券投資", "TIPS", "TIP", "VTIP", "資産運用"]
 categories: ["投資・資産運用"]
 description: "インフレ連動債ETF（TIP・VTIP）の仕組み、特徴、メリット・デメリットを徹底解説。インフレ時代に資産を守るための具体的な活用法をわかりやすく紹介します。"
-featureimage: "/img/thumbnails/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide.jpg"
+featureimage: "img/thumbnails/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide.jpg"
 featureimagecaption: ""
 ---
 
