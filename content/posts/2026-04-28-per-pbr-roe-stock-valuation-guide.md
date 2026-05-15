@@ -5,7 +5,7 @@ draft: false
 tags: ["PER", "PBR", "ROE", "株式投資", "初心者"]
 categories: ["投資基礎"]
 description: "PER・PBR・ROEの意味と使い方を初心者向けにわかりやすく解説。割安株を見つけるための実践的な活用法も紹介します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-28-per-pbr-roe-stock-valuation-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

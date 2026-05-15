@@ -5,7 +5,7 @@ draft: false
 tags: ["新NISA", "成長投資枠", "投資", "ETF", "インデックス投資"]
 categories: ["投資・資産運用"]
 description: "新NISAの成長投資枠240万円を最大限に活用する戦略を解説。つみたて投資枠との使い分け、おすすめ銘柄選び、注意点まで初心者にもわかりやすく説明します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-16-new-nisa-growth-investment-strategies/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

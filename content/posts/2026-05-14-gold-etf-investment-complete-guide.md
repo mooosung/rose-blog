@@ -5,7 +5,7 @@ draft: false
 tags: ["ゴールド", "金投資", "ETF", "インフレヘッジ", "資産運用"]
 categories: ["投資・資産運用"]
 description: "ゴールドETF（GLD・IAU・GLDMなど）の基礎から選び方まで徹底解説。インフレや株式暴落への備えとして金をポートフォリオに組み込む方法を紹介します。"
-featureimage: "https://images.unsplash.com/photo-1610375461246-83df859d849d?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-05-14-gold-etf-investment-complete-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

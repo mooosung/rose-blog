@@ -5,7 +5,7 @@ draft: false
 tags: ["電線株", "フジクラ", "住友電工", "古河電工", "SWCC", "光ファイバー", "データセンター", "AIインフラ株", "長期投資", "NISA", "ツルハシ銘柄"]
 categories: ["AIバブルのツルハシ銘柄", "AI時代の資産運用"]
 description: "AIブームの裏で急騰する電線株。フジクラ・住友電工・古河電工の「電線御三家」を中心に、なぜ電線・ケーブル企業がAI時代の最重要インフラなのか、投資初心者にもわかりやすく解説します。"
-featureimage: "https://images.unsplash.com/photo-1558346490-a72e53ae2d4f?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-11-electric-wire-cable-stocks-ai-datacenter/1200/630"
 featureimagecaption: "Photo by Israel Palacio on Unsplash"
 ---
 

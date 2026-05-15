@@ -5,7 +5,7 @@ draft: false
 tags: ["FIRE", "経済的自立", "早期退職", "インデックス投資", "資産運用"]
 categories: ["投資戦略"]
 description: "FIRE（Financial Independence, Retire Early）を達成するための具体的な投資戦略を解説。必要資産額の計算方法から、インデックス投資・配当投資の活用法、日本でFIREを実現するためのロードマップまで詳しく紹介します。"
-featureimage: "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-18-fire-financial-independence-retire-early-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

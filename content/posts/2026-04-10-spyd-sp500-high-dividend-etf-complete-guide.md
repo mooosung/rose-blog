@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "高配当", "SPYD", "米国株", "配当投資", "資産運用"]
 categories: ["投資・資産運用"]
 description: "SPYDはS&P500の高配当上位80銘柄に投資するETFです。配当利回り・構成銘柄・SCHDやVYMとの違い・買い方まで2026年最新情報で徹底解説します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

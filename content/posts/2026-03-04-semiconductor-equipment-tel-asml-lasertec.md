@@ -5,7 +5,7 @@ draft: false
 tags: ["半導体製造装置", "東京エレクトロン", "ASML", "レーザーテック", "AIインフラ株", "EUV", "長期投資", "NISA", "AIバブル", "半導体"]
 categories: ["AIバブルのツルハシ", "半導体"]
 description: "AI時代を支える半導体製造装置メーカーを徹底解説。東京エレクトロン・ASML・レーザーテックなど、AIチップを「作る側」の企業がなぜ最強のツルハシなのか、投資の観点からわかりやすく解説します。"
-featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-04-semiconductor-equipment-tel-asml-lasertec/1200/630"
 featureimagecaption: "Photo by Alexandre Debiève on Unsplash"
 ---
 

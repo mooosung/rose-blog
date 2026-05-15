@@ -5,7 +5,7 @@ draft: false
 tags: ["VYM", "高配当ETF", "米国株", "配当投資", "不労所得"]
 categories: ["米国株・ETF投資"]
 description: "VYM（バンガード・米国高配当株式ETF）の特徴・利回り・構成銘柄・SCHDとの比較を徹底解説。配当再投資で資産を雪だるま式に増やす方法を初心者にもわかりやすく紹介します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

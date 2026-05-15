@@ -5,7 +5,7 @@ draft: false
 tags: ["S&P500", "オルカン", "全世界株式", "ETF", "インデックス投資", "新NISA"]
 categories: ["米国株・ETF"]
 description: "S&P500と全世界株式（オルカン）の違いをリターン・リスク・コスト・将来性の観点から徹底比較。新NISAでどちらを選ぶべきか、初心者にもわかりやすく解説します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-20-sp500-vs-all-country-world-index-comparison/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

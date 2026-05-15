@@ -5,7 +5,7 @@ draft: false
 tags: ["為替リスク", "米国株", "ドル円", "ヘッジ", "投資戦略"]
 categories: ["投資戦略"]
 description: "米国株に投資する日本人投資家が直面する為替リスクを徹底解説。円高局面での損失を最小化する実践的なヘッジ戦略と、長期投資における為替の考え方を紹介します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-13-us-stock-fx-risk-hedge-strategy/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

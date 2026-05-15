@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "半導体", "SOXX", "SMH", "株式投資", "AI投資"]
 categories: ["投資・資産運用"]
 description: "SOXX・SMHの違いと特徴を徹底解説。AI・データセンター需要で急成長する半導体セクターに、ETFで分散投資する方法をわかりやすく紹介します。"
-featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-08-semiconductor-etf-soxx-smh-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

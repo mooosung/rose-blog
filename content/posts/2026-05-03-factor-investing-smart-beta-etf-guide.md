@@ -5,7 +5,7 @@ draft: false
 tags: ["ファクター投資", "スマートベータ", "ETF", "バリュー投資", "資産運用"]
 categories: ["投資・資産運用"]
 description: "ファクター投資（スマートベータ）の基本から実践まで徹底解説。バリュー・モメンタム・クオリティ・低ボラティリティなど主要ファクターとおすすめETFを紹介します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-05-03-factor-investing-smart-beta-etf-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

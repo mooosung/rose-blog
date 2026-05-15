@@ -5,7 +5,7 @@ draft: false
 tags: ["光モジュール", "光インターコネクト", "AIインフラ", "ツルハシ投資", "Coherent", "Ciena", "Lumentum"]
 categories: ["ツルハシ投資（AIインフラ株）"]
 description: "AIデータセンターの急拡大で需要が爆発する光インターコネクト・光モジュール半導体株を解説。Coherent・Ciena・Infinera・Lumentumなど注目銘柄をわかりやすく紹介します。"
-featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-06-light-interconnect-stocks/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

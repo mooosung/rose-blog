@@ -5,7 +5,7 @@ draft: false
 tags: ["株価暴落", "投資戦略", "長期投資", "資産運用", "リスク管理"]
 categories: ["投資・資産運用"]
 description: "株価が急落したとき、投資家はどう動くべきか。パニック売りを避け、暴落を「チャンス」に変えるための実践的な投資戦略を解説します。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-09-market-crash-investment-strategy-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

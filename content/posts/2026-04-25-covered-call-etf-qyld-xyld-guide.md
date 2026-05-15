@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "配当投資", "カバードコール", "QYLD", "XYLD", "米国株"]
 categories: ["投資・資産運用"]
 description: "カバードコール型ETFのQYLDとXYLDについて、仕組み・利回り・リスク・向いている投資家像まで徹底解説。高配当の裏にある代償を理解して賢く活用しましょう。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-25-covered-call-etf-qyld-xyld-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

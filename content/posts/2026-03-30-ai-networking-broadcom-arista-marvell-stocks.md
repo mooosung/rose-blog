@@ -5,7 +5,7 @@ draft: false
 tags: ["AI投資", "ツルハシ投資", "Broadcom", "Arista Networks", "Marvell", "ネットワーク半導体", "米国株"]
 categories: ["AIインフラ株"]
 description: "AIデータセンターの「見えない神経系」を担うネットワーク半導体。BroadcomのAIネットワーキングチップ、Arista Networksのイーサネット、MarvellのシリコンフォトニクスをAI時代の文脈で解説。投資家が知っておくべき注目ポイントを徹底分析。"
-featureimage: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-30-ai-networking-broadcom-arista-marvell-stocks/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

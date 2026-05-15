@@ -5,7 +5,7 @@ draft: false
 tags: ["Datadog", "DDOG", "AI投資", "SaaS株", "クラウド株", "米国株", "オブザーバビリティ"]
 categories: ["AI SaaS銘柄"]
 description: "Datadog（DDOG）はAI時代のクラウド監視・オブザーバビリティ市場をリードするSaaS株。AIがシステムを複雑化するほど需要が増す「逆張り安全圏」の魅力を徹底解説。"
-featureimage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-02-datadog-ddog-ai-observability-stock-analysis/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

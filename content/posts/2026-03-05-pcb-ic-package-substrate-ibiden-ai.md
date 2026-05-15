@@ -5,7 +5,7 @@ draft: false
 tags: ["ICパッケージ基板", "プリント基板", "PCB", "イビデン", "新光電気工業", "Unimicron", "AIインフラ株", "長期投資", "NISA", "AIバブル", "半導体"]
 categories: ["AIバブルのツルハシ", "半導体"]
 description: "AIチップを動かすために不可欠なICパッケージ基板を徹底解説。イビデン・新光電気工業・Unimicronなど、AI需要で恩恵を受ける基板メーカーの強みと投資妙味をわかりやすく解説します。"
-featureimage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-05-pcb-ic-package-substrate-ibiden-ai/1200/630"
 featureimagecaption: "Photo by Alexandre Debiève on Unsplash"
 ---
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["REIT", "不動産投資", "ETF", "配当投資", "資産運用"]
 categories: ["投資入門"]
 description: "REITとは何か、仕組みから国内・海外REITの選び方、ETFとの違い、メリット・デメリットまで初心者向けにわかりやすく解説します。"
-featureimage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-14-reit-investment-beginners-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

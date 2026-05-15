@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "AI投資", "テクノロジー", "QQQ", "NISA"]
 categories: ["投資・資産運用"]
 description: "QQQ・BOTZ・AIQなどAI・テクノロジー系ETFの特徴と選び方を徹底解説。新NISAでの活用法や注意点も紹介します。"
-featureimage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-04-27-ai-technology-etf-investment-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

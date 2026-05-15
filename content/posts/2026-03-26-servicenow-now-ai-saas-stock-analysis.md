@@ -5,7 +5,7 @@ draft: false
 tags: ["ServiceNow", "NOW", "AI SaaS", "米国株", "DX", "クラウド"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "ServiceNow（NOW）の事業モデル・AI戦略・業績・投資判断をわかりやすく解説。なぜ世界中の大企業がServiceNowを導入するのか、その強さの秘密に迫ります。"
-featureimage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-03-26-servicenow-now-ai-saas-stock-analysis/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

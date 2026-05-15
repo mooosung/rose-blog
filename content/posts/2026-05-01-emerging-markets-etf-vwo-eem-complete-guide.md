@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "新興国", "VWO", "EEM", "投資", "分散投資"]
 categories: ["ETF・投資信託"]
 description: "VWO・EEMをはじめとする新興国株式ETFの特徴・コスト・リスク・活用法を徹底解説。米国株に偏ったポートフォリオに世界の成長を取り込む方法をわかりやすく紹介します。"
-featureimage: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 

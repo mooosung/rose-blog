@@ -5,7 +5,7 @@ draft: false
 tags: ["NISA", "AI株", "投資入門", "初心者", "証券口座", "インデックス投資"]
 categories: ["投資入門"]
 description: "NISAを使ってAI関連株に投資したい初心者向けの完全ガイド。口座開設から銘柄選びまで、知っておくべき5つのポイントをローゼンマイヤーがわかりやすく解説しますわ。"
-featureimage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-02-28-nisa-ai-stocks-beginners-guide/1200/630"
 featureimagecaption: "Photo by Maxim Hopman on Unsplash"
 ---
 

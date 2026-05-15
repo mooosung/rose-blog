@@ -5,7 +5,7 @@ draft: false
 tags: ["AIエージェント", "米国株", "投資", "AI株", "テック株"]
 categories: ["AI投資"]
 description: "ChatGPTから始まったAI革命は、今やAIエージェント時代へと進化しています。自律的に行動するAIエージェントが経済を変えつつある今、個人投資家はどの企業・ETFに注目すべきか徹底解説します。"
-featureimage: "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&q=80"
+featureimage: "https://picsum.photos/seed/2026-05-04-ai-agent-economy-investment-guide/1200/630"
 featureimagecaption: "Photo by Unsplash"
 ---
 
