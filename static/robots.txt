@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
+
+# 重複・低品質ページの除外
+Disallow: /page/
+Disallow: /tags/page/
+Disallow: /categories/page/
+Disallow: /archives/page/
+
 Sitemap: https://rozenmaier.com/sitemap.xml
