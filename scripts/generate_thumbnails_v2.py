@@ -77,13 +77,13 @@ def get_loremflickr_keyword(slug: str, tags: list) -> str:
 
 
 def fetch_photo(keyword: str, slug: str) -> Image.Image | None:
-    """LoremFlickrから背景写真を取得。失敗したらNone。"""
-    # スラッグのハッシュをロックとして使う（同じ記事は同じ画像）
+    """Picsumから背景写真を取得（安全・高品質な風景・建物・自然写真）。"""
+    # スラッグのハッシュでシード固定（同じ記事は毎回同じ画像）
     slug_hash = int(hashlib.md5(slug.encode()).hexdigest()[:8], 16) % 9999 + 1
     urls = [
-        f"https://loremflickr.com/1200/630/{keyword}?lock={slug_hash}",
-        f"https://loremflickr.com/1200/630/{FALLBACK_KEYWORD}?lock={slug_hash}",
+        f"https://picsum.photos/seed/{slug_hash}/1200/630",
         f"https://picsum.photos/seed/{slug}/1200/630",
+        f"https://picsum.photos/1200/630",
     ]
     for url in urls:
         try:
@@ -225,6 +225,11 @@ def parse_frontmatter(content: str) -> dict:
     return result
 
 
+SKIP_SLUGS = {
+    "2026-02-22-hello-world",  # ローゼのご挨拶（キャラ画像を維持）
+}
+
+
 def main():
     force = "--force" in sys.argv or "-f" in sys.argv
     posts = sorted(POSTS_DIR.glob("2026-*.md"))
@@ -245,6 +250,10 @@ def main():
             tags = [tags]
 
         output_path = OUTPUT_DIR / f"{slug}.jpg"
+
+        if slug in SKIP_SLUGS:
+            skipped += 1
+            continue
 
         if output_path.exists() and not force:
             skipped += 1
