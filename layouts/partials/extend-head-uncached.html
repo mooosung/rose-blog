@@ -16,7 +16,7 @@
 
 {{/* フォールバック: ローゼのデフォルト OGP 画像 */}}
 {{ if not $imgURL }}
-  {{ $imgURL = "https://mooosung.github.io/rose-blog/img/roze-hello.png" }}
+  {{ $imgURL = "https://rozenmaier.com/img/roze-hello.png" }}
 {{ end }}
 
 <meta property="og:image" content="{{ $imgURL }}" />
@@ -58,7 +58,7 @@
   },
   "image": {
     "@type": "ImageObject",
-    "url": "{{ with .Params.featureimage }}{{ . }}{{ else }}https://rozenmaier.com/img/roze-hello.png{{ end }}"
+    "url": "{{ with .Params.featureimage }}{{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}{{ . }}{{ else }}https://rozenmaier.com/img/roze-hello.png{{ end }}{{ else }}https://rozenmaier.com/img/roze-hello.png{{ end }}"
   }
   {{ with .Params.tags }},
   "keywords": {{ jsonify . }}

@@ -9,8 +9,8 @@ keywords = ["AI", "投資", "株式", "半導体", "プログラミング", "テ
 robots = "index, follow"
 enableStructuredBreadcrumbs = true
 
-defaultBackgroundImage = "img/background.jpg"
-defaultFeaturedImage = "img/roze-hello.png"
+defaultBackgroundImage = "https://rozenmaier.com/img/background.jpg"
+defaultFeaturedImage = "https://rozenmaier.com/img/roze-hello.png"
 backgroundImageWidth = 1200
 hotlinkFeatureImage = true
 
