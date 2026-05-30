@@ -5,7 +5,7 @@ draft: false
 tags: ["資産運用", "家計管理", "貯金", "生活防衛資金", "初心者"]
 categories: ["家計・貯金"]
 description: "生活防衛資金の適切な金額・預け先・作り方を徹底解説。投資を始める前に必ず確保すべき「お金の守り」の基本を初心者向けにわかりやすく説明します。"
-featureimage: "img/thumbnails/2026-04-20-emergency-fund-guide-2026.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-20-emergency-fund-guide-2026.jpg"
 featureimagecaption: ""
 ---
 

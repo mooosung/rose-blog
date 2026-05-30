@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "エネルギー株", "XLE", "VDE", "IXC", "米国株投資", "配当投資"]
 categories: ["ETF投資"]
 description: "エネルギーセクターETFの代表格であるXLE・VDE・IXCを徹底比較。AI電力需要で再注目されるエネルギー株への投資方法、メリット・デメリット、選び方を初心者にもわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-26-energy-etf-xle-vde-ixc-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-26-energy-etf-xle-vde-ixc-complete-guide.jpg"
 featureimagecaption: "Photo by LoremFlickr"
 ---
 

@@ -3,7 +3,7 @@ title: "CrowdStrike（CRWD）徹底分析｜AI×サイバーセキュリティ�
 date: 2026-03-12
 draft: false
 description: "CrowdStrikeの事業モデル・強み・財務指標・リスクを徹底解説。AIセキュリティ時代に注目のSaaS銘柄CRWDへの投資判断ポイントをわかりやすく解説します。"
-featureimage: "img/thumbnails/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis.jpg"
 featureimagecaption: ""
 tags: ["CrowdStrike", "CRWD", "AI SaaS", "サイバーセキュリティ", "米国株", "SaaS銘柄", "成長株", "AI銘柄"]
 categories: ["AI SaaS・ソフトウェア銘柄"]

@@ -5,7 +5,7 @@ draft: false
 tags: ["Palantir", "PLTR", "AI SaaS", "米国株", "ソフトウェア銘柄", "AIP"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Palantir Technologies（PLTR）のビジネスモデル、AIプラットフォーム（AIP）の強み、業績推移、投資リスクをわかりやすく解説します。"
-featureimage: "img/thumbnails/2026-03-19-palantir-pltr-ai-saas-stock-analysis.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-19-palantir-pltr-ai-saas-stock-analysis.jpg"
 featureimagecaption: ""
 ---
 

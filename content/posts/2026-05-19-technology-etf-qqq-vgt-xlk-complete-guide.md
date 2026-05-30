@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "テクノロジー", "QQQ", "VGT", "XLK", "NISA", "米国株"]
 categories: ["ETF・投資信託"]
 description: "テクノロジーETFの代表格QQQ・VGT・XLKを徹底比較。信託報酬・構成銘柄・過去リターン・リスク特性・NISAでの活用法まで2026年版でわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 

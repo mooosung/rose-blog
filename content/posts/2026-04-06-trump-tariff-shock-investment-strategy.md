@@ -5,7 +5,7 @@ draft: false
 tags: ["関税", "米国株", "長期投資", "ポートフォリオ", "暴落対策", "ドルコスト平均法", "貿易戦争", "ETF", "リスク管理"]
 categories: ["投資戦略・資産運用"]
 description: "トランプ政権の相互関税発動で世界株式が急落。こんな時に長期投資家が取るべき5つの戦略を徹底解説。「今すぐ売るべきか？」の答えと、暴落を味方につける積立投資の真実。"
-featureimage: "img/thumbnails/2026-04-06-trump-tariff-shock-investment-strategy.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-trump-tariff-shock-investment-strategy.jpg"
 featureimagecaption: ""
 ---
 

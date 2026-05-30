@@ -5,7 +5,7 @@ draft: false
 tags: ["銅", "レアメタル", "レアアース", "ガリウム", "住友金属鉱山", "三菱マテリアル", "JX金属", "AIインフラ株", "長期投資", "NISA", "AIバブル", "素材"]
 categories: ["AIバブルのツルハシ", "素材・資源"]
 description: "AIデータセンター建設ラッシュで銅・ガリウム・ネオジムなどの需要が急増中。住友金属鉱山・三菱マテリアル・JX金属など、AI時代の素材関連株をわかりやすく解説します。"
-featureimage: "img/thumbnails/2026-03-06-copper-rare-metals-ai-infrastructure-stocks.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-06-copper-rare-metals-ai-infrastructure-stocks.jpg"
 featureimagecaption: ""
 ---
 

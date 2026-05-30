@@ -5,7 +5,7 @@ draft: false
 tags: ["MLCC", "積層セラミックコンデンサ", "村田製作所", "TDK", "ニチコン", "電子部品株", "AIインフラ株", "長期投資", "NISA", "AIバブル"]
 categories: ["AIバブルのツルハシ", "電子部品・素材"]
 description: "AI需要で脚光を浴びる「縁の下の力持ち」——MLCC（積層セラミックコンデンサ）とは何か、なぜ村田製作所・TDKがAIインフラに不可欠なのかをわかりやすく解説。長期投資・NISA向けに分析します。"
-featureimage: "img/thumbnails/2026-03-01-mlcc-murata-tdk-ai-infra.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-01-mlcc-murata-tdk-ai-infra.jpg"
 featureimagecaption: ""
 ---
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["確定申告", "外国税額控除", "米国株", "ETF", "配当課税"]
 categories: ["投資入門"]
 description: "米国株やETFへの投資で得た配当・売却益の確定申告方法を徹底解説。外国税額控除の仕組み、特定口座と一般口座の違い、二重課税を避けるための申告手順まで、初心者にもわかりやすく紹介します。"
-featureimage: "img/thumbnails/2026-04-19-us-stock-tax-return-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-19-us-stock-tax-return-guide.jpg"
 featureimagecaption: ""
 ---
 

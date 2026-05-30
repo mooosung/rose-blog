@@ -5,7 +5,7 @@ draft: false
 tags: ["GPT-5.4", "OpenAI", "AIエージェント", "Computer Use", "SaaSの死", "AI投資", "HALO銘柄", "長期投資", "NISA"]
 categories: ["AI最新動向", "AI時代の資産運用"]
 description: "2026年3月5日リリースのOpenAI最新モデル「GPT-5.4」を徹底解説。100万トークン対応、ネイティブPC操作、トークン効率47%改善など、投資家が押さえるべき変化と関連銘柄への影響を分析します。"
-featureimage: "img/thumbnails/2026-03-07-gpt-5-4-openai-computer-use-ai-stocks.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-07-gpt-5-4-openai-computer-use-ai-stocks.jpg"
 featureimagecaption: ""
 ---
 

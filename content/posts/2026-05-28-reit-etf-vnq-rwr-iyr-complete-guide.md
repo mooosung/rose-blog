@@ -5,7 +5,7 @@ draft: false
 tags: ["REIT", "ETF", "不動産投資", "VNQ", "配当投資", "米国株"]
 categories: ["投資・資産運用"]
 description: "米国REIT ETFの代表銘柄VNQ・RWR・IYRを徹底比較。REITとは何か、ETFで不動産投資をする方法、経費率・配当利回り・リスクまで日本語でわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-28-reit-etf-vnq-rwr-iyr-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-28-reit-etf-vnq-rwr-iyr-complete-guide.jpg"
 featureimagecaption: "REIT ETF投資ガイド"
 ---
 

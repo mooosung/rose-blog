@@ -5,7 +5,7 @@ draft: false
 tags: ["日本株", "AI", "半導体", "日経平均", "投資"]
 categories: ["投資系"]
 description: "2026年の日本株見通しが上方修正され、日経平均61,500円・TOPIX4,100ptが目標に。AI半導体需要とコーポレートガバナンス改革が追い風ですわ。"
-featureimage: "img/thumbnails/2026-02-23-japan-stocks-ai-2026-outlook.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-23-japan-stocks-ai-2026-outlook.jpg"
 featureimagecaption: ""
 ---
 

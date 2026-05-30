@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "クリーンエネルギー", "再生可能エネルギー", "ICLN", "QCLN", "投資"]
 categories: ["ETF投資"]
 description: "クリーンエネルギーETFのICLNとQCLNを徹底比較。AI時代の電力需要急増を背景に注目される再生可能エネルギー投資の基礎から実践まで解説します。"
-featureimage: "/img/thumbnails/2026-05-17-clean-energy-etf-icln-qcln-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-17-clean-energy-etf-icln-qcln-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
 ---
 

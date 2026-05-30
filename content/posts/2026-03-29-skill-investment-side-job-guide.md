@@ -5,7 +5,7 @@ draft: false
 tags: ["スキル投資", "副業", "AI活用", "資産形成", "キャリア"]
 categories: ["スキル投資・副業戦略"]
 description: "「スキル投資」は最も利回りの高い投資のひとつ。AI時代に需要が急騰している5つのスキルと、副業収入につながる具体的な学習ロードマップを解説します。"
-featureimage: "img/thumbnails/2026-03-29-skill-investment-side-job-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-29-skill-investment-side-job-guide.jpg"
 featureimagecaption: ""
 ---
 

@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "サイバーセキュリティ", "HACK", "CIBR", "BUG", "米国株", "テーマ投資"]
 categories: ["ETF・投資信託"]
 description: "サイバーセキュリティETFの代表格HACK・CIBR・BUGを徹底比較。AI時代にサイバー脅威が増大するなか、コスト・純度・安定感の観点からどのETFが長期投資に向いているか解説します。"
-featureimage: "/img/thumbnails/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide.jpg"
 featureimagecaption: ""
 ---
 

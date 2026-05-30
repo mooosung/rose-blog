@@ -5,7 +5,7 @@ draft: false
 tags: ["半導体ETF", "SOXX", "SMH", "ETF", "投資"]
 categories: ["ETF投資"]
 description: "半導体ETFのSOXX・SMH・SOXQを徹底比較。経費率・構成銘柄・パフォーマンスの違いをわかりやすく解説。AI需要拡大で注目の半導体セクターへの投資方法を2026年最新情報でお届けします。"
-featureimage: "/img/thumbnails/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide.jpg"
 featureimagecaption: "半導体ETF完全ガイド"
 ---
 

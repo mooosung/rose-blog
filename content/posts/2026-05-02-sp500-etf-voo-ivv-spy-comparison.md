@@ -5,7 +5,7 @@ draft: false
 tags: ["S&P500", "ETF", "VOO", "IVV", "SPY", "米国株", "インデックス投資"]
 categories: ["投資・資産運用"]
 description: "S&P500に連動する代表的なETFであるVOO・IVV・SPYを徹底比較。経費率・流動性・配当利回り・パフォーマンスなど多角的な観点から、どのETFが最適かを解説します。"
-featureimage: "img/thumbnails/2026-05-02-sp500-etf-voo-ivv-spy-comparison.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-02-sp500-etf-voo-ivv-spy-comparison.jpg"
 featureimagecaption: ""
 ---
 

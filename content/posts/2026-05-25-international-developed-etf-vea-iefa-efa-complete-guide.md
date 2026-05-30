@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "国際分散投資", "先進国株式", "VEA", "IEFA", "EFA", "長期投資"]
 categories: ["ETF・投資信託"]
 description: "VEA・IEFA・EFAなど主要な先進国株式ETFを徹底比較。米国一辺倒のポートフォリオにリスク分散を加えたい投資家向けに、特徴・コスト・運用実績・活用法をわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-25-international-developed-etf-vea-iefa-efa-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-25-international-developed-etf-vea-iefa-efa-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
 ---
 

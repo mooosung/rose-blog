@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "金融セクター", "XLF", "VFH", "IYF", "投資", "米国株"]
 categories: ["ETF・投資信託"]
 description: "金融セクターETF（XLF・VFH・IYF）の特徴、経費率、構成銘柄、パフォーマンスを徹底比較。銀行・保険・証券・決済ネットワークに幅広く分散投資したい方向けの完全ガイドですわ。"
-featureimage: "/img/thumbnails/2026-05-29-financial-sector-etf-xlf-vfh-iyf-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-29-financial-sector-etf-xlf-vfh-iyf-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
 ---
 

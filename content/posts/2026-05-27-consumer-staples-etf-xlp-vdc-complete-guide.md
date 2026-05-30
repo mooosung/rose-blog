@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "XLP", "VDC", "消費者必需品", "ディフェンシブ投資", "米国株"]
 categories: ["ETF・投資信託"]
 description: "XLP・VDCなど消費者必需品セクターETFを徹底比較。不景気・暴落相場に強いディフェンシブETFの特徴・メリット・デメリット・選び方を初心者向けにわかりやすく解説します。"
-featureimage: "/img/thumbnails/2026-05-27-consumer-staples-etf-xlp-vdc-complete-guide.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-27-consumer-staples-etf-xlp-vdc-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
 ---
 

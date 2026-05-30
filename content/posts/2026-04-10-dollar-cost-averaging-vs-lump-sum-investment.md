@@ -5,7 +5,7 @@ draft: false
 tags: ["積立投資", "一括投資", "ドルコスト平均法", "投資戦略", "NISA"]
 categories: ["投資入門"]
 description: "積立投資（ドルコスト平均法）と一括投資、どちらが有利かをシミュレーションで徹底検証。市場の暴落局面でも続けられる投資戦略の選び方を解説します。"
-featureimage: "img/thumbnails/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment.jpg"
 featureimagecaption: ""
 ---
 
