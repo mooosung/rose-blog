@@ -235,6 +235,8 @@ SUMCOのウェハは、**TSMC・Samsung・SK Hynix・Intel・Micron**といっ�
 ## 関連記事
 
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
+- [半導体製造装置とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由【ツルハシ投資】🌹](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/)
+- [ICパッケージ基板とは？イビデンがAI時代の最重要インフラ企業である理由【ツルハシ投資】🌹](/posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai/)
 
 ---
 
