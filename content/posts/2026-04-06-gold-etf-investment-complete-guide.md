@@ -2,12 +2,18 @@
 title: "金（ゴールド）ETF投資完全ガイド2026：インフレ・株安に強い安全資産の始め方"
 date: 2026-04-06
 draft: false
+noindex: true
+canonical: "https://rozenmaier.com/posts/gold-etf-investment-complete-guide/"
 tags: ["金投資", "ゴールドETF", "安全資産", "インフレヘッジ", "分散投資"]
 categories: ["投資・資産運用"]
 description: "金（ゴールド）ETFへの投資方法を初心者向けに解説。IAU・GLD・SPDRゴールドなど主要ファンドの比較、金投資のメリット・デメリット、ポートフォリオへの組み入れ方まで網羅します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-gold-etf-investment-complete-guide.jpg"
 featureimagecaption: ""
 ---
+
+{{< alert >}}
+この記事は最新版に統合されました。最新の情報は[金（ゴールド）ETF投資完全ガイド（最新版）](/posts/2026-05-14-gold-etf-investment-complete-guide/)をご覧ください。
+{{< /alert >}}
 
 ## はじめに：なぜ今、金（ゴールド）なのか
 
@@ -180,6 +186,12 @@ SBI証券・楽天証券・マネックス証券などの主要ネット証券�
 「全額株式投資」より少しリターンが下がるかもしれませんが、**暴落時に狼狽売りせず長期保有できる**精神的な安定も、資産形成では重要な要素です。
 
 まずは月1〜2万円の少額から、IAUやGLDMで積立を始めてみてはいかがでしょうか。
+
+## 関連記事
+
+- [ゴールド（金）投資完全ガイド2026：種類・メリット・始め方を徹底解説](/posts/2026-04-22-gold-investment-complete-guide/)
+- [ゴールドETF完全ガイド｜金投資でポートフォリオを守る方法【2026年版】](/posts/2026-05-14-gold-etf-investment-complete-guide/)
+- [米国債ETF「TLT・IEF・SHY」完全ガイド｜株式暴落時に資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
 
 ---
 

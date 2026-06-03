@@ -2,6 +2,8 @@
 title: "REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識"
 date: 2026-04-14
 draft: false
+noindex: true
+canonical: "https://rozenmaier.com/posts/reit-investment-guide-2026/"
 tags: ["REIT", "不動産投資", "ETF", "配当投資", "資産運用"]
 categories: ["投資入門"]
 description: "REITとは何か、仕組みから国内・海外REITの選び方、ETFとの違い、メリット・デメリットまで初心者向けにわかりやすく解説します。"
@@ -158,6 +160,12 @@ SBI証券・楽天証券・松井証券などのネット証券を使いまし�
 
 ### ステップ3：少額から始める
 最初は1口・1株から購入してみましょう。実際に保有すると、不動産市況や金利ニュースへの感度が上がります。
+
+## 関連記事
+
+- [ETFと投資信託の違いを徹底比較：どちらを選ぶべきか完全ガイド](/posts/2026-05-11-etf-vs-toshin-comparison-guide/)
+- [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)
+- [米国株・ETFの確定申告完全ガイド｜外国税額控除と配当課税の手続き](/posts/2026-04-19-us-stock-tax-return-guide/)
 
 ---
 

@@ -2,12 +2,18 @@
 title: "ゴールド（金）投資完全ガイド2026：種類・メリット・始め方を徹底解説"
 date: 2026-04-22
 draft: false
+noindex: true
+canonical: "https://rozenmaier.com/posts/gold-etf-investment-complete-guide/"
 tags: ["金投資", "ゴールド", "資産運用", "インフレ対策", "安全資産"]
 categories: ["投資・資産運用"]
 description: "金（ゴールド）投資の種類・メリット・デメリットを初心者向けに解説。現物金・金ETF・純金積立の違い、ポートフォリオへの組み入れ方まで網羅的に紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-22-gold-investment-complete-guide.jpg"
 featureimagecaption: ""
 ---
+
+{{< alert >}}
+この記事は最新版に統合されました。最新の情報は[金（ゴールド）ETF投資完全ガイド（最新版）](/posts/2026-05-14-gold-etf-investment-complete-guide/)をご覧ください。
+{{< /alert >}}
 
 ## ゴールド（金）投資とは？なぜ今注目されるのか
 
@@ -125,6 +131,12 @@ featureimagecaption: ""
 
 3. **定期的に見直す**
    - 金価格が大きく動いた後は、目標比率に戻すリバランスを行う
+
+## 関連記事
+
+- [ゴールドETF完全ガイド｜金投資でポートフォリオを守る方法【2026年版】](/posts/2026-05-14-gold-etf-investment-complete-guide/)
+- [金（ゴールド）ETF投資完全ガイド2026：インフレ・株安に強い安全資産の始め方](/posts/2026-04-06-gold-etf-investment-complete-guide/)
+- [インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
 
 ---
 
