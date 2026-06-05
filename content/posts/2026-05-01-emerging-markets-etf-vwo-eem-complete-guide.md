@@ -183,6 +183,12 @@ VWOの設定来（2005年〜）のリターンを見ると、米国株（SPY）�
 
 インドをはじめとする新興国の成長は今後数十年にわたって続くと予想されています。長期投資の視点で、少額からでも組み入れを検討してみてください。
 
+## 関連記事
+
+- [新興国ETF完全比較ガイド2026年版：VWO・EEM・IMEGの違いと選び方](/posts/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide/)
+- [ヘルスケアETF（XLV・VHT）完全ガイド〜医療株で安定リターンを狙う投資戦略](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)
+- [米国小型株ETF（IJR・VB・IWM）完全ガイド2026｜S&P500との違いと投資戦略](/posts/2026-05-18-us-small-cap-etf-ijr-vb-iwm-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の金融商品の購入を推奨するものではありません。投資は自己責任のもと行ってください。*

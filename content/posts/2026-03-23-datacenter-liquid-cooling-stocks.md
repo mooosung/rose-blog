@@ -129,3 +129,9 @@ AIの爆発的な成長は、データセンターの消費電力と発熱量を
 Vertiv、Ecolab、Schneider Electric、nVent、Modineなどの欧米銘柄に加え、ダイキンや荏原といった日本企業にもチャンスがある。
 
 **「AIで儲けるなら、まずサーバーを冷やす会社を買え」**——これが2026年のツルハシ投資の新しい常識になるかもしれない。
+
+## 関連記事
+
+- [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+- [電線株とは？AI・データセンター需要で急騰する「電線御三家」と注目銘柄を解説【ツルハシ投資】🌹](/posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)

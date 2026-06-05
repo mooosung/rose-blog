@@ -244,6 +244,12 @@ SCHD・VIG・DVYはいずれも成長投資枠対応銘柄に含まれること�
 
 「今すぐ稼ぐ」よりも「将来の配当収入を育てる」視点で、自分に合った高配当ETFを長期保有していきましょう。
 
+## 関連記事
+
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+- [JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)
+
 ---
 
 *投資はリスクを伴います。この記事は情報提供を目的としており、特定の投資を推奨するものではありません。投資判断はご自身の責任でお願いします。*

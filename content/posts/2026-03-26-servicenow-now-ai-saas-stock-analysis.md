@@ -144,6 +144,12 @@ ServiceNow（NOW）は、AI時代の企業DXを支える中核プラットフォ
 
 バリュエーションの高さは常に意識すべきですが、**長期的なAI×DXの構造的トレンド**に乗る銘柄として、ポートフォリオの一角に検討する価値は十分にあるでしょう。
 
+## 関連記事
+
+- [CrowdStrike（CRWD）徹底分析｜AI×サイバーセキュリティで成長する銘柄の将来性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
+- [Palantir Technologies（PLTR）とは？AI SaaSの本命銘柄を徹底解説](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)
+- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+
 ---
 
 *※本記事は情報提供を目的としたものであり、特定の銘柄の購入を推奨するものではありません。投資判断はご自身の責任で行ってください。*

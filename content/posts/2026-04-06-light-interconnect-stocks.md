@@ -63,6 +63,12 @@ AIインフラと自動運転という2つの成長市場に同時に露出で�
 
 **分散投資の観点**では、光モジュール専業（Coherent）と光ネットワーク機器（Ciena）を組み合わせると、リスクを抑えつつAIインフラ需要に乗ることができる。
 
+## 関連記事
+
+- [光インターコネクト革命｜AI時代に急騰する光モジュール半導体株を徹底解説【Coherent・Ciena・Lumentum】](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
+- [【ツルハシ投資】産業用ガス・特殊化学品銘柄｜半導体・AIインフラを支える「黒子」企業の投資価値](/posts/2026-03-16-industrial-gas-specialty-chemicals-ai-semiconductor/)
+- [光通信とは？AI時代のデータ爆発を支える光ファイバー関連株【ツルハシ投資】🌹](/posts/2026-03-03-optical-communication-fiber-ai-stocks/)
+
 ---
 
 ## まとめ

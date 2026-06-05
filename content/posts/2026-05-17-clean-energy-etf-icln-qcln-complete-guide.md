@@ -206,6 +206,12 @@ AI時代の電力需要増加とエネルギー転換という二つの長期ト
 
 クリーンエネルギー関連の投資をさらに深く理解したい方は、[AI・テクノロジーETF投資完全ガイド](/posts/ai-technology-etf-investment-guide/)や[セクターETFの代表格であるヘルスケアETF（XLV・VHT）完全ガイド](/posts/healthcare-etf-xlv-vht-complete-guide/)も合わせてご覧ください。
 
+## 関連記事
+
+- [ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
+- [半導体ETF完全ガイド 2026年版：SOXX・SMH・SOXQの違いと選び方](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)
+- [エネルギーETF完全ガイド：XLE・VDE・IXCの特徴と選び方【2026年版】](/posts/2026-05-26-energy-etf-xle-vde-ixc-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の銘柄・ファンドへの投資を推奨するものではありません。投資は自己判断・自己責任でお願いします。*

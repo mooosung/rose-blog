@@ -420,6 +420,12 @@ Pythonという武器を手に入れて、データに基づいた投資判断�
 
 それでは、ごきげんよう 🌹
 
+## 関連記事
+
+- [AI時代のスキル投資とは？2026年に副業収入を生む5つのスキルと学習ロードマップ](/posts/2026-03-29-skill-investment-side-job-guide/)
+- [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
+- [PER・PBR・ROE完全ガイド——株式投資の基本指標を初心者向けに徹底解説](/posts/2026-04-28-per-pbr-roe-stock-valuation-guide/)
+
 ---
 
 *※本記事は特定の金融商品の購入を推奨するものではありません。投資は自己責任でお願いいたします。*

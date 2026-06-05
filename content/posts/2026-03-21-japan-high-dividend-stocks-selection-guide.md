@@ -159,3 +159,9 @@ featureimagecaption: ""
 5. 迷ったら**高配当ETF**でプロの銘柄選定に乗る
 
 配当投資は「退屈な投資」と言われることもありますが、複利の力で資産は着実に成長します。焦らず、正しい銘柄を選び、長期で保有することが成功の鍵です。
+
+## 関連記事
+
+- [高配当ETF×配当再投資の複利効果｜月3万円積立で20年後いくらになる？VYM・HDV・SPYD・SCHDシミュレーション](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+- [米国配当貴族ETF「NOBL」完全ガイド：25年連続増配企業に一括投資する方法](/posts/2026-04-26-nobl-dividend-aristocrats-etf-complete-guide/)
+- [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)

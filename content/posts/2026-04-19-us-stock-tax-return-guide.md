@@ -129,6 +129,12 @@ featureimagecaption: ""
 2. PDFをダウンロードして「外国源泉徴収税額」を確認
 3. e-Taxまたは書面で確定申告を作成
 
+## 関連記事
+
+- [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-04-14-reit-investment-beginners-guide/)
+- [ETFと投資信託の違いを徹底比較：どちらを選ぶべきか完全ガイド](/posts/2026-05-11-etf-vs-toshin-comparison-guide/)
+- [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
+
 ---
 
 ## まとめ｜外国税額控除は「知っているだけで得をする制度」

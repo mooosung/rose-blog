@@ -216,6 +216,12 @@ AI・ロボティクスは今後数十年にわたって経済を変革するテ
 - [テクノロジーETF完全ガイド：QQQ・VGT・XLKの比較と選び方](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
 - [半導体ETF完全ガイド：SOXX・SMH・SOXQの違いと選び方](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)
 
+## 関連記事
+
+- [ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
+- [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
+- [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の投資商品を推奨するものではありません。投資判断は自己責任でお願いします。*

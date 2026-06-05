@@ -200,6 +200,12 @@ JEPIとJEPQは、毎月安定した分配金を生み出す「**配当製造機*
 
 **成長株ETF（VTI/QQQ）で資産を増やし、JEPIで生活費を稼ぐ**というハイブリッド戦略が、多くの長期投資家にとって有効な選択肢となるでしょう。
 
+## 関連記事
+
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、投資を勧誘するものではありません。投資判断はご自身の責任でお願いします。*

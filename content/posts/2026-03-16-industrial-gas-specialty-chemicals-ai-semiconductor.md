@@ -179,6 +179,12 @@ AI半導体の話題になると、NVIDIAやTSMCに注目が集まります。�
 
 まだ証券口座をお持ちでない方は、まずNISA口座の開設から始めてみてはいかがでしょうか。
 
+## 関連記事
+
+- [半導体製造装置とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由【ツルハシ投資】🌹](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/)
+- [ICパッケージ基板とは？イビデンがAI時代の最重要インフラ企業である理由【ツルハシ投資】🌹](/posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai/)
+- [光インターコネクト革命｜AI時代に急騰する光モジュール半導体株を徹底解説【Coherent・Ciena・Lumentum】](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
+
 ---
 
 *この記事はAIインフラ銘柄シリーズの一部です。他の記事もぜひご覧ください。*

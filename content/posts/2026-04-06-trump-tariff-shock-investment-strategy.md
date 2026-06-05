@@ -163,6 +163,12 @@ featureimagecaption: ""
 
 暴落は必ず来ます。でも回復も必ず来ます。それを知っている投資家だけが、長期で資産を築いていけるのです。
 
+## 関連記事
+
+- [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
+- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+- [QQQ完全ガイド：ナスダック100に乗る米国ETFの仕組みと投資戦略](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+
 ---
 
 *免責事項：本記事は投資情報の提供を目的としており、特定の金融商品の売買を推奨するものではありません。投資は自己責任でお願いします。*

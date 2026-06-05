@@ -188,6 +188,12 @@ SOXXは設定来（2001年〜）で**S&P500を大幅にアウトパフォーム*
 
 長期的な視点で、ポートフォリオの一部に組み込んでみてはいかがでしょうか。
 
+## 関連記事
+
+- [AI・テクノロジーETF投資完全ガイド2026](/posts/2026-04-27-ai-technology-etf-investment-guide/)
+- [米国債ETF「TLT・IEF・SHY」完全ガイド｜株式暴落時に資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の金融商品の購入を推奨するものではありません。投資は自己責任でお願いします。*

@@ -155,6 +155,12 @@ SHYは元本保全に近い性質を持ちますが、株式の暴落時に大�
 
 まずは**IEF**から試してみて、市場の動きと自分のリスク許容度を確認しながら比率を調整していくのがおすすめです。
 
+## 関連記事
+
+- [債券ETF完全ガイド2026 - BND・AGG・TLTで安定収益を得る方法](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+- [インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
+- [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、投資の勧誘を意図するものではありません。投資判断は自己責任でお願いします。*

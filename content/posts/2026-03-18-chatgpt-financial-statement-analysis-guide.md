@@ -200,6 +200,12 @@ ChatGPTやClaudeを投資に活用するスキルは、一度身につければ�
 - **Udemy** — 「ChatGPT活用」「Python×株式投資」などのコースが豊富。セール時は1,500円前後で受講可能
 - **Schoo** — 生放送授業が無料。AI・テクノロジー系の講座が充実
 
+## 関連記事
+
+- [AIライティングツール徹底比較｜ChatGPT・Claude・Geminiの使い分け完全ガイド](/posts/2026-03-25-ai-writing-tools-comparison-guide/)
+- [Notion AI完全ガイド：タスク管理・議事録・ライティングを自動化する方法【2026年版】](/posts/2026-04-01-notion-ai-complete-guide/)
+- [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)
+
 ---
 
 *この記事は投資の勧誘を目的としたものではありません。投資判断は自己責任でお願いします。*

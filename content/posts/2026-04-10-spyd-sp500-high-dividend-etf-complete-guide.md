@@ -176,6 +176,12 @@ SPYDは**高い配当利回り・低コスト・均等加重**という三拍子
 
 配当重視の長期投資戦略として、SCHD・VYMと組み合わせたポートフォリオを組むのが現実的なアプローチです。まずは少額から始めて、配当収入の感覚を掴むところからスタートしてみましょう。
 
+## 関連記事
+
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)
+- [高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
+
 ---
 
 **免責事項：** 本記事は情報提供を目的としており、投資を勧誘するものではありません。投資にはリスクが伴います。実際の投資判断はご自身の責任でお願いします。

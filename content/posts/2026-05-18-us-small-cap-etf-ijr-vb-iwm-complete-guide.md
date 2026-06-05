@@ -191,6 +191,12 @@ IWMは **Russell 2000指数** に連動する、最もメジャーな小型株ET
 
 ETF選びで迷ったら、[半導体ETF（SOXX・SMH）完全ガイド](/posts/semiconductor-etf-soxx-smh-guide/)や[ヘルスケアETF（XLV・VHT）完全ガイド](/posts/healthcare-etf-xlv-vht-complete-guide/)もあわせてご覧ください。
 
+## 関連記事
+
+- [テクノロジーETF完全ガイド2026｜QQQ・VGT・XLKを徹底比較](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
+- [新興国株式ETFで世界の成長を取り込む方法【VWO・EEM完全ガイド2026】](/posts/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/)
+- [ヘルスケアETF（XLV・VHT）完全ガイド〜医療株で安定リターンを狙う投資戦略](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)
+
 ---
 
 *※本記事は情報提供を目的としており、投資の勧誘や特定の商品を推奨するものではありません。投資は自己責任のもと、ご自身の判断で行ってください。*

@@ -120,6 +120,12 @@ featureimagecaption: ""
 
 AIや新技術が市場を変えていく時代だからこそ、「長期・分散・継続」というバフェット流の本質に立ち返ることが、投資で生き残るための最善策かもしれません。
 
+## 関連記事
+
+- [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
+- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+- [QQQ完全ガイド：ナスダック100に乗る米国ETFの仕組みと投資戦略](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の投資商品への勧誘ではありません。投資は自己責任でお願いします。*

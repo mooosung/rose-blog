@@ -115,3 +115,9 @@ QYLDを例にとると、NASDAQ 100が過去10年で大幅に上昇する中、Q
 カバードコール型ETFは「悪い投資商品」ではありません。ただし、**高利回り＝高リターン**ではないことを理解した上で使うことが大切です。
 
 毎月のキャッシュフローが必要な局面、もしくはポートフォリオの一部として活用するのが、QYLDやXYLDとの正しい付き合い方といえます。仕組みとトレードオフを理解した上で、自分の投資目的に合うか判断してみてください。
+
+## 関連記事
+
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+- [米国配当貴族ETF「NOBL」完全ガイド：25年連続増配企業に一括投資する方法](/posts/2026-04-26-nobl-dividend-aristocrats-etf-complete-guide/)
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)

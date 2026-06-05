@@ -184,6 +184,12 @@ featureimagecaption: ""
 
 ファクター投資は「インデックス投資より少し賢く」運用するための、学術的根拠のある手法です。焦らず長期でコツコツ積み立てていきましょう。
 
+## 関連記事
+
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+- [インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
+- [ゴールドETF完全ガイド｜金投資でポートフォリオを守る方法【2026年版】](/posts/2026-05-14-gold-etf-investment-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の金融商品への投資を推奨するものではありません。投資判断は自己責任で行ってください。*

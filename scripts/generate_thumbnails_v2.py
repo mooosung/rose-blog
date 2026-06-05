@@ -100,28 +100,70 @@ def fetch_photo(keyword: str, slug: str) -> Image.Image | None:
 
 
 def wrap_text(text: str, font, max_width: int, draw: ImageDraw.ImageDraw) -> list[str]:
-    """文字列を max_width に収まるよう折り返す。"""
+    """文字列を max_width に収まるよう折り返す。
+    - ASCII連続文字（英数字）を途中で分割しない
+    - 行頭禁則文字（・、。：；）を次行先頭に置かない
+    """
+    # 行頭禁則文字
+    LINE_HEAD_FORBIDDEN = set('・、。：；…）】」』')
+
     lines = []
     current_line = ""
-    for char in text:
-        test = current_line + char
-        bbox = draw.textbbox((0, 0), test, font=font)
-        if bbox[2] - bbox[0] <= max_width:
-            current_line = test
+
+    i = 0
+    chars = list(text)
+    while i < len(chars):
+        ch = chars[i]
+        # ASCII連続部分はまとめて1トークンとして扱う
+        if ch.isascii() and (ch.isalnum() or ch in '&+#/-_'):
+            token = ch
+            j = i + 1
+            while j < len(chars) and chars[j].isascii() and (chars[j].isalnum() or chars[j] in '&+#/-_.'):
+                token += chars[j]
+                j += 1
+            # トークンが収まるか確認
+            test = current_line + token
+            bbox = draw.textbbox((0, 0), test, font=font)
+            if bbox[2] - bbox[0] <= max_width:
+                current_line = test
+            else:
+                if current_line:
+                    lines.append(current_line)
+                current_line = token
+            i = j
         else:
-            if current_line:
-                lines.append(current_line)
-            current_line = char
+            test = current_line + ch
+            bbox = draw.textbbox((0, 0), test, font=font)
+            if bbox[2] - bbox[0] <= max_width:
+                current_line = test
+                i += 1
+            else:
+                # 行頭禁則チェック: 次の文字が禁則文字なら現在行に含める
+                if ch in LINE_HEAD_FORBIDDEN and current_line:
+                    # 禁則文字を現在行に強制追加して改行
+                    current_line += ch
+                    lines.append(current_line)
+                    current_line = ""
+                else:
+                    if current_line:
+                        lines.append(current_line)
+                    current_line = ch
+                i += 1
+
     if current_line:
         lines.append(current_line)
     return lines
 
 
 def clean_title(title: str) -> str:
-    # 絵文字除去・クォート除去
+    # 絵文字除去・クォート除去（&は保持）
     title = re.sub(r'[\U00010000-\U0010ffff]', '', title)
-    title = re.sub(r'[^\w\s\u3000-\u9fff\u4e00-\u9fff\uff00-\uffef\u3040-\u309f\u30a0-\u30ff\-：:！!？?（）()【】「」・、。…|｜]', '', title)
+    title = re.sub(r'[^\w\s\u3000-\u9fff\u4e00-\u9fff\uff00-\uffef\u3040-\u309f\u30a0-\u30ff\-：:！!？?（）()【】「」・、。…|｜&]', '', title)
     return re.sub(r'\s+', ' ', title).strip().strip('"\'')
+
+
+# 下パネルの高さ
+PANEL_H = 210
 
 
 def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, force: bool = False):
@@ -137,39 +179,49 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
         # フォールバック: 暗いグラデーション
         img = Image.new("RGB", (W, H), (20, 30, 60))
 
-    # 半透明の暗いオーバーレイ（テキスト可読性向上）
-    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 155))
-    img_rgba = img.convert("RGBA")
-    img = Image.alpha_composite(img_rgba, overlay).convert("RGB")
+    img = img.convert("RGBA")
 
+    # ── 上部：写真エリア（軽いオーバーレイ）──
+    top_overlay = Image.new("RGBA", (W, H - PANEL_H), (0, 0, 0, 60))
+    img.paste(top_overlay, (0, 0), top_overlay)
+
+    # ── 下パネル：半透明の暗いパネル ──
+    panel = Image.new("RGBA", (W, PANEL_H), (10, 10, 20, 220))
+    img.paste(panel, (0, H - PANEL_H), panel)
+
+    img = img.convert("RGB")
     draw = ImageDraw.Draw(img)
 
     # ── サイトロゴ（左上）──
     try:
-        font_site = ImageFont.truetype(FONT_BOLD, 26)
+        font_site = ImageFont.truetype(FONT_REGULAR, 24)
     except Exception:
         font_site = ImageFont.load_default()
-    draw.text((50, 45), "rozenmaier.com", font=font_site, fill=(255, 255, 255, 200))
+    draw.text((50, 40), "rozenmaier.com", font=font_site, fill=(255, 255, 255, 180))
 
-    # ── タイトル（中央）──
+    # ── タイトル（下パネル内）──
     clean = clean_title(title)
-    max_text_width = W - 140  # 左右マージン70px
+    max_text_width = W - 120  # 左右マージン60px
+
+    panel_top = H - PANEL_H
+    panel_padding = 22  # パネル上下余白
 
     best_lines = None
     best_font = None
     best_font_size = 28
+    usable_h = PANEL_H - panel_padding * 2
 
-    for font_size in [96, 88, 80, 72, 64, 54, 44]:
+    for font_size in [64, 56, 50, 44, 38, 34, 30]:
         try:
             font_main = ImageFont.truetype(FONT_BOLD, font_size)
         except Exception:
             font_main = ImageFont.load_default()
 
         lines = wrap_text(clean, font_main, max_text_width, draw)
-        line_height = font_size + 18
+        line_height = font_size + 14
         total_h = len(lines) * line_height
 
-        if total_h <= H * 0.6 and len(lines) <= 6:
+        if total_h <= usable_h and len(lines) <= 3:
             best_lines = lines
             best_font = font_main
             best_font_size = font_size
@@ -177,15 +229,16 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
 
     if best_lines is None:
         try:
-            best_font = ImageFont.truetype(FONT_BOLD, 34)
+            best_font = ImageFont.truetype(FONT_BOLD, 28)
         except Exception:
             best_font = ImageFont.load_default()
-        best_lines = wrap_text(clean, best_font, max_text_width, draw)
-        best_font_size = 44
+        best_lines = wrap_text(clean, best_font, max_text_width, draw)[:3]
+        best_font_size = 28
 
-    line_height = best_font_size + 18
+    line_height = best_font_size + 14
     total_h = len(best_lines) * line_height
-    start_y = (H - total_h) // 2
+    # パネル内で垂直中央揃え
+    start_y = panel_top + (PANEL_H - total_h) // 2
 
     for line in best_lines:
         bbox = draw.textbbox((0, 0), line, font=best_font)
@@ -193,7 +246,7 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
         x = (W - text_w) // 2
 
         # 影
-        draw.text((x + 2, start_y + 2), line, font=best_font, fill=(0, 0, 0, 180))
+        draw.text((x + 2, start_y + 2), line, font=best_font, fill=(0, 0, 0, 200))
         # 本文
         draw.text((x, start_y), line, font=best_font, fill=(255, 255, 255))
         start_y += line_height

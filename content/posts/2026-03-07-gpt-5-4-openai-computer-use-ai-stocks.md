@@ -153,6 +153,12 @@ GPT-5.4の本質は、AIが「テキストを生成するツール」から「**
 
 この激変の時代に、どこにお金を置くか——GPT-5.4のリリースは、その問いをより鮮明にしてくれましたわ 🌹
 
+## 関連記事
+
+- [HALO銘柄とは？AIに代替されない「重厚長大」投資テーマを徹底解説【2026年注目】🌹](/posts/2026-03-03-halo-stocks-heavy-asset-low-obsolescence/)
+- [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+- [パワー半導体とは？SiC・GaNがAIデータセンターに不可欠な理由【ツルハシ株・投資解説】🌹](/posts/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure/)
+
 ---
 
 *この記事は投資の勧誘を目的としたものではありません。投資判断はご自身の責任でお願いいたします。*

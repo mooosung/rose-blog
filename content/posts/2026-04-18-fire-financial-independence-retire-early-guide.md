@@ -167,6 +167,12 @@ FIRE後は会社員の恩恵（社会保険・厚生年金）がなくなりま�
 - 確定申告の必要性
 - 住民税の取り扱い
 
+## 関連記事
+
+- [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)
+- [「ドルコスト平均法」完全ガイド2026：積立投資で資産を着実に増やす方法](/posts/2026-05-09-dollar-cost-averaging-complete-guide/)
+- [ETFと投資信託の違いを徹底比較：どちらを選ぶべきか完全ガイド](/posts/2026-05-11-etf-vs-toshin-comparison-guide/)
+
 ---
 
 ## まとめ：FIREは「自由な人生設計」の手段

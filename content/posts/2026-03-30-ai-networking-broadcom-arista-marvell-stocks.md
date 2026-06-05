@@ -177,6 +177,12 @@ NVIDIAやTSMCが「AIの花形」なら、Broadcom・Arista・Marvellは「AIの
 
 「AIバブル」の波に乗りながらも、**インフラという安定した需要基盤**を持つネットワーク半導体株は、攻めと守りを両立した賢いツルハシ投資先と言えるだろう。
 
+## 関連記事
+
+- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [エヌビディア決算速報：AI覇者の成績表に市場が注目ですわ 🌹](/posts/2026-02-26-nvidia-q4-fy2026-earnings/)
+- [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+
 ---
 
 *※本記事は情報提供を目的としており、特定の投資を推奨するものではありません。投資は自己責任でお願いします。*

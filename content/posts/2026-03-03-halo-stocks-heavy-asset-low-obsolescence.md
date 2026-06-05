@@ -170,6 +170,12 @@ HALO投資の本質は、こういうことですわ。
 
 2026年、あなたのポートフォリオに「HALO」という視点を加えてみてはいかがでしょうか 🌹
 
+## 関連記事
+
+- [GPT-5.4とは？OpenAIの最新モデルが変える「AIエージェント時代」と投資家が知るべきポイント🌹](/posts/2026-03-07-gpt-5-4-openai-computer-use-ai-stocks/)
+- [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+- [パワー半導体とは？SiC・GaNがAIデータセンターに不可欠な理由【ツルハシ株・投資解説】🌹](/posts/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure/)
+
 ---
 
 *この記事は投資の勧誘を目的としたものではありません。投資判断はご自身の責任でお願いいたします。*

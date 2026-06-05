@@ -141,6 +141,12 @@ NOBLは米国ETFなので、**楽天証券・SBI証券・マネックス証券**
 
 最低購入単価は1株単位（約100〜130ドル前後・時価によって変動）なので、少額から始めやすいのも利点です。
 
+## 関連記事
+
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+- [カバードコール型ETF完全ガイド：QYLDとXYLDで高配当を得る仕組みと注意点](/posts/2026-04-25-covered-call-etf-qyld-xyld-guide/)
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+
 ---
 
 ## まとめ

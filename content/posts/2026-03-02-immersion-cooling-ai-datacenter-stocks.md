@@ -196,6 +196,12 @@ NVIDIAやOpenAIのような「AIそのもの」への投資に集中が集まり
 **マネックス証券**（米国株取引に強い・AIセクター研究レポートが充実）
 👉 [マネックス証券の口座開設はこちら](https://www.monex.co.jp/)（公式サイト）
 
+## 関連記事
+
+- [光通信とは？AI時代のデータ爆発を支える光ファイバー関連株【ツルハシ投資】🌹](/posts/2026-03-03-optical-communication-fiber-ai-stocks/)
+- [銅・レアメタルとは？AI時代に需要が爆発する素材と注目の関連株【ツルハシ投資】🌹](/posts/2026-03-06-copper-rare-metals-ai-infrastructure-stocks/)
+- [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+
 ---
 
 *本記事は情報提供を目的としており、特定銘柄への投資を推奨するものではありません。投資は自己責任でお願いしますわ。*

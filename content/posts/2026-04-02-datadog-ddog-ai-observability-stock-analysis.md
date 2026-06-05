@@ -131,6 +131,12 @@ Datadogのような米国株を購入するには、**外国株取引に対応�
 
 どちらも口座開設は無料。まずは2〜3社に資料請求して比較するのがおすすめだ。
 
+## 関連記事
+
+- [CrowdStrike（CRWD）徹底分析｜AI×サイバーセキュリティで成長する銘柄の将来性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
+- [Palantir Technologies（PLTR）とは？AI SaaSの本命銘柄を徹底解説](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)
+- [ServiceNow（NOW）とは？AI時代の企業DXを支えるSaaS銘柄を徹底解説](/posts/2026-03-26-servicenow-now-ai-saas-stock-analysis/)
+
 ---
 
 ## まとめ

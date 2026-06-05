@@ -233,6 +233,12 @@ SCHDはドル建て資産です。円高になると円換算の資産価値が�
 
 SCHDは「今すぐ最大の配当収入」ではなく、「時間をかけて配当も株価も育てていく」ETFです。複利の力を信じて長期保有できる人にとって、非常に相性の良い投資先です。
 
+## 関連記事
+
+- [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
+- [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の金融商品への投資を推奨するものではありません。投資は自己責任で行ってください。*
