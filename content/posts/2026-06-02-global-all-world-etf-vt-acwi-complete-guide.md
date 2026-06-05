@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "全世界株", "VT", "ACWI", "インデックス投資", "資産運用"]
 categories: ["投資・資産運用"]
 description: "全世界株ETFの代表格VT・ACWI・URTHを徹底比較。経費率0.07%の最安値VTから機関投資家御用達のACWIまで、コスト差・分散銘柄数・リターン・新興国比率の違いを詳しく解説。NISAやiDeCoとの組み合わせ方も紹介する2026年版完全ガイドです。"
-featureimage: "https://loremflickr.com/cache/resized/65535_48002583686_3890aed9ad_h_1200_630_nofilter.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-02-global-all-world-etf-vt-acwi-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 

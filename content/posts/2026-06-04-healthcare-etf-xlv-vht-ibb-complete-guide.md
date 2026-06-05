@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "ヘルスケア", "XLV", "VHT", "IBB", "投資"]
 categories: ["投資・資産運用"]
 description: "ヘルスケアETF（XLV・VHT・IBB）の特徴・コスト・パフォーマンスを徹底比較。景気に左右されにくいディフェンシブセクターとして注目される医療・製薬・バイオテクへの投資方法を解説。"
-featureimage: "https://loremflickr.com/cache/resized/65535_48002587836_9195a5dc8b_h_1200_630_nofilter.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-04-healthcare-etf-xlv-vht-ibb-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 

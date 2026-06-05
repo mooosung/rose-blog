@@ -5,7 +5,7 @@ draft: false
 tags: ["ETF", "金", "ゴールド", "GLD", "IAU", "GLDM", "投資", "インフレヘッジ"]
 categories: ["ETF投資"]
 description: "金ETF（GLD・IAU・GLDM）の特徴・経費率・流動性・運用資産を徹底比較。インフレヘッジや有事の金として注目を集める金投資を、低コストなETFで賢く行う方法と選び方のポイントを詳しく解説します。"
-featureimage: "https://loremflickr.com/cache/resized/5800_29842687514_c51eb8206b_h_1200_630_nofilter.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-05-gold-etf-gld-iau-gldm-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
