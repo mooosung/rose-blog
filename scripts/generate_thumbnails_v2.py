@@ -162,10 +162,6 @@ def clean_title(title: str) -> str:
     return re.sub(r'\s+', ' ', title).strip().strip('"\'')
 
 
-# 下パネルの高さ
-PANEL_H = 210
-
-
 def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, force: bool = False):
     if output_path.exists() and not force:
         return False  # skip
@@ -181,13 +177,9 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
 
     img = img.convert("RGBA")
 
-    # ── 上部：写真エリア（軽いオーバーレイ）──
-    top_overlay = Image.new("RGBA", (W, H - PANEL_H), (0, 0, 0, 60))
-    img.paste(top_overlay, (0, 0), top_overlay)
-
-    # ── 下パネル：半透明の暗いパネル ──
-    panel = Image.new("RGBA", (W, PANEL_H), (10, 10, 20, 220))
-    img.paste(panel, (0, H - PANEL_H), panel)
+    # ── 全面オーバーレイ（写真を暗くして文字を読みやすく）──
+    overlay = Image.new("RGBA", (W, H), (0, 0, 0, 110))
+    img.paste(overlay, (0, 0), overlay)
 
     img = img.convert("RGB")
     draw = ImageDraw.Draw(img)
@@ -197,31 +189,29 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
         font_site = ImageFont.truetype(FONT_REGULAR, 24)
     except Exception:
         font_site = ImageFont.load_default()
-    draw.text((50, 40), "rozenmaier.com", font=font_site, fill=(255, 255, 255, 180))
+    draw.text((60, 44), "rozenmaier.com", font=font_site, fill=(255, 255, 255))
 
-    # ── タイトル（下パネル内）──
+    # ── タイトル（画像中央オーバーレイ）──
     clean = clean_title(title)
-    max_text_width = W - 120  # 左右マージン60px
-
-    panel_top = H - PANEL_H
-    panel_padding = 22  # パネル上下余白
+    MARGIN = 130  # 左右マージン（各130px）
+    max_text_width = W - MARGIN * 2  # 940px
 
     best_lines = None
     best_font = None
     best_font_size = 28
-    usable_h = PANEL_H - panel_padding * 2
 
-    for font_size in [64, 56, 50, 44, 38, 34, 30]:
+    for font_size in [60, 54, 48, 44, 38, 34, 30]:
         try:
             font_main = ImageFont.truetype(FONT_BOLD, font_size)
         except Exception:
             font_main = ImageFont.load_default()
 
         lines = wrap_text(clean, font_main, max_text_width, draw)
-        line_height = font_size + 14
+        line_height = font_size + 16
         total_h = len(lines) * line_height
 
-        if total_h <= usable_h and len(lines) <= 3:
+        # 画像中央エリア（上下各120px余白内）に収まるか
+        if total_h <= H - 240 and len(lines) <= 4:
             best_lines = lines
             best_font = font_main
             best_font_size = font_size
@@ -229,24 +219,24 @@ def generate_thumbnail(slug: str, title: str, tags: list, output_path: Path, for
 
     if best_lines is None:
         try:
-            best_font = ImageFont.truetype(FONT_BOLD, 28)
+            best_font = ImageFont.truetype(FONT_BOLD, 30)
         except Exception:
             best_font = ImageFont.load_default()
-        best_lines = wrap_text(clean, best_font, max_text_width, draw)[:3]
-        best_font_size = 28
+        best_lines = wrap_text(clean, best_font, max_text_width, draw)[:4]
+        best_font_size = 30
 
-    line_height = best_font_size + 14
+    line_height = best_font_size + 16
     total_h = len(best_lines) * line_height
-    # パネル内で垂直中央揃え
-    start_y = panel_top + (PANEL_H - total_h) // 2
+    # 画像全体で垂直中央揃え（ロゴ分を少し下にオフセット）
+    start_y = (H - total_h) // 2 + 20
 
     for line in best_lines:
         bbox = draw.textbbox((0, 0), line, font=best_font)
         text_w = bbox[2] - bbox[0]
         x = (W - text_w) // 2
 
-        # 影
-        draw.text((x + 2, start_y + 2), line, font=best_font, fill=(0, 0, 0, 200))
+        # 影（3px オフセット）
+        draw.text((x + 3, start_y + 3), line, font=best_font, fill=(0, 0, 0))
         # 本文
         draw.text((x, start_y), line, font=best_font, fill=(255, 255, 255))
         start_y += line_height
