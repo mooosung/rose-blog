@@ -2,6 +2,7 @@
 title: "HBM（高帯域幅メモリ）とは？AI半導体を支える最重要メモリ技術と注目銘柄【ツルハシ株・投資解説】🌹"
 date: 2026-03-09
 draft: false
+featured: true
 tags: ["HBM", "高帯域幅メモリ", "HBM3E", "HBM4", "SK Hynix", "Micron", "Samsung", "AIインフラ株", "メモリ半導体", "GPU", "データセンター", "長期投資", "NISA"]
 categories: ["AIバブルのツルハシ銘柄", "AI時代の資産運用"]
 description: "AI向けGPUに不可欠な超高速メモリ「HBM」を徹底解説。HBMの仕組み、HBM3E・HBM4の進化、SK Hynix・Micron・Samsungの競争構図、関連する日本企業、長期投資の視点まで初心者にもわかりやすくまとめます。"

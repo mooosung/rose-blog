@@ -48,6 +48,26 @@
       </div>
     </div>
 
+    {{/* 人気の記事 */}}
+    {{ $featured := where .Site.RegularPages "Params.featured" true }}
+    {{ if $featured }}
+    <div class="not-prose mt-10 mb-4">
+      <h2 class="text-lg font-bold text-center mb-5 text-neutral-500 dark:text-neutral-400 uppercase tracking-widest">人気の記事</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {{ range $featured }}
+        <a href="{{ .RelPermalink }}" class="group flex flex-col rounded-xl border border-neutral-200 dark:border-neutral-700 hover:border-primary-400 dark:hover:border-primary-500 overflow-hidden transition-all no-underline bg-neutral-50 dark:bg-neutral-800/50 hover:bg-primary-50 dark:hover:bg-primary-900/20">
+          {{ with .Params.featureimage }}
+          <img src="{{ . }}" alt="{{ $.Title }}" class="w-full h-36 object-cover nozoom mt-0 mb-0">
+          {{ end }}
+          <div class="p-3">
+            <p class="text-sm font-semibold text-neutral-800 dark:text-neutral-200 group-hover:text-primary-600 dark:group-hover:text-primary-400 leading-snug line-clamp-2 mb-0 mt-0">{{ .Title }}</p>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
   </div>
 </article>
 <section>
