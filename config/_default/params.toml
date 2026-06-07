@@ -26,7 +26,9 @@ hotlinkFeatureImage = true
   showScrollToTop = true
 
 [homepage]
-  layout = "profile"
+  layout = "hero"
+  homepageImage = "img/roze-banner.png"
+  disableHeroImageFilter = true
   showRecent = true
   showRecentItems = 10
   showMoreLink = true
