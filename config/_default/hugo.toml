@@ -15,7 +15,7 @@ buildFuture = true
 enableEmoji = true
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 12
 
 [imaging]
   anchor = 'Center'

@@ -1,0 +1,31 @@
+<nav aria-label="パンくずリスト" class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden mb-1">
+  <ol class="flex flex-wrap items-center gap-1">
+    {{/* ホーム */}}
+    <li>
+      <a href="{{ .Site.Home.RelPermalink }}" class="hover:underline decoration-neutral-300 dark:decoration-neutral-600 flex items-center gap-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="inline-block" style="width:0.9em;height:0.9em;vertical-align:-0.1em;"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/></svg>
+        ホーム
+      </a>
+    </li>
+    {{/* 中間ページ（セクション等） */}}
+    {{ range .Ancestors.Reverse }}
+      {{ if not .IsHome }}
+      <li class="flex items-center gap-1">
+        <span class="text-primary-500" style="font-size:0.85em;">›</span>
+        <a href="{{ .RelPermalink }}" class="hover:underline decoration-neutral-300 dark:decoration-neutral-600">
+          {{ if .Title }}{{ .Title }}{{ else }}{{ .Section }}{{ end }}
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+    {{/* 現在のページ（リンクなし） */}}
+    {{ if not .IsHome }}
+    <li class="flex items-center gap-1">
+      <span class="text-primary-500" style="font-size:0.85em;">›</span>
+      <span class="text-neutral-600 dark:text-neutral-300">
+        {{ if gt (len .Title) 35 }}{{ slice .Title 0 35 }}…{{ else }}{{ .Title }}{{ end }}
+      </span>
+    </li>
+    {{ end }}
+  </ol>
+</nav>
