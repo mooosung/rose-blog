@@ -10,7 +10,7 @@ robots = "index, follow"
 enableStructuredBreadcrumbs = true
 
 defaultBackgroundImage = "https://rozenmaier.com/img/background.jpg"
-defaultFeaturedImage = "https://rozenmaier.com/img/roze-hello.png"
+defaultFeaturedImage = "https://rozenmaier.com/img/roze-banner.png"
 backgroundImageWidth = 1200
 hotlinkFeatureImage = true
 
