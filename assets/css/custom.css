@@ -56,9 +56,8 @@
   color: rgb(244, 239, 232);
 }
 
-/* タグのホバー強調をゴールドに */
-.dark .prose a[href*="/tags/"],
-.dark a[href*="/tags/"] {
+/* タグのホバー強調をゴールドに（コンテンツ内のみ） */
+.dark .prose a[href*="/tags/"] {
   color: rgb(200, 164, 93) !important;
 }
 
