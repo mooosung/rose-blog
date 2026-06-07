@@ -39,7 +39,7 @@
 
     {{/* カテゴリから探す */}}
     <div class="not-prose" style="margin-top:2rem; margin-bottom:1rem;">
-      <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem;">カテゴリから探す</h2>
+      <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem; color:white;">カテゴリから探す</h2>
       <div class="rose-cat-grid">
 
         <a href="/categories/etf・投資信託/" class="no-underline" style="display:flex; flex-direction:column; align-items:center; padding:1rem; border-radius:0.75rem; border:1px solid rgba(128,128,128,0.2); transition:all 0.2s; text-decoration:none;">
@@ -79,7 +79,7 @@
     {{ $featured := where .Site.RegularPages "Params.featured" true }}
     {{ if $featured }}
     <div class="not-prose" style="margin-top:2rem; margin-bottom:1rem;">
-      <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem;">人気の記事</h2>
+      <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem; color:white;">人気の記事</h2>
       <div class="rose-featured-grid">
         {{ range $featured }}
         <a href="{{ .RelPermalink }}" class="no-underline" style="display:block; border-radius:0.75rem; overflow:hidden; transition:all 0.2s; text-decoration:none;">
