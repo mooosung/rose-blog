@@ -60,13 +60,10 @@
       <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem;">人気の記事</h2>
       <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:16px;">
         {{ range $featured }}
-        <a href="{{ .RelPermalink }}" class="no-underline" style="display:flex; flex-direction:column; border-radius:0.75rem; border:1px solid rgba(128,128,128,0.2); overflow:hidden; transition:all 0.2s; text-decoration:none;">
+        <a href="{{ .RelPermalink }}" class="no-underline" style="display:block; border-radius:0.75rem; overflow:hidden; transition:all 0.2s; text-decoration:none;">
           {{ with .Params.featureimage }}
-          <img src="{{ . }}" alt="" class="nozoom" style="width:100%; height:9rem; object-fit:cover; margin:0;">
+          <img src="{{ . }}" alt="{{ $.Title }}" class="nozoom" style="width:100%; height:10rem; object-fit:cover; margin:0; display:block;">
           {{ end }}
-          <div style="padding:0.75rem;">
-            <p class="text-neutral-800 dark:text-neutral-200" style="font-size:0.95rem; font-weight:600; line-height:1.4; margin:0; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;">{{ .Title }}</p>
-          </div>
         </a>
         {{ end }}
       </div>
