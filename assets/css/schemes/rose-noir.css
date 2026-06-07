@@ -1,0 +1,39 @@
+/* Rose Noir × Gold — ローゼンマイヤーオリジナルカラースキーム */
+:root {
+  /* Neutral: ノワールブラック〜ウォームホワイト */
+  --color-neutral: 255, 255, 255;
+  --color-neutral-50: 244, 239, 232;   /* #F4EFE8 warm white */
+  --color-neutral-100: 238, 232, 224;
+  --color-neutral-200: 228, 220, 210;
+  --color-neutral-300: 210, 200, 190;
+  --color-neutral-400: 185, 175, 168;  /* #B9AFA8 greige */
+  --color-neutral-500: 130, 110, 125;
+  --color-neutral-600: 80, 64, 90;
+  --color-neutral-700: 52, 40, 62;
+  --color-neutral-800: 23, 19, 29;     /* #17131D dark plum */
+  --color-neutral-900: 11, 11, 18;     /* #0B0B12 noir black */
+
+  /* Primary: ローズレッド */
+  --color-primary-50: 255, 240, 244;
+  --color-primary-100: 252, 218, 226;
+  --color-primary-200: 248, 185, 200;
+  --color-primary-300: 243, 145, 168;
+  --color-primary-400: 232, 93, 117;   /* #E85D75 bright rose */
+  --color-primary-500: 200, 65, 95;
+  --color-primary-600: 184, 50, 86;    /* #B83256 rose red */
+  --color-primary-700: 152, 38, 70;
+  --color-primary-800: 110, 24, 50;
+  --color-primary-900: 68, 10, 30;
+
+  /* Secondary: アンティークゴールド */
+  --color-secondary-50: 252, 248, 234;
+  --color-secondary-100: 248, 238, 205;
+  --color-secondary-200: 240, 224, 168;
+  --color-secondary-300: 228, 205, 130;
+  --color-secondary-400: 200, 164, 93;  /* #C8A45D antique gold */
+  --color-secondary-500: 165, 128, 65;
+  --color-secondary-600: 128, 96, 42;
+  --color-secondary-700: 94, 74, 43;    /* #5E4A2B dark gold */
+  --color-secondary-800: 60, 46, 20;
+  --color-secondary-900: 32, 24, 8;
+}
