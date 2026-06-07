@@ -102,9 +102,9 @@
 {{ $tags := .Site.Taxonomies.tags }}
 {{ if $tags }}
 <article class="max-w-full prose dark:prose-invert">
-  <div class="mx-auto max-w-5xl px-4 py-6 not-prose">
-    <h2 style="font-size:1.5rem; color:white; font-weight:800; margin-bottom:1.25rem;">タグクラウド</h2>
-    <div style="display:flex; flex-wrap:wrap; gap:0.6rem 1rem; align-items:baseline; line-height:2;">
+  <div class="mx-auto max-w-5xl px-4 py-3 not-prose">
+    <h2 style="font-size:1.1rem; color:white; font-weight:700; margin-bottom:0.6rem;">タグクラウド</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:0.3rem 0.75rem; align-items:baseline; line-height:1.6;">
       {{ range $name, $pages := $tags }}
         {{ $count := len $pages.Pages }}
         {{ $size := "0.72rem" }}
