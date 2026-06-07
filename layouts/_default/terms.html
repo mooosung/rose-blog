@@ -1,0 +1,69 @@
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "list" }}
+
+  <header class="mt-5">
+    {{ if .Params.showBreadcrumbs | default (site.Params.taxonomy.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{/* 上位3タームに記事パネルを表示 */}}
+  {{ $terms := .Data.Terms.ByCount }}
+  {{ $top3 := first 3 $terms }}
+  {{ $rest := after 3 $terms }}
+
+  {{ if $top3 }}
+  <section style="margin-top:2rem;">
+    <div style="display:flex; flex-direction:column; gap:2rem;">
+      {{ range $top3 }}
+      {{ $term := . }}
+      <div style="border:1px solid rgba(200,164,93,0.3); border-radius:0.75rem; padding:1.25rem; background:rgba(23,19,29,0.5);">
+        {{/* タームヘッダー */}}
+        <div style="display:flex; align-items:center; gap:0.75rem; margin-bottom:1rem;">
+          <a href="{{ $term.Page.RelPermalink }}" style="font-size:1.25rem; font-weight:700; color:rgb(244,239,232); text-decoration:none;">
+            {{ $term.Page.Title }}
+          </a>
+          <span style="font-size:0.8rem; padding:0.15em 0.6em; border:1px solid rgb(200,164,93); border-radius:999px; color:rgb(200,164,93);">
+            {{ $term.Count }} 記事
+          </span>
+        </div>
+        {{/* 記事サムネイルグリッド (最大6件) */}}
+        <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(140px,1fr)); gap:0.75rem;">
+          {{ range first 6 $term.Pages }}
+          <a href="{{ .RelPermalink }}" style="display:block; border-radius:0.5rem; overflow:hidden; text-decoration:none;" title="{{ .Title }}">
+            {{ with .Params.featureimage }}
+            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" style="width:100%; height:90px; object-fit:cover; display:block; margin:0;">
+            {{ else }}
+            <div style="width:100%; height:90px; background:rgba(184,50,86,0.2); display:flex; align-items:center; justify-content:center;">
+              <span style="font-size:0.65rem; color:rgb(185,175,168); padding:0.25rem; text-align:center; line-height:1.4;">{{ .Title | truncate 30 }}</span>
+            </div>
+            {{ end }}
+          </a>
+          {{ end }}
+        </div>
+        <div style="margin-top:0.75rem; text-align:right;">
+          <a href="{{ $term.Page.RelPermalink }}" style="font-size:0.8rem; color:rgb(200,164,93); text-decoration:none;">すべて見る →</a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+  {{/* 残りのタームをテキストリストで表示 */}}
+  {{ if $rest }}
+  <section style="margin-top:2rem;">
+    <h2 style="font-size:1rem; font-weight:600; color:rgb(185,175,168); margin-bottom:1rem; border-bottom:1px solid rgba(200,164,93,0.2); padding-bottom:0.5rem;">その他</h2>
+    <div style="display:flex; flex-wrap:wrap; gap:0.5rem 1rem;">
+      {{ range $rest }}
+      <a href="{{ .Page.RelPermalink }}" style="display:inline-flex; align-items:center; gap:0.4rem; text-decoration:none; color:rgb(185,175,168); font-size:0.9rem;" class="hover:underline">
+        {{ .Page.Title }}
+        <span style="font-size:0.75rem; color:rgb(200,164,93);">({{ .Count }})</span>
+      </a>
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+
+{{ end }}
