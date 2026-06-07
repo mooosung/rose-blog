@@ -1,0 +1,14 @@
+{{ $img := resources.Get "img/roze-banner.png" }}
+<article class="max-w-full prose dark:prose-invert">
+  <div class="mx-auto max-w-5xl px-4 py-6">
+    {{ if $img }}
+      <img
+        class="w-full rounded-2xl shadow-xl nozoom mt-0"
+        src="{{ $img.RelPermalink }}"
+        alt="ローゼンマイヤーのAI投資ニュース">
+    {{ end }}
+  </div>
+</article>
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>
