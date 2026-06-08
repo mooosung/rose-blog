@@ -26,7 +26,7 @@ enableEmoji = true
   author = "authors"
 
 [sitemap]
-  changefreq = 'always'
+  changefreq = 'weekly'
   filename = 'sitemap.xml'
   priority = 0.5
 

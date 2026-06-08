@@ -2,6 +2,7 @@
 title: "VYM完全ガイド：バンガード高配当ETFで不労所得を作る方法【2026年版】"
 date: 2026-03-28
 draft: false
+featured: true
 tags: ["VYM", "高配当ETF", "米国株", "配当投資", "不労所得"]
 categories: ["米国株・ETF投資"]
 description: "VYM（バンガード・米国高配当株式ETF）の特徴・利回り・構成銘柄・SCHDとの比較を徹底解説。配当再投資で資産を雪だるま式に増やす方法を初心者にもわかりやすく紹介します。"

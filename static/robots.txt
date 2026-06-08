@@ -7,4 +7,9 @@ Disallow: /tags/page/
 Disallow: /categories/page/
 Disallow: /archives/page/
 
+# 画像インデックス最適化
+User-agent: Googlebot-Image
+Allow: /img/
+Allow: /images/
+
 Sitemap: https://rozenmaier.com/sitemap.xml
