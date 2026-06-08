@@ -121,9 +121,10 @@
       <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem; color:white;">人気の記事</h2>
       <div class="rose-featured-grid">
         {{ range first 6 $featured }}
+        {{- $article := . -}}
         <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card">
-          {{ with .Params.featureimage }}
-          <img src="{{ . }}" alt="{{ $.Title }}" class="nozoom">
+          {{ with $article.Params.featureimage }}
+          <img src="{{ . }}" alt="{{ $article.Title }}" class="nozoom">
           {{ end }}
           <div class="rose-featured-card-body">
             <div class="rose-featured-card-title">{{ .Title }}</div>

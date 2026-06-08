@@ -41,9 +41,10 @@
         {{/* 記事サムネイルグリッド (最大6件・3×2) */}}
         <div class="term-article-grid">
           {{ range first 6 $term.Pages }}
+          {{- $article := . -}}
           <a href="{{ .RelPermalink }}" style="display:flex; flex-direction:column; border-radius:0.5rem; overflow:hidden; text-decoration:none; background:rgba(30,25,40,0.6);" title="{{ .Title }}">
-            {{ with .Params.featureimage }}
-            <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" style="width:100%; aspect-ratio:1200/630; object-fit:cover; display:block; margin:0;">
+            {{ with $article.Params.featureimage }}
+            <img src="{{ . }}" alt="{{ $article.Title }}" loading="lazy" style="width:100%; aspect-ratio:1200/630; object-fit:cover; display:block; margin:0;">
             {{ else }}
             <div style="width:100%; aspect-ratio:1200/630; background:rgba(184,50,86,0.2); display:flex; align-items:center; justify-content:center;">
               <span style="font-size:0.75rem; color:rgb(185,175,168); padding:0.5rem; text-align:center; line-height:1.4;">{{ .Title | truncate 30 }}</span>
