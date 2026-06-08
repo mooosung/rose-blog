@@ -18,6 +18,45 @@
 @media (min-width: 640px) {
   .rose-featured-grid { grid-template-columns: repeat(3, 1fr); }
 }
+.rose-featured-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  border: 1px solid rgba(128,128,128,0.2);
+  background: rgba(30,30,30,0.5);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.rose-featured-card:hover { border-color: rgba(200,164,93,0.5); }
+.rose-featured-card img {
+  width: 100%;
+  aspect-ratio: 1200/630;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+}
+.rose-featured-card-body {
+  padding: 0.6rem 0.75rem 0.75rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.rose-featured-card-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #e5e5e5;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.rose-featured-card-date {
+  font-size: 0.7rem;
+  color: #9ca3af;
+}
 </style>
 
 {{ $img := resources.Get "img/roze-banner.png" }}
@@ -81,11 +120,15 @@
     <div class="not-prose" style="margin-top:2rem; margin-bottom:1rem;">
       <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem; color:white;">人気の記事</h2>
       <div class="rose-featured-grid">
-        {{ range $featured }}
-        <a href="{{ .RelPermalink }}" class="no-underline" style="display:block; border-radius:0.75rem; overflow:hidden; transition:all 0.2s; text-decoration:none;">
+        {{ range first 6 $featured }}
+        <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card">
           {{ with .Params.featureimage }}
-          <img src="{{ . }}" alt="{{ $.Title }}" class="nozoom" style="width:100%; height:10rem; object-fit:cover; margin:0; display:block;">
+          <img src="{{ . }}" alt="{{ $.Title }}" class="nozoom">
           {{ end }}
+          <div class="rose-featured-card-body">
+            <div class="rose-featured-card-title">{{ .Title }}</div>
+            <div class="rose-featured-card-date">{{ .Date.Format "2006.01.02" }}</div>
+          </div>
         </a>
         {{ end }}
       </div>
