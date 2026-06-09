@@ -1,5 +1,5 @@
 ---
-title: "クリーンエネルギーETF（ICLN・QCLN）完全ガイド｜AI時代の電力需要と再生可能エネルギー投資"
+title: "ICLN・QCLN 比較｜クリーンエネルギーETFとAI時代の電力需要投資戦略"
 date: 2026-05-17
 draft: false
 tags: ["ETF", "クリーンエネルギー", "再生可能エネルギー", "ICLN", "QCLN", "投資"]

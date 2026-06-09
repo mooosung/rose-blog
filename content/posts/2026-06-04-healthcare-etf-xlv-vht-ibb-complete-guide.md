@@ -1,5 +1,5 @@
 ---
-title: "ヘルスケアETF完全ガイド：XLV・VHT・IBBの特徴と選び方【2026年版】"
+title: "XLV・VHT・IBB 徹底比較｜ヘルスケアETFの特徴と選び方【2026年版】"
 date: 2026-06-04
 draft: false
 tags: ["ETF", "ヘルスケア", "XLV", "VHT", "IBB", "投資"]

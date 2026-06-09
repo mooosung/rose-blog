@@ -1,5 +1,5 @@
 ---
-title: "VYM完全ガイド：バンガード高配当ETFで不労所得を作る方法【2026年版】"
+title: "VYMで配当収入を作る方法｜特徴・配当利回り・SBI/楽天での買い方【2026年版】"
 date: 2026-03-28
 draft: false
 featured: true

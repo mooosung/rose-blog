@@ -1,5 +1,5 @@
 ---
-title: "AI・テクノロジーETF投資完全ガイド2026"
+title: "AI・テクノロジーETF2026年版｜注目銘柄と投資戦略を徹底解説"
 date: 2026-04-27
 draft: false
 tags: ["ETF", "AI投資", "テクノロジー", "QQQ", "NISA"]

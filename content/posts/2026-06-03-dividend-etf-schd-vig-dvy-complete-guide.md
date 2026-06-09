@@ -1,5 +1,5 @@
 ---
-title: "高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】"
+title: "SCHD・VIG・DVY 比較｜高配当ETFの違いと2026年おすすめの選び方"
 date: 2026-06-03
 draft: false
 tags: ["ETF", "高配当", "配当投資", "SCHD", "VIG", "DVY", "インカム投資"]

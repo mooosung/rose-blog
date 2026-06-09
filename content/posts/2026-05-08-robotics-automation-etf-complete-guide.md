@@ -1,5 +1,5 @@
 ---
-title: "ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】"
+title: "ROBO・IRBO・ARKQ 比較｜ロボティクス・自動化ETFの違いと選び方【2026年版】"
 date: 2026-05-08
 draft: false
 tags: ["ETF", "ロボティクス", "AI", "自動化", "投資"]

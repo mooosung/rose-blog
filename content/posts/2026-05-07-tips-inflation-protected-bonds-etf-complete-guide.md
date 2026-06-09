@@ -1,5 +1,5 @@
 ---
-title: "インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略"
+title: "TIP・VTIP 比較｜インフレ連動債ETFでインフレから資産を守る方法"
 date: 2026-05-07
 draft: false
 tags: ["ETF", "インフレ対策", "債券投資", "TIPS", "TIP", "VTIP", "資産運用"]

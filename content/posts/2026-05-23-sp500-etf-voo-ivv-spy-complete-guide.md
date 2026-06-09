@@ -1,5 +1,5 @@
 ---
-title: "S&P500 ETF完全ガイド：VOO・IVV・SPYの違いと最適な選び方"
+title: "VOO・IVV・SPY 徹底比較｜S&P500 ETF2026年おすすめの選び方"
 date: 2026-05-23
 draft: false
 tags: ["ETF", "S&P500", "VOO", "IVV", "SPY", "インデックス投資", "資産運用"]

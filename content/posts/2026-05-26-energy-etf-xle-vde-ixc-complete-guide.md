@@ -1,5 +1,5 @@
 ---
-title: "エネルギーETF完全ガイド：XLE・VDE・IXCの特徴と選び方【2026年版】"
+title: "XLE・VDE・IXC 比較｜エネルギーETFの特徴と2026年の投資戦略"
 date: 2026-05-26
 draft: false
 tags: ["ETF", "エネルギー株", "XLE", "VDE", "IXC", "米国株投資", "配当投資"]

@@ -1,5 +1,5 @@
 ---
-title: "金ETF完全ガイド：GLD・IAU・GLDMの違いと選び方【2026年版】"
+title: "GLD・IAU・GLDM 比較｜金ETFの選び方と投資タイミング【2026年版】"
 date: 2026-06-05
 draft: false
 tags: ["ETF", "金", "ゴールド", "GLD", "IAU", "GLDM", "投資", "インフレヘッジ"]

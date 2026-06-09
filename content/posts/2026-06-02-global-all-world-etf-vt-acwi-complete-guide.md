@@ -1,5 +1,5 @@
 ---
-title: "全世界株ETF完全ガイド：VT・ACWI・URTH徹底比較【2026年版】"
+title: "VT・ACWI・URTH 徹底比較｜全世界株ETF2026年版おすすめの選び方"
 date: 2026-06-02
 draft: false
 tags: ["ETF", "全世界株", "VT", "ACWI", "インデックス投資", "資産運用"]

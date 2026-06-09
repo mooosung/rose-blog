@@ -1,5 +1,5 @@
 ---
-title: "半導体ETF完全ガイド 2026年版：SOXX・SMH・SOXQの違いと選び方"
+title: "SOXX・SMH・SOXQ 比較｜半導体ETFの違いとAI時代の選び方【2026年版】"
 date: 2026-05-20
 draft: false
 tags: ["半導体ETF", "SOXX", "SMH", "ETF", "投資"]

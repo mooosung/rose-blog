@@ -1,5 +1,5 @@
 ---
-title: "SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】"
+title: "SCHD vs VYM 徹底比較｜米国高配当ETFどちらを選ぶべき？2026年版"
 date: 2026-03-27
 draft: false
 featured: true

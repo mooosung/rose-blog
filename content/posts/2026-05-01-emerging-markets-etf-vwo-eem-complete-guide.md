@@ -1,5 +1,5 @@
 ---
-title: "新興国株式ETFで世界の成長を取り込む方法【VWO・EEM完全ガイド2026】"
+title: "VWO・EEM・IMEG 比較｜新興国ETFの違いと2026年の投資戦略"
 date: 2026-05-01
 draft: false
 tags: ["ETF", "新興国", "VWO", "EEM", "投資", "分散投資"]

@@ -1,5 +1,5 @@
 ---
-title: "REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識"
+title: "VWO・EEM で新興国の成長を取り込む｜新興国株式ETF投資戦略2026年版"
 date: 2026-04-14
 draft: false
 noindex: true

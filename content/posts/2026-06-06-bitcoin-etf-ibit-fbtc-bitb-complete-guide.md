@@ -1,5 +1,5 @@
 ---
-title: "ビットコインETFの完全ガイド：IBIT・FBTC・BITB徹底比較【2026年版】"
+title: "IBIT・FBTC・BITB 徹底比較｜ビットコインETF選び方と始め方2026年版"
 date: 2026-06-06
 draft: false
 tags: ["ビットコイン", "暗号資産", "ETF", "IBIT", "FBTC", "投資"]

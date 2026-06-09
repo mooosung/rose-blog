@@ -1,5 +1,5 @@
 ---
-title: "JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法"
+title: "JEPI・JEPQ 比較｜毎月分配カバードコールETFで安定収入を得る仕組みと注意点"
 date: 2026-06-01
 draft: false
 tags: ["ETF", "JEPI", "JEPQ", "カバードコール", "高配当", "米国株", "投資"]

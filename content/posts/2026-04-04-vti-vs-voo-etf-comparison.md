@@ -1,5 +1,5 @@
 ---
-title: "VTI vs VOO 完全比較｜全米株式 vs S&P500、どっちを選ぶべき?【2026年版】"
+title: "VTI vs VOO どちらを選ぶ？全米株式とS&P500の違いを徹底解説【2026年版】"
 date: 2026-04-04
 draft: false
 tags: ["VTI", "VOO", "ETF比較", "米国株", "S&P500", "全米株式", "長期投資"]

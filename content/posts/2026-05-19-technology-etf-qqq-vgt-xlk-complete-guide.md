@@ -1,5 +1,5 @@
 ---
-title: "テクノロジーETF完全ガイド2026｜QQQ・VGT・XLKを徹底比較"
+title: "QQQ・VGT・XLK 比較｜テクノロジーETFの違いと選び方【2026年版】"
 date: 2026-05-19
 draft: false
 tags: ["ETF", "テクノロジー", "QQQ", "VGT", "XLK", "NISA", "米国株"]

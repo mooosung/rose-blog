@@ -1,5 +1,5 @@
 ---
-title: "新興国ETF完全比較ガイド2026年版：VWO・EEM・IMEGの違いと選び方"
+title: "VEA・IEFA・EFA 比較｜先進国株式ETFで米国外へ分散投資する方法【2026年版】"
 date: 2026-05-22
 draft: false
 tags: ["ETF", "新興国", "VWO", "EEM", "IEMG", "投資", "資産運用"]

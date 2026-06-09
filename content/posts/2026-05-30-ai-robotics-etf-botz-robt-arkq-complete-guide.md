@@ -1,5 +1,5 @@
 ---
-title: "AI・ロボティクスETF完全ガイド：BOTZ・ROBT・ARKQの違いと選び方"
+title: "BOTZ・ROBT・ARKQ 比較｜AIロボティクスETFの違いと選び方【2026年版】"
 date: 2026-05-30
 draft: false
 tags: ["ETF", "AI", "ロボティクス", "投資", "BOTZ", "ROBT", "ARKQ"]

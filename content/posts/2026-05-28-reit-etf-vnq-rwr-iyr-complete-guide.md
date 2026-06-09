@@ -1,5 +1,5 @@
 ---
-title: "不動産REIT ETF完全ガイド【VNQ・RWR・IYR徹底比較】"
+title: "VNQ・RWR・IYR 比較｜不動産REIT ETFの選び方と利回り・リスク解説"
 date: 2026-05-28
 draft: false
 tags: ["REIT", "ETF", "不動産投資", "VNQ", "配当投資", "米国株"]

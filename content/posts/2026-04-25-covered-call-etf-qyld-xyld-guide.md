@@ -1,5 +1,5 @@
 ---
-title: "カバードコール型ETF完全ガイド：QYLDとXYLDで高配当を得る仕組みと注意点"
+title: "QYLD・XYLD 徹底解説｜カバードコール型ETFで高配当を得る仕組みと落とし穴"
 date: 2026-04-25
 draft: false
 tags: ["ETF", "配当投資", "カバードコール", "QYLD", "XYLD", "米国株"]

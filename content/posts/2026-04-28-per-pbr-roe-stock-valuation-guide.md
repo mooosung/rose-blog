@@ -1,5 +1,5 @@
 ---
-title: "PER・PBR・ROE完全ガイド——株式投資の基本指標を初心者向けに徹底解説"
+title: "PER・PBR・ROEとは？株式投資の基本指標を初心者向けにわかりやすく解説"
 date: 2026-04-28
 draft: false
 tags: ["PER", "PBR", "ROE", "株式投資", "初心者"]
