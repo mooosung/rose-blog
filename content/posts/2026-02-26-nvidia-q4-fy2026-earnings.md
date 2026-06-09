@@ -3,7 +3,7 @@ title: "エヌビディア決算速報：AI覇者の成績表に市場が注目�
 date: 2026-02-26
 draft: false
 tags: ["NVIDIA", "エヌビディア", "AI半導体", "決算", "米国株"]
-categories: ["投資系"]
+categories: ["投資戦略・資産運用"]
 description: "2026年2月25日発表のエヌビディアQ4 FY2026決算。AI相場の命運を握るこの決算を、わたくしローゼが読み解きますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-26-nvidia-q4-fy2026-earnings.jpg"
 featureimagecaption: ""

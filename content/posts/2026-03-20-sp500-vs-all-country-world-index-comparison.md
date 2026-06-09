@@ -4,7 +4,7 @@ date: 2026-03-20
 draft: false
 featured: true
 tags: ["S&P500", "オルカン", "全世界株式", "ETF", "インデックス投資", "新NISA"]
-categories: ["米国株・ETF"]
+categories: ["ETF・投資信託"]
 description: "S&P500と全世界株式（オルカン）の違いをリターン・リスク・コスト・将来性の観点から徹底比較。新NISAでどちらを選ぶべきか、初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-20-sp500-vs-all-country-world-index-comparison.jpg"
 featureimagecaption: ""

@@ -3,7 +3,7 @@ title: "AI・テクノロジーETF2026年版｜注目銘柄と投資戦略を徹
 date: 2026-04-27
 draft: false
 tags: ["ETF", "AI投資", "テクノロジー", "QQQ", "NISA"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "QQQ・BOTZ・AIQなどAI・テクノロジー系ETFの特徴と選び方を徹底解説。新NISAでの活用法や注意点も紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-27-ai-technology-etf-investment-guide.jpg"
 featureimagecaption: ""

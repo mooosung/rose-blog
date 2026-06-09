@@ -3,7 +3,7 @@ title: "BND・AGG・TLT 比較｜債券ETFで安定収益を得る方法と金�
 date: 2026-05-21
 draft: false
 tags: ["ETF", "債券", "BND", "AGG", "TLT", "投資", "資産運用"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "債券ETFの基本から選び方まで徹底解説。BND・AGG・TLTの違いと特徴を比較し、2026年の金利環境でどの債券ETFを選ぶべきか、ポートフォリオへの組み込み方を詳しく説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide.jpg"
 featureimagecaption: "債券ETF完全ガイド"

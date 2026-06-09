@@ -3,7 +3,7 @@ title: 「光インターコネクト・光モジュール株」徹底解説｜A
 date: 2026-04-06
 draft: false
 tags: ["光モジュール", "光インターコネクト", "AIインフラ", "ツルハシ投資", "Coherent", "Ciena", "Lumentum"]
-categories: ["ツルハシ投資（AIインフラ株）"]
+categories: ["AIバブルのツルハシ銘柄"]
 description: "AIデータセンターの急拡大で需要が爆発する光インターコネクト・光モジュール半導体株を解説。Coherent・Ciena・Infinera・Lumentumなど注目銘柄をわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-light-interconnect-stocks.jpg"
 featureimagecaption: ""

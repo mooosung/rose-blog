@@ -3,7 +3,7 @@ title: "景気循環別の投資戦略｜好況・後退・底打ち各フェー
 date: 2026-04-29
 draft: false
 tags: ["投資", "景気循環", "資産運用", "株式", "セクター投資"]
-categories: ["投資戦略"]
+categories: ["投資戦略・資産運用"]
 description: "景気循環の4つのフェーズ（回復・拡張・後退・底）それぞれに最適な投資戦略を解説。どのセクター・資産クラスがどの局面で強いかを理解して、長期資産形成を有利に進める方法を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-29-business-cycle-investment-strategy-guide.jpg"
 featureimagecaption: ""

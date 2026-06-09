@@ -3,7 +3,7 @@ title: "BOTZ・ROBT・ARKQ 比較｜AIロボティクスETFの違いと選び方
 date: 2026-05-30
 draft: false
 tags: ["ETF", "AI", "ロボティクス", "投資", "BOTZ", "ROBT", "ARKQ"]
-categories: ["投資・ETF"]
+categories: ["ETF・投資信託"]
 description: "AI・ロボティクスETFの主要3本、BOTZ・ROBT・ARKQを徹底比較。経費率・構成銘柄・運用スタイルの違いを詳しく解説し、投資スタイル別のおすすめ選び方もご紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-30-ai-robotics-etf-botz-robt-arkq-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

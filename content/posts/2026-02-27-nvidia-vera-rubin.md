@@ -3,7 +3,7 @@ title: "NvidiaのVera Rubin、前世代比10倍の効率を実現！AI半導体�
 date: 2026-02-27
 draft: false
 tags: ["Nvidia", "AI", "半導体", "GPU", "Vera Rubin", "Blackwell"]
-categories: ["AI系"]
+categories: ["AI活用術"]
 description: "Nvidiaが次世代AIシステム「Vera Rubin」の詳細を公開。前世代Grace Blackwellの10倍の電力効率を誇り、2026年後半に出荷予定ですわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-27-nvidia-vera-rubin.jpg"
 featureimagecaption: ""

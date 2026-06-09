@@ -3,7 +3,7 @@ title: "株価暴落時に取るべき行動｜パニック売りを避けて資
 date: 2026-04-09
 draft: false
 tags: ["株価暴落", "投資戦略", "長期投資", "資産運用", "リスク管理"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "株価が急落したとき、投資家はどう動くべきか。パニック売りを避け、暴落を「チャンス」に変えるための実践的な投資戦略を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-09-market-crash-investment-strategy-guide.jpg"
 featureimagecaption: ""

@@ -3,7 +3,7 @@ title: "ROBO・IRBO・ARKQ 比較｜ロボティクス・自動化ETFの違い�
 date: 2026-05-08
 draft: false
 tags: ["ETF", "ロボティクス", "AI", "自動化", "投資"]
-categories: ["ETF投資"]
+categories: ["ETF・投資信託"]
 description: "ロボティクス・AI自動化分野に投資するETFを徹底比較。ROBO・IRBO・ARKQの特徴・コスト・パフォーマンスを解説し、最適な選び方を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-08-robotics-automation-etf-complete-guide.jpg"
 featureimagecaption: ""

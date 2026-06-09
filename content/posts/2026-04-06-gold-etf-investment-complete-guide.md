@@ -5,7 +5,7 @@ draft: false
 noindex: true
 canonical: "https://rozenmaier.com/posts/gold-etf-investment-complete-guide/"
 tags: ["金投資", "ゴールドETF", "安全資産", "インフレヘッジ", "分散投資"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "金（ゴールド）ETFへの投資方法を初心者向けに解説。IAU・GLD・SPDRゴールドなど主要ファンドの比較、金投資のメリット・デメリット、ポートフォリオへの組み入れ方まで網羅します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-gold-etf-investment-complete-guide.jpg"
 featureimagecaption: ""

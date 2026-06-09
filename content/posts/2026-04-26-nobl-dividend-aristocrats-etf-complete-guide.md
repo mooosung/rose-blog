@@ -3,7 +3,7 @@ title: "NOBL（米国配当貴族ETF）とは？25年連続増配企業に投資
 date: 2026-04-26
 draft: false
 tags: ["ETF", "配当投資", "米国株", "NOBL", "長期投資"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "米国配当貴族ETF「NOBL」の特徴・構成銘柄・利回り・メリット・デメリットをわかりやすく解説。SCHD・VYMとの違いも比較します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-26-nobl-dividend-aristocrats-etf-complete-guide.jpg"
 featureimagecaption: ""

@@ -3,7 +3,7 @@ title: "JEPI・JEPQ 比較｜毎月分配カバードコールETFで安定収入
 date: 2026-06-01
 draft: false
 tags: ["ETF", "JEPI", "JEPQ", "カバードコール", "高配当", "米国株", "投資"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "JEPI・JEPQはJPモルガンのカバードコール戦略ETFで年率7〜10%の毎月分配を実現。仕組み・利回り実績・リスク・SCHD/QQQ/VOOとの徹底比較まで収入投資家必見の完全ガイド。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

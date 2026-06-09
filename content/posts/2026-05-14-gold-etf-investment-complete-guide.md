@@ -3,7 +3,7 @@ title: "金（ゴールド）ETFで資産を守る方法｜インフレ・株安
 date: 2026-05-14
 draft: false
 tags: ["ゴールド", "金投資", "ETF", "インフレヘッジ", "資産運用"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "ゴールドETF（GLD・IAU・GLDMなど）の基礎から選び方まで徹底解説。インフレや株式暴落への備えとして金をポートフォリオに組み込む方法を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-14-gold-etf-investment-complete-guide.jpg"
 featureimagecaption: ""

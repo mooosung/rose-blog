@@ -4,7 +4,7 @@ date: 2026-03-23
 draft: false
 featured: true
 tags: ["データセンター", "液冷", "AI投資", "ツルハシ銘柄", "Vertiv", "Ecolab"]
-categories: ["AI投資"]
+categories: ["AI活用術"]
 description: "AIデータセンターの消費電力急増で注目される冷却技術。液冷（リキッドクーリング）関連の注目銘柄を網羅的に解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-23-datacenter-liquid-cooling-stocks.jpg"
 featureimagecaption: ""

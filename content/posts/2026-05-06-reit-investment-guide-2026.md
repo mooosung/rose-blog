@@ -3,7 +3,7 @@ title: "REITで始める不動産投資 - 少額から始める不労所得の�
 date: 2026-05-06
 draft: false
 tags: ["REIT", "不動産投資", "不労所得", "投資信託", "資産運用"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "REIT（不動産投資信託）とは何か、仕組みからメリット・デメリット、国内REIT・米国REITの選び方まで徹底解説。数万円から始められる不動産投資の全貌をわかりやすく説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-06-reit-investment-guide-2026.jpg"
 featureimagecaption: ""

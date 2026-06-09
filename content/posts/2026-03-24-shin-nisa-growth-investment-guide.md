@@ -4,7 +4,7 @@ date: 2026-03-24
 draft: false
 featured: true
 tags: ["新NISA", "成長投資枠", "つみたて投資枠", "資産運用", "投資信託"]
-categories: ["NISA・iDeCo"]
+categories: ["NISA・iDeCo完全攻略"]
 description: "新NISAの成長投資枠の仕組み・対象商品・つみたて投資枠との違いをわかりやすく解説。初心者が迷わない活用戦略とおすすめの使い方を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-24-shin-nisa-growth-investment-guide.jpg"
 featureimagecaption: ""

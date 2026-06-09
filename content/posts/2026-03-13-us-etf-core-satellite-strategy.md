@@ -7,7 +7,7 @@ description: "米国ETFでコア・サテライト戦略を実践する方法を
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-13-us-etf-core-satellite-strategy.jpg"
 featureimagecaption: ""
 tags: ["米国株", "ETF", "コアサテライト戦略", "VOO", "QQQ", "VYM", "長期投資", "ポートフォリオ"]
-categories: ["米国株・ETF長期投資"]
+categories: ["ETF・投資信託"]
 ---
 
 ## コア・サテライト戦略とは？

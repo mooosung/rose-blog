@@ -3,7 +3,7 @@ title: "iDeCo 活用術2026｜節税額シミュレーション・おすすめ�
 date: 2026-05-24
 draft: false
 tags: ["iDeCo", "確定拠出年金", "節税", "老後資産", "NISA", "資産運用", "税金対策"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "iDeCo（個人型確定拠出年金）の節税効果・掛金上限・おすすめ投資信託を2026年最新情報で徹底解説。年収別の節税シミュレーション・職業ごとの掛金上限・SBI証券などおすすめ金融機関の比較も詳しく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-24-ideco-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"

@@ -3,7 +3,7 @@ title: "NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwell�
 date: 2026-02-26
 draft: false
 tags: ["Nvidia", "GPU", "AI半導体", "Vera Rubin", "データセンター"]
-categories: ["AI系"]
+categories: ["AI活用術"]
 description: "Nvidiaの次世代AIシステム「Vera Rubin」がCNBCに独占公開。前世代Grace Blackwellの10倍の電力効率を誇り、2026年後半の出荷を目指す注目のプラットフォームですわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-26-nvidia-vera-rubin.jpg"
 featureimagecaption: ""

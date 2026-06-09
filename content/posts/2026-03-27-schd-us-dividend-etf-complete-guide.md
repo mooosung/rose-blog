@@ -4,7 +4,7 @@ date: 2026-03-27
 draft: false
 featured: true
 tags: ["SCHD", "ETF", "米国株", "高配当", "長期投資", "配当金"]
-categories: ["米国株・ETF"]
+categories: ["ETF・投資信託"]
 description: "SCHD（シュワブ米国配当株式ETF）の特徴・配当利回り・構成銘柄・VYMとの違いを徹底解説。長期投資家に人気の理由と、NISAでの活用法まで網羅。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-27-schd-us-dividend-etf-complete-guide.jpg"
 featureimagecaption: ""

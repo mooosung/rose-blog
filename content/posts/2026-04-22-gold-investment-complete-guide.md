@@ -5,7 +5,7 @@ draft: false
 noindex: true
 canonical: "https://rozenmaier.com/posts/gold-etf-investment-complete-guide/"
 tags: ["金投資", "ゴールド", "資産運用", "インフレ対策", "安全資産"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "金（ゴールド）投資の種類・メリット・デメリットを初心者向けに解説。現物金・金ETF・純金積立の違い、ポートフォリオへの組み入れ方まで網羅的に紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-22-gold-investment-complete-guide.jpg"
 featureimagecaption: ""

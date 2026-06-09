@@ -3,7 +3,7 @@ title: "半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクタ
 date: 2026-04-08
 draft: false
 tags: ["ETF", "半導体", "SOXX", "SMH", "株式投資", "AI投資"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "SOXX・SMHの違いと特徴を徹底解説。AI・データセンター需要で急成長する半導体セクターに、ETFで分散投資する方法をわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-08-semiconductor-etf-soxx-smh-guide.jpg"
 featureimagecaption: ""

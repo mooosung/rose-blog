@@ -3,7 +3,7 @@ title: "VEA・IEFA・EFA 比較｜先進国株式ETFで米国外へ分散投資�
 date: 2026-05-22
 draft: false
 tags: ["ETF", "新興国", "VWO", "EEM", "IEMG", "投資", "資産運用"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "新興国ETFの代表格VWO・EEM・IMEGを徹底比較。経費率・構成国・ベンチマーク指数の違いをわかりやすく解説し、インドの台頭や米ドル動向を踏まえた2026年の新興国市場への投資戦略と選び方を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"

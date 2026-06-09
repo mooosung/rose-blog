@@ -3,7 +3,7 @@ title: "銅・レアメタルとは？AI時代に需要が爆発する素材と�
 date: 2026-03-06
 draft: false
 tags: ["銅", "レアメタル", "レアアース", "ガリウム", "住友金属鉱山", "三菱マテリアル", "JX金属", "AIインフラ株", "長期投資", "NISA", "AIバブル", "素材"]
-categories: ["AIバブルのツルハシ", "素材・資源"]
+categories: ["AIバブルのツルハシ銘柄", "AIバブルのツルハシ銘柄"]
 description: "AIデータセンター建設ラッシュで銅・ガリウム・ネオジムなどの需要が急増中。住友金属鉱山・三菱マテリアル・JX金属など、AI時代の素材関連株をわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-06-copper-rare-metals-ai-infrastructure-stocks.jpg"
 featureimagecaption: ""

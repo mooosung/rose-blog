@@ -4,7 +4,7 @@ date: 2026-03-04
 draft: false
 featured: true
 tags: ["半導体製造装置", "東京エレクトロン", "ASML", "レーザーテック", "AIインフラ株", "EUV", "長期投資", "NISA", "AIバブル", "半導体"]
-categories: ["AIバブルのツルハシ", "半導体"]
+categories: ["AIバブルのツルハシ銘柄", "AIバブルのツルハシ銘柄"]
 description: "AI時代を支える半導体製造装置メーカーを徹底解説。東京エレクトロン・ASML・レーザーテックなど、AIチップを「作る側」の企業がなぜ最強のツルハシなのか、投資の観点からわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-04-semiconductor-equipment-tel-asml-lasertec.jpg"
 featureimagecaption: ""

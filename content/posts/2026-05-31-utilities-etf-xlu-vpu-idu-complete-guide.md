@@ -3,7 +3,7 @@ title: "ユーティリティETF完全ガイド【XLU・VPU・IDU】守りの投
 date: 2026-05-31
 draft: false
 tags: ["ETF", "ユーティリティ", "XLU", "VPU", "配当投資", "ディフェンシブ"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "ユーティリティETF（XLU・VPU・IDU）の特徴・経費率・配当利回りを徹底比較。景気後退に強いディフェンシブ投資として注目される電力・ガス・水道セクターへの投資方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-31-utilities-etf-xlu-vpu-idu-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

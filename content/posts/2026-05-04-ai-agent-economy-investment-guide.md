@@ -3,7 +3,7 @@ title: "AIエージェント経済の台頭と2026年の注目投資先完全ガ
 date: 2026-05-04
 draft: false
 tags: ["AIエージェント", "米国株", "投資", "AI株", "テック株"]
-categories: ["AI投資"]
+categories: ["AI活用術"]
 description: "ChatGPTから始まったAI革命は、今やAIエージェント時代へと進化しています。自律的に行動するAIエージェントが経済を変えつつある今、個人投資家はどの企業・ETFに注目すべきか徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-04-ai-agent-economy-investment-guide.jpg"
 featureimagecaption: ""

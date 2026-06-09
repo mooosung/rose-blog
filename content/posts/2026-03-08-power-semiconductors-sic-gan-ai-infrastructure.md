@@ -3,7 +3,7 @@ title: "パワー半導体とは？SiC・GaNがAIデータセンターに不可�
 date: 2026-03-08
 draft: false
 tags: ["パワー半導体", "SiC", "GaN", "炭化ケイ素", "窒化ガリウム", "ローム", "富士電機", "インフィニオン", "STマイクロ", "AIインフラ株", "データセンター", "電力効率", "長期投資", "NISA"]
-categories: ["AIバブルのツルハシ銘柄", "AI時代の資産運用"]
+categories: ["AIバブルのツルハシ銘柄", "AI活用術"]
 description: "AIデータセンターの爆発的な電力需要を支える「パワー半導体」を徹底解説。SiC（炭化ケイ素）とGaN（窒化ガリウム）の違い、注目企業（ローム・富士電機・インフィニオン等）、長期投資の視点まで、初心者にもわかりやすくまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure.jpg"
 featureimagecaption: ""

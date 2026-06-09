@@ -3,7 +3,7 @@ title: "SCHD・VIG・DVY 比較｜高配当ETFの違いと2026年おすすめの
 date: 2026-06-03
 draft: false
 tags: ["ETF", "高配当", "配当投資", "SCHD", "VIG", "DVY", "インカム投資"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "高配当ETFの代表格であるSCHD・VIG・DVYを徹底比較。配当利回り・増配率・経費率・ポートフォリオ構成を詳しく解説し、長期資産形成に最適なETFの選び方を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

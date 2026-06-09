@@ -3,7 +3,7 @@ title: "シリコンウェハとは？SUMCO・信越化学がAI時代に欠か�
 date: 2026-02-28
 draft: false
 tags: ["シリコンウェハ", "SUMCO", "信越化学", "半導体素材株", "AIインフラ株", "長期投資", "NISA", "AIバブル"]
-categories: ["AIバブルのツルハシ", "半導体・素材"]
+categories: ["AIバブルのツルハシ銘柄", "AIバブルのツルハシ銘柄"]
 description: "AIブームを支える「縁の下の力持ち」——シリコンウェハとは何か、なぜSUMCO・信越化学がAI時代の必須企業なのかをわかりやすく解説。長期投資・NISA向けの視点で分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-28-silicon-wafer-sumco-shinetsu-ai.jpg"
 featureimagecaption: ""

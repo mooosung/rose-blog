@@ -5,7 +5,7 @@ draft: false
 noindex: true
 canonical: "https://rozenmaier.com/posts/ideco-complete-guide/"
 tags: ["iDeCo", "個人型確定拠出年金", "節税", "老後資金", "資産運用"]
-categories: ["投資・資産運用"]
+categories: ["投資戦略・資産運用"]
 description: "iDeCo（個人型確定拠出年金）の仕組み、税制メリット、運用商品の選び方、受け取り方まで2026年最新情報で徹底解説。新NISAとの併用戦略も紹介。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-24-ideco-complete-guide-2026.jpg"
 featureimagecaption: ""

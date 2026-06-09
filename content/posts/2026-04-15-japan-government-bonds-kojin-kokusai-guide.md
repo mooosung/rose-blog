@@ -3,7 +3,7 @@ title: "個人向け国債（変動10年）とは？安全な資産を守る使�
 date: 2026-04-15
 draft: false
 tags: ["国債", "個人向け国債", "債券投資", "安全資産", "資産運用"]
-categories: ["投資基礎"]
+categories: ["投資入門"]
 description: "個人向け国債（変動10年・固定5年・固定3年）の仕組みと選び方を解説。定期預金との比較や購入方法、メリット・デメリットまで初心者向けにわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-15-japan-government-bonds-kojin-kokusai-guide.jpg"
 featureimagecaption: ""
