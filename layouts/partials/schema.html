@@ -28,15 +28,20 @@
     "url": {{ .Permalink }},
     "author": {
       "@type": "Person",
-      "name": "{{ .Site.Params.Author.name | safeJS }}"
+      "name": "{{ .Site.Params.Author.name | safeJS }}",
+      "url": "{{ site.Home.Permalink }}"
+    },
+    "publisher": {
+      "@type": "Person",
+      "name": "{{ .Site.Params.Author.name | safeJS }}",
+      "url": "{{ site.Home.Permalink }}"
     },
     {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
     {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
     {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
     {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
     {{ if $tags }}"keywords": {{ $tags | jsonify }},{{ end }}
-    "mainEntityOfPage": "true",
-    "wordCount": "{{ .WordCount }}"
+    "mainEntityOfPage": "true"
   }
   </script>
 {{ end }}
