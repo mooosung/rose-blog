@@ -4,7 +4,7 @@ date: 2026-03-17
 draft: false
 slug: "ideco-30s-beginners-guide-tax-saving"
 noindex: true
-canonical: "https://rozenmaier.com/posts/ideco-complete-guide/"
+canonical: "https://rozenmaier.com/posts/2026-05-24-ideco-complete-guide/"
 description: "30代会社員がiDeCoを始めるべき理由を、節税シミュレーション・おすすめ商品選び・NISAとの使い分けまで徹底解説。30年で100万円以上の節税効果を逃さないための完全ガイドです。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-17-ideco-30s-beginners-guide-tax-saving.jpg"
 featureimagecaption: ""

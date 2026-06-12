@@ -3,7 +3,7 @@ title: "REIT（不動産投資信託）とは？少額不動産投資の仕組�
 date: 2026-03-22
 draft: false
 noindex: true
-canonical: "https://rozenmaier.com/posts/reit-investment-guide-2026/"
+canonical: "https://rozenmaier.com/posts/2026-05-06-reit-investment-guide-2026/"
 tags: ["REIT", "不動産投資信託", "オルタナティブ投資", "J-REIT", "分配金", "少額投資"]
 categories: ["オルタナティブ投資"]
 description: "REIT（不動産投資信託）の仕組み・メリット・デメリットをわかりやすく解説。J-REITと海外REITの違い、銘柄の選び方、NISAでの活用法まで初心者向けに網羅します。"

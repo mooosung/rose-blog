@@ -1,9 +1,9 @@
 ---
-title: "VWO・EEM で新興国の成長を取り込む｜新興国株式ETF投資戦略2026年版"
+title: "REIT（不動産投資信託）入門｜少額から始める不動産投資の仕組みと始め方"
 date: 2026-04-14
 draft: false
 noindex: true
-canonical: "https://rozenmaier.com/posts/reit-investment-guide-2026/"
+canonical: "https://rozenmaier.com/posts/2026-05-06-reit-investment-guide-2026/"
 tags: ["REIT", "不動産投資", "ETF", "配当投資", "資産運用"]
 categories: ["投資入門"]
 description: "REITとは何か、仕組みから国内・海外REITの選び方、ETFとの違い、メリット・デメリットまで初心者向けにわかりやすく解説します。"
