@@ -16,7 +16,7 @@ SaaS株の王様、Salesforceをご存知ですわよね？🌹
 
 2026年、SalesforceはAIエージェント「**Agentforce**」を武器に反撃に出ていますわ。この記事ではSalesforceへの投資判断に必要なポイントを解説しますわ。
 
-> 同じAI SaaS銘柄として[Palantir（PLTR）の解説](/posts/2026-05-04-ai-agent-economy-investment-guide/)や[ServiceNow（NOW）の解説](/posts/2026-03-29-skill-investment-side-job-guide/)もあわせてどうぞ。
+> 同じAI SaaS銘柄として[Palantir（PLTR）の解説](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)や[ServiceNow（NOW）の解説](/posts/2026-03-26-servicenow-now-ai-saas-stock-analysis/)もあわせてどうぞ。
 
 ## Salesforceとは？事業モデルをざっくり解説
 
