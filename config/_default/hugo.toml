@@ -2,17 +2,16 @@ theme = "blowfish"
 baseURL = "https://rozenmaier.com/"
 defaultContentLanguage = "ja"
 languageCode = "ja-JP"
-
-[services]
-  [services.googleAnalytics]
-    ID = "G-BWVN8HEM3J"
-
 enableRobotsTXT = true
 summaryLength = 30
 hasCJKLanguage = true
 buildDrafts = false
 buildFuture = true
 enableEmoji = true
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-BWVN8HEM3J"
 
 [pagination]
   pagerSize = 12
