@@ -136,7 +136,7 @@ IWMは **Russell 2000指数** に連動する、最もメジャーな小型株ET
 
 これらのETFは**成長投資枠**であれば購入可能です（年間240万円まで）。以下のような組み合わせが考えられます。
 
-コア・サテライト戦略の考え方については[米国ETFのコア・サテライト戦略完全ガイド](/posts/us-etf-core-satellite-strategy/)も参考にしてください。
+コア・サテライト戦略の考え方については[米国ETFのコア・サテライト戦略完全ガイド](/posts/2026-03-13-us-etf-core-satellite-strategy/)も参考にしてください。
 
 **コア・サテライト戦略の例**
 
@@ -189,7 +189,7 @@ IWMは **Russell 2000指数** に連動する、最もメジャーな小型株ET
 
 長期・積立・分散の原則のもと、小型株ETFを上手に活用して、ポートフォリオの底上げを狙ってみましょう。
 
-ETF選びで迷ったら、[半導体ETF（SOXX・SMH）完全ガイド](/posts/semiconductor-etf-soxx-smh-guide/)や[ヘルスケアETF（XLV・VHT）完全ガイド](/posts/healthcare-etf-xlv-vht-complete-guide/)もあわせてご覧ください。
+ETF選びで迷ったら、[半導体ETF（SOXX・SMH）完全ガイド](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)や[ヘルスケアETF（XLV・VHT）完全ガイド](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)もあわせてご覧ください。
 
 ## 関連記事
 

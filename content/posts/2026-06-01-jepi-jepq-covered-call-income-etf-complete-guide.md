@@ -188,7 +188,7 @@ JEPIとJEPQの分配金は毎月変わります。市場が落ち着いている
 - 30年以上の超長期投資が目的（VTIやQQQのほうが資産成長で上回る可能性大）
 - 分配金より資産拡大を優先している
 
-なお、ベースとなるインデックス型ETFについては、[S&P500 ETF完全ガイド（VOO・IVV・SPY比較）](/posts/sp500-etf-voo-ivv-spy-complete-guide/)や[高配当ETF SCHD・VYM・HDV徹底比較](/posts/high-dividend-etf-schd-vym-hdv-comparison/)も参照してみてください。
+なお、ベースとなるインデックス型ETFについては、[S&P500 ETF完全ガイド（VOO・IVV・SPY比較）](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)や[高配当ETF SCHD・VYM・HDV徹底比較](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)も参照してみてください。
 
 ---
 

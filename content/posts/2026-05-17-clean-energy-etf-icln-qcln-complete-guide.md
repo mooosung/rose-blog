@@ -204,7 +204,7 @@ AI時代の電力需要増加とエネルギー転換という二つの長期ト
 
 ---
 
-クリーンエネルギー関連の投資をさらに深く理解したい方は、[AI・テクノロジーETF投資完全ガイド](/posts/ai-technology-etf-investment-guide/)や[セクターETFの代表格であるヘルスケアETF（XLV・VHT）完全ガイド](/posts/healthcare-etf-xlv-vht-complete-guide/)も合わせてご覧ください。
+クリーンエネルギー関連の投資をさらに深く理解したい方は、[AI・テクノロジーETF投資完全ガイド](/posts/2026-04-27-ai-technology-etf-investment-guide/)や[セクターETFの代表格であるヘルスケアETF（XLV・VHT）完全ガイド](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)も合わせてご覧ください。
 
 ## 関連記事
 

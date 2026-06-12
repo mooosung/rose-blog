@@ -226,9 +226,9 @@ SCHD・VIG・DVYはいずれも成長投資枠対応銘柄に含まれること�
 
 高配当ETFは単独で保有するよりも、他のETFと組み合わせることでポートフォリオの安定性が増します。
 
-- **S&P500 ETF（VOO・IVV・SPY）との組み合わせ：** 成長性と配当収入のバランスを最適化。詳しくは[S&P500 ETF完全ガイド](/posts/sp500-etf-voo-ivv-spy-complete-guide/)をご覧ください。
-- **JEPI・JEPQとの組み合わせ：** カバードコール戦略でさらに高いインカムを狙う場合は[JEPI・JEPQ カバードコール型ETF完全ガイド](/posts/jepi-jepq-covered-call-income-etf-complete-guide/)も参考にしてください。
-- **iDeCoでの活用：** 税制優遇を最大化するには[iDeCo完全ガイド](/posts/ideco-complete-guide/)をあわせて確認するのがおすすめです。
+- **S&P500 ETF（VOO・IVV・SPY）との組み合わせ：** 成長性と配当収入のバランスを最適化。詳しくは[S&P500 ETF完全ガイド](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)をご覧ください。
+- **JEPI・JEPQとの組み合わせ：** カバードコール戦略でさらに高いインカムを狙う場合は[JEPI・JEPQ カバードコール型ETF完全ガイド](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)も参考にしてください。
+- **iDeCoでの活用：** 税制優遇を最大化するには[iDeCo完全ガイド](/posts/2026-05-24-ideco-complete-guide/)をあわせて確認するのがおすすめです。
 
 ---
 
