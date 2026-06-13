@@ -2,7 +2,7 @@
 title: "米国高配当株おすすめ10選｜配当利回り4%以上・連続増配銘柄の賢い選び方"
 date: 2026-05-16
 draft: false
-featured: true
+featured: false
 description: "コカ・コーラ、JNJ、Chevronなど配当利回り4%以上の米国高配当株10銘柄を厳選。スクリーニング基準から各銘柄の特徴まで、配当投資初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-16-us-high-dividend-stocks-top10-selection-guide.jpg"
 featureimagecaption: ""

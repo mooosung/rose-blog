@@ -2,7 +2,7 @@
 title: "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション"
 date: 2026-07-04
 draft: false
-featured: true
+featured: false
 description: "500万円の元手から配当再投資で20年間積み立てた場合の資産推移をシミュレーション。配当生活への段階的ステップと、配当金の賢い使い方戦略を詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
 featureimagecaption: ""

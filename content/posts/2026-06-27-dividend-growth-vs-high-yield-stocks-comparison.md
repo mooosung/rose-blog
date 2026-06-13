@@ -2,7 +2,7 @@
 title: "連続増配株 vs 高配当株｜どちらが長期投資に有利？特徴と使い分け戦略"
 date: 2026-06-27
 draft: false
-featured: true
+featured: false
 description: "連続増配株（Dividend Growth）と高配当株（High Yield）の違いをVIG vs VYMで徹底比較。10年後のトータルリターン試算と、年齢・ライフステージ別の使い分け戦略を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison.jpg"
 featureimagecaption: ""
