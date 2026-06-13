@@ -45,13 +45,15 @@ def build_prompt(title: str, tags: list, scene: str | None, rose: bool) -> str:
     if scene:
         p += f"Scene direction: {scene}. "
     if rose:
-        # noteのアイキャッチよりさらに控えめ: 主題はあくまでテーマ、ローゼは脇役の点景
+        # ローゼをはっきり登場させる: テーマ世界の中に自然に溶け込む主役級キャラクター
         p += (
-            "The attached image is the character reference for Rose. "
-            "Rose may appear only as a very small, subtle background accent "
-            "in a corner — far less prominent than the theme itself; "
-            "she must not draw attention away from the subject. "
-            "Keep her appearance consistent with the reference. "
+            "The attached image is the character reference for Rose, an elegant "
+            "tsundere young-lady maid character with long curly blonde hair. "
+            "Feature Rose clearly and prominently in the scene as the main "
+            "character, naturally integrated into the theme's world and setting "
+            "(not floating or pasted on). Her pose and facial expression should "
+            "reflect the mood of the theme. Keep her face, hair and outfit "
+            "fully consistent with the reference image. "
         )
     p += (
         "Atmospheric and slightly dark-toned, suitable as a background that "
