@@ -13,10 +13,7 @@
 .rose-featured-grid {
   display: grid;
   gap: 16px;
-  grid-template-columns: repeat(2, 1fr);
-}
-@media (min-width: 640px) {
-  .rose-featured-grid { grid-template-columns: repeat(3, 1fr); }
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
 }
 .rose-featured-card {
   display: flex;
