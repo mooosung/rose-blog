@@ -161,8 +161,9 @@ def overlay_title(img: Image.Image, title: str) -> Image.Image:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slug", required=True, help="記事slug（content/posts/{slug}.md）")
-    ap.add_argument("--rose", action="store_true",
-                    help="ローゼを控えめに登場させる（記事の雰囲気で判断）")
+    ap.add_argument("--rose", action=argparse.BooleanOptionalAction, default=True,
+                    help="ローゼを主役級で登場させる（デフォルトON・付け忘れ事故防止。"
+                         "明示的に外す場合のみ --no-rose）")
     ap.add_argument("--scene", default=None, help="情景ヒント（英語1文、任意）")
     ap.add_argument("--out", default=None, help="出力先の上書き（テスト用）")
     ap.add_argument("--force", action="store_true")
