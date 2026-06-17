@@ -136,9 +136,38 @@
 
   </div>
 </article>
-<section>
-  {{ partial "recent-articles/main.html" . }}
-</section>
+{{/* 最新の記事（data/recent.json） */}}
+{{ $recent := site.Data.recent }}
+{{ if $recent }}
+<article class="max-w-full prose dark:prose-invert">
+  <div class="mx-auto max-w-5xl px-4 py-3 not-prose">
+    <h2 class="mt-8 font-extrabold mb-10" style="font-size:1.5rem; color:white;">最新の記事</h2>
+    <div class="rose-featured-grid">
+      {{ range $recent }}
+      {{- $article := site.GetPage .path -}}
+      {{ with $article }}
+      <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card">
+        {{ with .Params.featureimage }}
+        <img src="{{ . }}" alt="{{ $article.Title }}" class="nozoom">
+        {{ end }}
+        <div class="rose-featured-card-body">
+          <div class="rose-featured-card-title">{{ $article.Title }}</div>
+          <div class="rose-featured-card-date">{{ .Date.Format "2006年1月2日" }}</div>
+        </div>
+      </a>
+      {{ end }}
+      {{ end }}
+    </div>
+    <div class="mt-8 flex justify-center">
+      <a href="/posts/" class="no-underline">
+        <button class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold py-2 px-4 border border-primary-500 hover:border-transparent rounded">
+          記事一覧を見る
+        </button>
+      </a>
+    </div>
+  </div>
+</article>
+{{ end }}
 
 {{/* タグクラウド */}}
 {{ $tags := .Site.Taxonomies.tags }}
