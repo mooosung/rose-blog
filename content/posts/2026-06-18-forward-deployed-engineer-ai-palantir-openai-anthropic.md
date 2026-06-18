@@ -107,6 +107,67 @@ Databricksは顧客企業のデータ基盤（Delta Lake・Unity Catalog）を�
 
 ---
 
+## 各社FDE求人の実態（一次ソース確認済み）
+
+実際の公式採用情報から、3社のFDE募集の具体的な内容を比較する。
+
+### OpenAI：複数の専門FDEチームを展開
+
+OpenAIは公式サイトにFDE求人を複数掲載している。
+
+- **FDE - NYC**（一般企業向け）
+- **FDE - Gov**（政府・公共機関向け、ワシントンD.C.）
+- **FDE - Life Sciences**（製薬・バイオテック向け）
+
+公式の求人説明文より：
+> 「OpenAIのForward Deployed Engineeringチームは、顧客とパートナーになって研究上の革新を本番システムに変換する。私たちは顧客デリバリーとコアプラットフォーム開発の交差点で動いている。」
+
+業種別の専門チームが存在する点は、Palantirモデルに最も近い体制だ。
+
+📎 求人ページ：[openai.com/careers/forward-deployed-engineer-(fde)-nyc-new-york-city/](https://openai.com/careers/forward-deployed-engineer-(fde)-nyc-new-york-city/)
+
+### Anthropic：Applied AIチームの「創設FDE」として前線を整備
+
+Anthropicは**Applied AI**チームの一員としてFDEを採用。公式求人から読み取れる特徴：
+
+| 項目 | 内容 |
+|------|------|
+| **年収** | $200,000〜$300,000 USD |
+| **出張比率** | 約25% |
+| **ポジション性格** | 「founding FDE（創設メンバー）」としてFDE組織の基盤を築く |
+| **技術要件** | LLMプロンプトエンジニアリング・Agentの本番開発経験 |
+| **主な成果物** | MCPサーバー・サブエージェント・エージェントスキル |
+
+注目すべきは「**founding FDE**」という表現だ——AnthropicのFDE組織はまさに立ち上げフェーズにあり、初期メンバーが組織の型を作る段階にある。
+
+📎 求人ページ：[anthropic.com/careers/jobs/4985877008](https://www.anthropic.com/careers/jobs/4985877008)
+
+### Databricks：最も要件が厳しく、billable制を採用
+
+Databricksは3社中最もFDEの要件が高い。
+
+| 項目 | 内容 |
+|------|------|
+| **必要経験** | 7年以上（データエンジニアリング/プラットフォーム） |
+| **課金** | **FDEはbillable（有料サービスとして顧客に請求）** |
+| **組織規模** | 韓国専任の「Director, FDE」ポジションが存在 |
+| **出張比率** | 約20% |
+| **技術要件** | Apache Spark精通・複数クラウド経験・MLOps・CI/CD |
+
+「FDEはbillable」という記述はPalantirと同じモデルを意味する——FDEコストが収益化されており、プロフェッショナルサービス事業として成立している証だ。
+
+📎 求人ページ：[databricks.com/company/careers/.../forward-deployed-engineer-8540455002](https://www.databricks.com/company/careers/professional-services-operations/forward-deployed-engineer-8540455002)
+
+### 3社比較まとめ
+
+| 企業 | 採用名称 | 年収（目安） | 経験年数 | 出張 | 特徴 |
+|------|---------|-----------|---------|------|------|
+| OpenAI | FDE | 非公開 | 5年以上 | あり | 業種別専門チーム展開済み |
+| Anthropic | FDE（Applied AI） | $200K〜300K | 3年以上 | 25% | founding FDE、MCPサーバー構築 |
+| Databricks | FDE | 非公開 | **7年以上** | 20% | **billable**、最も厳格な要件 |
+
+---
+
 ## FDE戦略の投資上の含意
 
 ### NRRと解約率への直接影響
