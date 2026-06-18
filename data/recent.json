@@ -18,6 +18,12 @@
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide.jpg"
   },
   {
+    "path": "posts/2026-06-18-anthropic-philosopher-amanda-askell-claude-soul",
+    "title": "Claudeに「魂」を与えた哲学者｜AnthropicのAmanda Askell「いつかClaudeに自分の仕事を奪われる」",
+    "date": "2026-06-18",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-18-anthropic-philosopher-amanda-askell-claude-soul.jpg"
+  },
+  {
     "path": "posts/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis",
     "title": "Snowflake（SNOW）徹底分析｜AIデータクラウド時代を制するSaaS株の投資価値",
     "date": "2026-06-18",
@@ -28,11 +34,5 @@
     "title": "Databricks徹底分析｜非上場のAIレイクハウス王者はIPO後に買えるか？",
     "date": "2026-06-17",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-17-databricks-ai-lakehouse-ipo-investment-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo",
-    "title": "Anthropic、Claude料金改定を土壇場で撤回｜OpenAI価格戦争とIPOが背景に",
-    "date": "2026-06-17",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo.jpg"
   }
 ]
