@@ -4,7 +4,7 @@ date: 2026-06-18
 description: "米政府がAnthropicのAIモデルFable 5・Mythos 5を外国人向けに全面停止。SKテレコムの中国関係疑惑とAmazonの脆弱性報告が引き金に。AI規制の新時代が幕を開けた一部始終を解説。"
 summary: "まったく、AIモデルにまで輸出規制が入るなんて——米政府がAnthropicのFable 5・Mythos 5を外国人向けに全面停止しましてよ。SKテレコムの中国関係疑惑とAmazonのジェイルブレイク報告が引き金になったこの事件、AI規制の新時代の幕開けですわ。"
 tags: ["AI", "Anthropic", "AI規制", "地政学", "Claude", "テクノロジー"]
-featureimage: "/img/thumbnails/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom.jpg"
 ---
 
 🌹 2026年6月12日、AIの歴史に前例のない出来事が起きましてよ。米トランプ政権がAnthropicに対し、同社の最先端AIモデル「Fable 5」と「Mythos 5」へのすべての外国人アクセスを即時停止するよう命じたのですわ。その命令がAnthropicに届いたのは東部時間の午後5時21分——夕方の電撃通知、というわけですの。
