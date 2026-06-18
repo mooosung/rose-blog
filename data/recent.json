@@ -24,15 +24,15 @@
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-18-anthropic-philosopher-amanda-askell-claude-soul.jpg"
   },
   {
+    "path": "posts/2026-06-18-forward-deployed-engineer-ai-palantir-openai-anthropic",
+    "title": "Forward Deployed Engineer（FDE）とは何か｜PalantirからOpenAI・Anthropic・Databricksへ広がる「現場常駐エンジニア」戦略",
+    "date": "2026-06-18",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-18-forward-deployed-engineer-ai-palantir-openai-anthropic.jpg"
+  },
+  {
     "path": "posts/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis",
     "title": "Snowflake（SNOW）徹底分析｜AIデータクラウド時代を制するSaaS株の投資価値",
     "date": "2026-06-18",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-06-17-databricks-ai-lakehouse-ipo-investment-analysis",
-    "title": "Databricks徹底分析｜非上場のAIレイクハウス王者はIPO後に買えるか？",
-    "date": "2026-06-17",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-17-databricks-ai-lakehouse-ipo-investment-analysis.jpg"
   }
 ]
