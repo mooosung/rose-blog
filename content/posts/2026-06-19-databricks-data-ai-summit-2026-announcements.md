@@ -1,7 +1,7 @@
 ---
 title: "Databricks「Data + AI Summit 2026」全発表まとめ｜Genie One・LTAP・Omnigentで何が変わるのか"
 date: 2026-06-19
-slug: databricks-data-ai-summit-2026-announcements
+slug: 2026-06-19-databricks-data-ai-summit-2026-announcements
 categories:
   - AIバブルのツルハシ銘柄
 tags:
