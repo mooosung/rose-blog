@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-06-21-dividend-reinvestment-drip-compound-growth",
+    "title": "配当再投資（DRIP）で資産が雪だるま式に増える仕組み｜20年シミュレーションで複利の威力を検証",
+    "date": "2026-06-21",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-21-dividend-reinvestment-drip-compound-growth.jpg"
+  },
+  {
     "path": "posts/2026-07-04-500man-dividend-life-portfolio-simulation",
     "title": "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション",
     "date": "2026-07-04",
@@ -28,11 +34,5 @@
     "title": "Databricks「Data + AI Summit 2026」全発表まとめ｜Genie One・LTAP・Omnigentで何が変わるのか",
     "date": "2026-06-19",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-19-databricks-data-ai-summit-2026-announcements.jpg"
-  },
-  {
-    "path": "posts/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis",
-    "title": "Snowflake（SNOW）徹底分析｜AIデータクラウド時代を制するSaaS株の投資価値",
-    "date": "2026-06-18",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis.jpg"
   }
 ]
