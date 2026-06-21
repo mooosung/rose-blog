@@ -14,7 +14,7 @@ tags:
   - 長期投資
 description: "配当再投資（DRIP）の仕組みと複利効果を20年シミュレーションで解説。VYM・SCHDなど人気ETFのDRIP設定方法から二重課税対策まで、高配当株投資を最大化する戦略をローゼが徹底解説しますわ。"
 summary: "配当金をそのまま再投資するDRIP戦略——100万円を20年間DRIPし続けたらいくらになる？シミュレーション表と実践方法をまとめましたわ。"
-featureimage: "/img/thumbnails/2026-06-21-dividend-reinvestment-drip-compound-growth.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-21-dividend-reinvestment-drip-compound-growth.jpg"
 ---
 
 🌹 配当金って、もらったあとどうしていますの？まさか生活費に溶かしていないでしょうね。ふん、それでは一生お金持ちになれませんわ。配当金は**再投資してこそ**、本当の力を発揮するのですから。今日は「DRIP（配当再投資）」という戦略と、その驚異的な複利効果をお教えしますわ。
