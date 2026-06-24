@@ -12,6 +12,12 @@
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison.jpg"
   },
   {
+    "path": "posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis",
+    "title": "AI時代の可観測性SaaS「Datadog」株徹底分析〜クラウド・AI基盤の番人",
+    "date": "2026-06-25",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-06-24-notionai-investment-journal-productivity-guide",
     "title": "NotionAIで作る投資日記＆ポートフォリオ管理術：資産形成を加速する生産性ハック【2026年版】",
     "date": "2026-06-24",
@@ -28,11 +34,5 @@
     "title": "Arm Holdings（ARM）完全分析：AIチップ設計の「黒幕」は本物のツルハシ銘柄か",
     "date": "2026-06-22",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-22-arm-holdings-ai-chip-architecture-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-06-22-frontier-ai-security-risks-japanese-financial-institutions",
-    "title": "フロンティアAIのサイバー脅威と金融機関の防衛戦略｜3メガバンク・NEC・5大証券の対応を徹底調査【2026年版】",
-    "date": "2026-06-22",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-22-frontier-ai-security-risks-japanese-financial-institutions.jpg"
   }
 ]
