@@ -6,6 +6,12 @@
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
   },
   {
+    "path": "posts/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment",
+    "title": "Sakana AI「Fugu（フグ）」とは何か｜日本発マルチエージェントAIがフロンティアモデルに並んだ日",
+    "date": "2026-06-29",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment.jpg"
+  },
+  {
     "path": "posts/2026-06-28-private-credit-investment-guide-2026",
     "title": "プライベートクレジット投資入門 - 個人でも参入できる新しいオルタナ資産",
     "date": "2026-06-28",
@@ -28,11 +34,5 @@
     "title": "量子コンピュータ株投資ガイド2026年版 ─ IonQ・IBM・Quantinuumで押さえる次世代テーマ株",
     "date": "2026-06-25",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026.jpg"
-  },
-  {
-    "path": "posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis",
-    "title": "AI時代の可観測性SaaS「Datadog」株徹底分析〜クラウド・AI基盤の番人",
-    "date": "2026-06-25",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis.jpg"
   }
 ]
