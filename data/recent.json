@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-05-prompt-engineering-side-hustle-guide-2026",
+    "title": "AIプロンプトエンジニアリングを副業スキルにする実践ガイド2026",
+    "date": "2026-07-05",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-05-prompt-engineering-side-hustle-guide-2026.jpg"
+  },
+  {
     "path": "posts/2026-07-04-500man-dividend-life-portfolio-simulation",
     "title": "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション",
     "date": "2026-07-04",
@@ -28,11 +34,5 @@
     "title": "新NISAの成長投資枠で個別株を買う完全ガイド【2026年版】",
     "date": "2026-06-30",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-30-shin-nisa-growth-individual-stocks-guide.jpg"
-  },
-  {
-    "path": "posts/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment",
-    "title": "Sakana AI「Fugu（フグ）」とは何か｜日本発マルチエージェントAIがフロンティアモデルに並んだ日",
-    "date": "2026-06-29",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment.jpg"
   }
 ]
