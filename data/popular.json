@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/2026-03-23-datacenter-liquid-cooling-stocks",
-    "pv": 157
+    "pv": 140
   },
   {
     "path": "posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai",
@@ -16,11 +16,11 @@
     "pv": 20
   },
   {
-    "path": "posts/2026-04-08-semiconductor-etf-soxx-smh-guide",
-    "pv": 10
-  },
-  {
     "path": "posts/2026-03-03-halo-stocks-heavy-asset-low-obsolescence",
     "pv": 9
+  },
+  {
+    "path": "posts/2026-04-08-semiconductor-etf-soxx-smh-guide",
+    "pv": 8
   }
 ]
