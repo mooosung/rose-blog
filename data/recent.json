@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-06-supermicro-smci-ai-server-rack-investment",
+    "title": "Super Micro Computer（SMCI）株式分析：AIサーバーラック市場の「ツルハシ」銘柄",
+    "date": "2026-07-06",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-06-supermicro-smci-ai-server-rack-investment.jpg"
+  },
+  {
     "path": "posts/2026-07-05-prompt-engineering-side-hustle-guide-2026",
     "title": "AIプロンプトエンジニアリングを副業スキルにする実践ガイド2026",
     "date": "2026-07-05",
@@ -28,11 +34,5 @@
     "title": "Google NotebookLMで決算書を10分で読破するAI活用術2026",
     "date": "2026-07-01",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-01-notebooklm-financial-report-analysis-guide.jpg"
-  },
-  {
-    "path": "posts/2026-06-30-shin-nisa-growth-individual-stocks-guide",
-    "title": "新NISAの成長投資枠で個別株を買う完全ガイド【2026年版】",
-    "date": "2026-06-30",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-06-30-shin-nisa-growth-individual-stocks-guide.jpg"
   }
 ]
