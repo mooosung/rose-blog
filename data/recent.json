@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-07-shin-nisa-drawdown-exit-strategy-guide",
+    "title": "新NISAの出口戦略完全ガイド：資産を守りながら賢く取り崩す方法",
+    "date": "2026-07-07",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-07-shin-nisa-drawdown-exit-strategy-guide.jpg"
+  },
+  {
     "path": "posts/2026-07-06-supermicro-smci-ai-server-rack-investment",
     "title": "Super Micro Computer（SMCI）株式分析：AIサーバーラック市場の「ツルハシ」銘柄",
     "date": "2026-07-06",
@@ -28,11 +34,5 @@
     "title": "パランティア（PLTR）徹底分析：AIエンタープライズ分析の覇者は買いか？",
     "date": "2026-07-02",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-02-palantir-pltr-ai-enterprise-analytics-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-07-01-notebooklm-financial-report-analysis-guide",
-    "title": "Google NotebookLMで決算書を10分で読破するAI活用術2026",
-    "date": "2026-07-01",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-01-notebooklm-financial-report-analysis-guide.jpg"
   }
 ]
