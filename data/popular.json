@@ -1,23 +1,23 @@
 [
   {
     "path": "posts/2026-03-23-datacenter-liquid-cooling-stocks",
-    "pv": 131
+    "pv": 122
   },
   {
     "path": "posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai",
     "pv": 27
   },
   {
-    "path": "posts/2026-03-01-mlcc-murata-tdk-ai-infra",
-    "pv": 23
-  },
-  {
     "path": "posts/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom",
     "pv": 20
   },
   {
+    "path": "posts/2026-03-01-mlcc-murata-tdk-ai-infra",
+    "pv": 19
+  },
+  {
     "path": "posts/2026-03-03-halo-stocks-heavy-asset-low-obsolescence",
-    "pv": 9
+    "pv": 8
   },
   {
     "path": "posts/2026-04-08-semiconductor-etf-soxx-smh-guide",
