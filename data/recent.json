@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis",
+    "title": "Workday（WDAY）：AI搭載HRテック最前線──日本から始める米国SaaS投資",
+    "date": "2026-07-09",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026",
     "title": "PerplexityとChatGPTで投資リサーチを10倍速にする実践術【2026年版】",
     "date": "2026-07-08",
@@ -28,11 +34,5 @@
     "title": "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション",
     "date": "2026-07-04",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
-  },
-  {
-    "path": "posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment",
-    "title": "VOO vs QQQ：S&P500とナスダック100、長期積立はどちらが正解か",
-    "date": "2026-07-03",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment.jpg"
   }
 ]
