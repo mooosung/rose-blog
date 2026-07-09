@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026",
+    "title": "米国テクノロジーETF「XLK・VGT・QQQ」徹底比較2026年版 - AI時代の王道投資",
+    "date": "2026-07-10",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026.jpg"
+  },
+  {
     "path": "posts/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis",
     "title": "Workday（WDAY）：AI搭載HRテック最前線──日本から始める米国SaaS投資",
     "date": "2026-07-09",
@@ -28,11 +34,5 @@
     "title": "AIプロンプトエンジニアリングを副業スキルにする実践ガイド2026",
     "date": "2026-07-05",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-05-prompt-engineering-side-hustle-guide-2026.jpg"
-  },
-  {
-    "path": "posts/2026-07-04-500man-dividend-life-portfolio-simulation",
-    "title": "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション",
-    "date": "2026-07-04",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
   }
 ]
