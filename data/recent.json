@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-11-investment-behavior-bias-overcome-guide",
+    "title": "投資家の行動バイアスを克服する7つのマインドセット",
+    "date": "2026-07-11",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-11-investment-behavior-bias-overcome-guide.jpg"
+  },
+  {
     "path": "posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026",
     "title": "米国テクノロジーETF「XLK・VGT・QQQ」徹底比較2026年版 - AI時代の王道投資",
     "date": "2026-07-10",
@@ -28,11 +34,5 @@
     "title": "Super Micro Computer（SMCI）株式分析：AIサーバーラック市場の「ツルハシ」銘柄",
     "date": "2026-07-06",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-06-supermicro-smci-ai-server-rack-investment.jpg"
-  },
-  {
-    "path": "posts/2026-07-05-prompt-engineering-side-hustle-guide-2026",
-    "title": "AIプロンプトエンジニアリングを副業スキルにする実践ガイド2026",
-    "date": "2026-07-05",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-05-prompt-engineering-side-hustle-guide-2026.jpg"
   }
 ]
