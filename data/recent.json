@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-13-optical-networking-ai-datacenter-stocks",
+    "title": "AIデータセンターの「光の血管」光ネットワーク株（Coherent・Lumentum・Fabrinet）徹底解説",
+    "date": "2026-07-13",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-13-optical-networking-ai-datacenter-stocks.jpg"
+  },
+  {
     "path": "posts/2026-07-12-ethereum-etf-etha-feth-investment-guide-2026",
     "title": "イーサリアムETFで仮想通貨分散投資：ETHA・FETHの選び方と始め方【2026年版】",
     "date": "2026-07-12",
@@ -28,11 +34,5 @@
     "title": "PerplexityとChatGPTで投資リサーチを10倍速にする実践術【2026年版】",
     "date": "2026-07-08",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-08-perplexity-chatgpt-investment-research-guide-2026.jpg"
-  },
-  {
-    "path": "posts/2026-07-07-shin-nisa-drawdown-exit-strategy-guide",
-    "title": "新NISAの出口戦略完全ガイド：資産を守りながら賢く取り崩す方法",
-    "date": "2026-07-07",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-07-shin-nisa-drawdown-exit-strategy-guide.jpg"
   }
 ]
