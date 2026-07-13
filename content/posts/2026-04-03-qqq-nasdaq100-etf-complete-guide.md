@@ -1,10 +1,10 @@
 ---
-title: "QQQ（ナスダック100 ETF）とは？仕組み・特徴・VGTとの比較【2026年版】"
+title: "QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較"
 date: 2026-04-03
 draft: false
-tags: ["QQQ", "ナスダック100", "ETF", "米国株", "長期投資", "インデックス投資"]
+tags: ["QQQ", "ナスダック100", "ETF", "米国株", "長期投資", "インデックス投資", "NISA", "VGT", "テクノロジーETF"]
 categories: ["ETF・投資信託"]
-description: "QQQ（インベスコQQQトラスト）を徹底解説。ナスダック100の構成銘柄・経費率・リターン実績・S&P500との違い・買い方まで、初心者にもわかりやすく紹介します。"
+description: "QQQ（インベスコQQQトラスト）を徹底解説。ナスダック100の構成銘柄・経費率・リターン実績・S&P500との違い・VGTとの比較・NISAでの買い方まで初心者にもわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-03-qqq-nasdaq100-etf-complete-guide.jpg"
 featureimagecaption: ""
 ---

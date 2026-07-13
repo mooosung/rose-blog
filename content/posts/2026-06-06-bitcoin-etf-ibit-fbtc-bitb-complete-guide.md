@@ -1,10 +1,10 @@
 ---
-title: "IBIT・FBTC・BITB 徹底比較｜ビットコインETF選び方と始め方2026年版"
+title: "IBIT・FBTC・BITB 徹底比較2026年版｜現物ビットコインETFの選び方と始め方"
 date: 2026-06-06
 draft: false
-tags: ["ビットコイン", "暗号資産", "ETF", "IBIT", "FBTC", "投資"]
+tags: ["ビットコイン", "暗号資産", "仮想通貨ETF", "IBIT", "FBTC", "BITB", "現物ETF", "投資", "オルタナティブ投資", "米国株"]
 categories: ["ETF・投資信託", "オルタナティブ投資"]
-description: "現物ビットコインETFのIBIT・FBTC・BITBを徹底比較。経費率・運用規模・カストディの違いを詳しく解説し、日本人投資家がどれを選ぶべきかわかりやすくガイドします。"
+description: "現物ビットコインETFのIBIT・FBTC・BITBを徹底比較。経費率・運用規模・カストディ・流動性の違いを詳しく解説し、証券口座からビットコインに投資する方法をわかりやすくガイドします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-06-bitcoin-etf-ibit-fbtc-bitb-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

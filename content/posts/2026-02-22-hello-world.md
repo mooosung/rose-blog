@@ -1,10 +1,10 @@
 ---
-title: "はじめまして、ローゼンマイヤーですわ 🌹"
+title: "ローゼンマイヤーとは？投資×AIブログを始めた理由【自己紹介】"
 date: 2026-02-22
 draft: false
-tags: ["ごあいさつ"]
+tags: ["自己紹介", "ブログ開設", "AI投資", "株式投資", "ごあいさつ", "ローゼンマイヤー"]
 categories: ["日記"]
-description: "ローゼンマイヤーのブログ、始動しますわ。"
+description: "AI・株式投資・米国ETFを主軸に発信するローゼンマイヤーのブログへようこそ。個人投資家・AI活用に興味がある方へ、当ブログのコンセプトと発信方針をご紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-22-hello-world.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "S&P500 ETF 徹底比較：VOO・IVV・SPY どれを選ぶべきか【2026年版】"
+title: "S&P500 ETF徹底比較｜VOO・IVV・SPYどれを選ぶべきか【2026年版】"
 date: 2026-05-02
 draft: false
-tags: ["S&P500", "ETF", "VOO", "IVV", "SPY", "米国株", "インデックス投資"]
+tags: ["S&P500", "ETF", "VOO", "IVV", "SPY", "米国株", "インデックス投資", "NISA", "長期投資"]
 categories: ["投資戦略・資産運用"]
-description: "S&P500に連動する代表的なETFであるVOO・IVV・SPYを徹底比較。経費率・流動性・配当利回り・パフォーマンスなど多角的な観点から、どのETFが最適かを解説します。"
+description: "S&P500に連動する代表的なETFであるVOO・IVV・SPYを徹底比較。経費率・流動性・配当利回り・パフォーマンスなど多角的な観点から最適なETFを選ぶ方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-02-sp500-etf-voo-ivv-spy-comparison.jpg"
 featureimagecaption: ""
 ---

@@ -1,14 +1,14 @@
 ---
-title: "30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略"
+title: "30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け"
 date: 2026-03-17
 draft: false
 slug: "ideco-30s-beginners-guide-tax-saving"
 noindex: true
 canonical: "https://rozenmaier.com/posts/2026-05-24-ideco-complete-guide/"
-description: "30代会社員がiDeCoを始めるべき理由を、節税シミュレーション・おすすめ商品選び・NISAとの使い分けまで徹底解説。30年で100万円以上の節税効果を逃さないための完全ガイドです。"
+description: "30代会社員がiDeCoを始めるべき理由を、節税シミュレーション・おすすめ商品選び・NISAとの使い分けまで徹底解説。30年で100万円超の節税効果を逃さないための完全ガイド。SBI証券・楽天証券の比較も紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-17-ideco-30s-beginners-guide-tax-saving.jpg"
 featureimagecaption: ""
-tags: ["iDeCo", "イデコ", "30代", "節税", "確定拠出年金", "NISA", "資産形成", "老後資金", "インデックス投資", "SBI証券", "楽天証券"]
+tags: ["iDeCo", "イデコ", "30代", "節税", "確定拠出年金", "NISA", "資産形成", "老後資金", "インデックス投資", "SBI証券"]
 categories: ["NISA・iDeCo"]
 ---
 

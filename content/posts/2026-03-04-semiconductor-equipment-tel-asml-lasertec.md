@@ -1,11 +1,11 @@
 ---
-title: "半導体製造装置とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由【ツルハシ投資】🌹"
+title: "半導体製造装置株とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由"
 date: 2026-03-04
 draft: false
 featured: false
-tags: ["半導体製造装置", "東京エレクトロン", "ASML", "レーザーテック", "AIインフラ株", "EUV", "長期投資", "NISA", "AIバブル", "半導体"]
+tags: ["半導体製造装置", "東京エレクトロン", "ASML", "レーザーテック", "EUV", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA", "日本株"]
 categories: ["ツルハシ投資"]
-description: "AI時代を支える半導体製造装置メーカーを徹底解説。東京エレクトロン・ASML・レーザーテックなど、AIチップを「作る側」の企業がなぜ最強のツルハシなのか、投資の観点からわかりやすく解説します。"
+description: "AI半導体を「作る側」の最強ツルハシ株、半導体製造装置メーカーを徹底解説。東京エレクトロン（8035）・ASML・レーザーテック（6920）の強みとEUV技術、長期投資・NISA向けに初心者にもわかりやすく比較します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-04-semiconductor-equipment-tel-asml-lasertec.jpg"
 featureimagecaption: ""
 ---

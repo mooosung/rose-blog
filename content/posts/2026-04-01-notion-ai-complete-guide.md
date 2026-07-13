@@ -1,10 +1,10 @@
 ---
-title: "Notion AI完全ガイド：タスク管理・議事録・ライティングを自動化する方法【2026年版】"
+title: "Notion AI完全ガイド2026｜タスク管理・議事録・ライティングを自動化する方法"
 date: 2026-04-01
 draft: false
-tags: ["Notion AI", "AI活用術", "生産性ハック", "業務効率化", "ライティング"]
+tags: ["Notion AI", "AI活用術", "生産性ハック", "業務効率化", "ライティング", "タスク管理", "議事録自動化", "ChatGPT"]
 categories: ["AI活用術"]
-description: "Notion AIの使い方を徹底解説。タスク管理・議事録自動化・文章生成・翻訳まで、ビジネスパーソンが今すぐ使える活用法を具体例つきで紹介します。"
+description: "Notion AIの使い方を徹底解説。タスク管理・議事録自動化・文章生成・翻訳まで、ビジネスパーソンが今すぐ使える活用法を具体例つきで紹介します。初心者でも即実践できるプロンプト例も掲載。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-01-notion-ai-complete-guide.jpg"
 featureimagecaption: ""
 ---

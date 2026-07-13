@@ -1,10 +1,10 @@
 ---
-title: "SMR（小型モジュール炉）とは？AIデータセンターの電力危機を救う原子力関連株3選を徹底解説【2026年・ツルハシ投資】🌹"
+title: "SMR（小型モジュール炉）株2026年版｜NuScale・Oklo・CCJなどAIデータセンター電力株を徹底解説【ツルハシ投資】"
 date: 2026-06-15
 draft: false
-tags: ["SMR", "小型モジュール炉", "原子力", "原発", "データセンター", "電力インフラ", "NuScale", "Oklo", "ウラン", "AIインフラ株", "長期投資", "NISA"]
+tags: ["SMR", "小型モジュール炉", "原子力", "データセンター", "電力インフラ", "NuScale", "Oklo", "ウラン", "Cameco", "AIインフラ株", "長期投資", "ツルハシ投資"]
 categories: ["ツルハシ投資", "AI活用術"]
-description: "AIデータセンターの爆発的な電力需要を受け、原子力、特にSMR（小型モジュール炉）が再脚光を浴びています。SMRの基本的な仕組みから、なぜハイパースケーラーが原発に殺到するのか、NuScale・Oklo・ウラン関連株など注目銘柄を初心者向けにわかりやすく解説します。"
+description: "AIデータセンターの爆発的な電力需要を受け、SMR（小型モジュール炉）が脚光を浴びています。SMRの仕組みから、NuScale・Oklo・Cameco（CCJ）などハイパースケーラーが注目する原子力関連株を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-15-nuclear-smr-ai-datacenter-power-stocks.jpg"
 featureimagecaption: ""
 ---

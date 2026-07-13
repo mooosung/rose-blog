@@ -1,10 +1,10 @@
 ---
-title: "XLV・VHT 投資戦略2026｜ヘルスケアETFで医療株に安定投資する方法"
+title: "XLV・VHT比較｜ヘルスケアETFで医療株に安定投資する方法【2026年版】"
 date: 2026-05-12
 draft: false
-tags: ["ETF", "ヘルスケア", "XLV", "VHT", "米国株", "投資", "セクター投資"]
+tags: ["ETF", "ヘルスケア", "XLV", "VHT", "米国株", "投資", "セクター投資", "ディフェンシブ株", "NISA", "長期投資"]
 categories: ["ETF・投資信託"]
-description: "ヘルスケアETFの代表格XLVとVHTを徹底比較。医薬品・医療機器・保険など守りに強いセクターへの投資方法、リターン実績、新NISA活用法まで初心者にも分かりやすく解説します。"
+description: "ヘルスケアETFの代表格XLVとVHTを徹底比較。医薬品・医療機器・保険など守りに強いセクターへの投資方法・リターン実績・経費率・新NISA活用法まで初心者にも分かりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-12-healthcare-etf-xlv-vht-complete-guide.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "40代・50代からのNISA活用術｜老後2000万問題を逆算で解決する積立戦略"
+title: "40代・50代からのNISA戦略2026年版｜老後2000万問題を逆算で解決する積立・iDeCo組み合わせ術"
 date: 2026-06-09
 draft: false
-tags: ["NISA", "新NISA", "老後資金", "積立投資", "40代投資", "50代投資", "資産形成"]
+tags: ["NISA", "新NISA", "老後資金", "積立投資", "40代投資", "50代投資", "資産形成", "iDeCo", "老後2000万", "長期投資"]
 categories: ["NISA・iDeCo"]
-description: "「もう遅い」は大きな勘違い。40代・50代からNISAを始めても老後2000万円は十分狙えますわ。逆算シミュレーション・つみたて投資枠と成長投資枠の使い分け・iDeCoとの組み合わせ戦略を解説。"
+description: "「もう遅い」は大きな勘違い。40代・50代からNISAを始めても老後2000万円は十分狙えます。逆算シミュレーション・つみたて投資枠と成長投資枠の使い分け・iDeCoとの組み合わせ戦略を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-09-nisa-strategy-40s-50s-retirement-2000man.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: false

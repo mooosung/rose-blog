@@ -1,10 +1,10 @@
 ---
-title: "NotionAIで作る投資日記＆ポートフォリオ管理術：資産形成を加速する生産性ハック【2026年版】"
+title: "NotionAIで作る投資日記・ポートフォリオ管理術2026年版｜売買記録の自動整理から感情ログ分析まで"
 date: 2026-06-24
 draft: false
-tags: ["AI活用", "Notion", "NotionAI", "投資日記", "ポートフォリオ管理", "生産性ハック", "資産形成"]
+tags: ["AI活用", "Notion", "NotionAI", "投資日記", "ポートフォリオ管理", "生産性ハック", "資産形成", "株式投資", "情報管理", "個人投資家"]
 categories: ["AI活用術"]
-description: "NotionAIを使って投資日記・ポートフォリオ管理を劇的に効率化する方法を解説。売買記録の自動整理から銘柄メモのAI要約、感情ログ分析まで、個人投資家が実践すべき生産性ハックをまとめましたわ。"
+description: "NotionAIを使って投資日記・ポートフォリオ管理を劇的に効率化する方法を解説。売買記録の自動構造化から銘柄メモのAI要約、感情ログ分析まで、個人投資家が実践すべき生産性ハックをまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-24-notionai-investment-journal-productivity-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

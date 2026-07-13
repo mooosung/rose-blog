@@ -1,11 +1,11 @@
 ---
-title: "VYMで配当収入を作る方法｜特徴・配当利回り・SBI/楽天での買い方【2026年版】"
+title: "VYM完全ガイド【2026年版】｜バンガード高配当ETFの特徴・配当利回り・SCHDとの比較"
 date: 2026-03-28
 draft: false
 featured: false
-tags: ["VYM", "高配当ETF", "米国株", "配当投資", "不労所得"]
+tags: ["VYM", "SCHD", "高配当ETF", "米国株", "配当投資", "バンガード", "不労所得", "長期投資", "NISA", "ETF比較"]
 categories: ["ETF・投資信託"]
-description: "VYM（バンガード・米国高配当株式ETF）の特徴・利回り・構成銘柄・SCHDとの比較を徹底解説。配当再投資で資産を雪だるま式に増やす方法を初心者にもわかりやすく紹介します。"
+description: "VYM（バンガード・米国高配当株式ETF）の特徴・利回り・構成銘柄・経費率・SCHDとの違いを徹底解説。SBI証券・楽天証券での購入方法と、配当再投資で資産を雪だるま式に増やす方法を初心者向けに紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide.jpg"
 featureimagecaption: ""
 ---

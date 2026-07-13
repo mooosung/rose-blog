@@ -1,10 +1,10 @@
 ---
-title: "AIデータセンター建設ブームの恩恵株：EPC・電気工事企業を徹底分析"
+title: "AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】"
 date: 2026-06-08
 draft: false
-tags: ["ツルハシ投資", "データセンター", "EPC", "電気工事", "AIインフラ"]
+tags: ["ツルハシ投資", "データセンター", "EPC", "電気工事", "AIインフラ", "Quanta Services", "MYR Group", "Aecom", "米国株", "インフラ株"]
 categories: ["ツルハシ投資"]
-description: "AIデータセンターの急増で需要急拡大する電気工事・EPC（設計・調達・建設）企業を分析。Quanta Services、MYR Group、Aecomなど主要銘柄の投資ポイントを解説。"
+description: "AIデータセンターの急増で需要が爆発する電気工事・EPC（設計・調達・建設）企業を分析。Quanta Services・MYR Group・Aecomなど主要銘柄の投資ポイント・業績・成長性をツルハシ投資の視点で解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-08-datacenter-construction-epc-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

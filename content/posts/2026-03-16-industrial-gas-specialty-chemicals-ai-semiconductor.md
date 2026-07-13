@@ -1,9 +1,9 @@
 ---
-title: "【ツルハシ投資】産業用ガス・特殊化学品銘柄｜半導体・AIインフラを支える「黒子」企業の投資価値"
+title: "産業用ガス・特殊化学品株とは？大陽日酸・Linde・Air Liquideがツルハシ投資の本命な理由"
 date: 2026-03-16
 slug: "industrial-gas-specialty-chemicals-ai-semiconductor"
-description: "半導体製造に不可欠な産業用ガス・特殊化学品。AIブームの裏側で安定成長を続ける大陽日酸・Air Liquide・Lindeなどの銘柄を解説し、投資妙味を探ります。"
-tags: ["ツルハシ投資", "産業用ガス", "特殊化学品", "半導体", "AIインフラ", "大陽日酸", "Linde", "Air Liquide", "長期投資"]
+description: "半導体製造に不可欠な産業用ガス・特殊化学品を徹底解説。大陽日酸（4091）・Air Liquide・Lindeがなぜ安定成長するのか、AIブームの裏側で光るツルハシ銘柄の投資妙味をわかりやすく分析します。"
+tags: ["産業用ガス", "特殊化学品", "大陽日酸", "Linde", "Air Liquide", "半導体", "ツルハシ投資", "AIインフラ株", "長期投資", "NISA"]
 categories: ["ツルハシ投資"]
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-16-industrial-gas-specialty-chemicals-ai-semiconductor.jpg"
 featureimagecaption: ""

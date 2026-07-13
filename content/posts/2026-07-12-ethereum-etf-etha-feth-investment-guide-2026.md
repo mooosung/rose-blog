@@ -1,10 +1,10 @@
 ---
-title: "イーサリアムETFで仮想通貨分散投資：ETHA・FETHの選び方と始め方【2026年版】"
+title: "イーサリアムETF（ETHA・FETH）完全ガイド2026年版｜現物ETHとの違い・信託報酬比較・ポートフォリオへの組み入れ方"
 date: 2026-07-12
 draft: false
-tags: ["イーサリアム", "仮想通貨ETF", "ETHA", "FETH", "オルタナティブ投資", "分散投資"]
+tags: ["イーサリアム", "仮想通貨ETF", "ETHA", "FETH", "オルタナティブ投資", "分散投資", "現物ETF", "ビットコイン", "ETH", "暗号資産"]
 categories: ["オルタナティブ投資"]
-description: "2024年に米国上場したイーサリアムETF（ETHA・FETH・ETHW）を徹底解説。ビットコインETFとの違い、信託報酬比較、ポートフォリオへの組み入れ方まで、初心者にもわかりやすく解説しますわ。"
+description: "2024年米国上場のイーサリアム現物ETF（ETHA・FETH・ETHW）を徹底解説。ビットコインETFとの違い、信託報酬比較、DeFi・スマートコントラクトとの関係、ポートフォリオへの組み入れ比率まで初心者にも分かりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-12-ethereum-etf-etha-feth-investment-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: true

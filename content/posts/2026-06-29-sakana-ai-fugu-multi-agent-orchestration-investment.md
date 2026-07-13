@@ -1,18 +1,11 @@
 ---
-title: "Sakana AI「Fugu（フグ）」とは何か｜日本発マルチエージェントAIがフロンティアモデルに並んだ日"
+title: "Sakana AI「Fugu Ultra（フグ）」とは？｜日本発マルチエージェントAIがフロンティアモデルに並んだ日【AI投資2026】"
 date: 2026-06-29
 slug: 2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment
 categories:
   - AIバブルのツルハシ銘柄
-tags:
-  - Sakana AI
-  - フグ
-  - マルチエージェント
-  - 日本AI
-  - AIスタートアップ
-  - AI投資
-  - 輸出規制
-description: "2026年6月22日、Sakana AIが「Fugu Ultra」を正式リリース。Anthropic Mythos・GPT・Geminiと同等ベンチマークを達成した日本発マルチエージェントAIの仕組みと投資的意味を解説しますわ。"
+tags: ["Sakana AI", "フグ", "Fugu Ultra", "マルチエージェント", "日本AI", "AIスタートアップ", "AI投資", "輸出規制", "生成AI", "AI主権"]
+description: "2026年6月22日、Sakana AIが「Fugu Ultra」を正式リリース。Anthropic Mythos・GPT 5.4・Geminiと同等ベンチマークを達成した日本発マルチエージェントAIの仕組み・AI主権という新概念・投資的意味を解説します。"
 summary: "ふぐ——毒があって、でも食べれば絶品。Sakana AIの新モデル「Fugu Ultra」が2026年6月22日に正式リリースされ、AnthropicのミュトスやGPT 5.4と肩を並べるベンチマークを達成しましたわ。輸出規制に依存しない「AI主権」という新概念とともに、投資家として絶対に見ておくべき一手を解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment.jpg"
 ---

@@ -1,12 +1,12 @@
 ---
-title: "高配当ETF×配当再投資の複利効果｜月3万円積立で20年後いくらになる？VYM・HDV・SPYD・SCHDシミュレーション"
+title: "高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較"
 date: 2026-03-14
 draft: false
 featured: false
-description: "高配当ETF（VYM・HDV・SPYD・SCHD）に月3万円を積立投資し、配当を再投資した場合の資産シミュレーションを徹底解説。配当再投資（DRIP）の複利効果と、各ETFの特徴比較から最適な選び方まで紹介します。"
+description: "高配当ETF（VYM・HDV・SPYD・SCHD）に月3万円を積立し配当再投資した場合の20年間資産シミュレーションを徹底解説。複利効果の仕組みと各ETFの特徴・利回り比較から最適な選び方まで紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
 featureimagecaption: ""
-tags: ["高配当ETF", "配当再投資", "DRIP", "複利効果", "VYM", "HDV", "SPYD", "SCHD", "積立投資", "シミュレーション"]
+tags: ["高配当ETF", "配当再投資", "DRIP", "複利効果", "VYM", "HDV", "SPYD", "SCHD", "積立投資", "シミュレーション", "NISA"]
 categories: ["高配当株・配当再投資"]
 ---
 

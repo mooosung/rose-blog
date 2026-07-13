@@ -1,10 +1,10 @@
 ---
-title: "VWO・EEM・IMEG 比較｜新興国ETFの違いと2026年の投資戦略"
+title: "VWO・EEM・IEMG比較2026｜新興国ETFの違いと投資戦略を徹底解説"
 date: 2026-05-01
 draft: false
-tags: ["ETF", "新興国", "VWO", "EEM", "投資", "分散投資"]
+tags: ["ETF", "新興国", "VWO", "EEM", "IEMG", "投資", "分散投資", "インド株", "長期投資", "NISA"]
 categories: ["ETF・投資信託"]
-description: "VWO・EEMをはじめとする新興国株式ETFの特徴・コスト・リスク・活用法を徹底解説。米国株に偏ったポートフォリオに世界の成長を取り込む方法をわかりやすく紹介します。"
+description: "VWO・EEM・IEMGをはじめとする新興国株式ETFの特徴・コスト・リスク・活用法を徹底解説。米国株に偏ったポートフォリオにアジア・インドの成長を取り込む方法をわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide.jpg"
 featureimagecaption: ""
 ---

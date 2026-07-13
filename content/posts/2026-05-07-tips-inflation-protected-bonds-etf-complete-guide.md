@@ -1,10 +1,10 @@
 ---
-title: "TIP・VTIP 比較｜インフレ連動債ETFでインフレから資産を守る方法"
+title: "TIP・VTIP完全ガイド｜インフレ連動債ETFでインフレから資産を守る方法"
 date: 2026-05-07
 draft: false
-tags: ["ETF", "インフレ対策", "債券投資", "TIPS", "TIP", "VTIP", "資産運用"]
+tags: ["ETF", "インフレ対策", "債券投資", "TIPS", "TIP", "VTIP", "資産運用", "ポートフォリオ", "インフレヘッジ"]
 categories: ["投資戦略・資産運用"]
-description: "インフレ連動債ETF（TIP・VTIP）の仕組み、特徴、メリット・デメリットを徹底解説。インフレ時代に資産を守るための具体的な活用法をわかりやすく紹介します。"
+description: "インフレ連動債ETF（TIP・VTIP）の仕組み・特徴・メリット・デメリットを徹底解説。インフレ時代に資産を守るための具体的な活用法とポートフォリオへの組み込み方を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide.jpg"
 featureimagecaption: ""
 ---

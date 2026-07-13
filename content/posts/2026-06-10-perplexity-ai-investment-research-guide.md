@@ -1,10 +1,10 @@
 ---
-title: "Perplexity AIとは？投資・株式情報収集に役立つAI検索の使い方【2026年版】"
+title: "Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法"
 date: 2026-06-10
 draft: false
-tags: ["AI活用", "Perplexity AI", "投資情報", "AI検索", "情報収集", "株式投資"]
+tags: ["AI活用", "Perplexity AI", "投資情報", "AI検索", "情報収集", "株式投資", "ChatGPT", "投資リサーチ", "生産性ハック", "ETF"]
 categories: ["AI活用術"]
-description: "Perplexity AIを投資情報収集に活用する実践ガイド。決算情報・ニュース・銘柄分析をChatGPTより速く、引用付きで調べる方法を解説。無料でできる具体的なプロンプト例も紹介しますわ。"
+description: "Perplexity AIを投資情報収集に活用する実践ガイド。決算情報・ニュース・銘柄分析をChatGPTより速く、引用付きで調べる方法を解説。無料でできる具体的なプロンプト例と、Perplexity Pro活用術も紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-10-perplexity-ai-investment-research-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: false

@@ -1,10 +1,10 @@
 ---
-title: "VT・ACWI・URTH 徹底比較｜全世界株ETF2026年版おすすめの選び方"
+title: "VT・ACWI・URTH 徹底比較2026年版｜全世界株ETFおすすめの選び方【コスト・分散・リターン】"
 date: 2026-06-02
 draft: false
-tags: ["ETF", "全世界株", "VT", "ACWI", "インデックス投資", "資産運用"]
+tags: ["ETF", "全世界株", "VT", "ACWI", "URTH", "インデックス投資", "資産運用", "NISA", "長期投資", "分散投資"]
 categories: ["投資戦略・資産運用"]
-description: "全世界株ETFの代表格VT・ACWI・URTHを徹底比較。経費率0.07%の最安値VTから機関投資家御用達のACWIまで、コスト差・分散銘柄数・リターン・新興国比率の違いを詳しく解説。NISAやiDeCoとの組み合わせ方も紹介する2026年版完全ガイドです。"
+description: "全世界株ETFの代表格VT・ACWI・URTHを徹底比較。経費率0.07%の最安値VTから機関投資家御用達のACWIまで、コスト差・分散銘柄数・リターン・新興国比率の違いを詳しく解説。NISA・iDeCoとの組み合わせ方も紹介する2026年版完全ガイド。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-02-global-all-world-etf-vt-acwi-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

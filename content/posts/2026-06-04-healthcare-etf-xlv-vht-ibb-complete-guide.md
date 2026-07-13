@@ -1,10 +1,10 @@
 ---
-title: "XLV・VHT・IBB 徹底比較｜ヘルスケアETFの特徴と選び方【2026年版】"
+title: "XLV・VHT・IBB 徹底比較2026年版｜ヘルスケアETFの特徴・選び方・投資タイミング"
 date: 2026-06-04
 draft: false
-tags: ["ETF", "ヘルスケア", "XLV", "VHT", "IBB", "投資"]
+tags: ["ETF", "ヘルスケア", "XLV", "VHT", "IBB", "セクターETF", "ディフェンシブ株", "米国株", "投資", "医療株"]
 categories: ["投資戦略・資産運用"]
-description: "ヘルスケアETF（XLV・VHT・IBB）の特徴・コスト・パフォーマンスを徹底比較。景気に左右されにくいディフェンシブセクターとして注目される医療・製薬・バイオテクへの投資方法を解説。"
+description: "ヘルスケアETF（XLV・VHT・IBB）の特徴・コスト・パフォーマンスを徹底比較。景気に左右されにくいディフェンシブセクターとして注目される医療・製薬・バイオテクへの投資方法と2026年の選び方を解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-04-healthcare-etf-xlv-vht-ibb-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

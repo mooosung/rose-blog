@@ -1,10 +1,10 @@
 ---
-title: "ドルコスト平均法とは？積立投資のメリット・デメリットとシミュレーション"
+title: "ドルコスト平均法とは？積立投資のメリット・デメリットとシミュレーション完全ガイド"
 date: 2026-05-09
 draft: false
-tags: ["積立投資", "ドルコスト平均法", "NISA", "インデックス投資", "資産運用"]
+tags: ["積立投資", "ドルコスト平均法", "NISA", "インデックス投資", "資産運用", "iDeCo", "長期投資", "投資初心者"]
 categories: ["投資入門"]
-description: "ドルコスト平均法（積立投資）の仕組みをわかりやすく解説。NISA・iDeCoとの組み合わせ方、メリット・デメリット、実践的な始め方まで完全網羅。"
+description: "ドルコスト平均法（積立投資）の仕組みをわかりやすく解説。NISA・iDeCoとの組み合わせ方・メリット・デメリット・一括投資との比較・実践的な始め方まで完全網羅。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-09-dollar-cost-averaging-complete-guide.jpg"
 featureimagecaption: ""
 ---

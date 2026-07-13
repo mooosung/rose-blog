@@ -1,11 +1,11 @@
 ---
-title: "NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈"
+title: "NISAでAI株投資入門【2026年版】｜初心者向け5つのポイントと銘柄選びの基本"
 date: 2026-02-28
 draft: false
 featured: false
-tags: ["NISA", "AI株", "投資入門", "初心者", "証券口座", "インデックス投資"]
+tags: ["NISA", "新NISA", "AI株", "投資入門", "初心者", "AI投資", "証券口座", "インデックス投資", "長期投資"]
 categories: ["投資入門"]
-description: "NISAを使ってAI関連株に投資したい初心者向けの完全ガイド。口座開設から銘柄選びまで、知っておくべき5つのポイントをローゼンマイヤーがわかりやすく解説しますわ。"
+description: "新NISAを活用してAI関連株への投資を始めたい初心者向け完全ガイド。口座開設の選び方から有望AI銘柄の基準・インデックスとの使い分けまで、初心者がつまずくポイントをわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-28-nisa-ai-stocks-beginners-guide.jpg"
 featureimagecaption: ""
 ---

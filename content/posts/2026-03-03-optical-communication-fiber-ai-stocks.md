@@ -1,10 +1,10 @@
 ---
-title: "光通信とは？AI時代のデータ爆発を支える光ファイバー関連株【ツルハシ投資】🌹"
+title: "光通信・光ファイバーとは？AIデータ爆発を支えるインフラと注目株【ツルハシ投資】"
 date: 2026-03-03
 draft: false
-tags: ["光通信", "光ファイバー", "AIインフラ株", "データセンター", "フォトニクス", "Coherent", "古河電工", "フジクラ", "長期投資", "NISA", "AIバブル"]
+tags: ["光通信", "光ファイバー", "AIインフラ株", "データセンター", "フォトニクス", "Coherent", "古河電工", "フジクラ", "ツルハシ投資", "NISA"]
 categories: ["ツルハシ投資"]
-description: "AI時代のデータ爆発を支える「光通信・光ファイバー」技術を徹底解説。なぜ今この分野が注目されているのか、関連する投資銘柄をNISA・長期投資の観点からわかりやすく解説します。"
+description: "AI時代のデータ爆発を支える「光通信・光ファイバー」技術を徹底解説。Coherent・古河電工（5801）・フジクラ（5803）など関連注目銘柄の強みをNISA・長期投資の観点からわかりやすく比較します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-03-optical-communication-fiber-ai-stocks.jpg"
 featureimagecaption: ""
 ---

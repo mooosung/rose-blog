@@ -1,10 +1,10 @@
 ---
-title: "SBI証券 vs 楽天証券 徹底比較 - NISA口座はどちらがおすすめ？"
+title: "SBI証券 vs 楽天証券 徹底比較2026｜NISA口座・手数料・使いやすさを比較"
 date: 2026-04-23
 draft: false
-tags: ["SBI証券", "楽天証券", "NISA", "証券会社比較", "投資初心者"]
+tags: ["SBI証券", "楽天証券", "NISA", "証券会社比較", "投資初心者", "手数料", "口座開設", "インデックス投資"]
 categories: ["投資入門"]
-description: "SBI証券と楽天証券をNISA・手数料・使いやすさで徹底比較。投資初心者がどちらの証券会社を選べばよいか、具体的なポイントを解説します。"
+description: "SBI証券と楽天証券をNISA・手数料・使いやすさで徹底比較。投資初心者がどちらの証券会社を選べばよいか、ポイント還元・銘柄数・アプリの違いを具体的に解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Anthropic、Claude料金改定を土壇場で撤回｜OpenAI価格戦争とIPOが背景に"
+title: "Anthropic Claude料金改定を直前撤回｜OpenAI価格戦争とIPO準備が背景に2026年6月"
 date: 2026-06-17
 draft: false
-tags: ["Anthropic", "Claude", "OpenAI", "AI価格競争", "IPO", "AI SaaS", "ClaudeAPI"]
+tags: ["Anthropic", "Claude", "OpenAI", "AI価格競争", "IPO", "AI SaaS", "ClaudeAPI", "AI規制", "生成AI", "AI投資"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
-description: "Anthropicが2026年6月15日予定のAgent SDK課金変更を直前で撤回。OpenAIとのAPI価格戦争、IPO準備、米国政府の規制圧力が複合的に影響した決断を分析する。"
+description: "Anthropicが2026年6月15日予定のAgent SDK課金変更を直前で撤回。OpenAIとのAPI価格戦争・Anthropic IPO準備・米国政府の規制圧力が複合的に影響した決断の全容を分析する。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

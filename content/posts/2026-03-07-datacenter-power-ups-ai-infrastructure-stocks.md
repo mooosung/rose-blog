@@ -1,11 +1,11 @@
 ---
-title: "データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹"
+title: "データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説"
 date: 2026-03-07T21:00:00+09:00
 draft: false
 featured: false
-tags: ["データセンター", "UPS", "電力インフラ", "AI投資", "富士電機", "Vertiv", "Eaton", "シュナイダーエレクトリック", "長期投資", "NISA"]
+tags: ["UPS", "無停電電源装置", "データセンター", "電力インフラ", "富士電機", "Vertiv", "Eaton", "シュナイダーエレクトリック", "AIインフラ株", "ツルハシ投資", "NISA"]
 categories: ["ツルハシ投資", "AI活用術"]
-description: "AI需要の爆発でデータセンターの電力消費が急増中。UPS（無停電電源装置）や電源システムを提供する企業は、まさにAIバブルの「ツルハシ売り」。富士電機・Vertiv・Eatonなど注目銘柄を解説します。"
+description: "AI需要の爆発でデータセンターの電力消費が急増中。UPS（無停電電源装置）・電源システムを提供する富士電機・Vertiv・Eatonがなぜ注目ツルハシ株なのか、NISA・長期投資の観点から徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "QYLD・XYLD 徹底解説｜カバードコール型ETFで高配当を得る仕組みと落とし穴"
+title: "QYLD・XYLD徹底解説｜カバードコール型高配当ETFの仕組みと落とし穴"
 date: 2026-04-25
 draft: false
-tags: ["ETF", "配当投資", "カバードコール", "QYLD", "XYLD", "米国株"]
+tags: ["ETF", "配当投資", "カバードコール", "QYLD", "XYLD", "米国株", "高配当ETF", "NISA", "オプション戦略"]
 categories: ["投資戦略・資産運用"]
-description: "カバードコール型ETFのQYLDとXYLDについて、仕組み・利回り・リスク・向いている投資家像まで徹底解説。高配当の裏にある代償を理解して賢く活用しましょう。"
+description: "カバードコール型ETFのQYLDとXYLDについて、仕組み・配当利回り・リスク・向いている投資家像まで徹底解説。月次高配当の裏にある代償とSCHDとの比較も詳しく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-25-covered-call-etf-qyld-xyld-guide.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "サイバーセキュリティETF完全ガイド2026──HACK・CIBR・BUGを徹底比較"
+title: "HACK・CIBR・BUG比較｜サイバーセキュリティETF完全ガイド2026"
 date: 2026-05-15
 draft: false
-tags: ["ETF", "サイバーセキュリティ", "HACK", "CIBR", "BUG", "米国株", "テーマ投資"]
+tags: ["ETF", "サイバーセキュリティ", "HACK", "CIBR", "BUG", "米国株", "テーマ投資", "AI投資", "長期投資", "NISA"]
 categories: ["ETF・投資信託"]
-description: "サイバーセキュリティETFの代表格HACK・CIBR・BUGを徹底比較。AI時代にサイバー脅威が増大するなか、コスト・純度・安定感の観点からどのETFが長期投資に向いているか解説します。"
+description: "サイバーセキュリティETFの代表格HACK・CIBR・BUGを徹底比較。AI時代にサイバー脅威が増大するなか、コスト・純度・安定感から長期投資に向くETFを解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide.jpg"
 featureimagecaption: ""
 ---

@@ -1,12 +1,12 @@
 ---
-title: "月10万円の配当収入を目指す！高配当ポートフォリオの設計方法と必要資産額"
+title: "月10万円の配当収入を実現するポートフォリオ設計｜必要資産額と銘柄選びのロードマップ"
 date: 2026-06-13
 draft: false
 featured: false
-description: "月10万円の配当生活に必要な資産額を逆算。ETFと個別株のバランス、日本株・米国株・REITの組み合わせ、段階的に配当収入を積み上げるロードマップを詳しく解説します。"
+description: "月10万円の配当生活に必要な資産額を逆算。ETFと個別株のバランス、日本株・米国株・REITの組み合わせ、NISA活用で税効率を高める方法、段階的に配当収入を積み上げるロードマップを詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-13-monthly-100k-dividend-income-portfolio-design.jpg"
 featureimagecaption: ""
-tags: ["配当投資", "高配当株", "ポートフォリオ", "配当生活", "FIRE", "月10万円", "資産形成", "インカム投資"]
+tags: ["配当投資", "高配当株", "ポートフォリオ", "配当生活", "FIRE", "月10万円", "資産形成", "インカム投資", "NISA", "REIT"]
 categories: ["高配当株・配当再投資"]
 ---
 

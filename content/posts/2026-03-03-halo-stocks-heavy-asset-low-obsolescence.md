@@ -1,11 +1,11 @@
 ---
-title: "HALO銘柄とは？AIに代替されない「重厚長大」投資テーマを徹底解説【2026年注目】🌹"
+title: "HALO銘柄とは？AIに代替されない「重厚長大」投資テーマ徹底解説【2026年注目】"
 date: 2026-03-03
 draft: false
 featured: false
-tags: ["HALO銘柄", "Heavy Asset Low Obsolescence", "SaaSの死", "AI時代の投資", "バリュー株", "エネルギー株", "インフラ株", "長期投資", "NISA", "ウォール街"]
+tags: ["HALO銘柄", "Heavy Asset Low Obsolescence", "バリュー株", "エネルギー株", "インフラ株", "AIに代替されない株", "長期投資", "NISA", "2026年投資テーマ"]
 categories: ["投資戦略・資産運用", "AI活用術"]
-description: "2026年ウォール街で話題の「HALO銘柄」（Heavy Asset Low Obsolescence）を徹底解説。AIに代替されにくい重厚資産企業への投資戦略、具体的な銘柄例、日本株への応用まで初心者にもわかりやすく解説します。"
+description: "ウォール街で話題の「HALO銘柄（Heavy Asset Low Obsolescence）」を徹底解説。SaaS崩壊後の時代になぜ重厚資産株が注目されるのか、具体的銘柄例・日本株への応用まで初心者にもわかりやすくまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-03-halo-stocks-heavy-asset-low-obsolescence.jpg"
 featureimagecaption: ""
 ---

@@ -1,10 +1,10 @@
 ---
-title: "FIREを目指す投資戦略｜資産形成のロードマップと必要額の計算方法"
+title: "FIRE（経済的自立・早期退職）達成のための投資戦略｜必要資産額の計算方法"
 date: 2026-04-18
 draft: false
-tags: ["FIRE", "経済的自立", "早期退職", "インデックス投資", "資産運用"]
+tags: ["FIRE", "経済的自立", "早期退職", "インデックス投資", "資産運用", "配当投資", "長期投資", "4%ルール"]
 categories: ["投資戦略・資産運用"]
-description: "FIRE（Financial Independence, Retire Early）を達成するための具体的な投資戦略を解説。必要資産額の計算方法から、インデックス投資・配当投資の活用法、日本でFIREを実現するためのロードマップまで詳しく紹介します。"
+description: "FIRE（Financial Independence, Retire Early）を達成するための具体的な投資戦略を解説。必要資産額の計算方法・インデックス投資・配当投資の活用法・日本でFIREを実現するロードマップを詳しく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-18-fire-financial-independence-retire-early-guide.jpg"
 featureimagecaption: ""
 ---

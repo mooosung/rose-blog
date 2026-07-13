@@ -1,8 +1,8 @@
 ---
-title: "ユーティリティETF完全ガイド【XLU・VPU・IDU】守りの投資で安定配当を得る方法"
+title: "XLU・VPU・IDU比較｜ユーティリティETF完全ガイド・守りの投資で安定配当を得る方法"
 date: 2026-05-31
 draft: false
-tags: ["ETF", "ユーティリティ", "XLU", "VPU", "配当投資", "ディフェンシブ"]
+tags: ["ETF", "ユーティリティ", "XLU", "VPU", "IDU", "配当投資", "ディフェンシブ", "NISA", "長期投資", "安定配当"]
 categories: ["投資戦略・資産運用"]
 description: "ユーティリティETF（XLU・VPU・IDU）の特徴・経費率・配当利回りを徹底比較。景気後退に強いディフェンシブ投資として注目される電力・ガス・水道セクターへの投資方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-31-utilities-etf-xlu-vpu-idu-complete-guide.jpg"

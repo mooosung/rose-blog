@@ -1,12 +1,12 @@
 ---
-title: "500万円から始める配当生活への道｜10年・20年後の資産シミュレーション"
+title: "500万円から始める配当生活シミュレーション｜10年・20年後の資産推移と段階的ロードマップ"
 date: 2026-07-04
 draft: false
 featured: true
-description: "500万円の元手から配当再投資で20年間積み立てた場合の資産推移をシミュレーション。配当生活への段階的ステップと、配当金の賢い使い方戦略を詳しく解説します。"
+description: "500万円の元手から配当再投資で20年間積み立てた場合の資産推移をシミュレーション。DRIP戦略・NISA活用・配当生活への段階的ステップと、高配当ETF（VYM・SCHD）を使った配当金の賢い使い方を詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
 featureimagecaption: ""
-tags: ["配当生活", "資産シミュレーション", "配当再投資", "高配当株", "FIRE", "資産形成", "複利", "インカム投資"]
+tags: ["配当生活", "資産シミュレーション", "配当再投資", "高配当株", "FIRE", "資産形成", "複利", "VYM", "SCHD", "NISA"]
 categories: ["高配当株・配当再投資"]
 ---
 

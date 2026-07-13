@@ -1,10 +1,10 @@
 ---
-title: "DBC・PDBC・GSG 徹底比較｜コモディティETFでインフレに強い資産分散2026年版"
+title: "DBC・PDBC・GSG 徹底比較2026年版｜コモディティETFでインフレに強いポートフォリオを作る"
 date: 2026-06-14
 draft: false
-tags: ["コモディティ", "ETF", "オルタナティブ投資", "インフレ対策", "資産分散"]
+tags: ["コモディティ", "ETF", "DBC", "PDBC", "GSG", "オルタナティブ投資", "インフレ対策", "資産分散", "原油", "金属"]
 categories: ["ETF・投資信託", "オルタナティブ投資"]
-description: "原油・穀物・金属など商品(コモディティ)にまとめて投資できるETF、DBC・PDBC・GSGを徹底比較。経費率・構成・税制の違いと、ポートフォリオへの組み込み方をわかりやすく解説します。"
+description: "原油・穀物・金属など商品（コモディティ）にまとめて投資できるETF、DBC・PDBC・GSGを徹底比較。経費率・構成・税制の違いと、インフレ対策・資産分散としてのポートフォリオへの組み込み方をわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-14-commodity-etf-dbc-pdbc-gsg-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

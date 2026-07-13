@@ -1,10 +1,10 @@
 ---
-title: "AIライティングツール徹底比較｜ChatGPT・Claude・Geminiの使い分け完全ガイド"
+title: "AIライティングツール徹底比較【2026年版】｜ChatGPT・Claude・Geminiの使い分け完全ガイド"
 date: 2026-03-25
 draft: false
-tags: ["AI", "ChatGPT", "Claude", "Gemini", "ライティング", "生産性"]
+tags: ["AIライティング", "ChatGPT", "Claude", "Gemini", "AI比較", "生産性", "ライティングツール", "AI活用", "ブログ"]
 categories: ["AI活用術"]
-description: "ChatGPT、Claude、Geminiなど主要AIライティングツールを徹底比較。それぞれの強み・弱み・料金・最適な用途を解説し、目的別の使い分け方を紹介します。"
+description: "ChatGPT・Claude・Geminiなど主要AIライティングツールを徹底比較。料金・文章品質・強みと弱みを分析し、ブログ執筆・ビジネス文書・コーディングなど目的別の最適な使い分け方を初心者向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-25-ai-writing-tools-comparison-guide.jpg"
 featureimagecaption: ""
 ---

@@ -1,11 +1,11 @@
 ---
-title: "新NISAの成長投資枠とは？使い方・おすすめ商品・つみたて投資枠との違いを徹底解説"
+title: "新NISA成長投資枠とは？使い方・おすすめ商品・つみたて枠との違いを徹底解説【2026年版】"
 date: 2026-03-24
 draft: false
 featured: false
-tags: ["新NISA", "成長投資枠", "つみたて投資枠", "資産運用", "投資信託"]
+tags: ["新NISA", "成長投資枠", "つみたて投資枠", "資産運用", "投資信託", "ETF", "長期投資", "NISA活用", "初心者"]
 categories: ["NISA・iDeCo"]
-description: "新NISAの成長投資枠の仕組み・対象商品・つみたて投資枠との違いをわかりやすく解説。初心者が迷わない活用戦略とおすすめの使い方を紹介します。"
+description: "新NISAの成長投資枠（年240万円）の仕組み・対象商品・つみたて投資枠との使い分けをわかりやすく解説。初心者が迷わない活用戦略とおすすめ銘柄・ETFの選び方まで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-24-shin-nisa-growth-investment-guide.jpg"
 featureimagecaption: ""
 ---

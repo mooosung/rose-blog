@@ -1,10 +1,10 @@
 ---
-title: "ESG投資とは？2026年のサステナブル株・ETFを取り込む資産運用戦略"
+title: "ESG投資完全ガイド2026｜サステナブル株・ETFで社会貢献しながら資産形成する方法"
 date: 2026-05-10
 draft: false
-tags: ["ESG投資", "サステナブル投資", "ETF", "長期投資", "社会的責任投資"]
+tags: ["ESG投資", "サステナブル投資", "ETF", "長期投資", "社会的責任投資", "NISA", "グリーン投資", "分散投資"]
 categories: ["投資戦略・資産運用"]
-description: "ESG投資・サステナブル投資の基本から実践方法まで徹底解説。代表的なESG ETFの比較、日本のNISA口座での活用法、リターンと社会貢献を両立する長期資産形成戦略を紹介します。"
+description: "ESG投資・サステナブル投資の基本から実践方法まで徹底解説。代表的なESG ETFの比較・NISA口座での活用法・リターンと社会貢献を両立する長期資産形成戦略を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-10-esg-sustainable-investment-complete-guide.jpg"
 featureimagecaption: ""
 ---

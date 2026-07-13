@@ -1,10 +1,10 @@
 ---
-title: "XLE・VDE・IXC 比較｜エネルギーETFの特徴と2026年の投資戦略"
+title: "XLE・VDE・IXC比較｜エネルギーETFの特徴とAI電力需要時代の投資戦略2026"
 date: 2026-05-26
 draft: false
-tags: ["ETF", "エネルギー株", "XLE", "VDE", "IXC", "米国株投資", "配当投資"]
+tags: ["ETF", "エネルギー株", "XLE", "VDE", "IXC", "米国株投資", "配当投資", "AI電力需要", "長期投資", "NISA"]
 categories: ["ETF・投資信託"]
-description: "エネルギーセクターETFの代表格であるXLE・VDE・IXCを徹底比較。AI電力需要で再注目されるエネルギー株への投資方法、メリット・デメリット、選び方を初心者にもわかりやすく解説します。"
+description: "エネルギーセクターETFの代表格XLE・VDE・IXCを徹底比較。AI電力需要で再注目されるエネルギー株への投資方法・高配当の特徴・メリット・デメリット・選び方を初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-26-energy-etf-xle-vde-ixc-complete-guide.jpg"
 featureimagecaption: "Photo by LoremFlickr"
 ---

@@ -1,11 +1,11 @@
 ---
-title: "S&P500 vs 全世界株式「オルカン」どっちを選ぶべき？徹底比較ガイド"
+title: "S&P500 vs オルカン（全世界株式）どっちを選ぶ？新NISAで迷う人向け徹底比較【2026年版】"
 date: 2026-03-20
 draft: false
 featured: false
-tags: ["S&P500", "オルカン", "全世界株式", "ETF", "インデックス投資", "新NISA"]
+tags: ["S&P500", "オルカン", "全世界株式", "VT", "ETF", "インデックス投資", "新NISA", "つみたて投資", "比較", "長期投資"]
 categories: ["ETF・投資信託"]
-description: "S&P500と全世界株式（オルカン）の違いをリターン・リスク・コスト・将来性の観点から徹底比較。新NISAでどちらを選ぶべきか、初心者にもわかりやすく解説します。"
+description: "S&P500と全世界株式（オルカン・VT）の違いをリターン・リスク・コスト・将来性の4軸で徹底比較。新NISAのつみたて枠でどちらを選ぶべきか、初心者にもわかりやすく解説し最適解を提案します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-20-sp500-vs-all-country-world-index-comparison.jpg"
 featureimagecaption: ""
 ---

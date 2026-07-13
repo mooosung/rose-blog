@@ -1,10 +1,10 @@
 ---
-title: "Python×株式投資の始め方｜初心者がデータ分析で個人投資家の武器を手に入れる方法【2026年版】🌹"
+title: "Python×株式投資の始め方【2026年版】｜初心者がyfinanceでデータ分析を実践する完全ガイド"
 date: 2026-03-15
 draft: false
-tags: ["Python", "株式投資", "データ分析", "スキル投資", "副業", "プログラミング", "yfinance", "pandas", "自動化", "AI時代"]
+tags: ["Python", "株式投資", "yfinance", "pandas", "データ分析", "プログラミング", "スキル投資", "副業", "自動化", "AI時代"]
 categories: ["スキル投資・副業戦略"]
-description: "Pythonを使って株式投資のデータ分析を始める方法を初心者向けに徹底解説。環境構築からyfinanceでの株価取得、pandasでの分析、スクリーニング自動化まで、AI時代に個人投資家が身につけるべきスキルをステップバイステップで紹介します。"
+description: "Pythonで株式投資のデータ分析を始める初心者向け完全ガイド。環境構築・yfinanceでの株価取得・pandasでの分析・スクリーニング自動化まで、AI時代に個人投資家が身につけるべきスキルをステップバイステップで解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-15-python-stock-investing-beginners-guide.jpg"
 featureimagecaption: ""
 ---

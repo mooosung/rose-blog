@@ -1,11 +1,11 @@
 ---
-title: "SCHD vs VYM 徹底比較｜米国高配当ETFどちらを選ぶべき？2026年版"
+title: "SCHD完全ガイド【2026年版】｜VYMと徹底比較・米国高配当ETFどちらを選ぶべき？"
 date: 2026-03-27
 draft: false
 featured: false
-tags: ["SCHD", "ETF", "米国株", "高配当", "長期投資", "配当金"]
+tags: ["SCHD", "VYM", "高配当ETF", "米国株", "配当金", "連続増配", "長期投資", "NISA", "ETF比較"]
 categories: ["ETF・投資信託"]
-description: "SCHD（シュワブ米国配当株式ETF）の特徴・配当利回り・構成銘柄・VYMとの違いを徹底解説。長期投資家に人気の理由と、NISAでの活用法まで網羅。"
+description: "SCHD（シュワブ米国配当株式ETF）の特徴・配当利回り・構成銘柄・経費率をVYMと徹底比較。連続増配の仕組みと長期投資での複利効果、NISAでの活用法まで初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-27-schd-us-dividend-etf-complete-guide.jpg"
 featureimagecaption: ""
 ---

@@ -1,18 +1,11 @@
 ---
-title: "配当再投資（DRIP）で資産が雪だるま式に増える仕組み｜20年シミュレーションで複利の威力を検証"
+title: "配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説"
 date: 2026-06-21
 slug: 2026-06-21-dividend-reinvestment-drip-compound-growth
 categories:
   - 高配当株・配当再投資
-tags:
-  - 配当再投資
-  - DRIP
-  - 複利
-  - 高配当株
-  - VYM
-  - SCHD
-  - 長期投資
-description: "配当再投資（DRIP）の仕組みと複利効果を20年シミュレーションで解説。VYM・SCHDなど人気ETFのDRIP設定方法から二重課税対策まで、高配当株投資を最大化する戦略をローゼが徹底解説しますわ。"
+tags: ["配当再投資", "DRIP", "複利", "高配当株", "VYM", "SCHD", "長期投資", "NISA", "配当投資", "資産形成"]
+description: "配当再投資（DRIP）の仕組みと複利効果を20年シミュレーションで解説。VYM・SCHDなど人気ETFのDRIP設定方法から二重課税対策、NISA口座でのDRIP活用まで、高配当株投資を最大化する戦略を徹底解説します。"
 summary: "配当金をそのまま再投資するDRIP戦略——100万円を20年間DRIPし続けたらいくらになる？シミュレーション表と実践方法をまとめましたわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-21-dividend-reinvestment-drip-compound-growth.jpg"
 ---

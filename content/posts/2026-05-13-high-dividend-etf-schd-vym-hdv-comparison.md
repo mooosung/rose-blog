@@ -1,10 +1,10 @@
 ---
-title: "高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方"
+title: "SCHD・VYM・HDV徹底比較｜高配当ETF3選の違いと最適な選び方【2026年版】"
 date: 2026-05-13
 draft: false
-tags: ["ETF", "高配当", "SCHD", "VYM", "HDV", "配当投資", "米国株"]
+tags: ["ETF", "高配当", "SCHD", "VYM", "HDV", "配当投資", "米国株", "NISA", "長期投資", "増配株"]
 categories: ["投資戦略・資産運用"]
-description: "SCHD・VYM・HDVの3大高配当ETFを徹底比較。配当利回り・増配実績・構成銘柄・コストの違いを解説し、あなたに合った選び方を紹介します。"
+description: "SCHD・VYM・HDVの3大高配当ETFを徹底比較。配当利回り・増配実績・構成銘柄・経費率の違いを解説し、配当再投資・NISA活用でどのETFが最適かを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison.jpg"
 featureimagecaption: ""
 ---

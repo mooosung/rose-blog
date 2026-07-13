@@ -1,8 +1,8 @@
 ---
-title: "GLD・IAU・GLDM 比較｜金ETFの選び方と投資タイミング【2026年版】"
+title: "GLD・IAU・GLDM 徹底比較2026年版｜金ETFの選び方とインフレヘッジ投資タイミング"
 date: 2026-06-05
 draft: false
-tags: ["ETF", "金", "ゴールド", "GLD", "IAU", "GLDM", "投資", "インフレヘッジ"]
+tags: ["ETF", "金", "ゴールド", "GLD", "IAU", "GLDM", "投資", "インフレヘッジ", "オルタナティブ投資", "資産分散"]
 categories: ["ETF・投資信託"]
 description: "金ETF（GLD・IAU・GLDM）の特徴・経費率・流動性・運用資産を徹底比較。インフレヘッジや有事の金として注目を集める金投資を、低コストなETFで賢く行う方法と選び方のポイントを詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-05-gold-etf-gld-iau-gldm-complete-guide.jpg"

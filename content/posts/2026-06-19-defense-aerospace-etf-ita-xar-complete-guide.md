@@ -1,10 +1,10 @@
 ---
-title: "防衛・宇宙航空ETF（ITA・XAR）完全ガイド：地政学リスク時代のポートフォリオ戦略2026"
+title: "防衛・宇宙航空ETF（ITA・XAR）完全ガイド2026年版｜地政学リスク時代の分散投資戦略"
 date: 2026-06-19
 draft: false
-tags: ["ETF", "米国株", "防衛株", "宇宙航空", "ITA", "XAR", "セクターETF", "地政学リスク"]
+tags: ["ETF", "防衛株", "宇宙航空", "ITA", "XAR", "セクターETF", "地政学リスク", "米国株", "長期投資", "分散投資"]
 categories: ["米国株・ETF長期投資"]
-description: "ITA・XARなど防衛・宇宙航空セクターETFを徹底比較。各国防衛費急増・AI軍事技術融合が進む2026年、ポートフォリオに防衛株を組み込む意義・リスク・活用法を詳しく解説します。"
+description: "ITA・XARなど防衛・宇宙航空セクターETFを徹底比較。各国防衛費急増・AI軍事技術融合が進む2026年、ロッキード・マーティン・RTX・ノースロップ・グラマンをETFで保有する意義・リスク・活用法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-19-defense-aerospace-etf-ita-xar-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

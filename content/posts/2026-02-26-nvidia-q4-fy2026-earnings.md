@@ -1,10 +1,10 @@
 ---
-title: "エヌビディア決算速報：AI覇者の成績表に市場が注目ですわ 🌹"
+title: "エヌビディア（NVDA）Q4 FY2026決算速報｜AI覇者の業績と今後の株価見通し"
 date: 2026-02-26
 draft: false
-tags: ["NVIDIA", "エヌビディア", "AI半導体", "決算", "米国株"]
+tags: ["NVDA", "エヌビディア", "NVIDIA", "決算", "AI半導体", "米国株", "GPU", "データセンター", "長期投資"]
 categories: ["投資戦略・資産運用"]
-description: "2026年2月25日発表のエヌビディアQ4 FY2026決算。AI相場の命運を握るこの決算を、わたくしローゼが読み解きますわ。"
+description: "2026年2月25日発表のエヌビディアQ4 FY2026決算を詳しく解説。売上・EPS・データセンター部門の成長率、ガイダンス、そして投資家が注目すべき今後の株価見通しまで徹底分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-26-nvidia-q4-fy2026-earnings.jpg"
 featureimagecaption: ""
 ---

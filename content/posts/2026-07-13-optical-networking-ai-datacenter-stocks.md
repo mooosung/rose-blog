@@ -1,10 +1,10 @@
 ---
-title: "AIデータセンターの「光の血管」光ネットワーク株（Coherent・Lumentum・Fabrinet）徹底解説"
+title: "光ネットワーク株2026年版｜Coherent・Lumentum・FabrinetがAIデータセンターの「光の血管」として急成長【ツルハシ投資】"
 date: 2026-07-13
 draft: false
-tags: ["ツルハシ投資", "AIインフラ株", "光ネットワーク", "Coherent", "Lumentum", "Fabrinet", "米国株"]
+tags: ["ツルハシ投資", "AIインフラ株", "光ネットワーク", "Coherent", "Lumentum", "Fabrinet", "米国株", "NVIDIA", "データセンター", "長期投資"]
 categories: ["ツルハシ投資"]
-description: "AIデータセンターでGPUクラスターを繋ぐ光ネットワーク株（Coherent・Lumentum・Fabrinet）の業績・成長性・投資ポイントをツルハシ視点で徹底解説。NVIDIAが40億ドルを投資した注目セクター。"
+description: "AIデータセンターでGPUクラスターを繋ぐ光ネットワーク株（Coherent・Lumentum・Fabrinet）の業績・成長性・投資ポイントをツルハシ視点で徹底解説。NVIDIAが40億ドルを投資した注目セクターの将来性を分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-13-optical-networking-ai-datacenter-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

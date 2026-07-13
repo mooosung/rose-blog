@@ -1,8 +1,8 @@
 ---
-title: "SOXX・SMH・SOXQ 比較｜半導体ETFの違いとAI時代の選び方【2026年版】"
+title: "SOXX・SMH・SOXQ比較｜半導体ETFの違いとAI時代の選び方完全ガイド【2026年版】"
 date: 2026-05-20
 draft: false
-tags: ["半導体ETF", "SOXX", "SMH", "ETF", "投資"]
+tags: ["半導体ETF", "SOXX", "SMH", "SOXQ", "ETF", "AI投資", "NISA", "長期投資", "テクノロジー株"]
 categories: ["ETF・投資信託"]
 description: "半導体ETFのSOXX・SMH・SOXQを徹底比較。経費率・構成銘柄・パフォーマンスの違いをわかりやすく解説。AI需要拡大で注目の半導体セクターへの投資方法を2026年最新情報でお届けします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide.jpg"

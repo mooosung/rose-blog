@@ -1,10 +1,10 @@
 ---
-title: "AI時代のスキル投資とは？2026年に副業収入を生む5つのスキルと学習ロードマップ"
+title: "AI時代のスキル投資【2026年版】｜副業収入を生む5つのスキルと学習ロードマップ完全解説"
 date: 2026-03-29
 draft: false
-tags: ["スキル投資", "副業", "AI活用", "資産形成", "キャリア"]
+tags: ["スキル投資", "副業", "AI活用", "資産形成", "キャリア", "Python", "Webライティング", "2026年", "副業収入"]
 categories: ["スキル投資・副業戦略"]
-description: "「スキル投資」は最も利回りの高い投資のひとつ。AI時代に需要が急騰している5つのスキルと、副業収入につながる具体的な学習ロードマップを解説します。"
+description: "「スキル投資」は最も利回りの高い投資のひとつ。AI時代に需要が急騰している5つのスキル（Python・AI活用・動画編集・Webライティング等）と、副業収入に直結する具体的な学習ロードマップを徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-29-skill-investment-side-job-guide.jpg"
 featureimagecaption: ""
 ---

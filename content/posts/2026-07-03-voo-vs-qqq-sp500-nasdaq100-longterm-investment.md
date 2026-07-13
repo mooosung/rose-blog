@@ -1,10 +1,10 @@
 ---
-title: "VOO vs QQQ：S&P500とナスダック100、長期積立はどちらが正解か"
+title: "VOO vs QQQ 徹底比較2026年版｜S&P500とナスダック100、長期積立NISAはどちらが正解か"
 date: 2026-07-03
 draft: false
-tags: ["VOO", "QQQ", "ETF", "S&P500", "ナスダック100", "米国株", "長期投資", "積立NISA"]
+tags: ["VOO", "QQQ", "ETF", "S&P500", "ナスダック100", "米国株", "長期投資", "NISA", "積立投資", "インデックス投資"]
 categories: ["米国株・ETF長期投資"]
-description: "VOO（S&P500）とQQQ（ナスダック100）を徹底比較。10年リターン・ボラティリティ・コスト・セクター構成を分析し、長期積立NISA向けETFの正しい選び方を解説します。"
+description: "VOO（S&P500）とQQQ（ナスダック100）を徹底比較。10年リターン・ボラティリティ・コスト・セクター構成を分析し、長期積立NISA向けETFの正しい選び方と、両方持つ「VOO+QQQ」戦略の効果も解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: true

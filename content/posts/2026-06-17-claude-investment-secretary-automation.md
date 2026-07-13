@@ -1,10 +1,10 @@
 ---
-title: "Claudeで作る「投資家の秘書」：銘柄ウォッチ＆決算サマリー自動化術【2026年版】"
+title: "Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術"
 date: 2026-06-17
 draft: false
-tags: ["AI活用", "Claude", "投資自動化", "決算分析", "生産性ハック", "ChatGPT", "プロンプト"]
+tags: ["AI活用", "Claude", "ChatGPT", "投資自動化", "決算分析", "生産性ハック", "プロンプト", "投資リサーチ", "株式投資", "銘柄分析"]
 categories: ["AI活用術"]
-description: "Claude・ChatGPTをパーソナル投資秘書として活用する実践ガイド。銘柄ウォッチリスト管理から決算サマリー自動生成まで、AIで投資リサーチ時間を劇的に短縮する方法を解説しますわ。"
+description: "Claude・ChatGPTをパーソナル投資秘書として活用する実践ガイド。銘柄ウォッチリスト管理から決算サマリー自動生成まで、AIで投資リサーチ時間を劇的に短縮する具体的なプロンプトと活用法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-claude-investment-secretary-automation.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

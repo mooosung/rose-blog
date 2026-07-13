@@ -1,12 +1,12 @@
 ---
-title: "高配当株の税金対策｜外国税額控除・NISA活用で手取り配当を最大化する方法"
+title: "米国株配当の外国税額控除・NISA活用ガイド｜二重課税を回避して手取り配当を最大化する方法"
 date: 2026-06-20
 draft: false
 featured: false
-description: "米国株配当の二重課税問題を徹底解説。外国税額控除の仕組みと確定申告の手順、NISA成長投資枠の活用法、特定口座とNISAの使い分け戦略まで、手取り配当を最大化する方法を紹介します。"
+description: "米国株配当の二重課税問題を徹底解説。外国税額控除の仕組みと確定申告の手順、NISA成長投資枠活用法、特定口座とNISAの使い分け戦略まで、高配当投資家が知っておくべき税金対策を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide.jpg"
 featureimagecaption: ""
-tags: ["税金対策", "外国税額控除", "NISA", "高配当株", "確定申告", "米国株", "二重課税", "配当投資"]
+tags: ["税金対策", "外国税額控除", "NISA", "高配当株", "確定申告", "米国株", "二重課税", "配当投資", "節税", "特定口座"]
 categories: ["高配当株・配当再投資"]
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "XLP・VDC 比較｜消費者必需品ETFで景気に左右されない守りの投資をする方法"
+title: "XLP・VDC比較｜消費者必需品ETFで景気に左右されない守りの投資戦略【2026年版】"
 date: 2026-05-27
 draft: false
-tags: ["ETF", "XLP", "VDC", "消費者必需品", "ディフェンシブ投資", "米国株"]
+tags: ["ETF", "XLP", "VDC", "消費者必需品", "ディフェンシブ投資", "米国株", "NISA", "長期投資", "高配当", "守り投資"]
 categories: ["ETF・投資信託"]
-description: "XLP・VDCなど消費者必需品セクターETFを徹底比較。不景気・暴落相場に強いディフェンシブETFの特徴・メリット・デメリット・選び方を初心者向けにわかりやすく解説します。"
+description: "XLP・VDCなど消費者必需品セクターETFを徹底比較。不景気・暴落相場に強いディフェンシブETFの特徴・メリット・デメリット・選び方と、NISA活用法を初心者向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-27-consumer-staples-etf-xlp-vdc-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
 ---
