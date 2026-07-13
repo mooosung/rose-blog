@@ -135,4 +135,12 @@ Vertiv、Ecolab、Schneider Electric、nVent、Modineなどの欧米銘柄に加
 
 - [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
 - [電線株とは？AI・データセンター需要で急騰する「電線御三家」と注目銘柄を解説【ツルハシ投資】🌹](/posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter/)
+
+---
+
+## 参考情報・データソース
+
+- [Vertiv - データセンター冷却・電源インフラ公式サイト](https://www.vertiv.com/)
+- [Schneider Electric - データセンター向けソリューション](https://www.se.com/jp/ja/work/solutions/for-business/it-and-data-centers/)
+- IDCの調査によると、データセンター向け液冷システム市場は2027年にかけて年率20%超の成長が見込まれており、空冷から液冷への移行加速が世界的なトレンドとなっています。
 - [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)

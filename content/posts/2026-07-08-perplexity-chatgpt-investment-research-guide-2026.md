@@ -3,7 +3,7 @@ title: "PerplexityとChatGPTで投資リサーチを10倍速にする実践術�
 date: 2026-07-08
 draft: false
 tags: ["AI活用", "投資リサーチ", "生産性ハック", "Perplexity", "ChatGPT"]
-categories: ["AI活用術・生産性ハック"]
+categories: ["AI活用術"]
 description: "PerplexityとChatGPTを使って株式・NISA・ETFの投資リサーチを劇的に効率化する具体的なプロンプトと使い方を徹底解説。2026年最新のAI活用術で情報収集時間を大幅に短縮しよう。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-08-perplexity-chatgpt-investment-research-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

@@ -3,7 +3,7 @@ title: "iDeCoの受け取り方で手取りが激変｜一時金・年金・併�
 date: 2026-06-16
 draft: false
 tags: ["iDeCo", "出口戦略", "退職所得控除", "節税", "老後資金", "公的年金等控除", "資産形成"]
-categories: ["NISA・iDeCo完全攻略"]
+categories: ["NISA・iDeCo"]
 description: "iDeCoは「貯める時」より「受け取る時」で手取りが大きく変わりますわ。一時金・年金・併用の3つの受け取り方を、退職所得控除・公的年金等控除の仕組みとあわせて徹底解説。受け取り順序の改正にも触れますの。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-16-ideco-payout-strategy-tax-optimization.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

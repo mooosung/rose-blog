@@ -7,6 +7,7 @@ categories: ["オルタナティブ投資"]
 description: "2024年に米国上場したイーサリアムETF（ETHA・FETH・ETHW）を徹底解説。ビットコインETFとの違い、信託報酬比較、ポートフォリオへの組み入れ方まで、初心者にもわかりやすく解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-12-ethereum-etf-etha-feth-investment-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+featured: true
 ---
 
 ポートフォリオに「第二の仮想通貨」を加えるとしたら、どう始めればいいのかしら？

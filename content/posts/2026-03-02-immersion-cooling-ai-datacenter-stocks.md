@@ -2,9 +2,9 @@
 title: "液浸冷却とは？AI時代のデータセンターを支える最先端冷却技術と注目株【ツルハシ投資】🌹"
 date: 2026-03-02
 draft: false
-featured: true
+featured: false
 tags: ["液浸冷却", "Immersion Cooling", "データセンター", "AIインフラ株", "冷却技術", "SMC", "オルガノ", "長期投資", "NISA", "AIバブル"]
-categories: ["AIバブルのツルハシ銘柄", "AIバブルのツルハシ銘柄"]
+categories: ["ツルハシ投資"]
 description: "AIサーバーの熱問題を解決する「液浸冷却（Immersion Cooling）」を徹底解説。なぜ今この技術が注目されているのか、関連する投資銘柄はどこか、NISA・長期投資の観点から分かりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-02-immersion-cooling-ai-datacenter-stocks.jpg"
 featureimagecaption: ""

@@ -3,7 +3,7 @@ title: "SMR（小型モジュール炉）とは？AIデータセンターの電�
 date: 2026-06-15
 draft: false
 tags: ["SMR", "小型モジュール炉", "原子力", "原発", "データセンター", "電力インフラ", "NuScale", "Oklo", "ウラン", "AIインフラ株", "長期投資", "NISA"]
-categories: ["AIバブルのツルハシ銘柄", "AI活用術"]
+categories: ["ツルハシ投資", "AI活用術"]
 description: "AIデータセンターの爆発的な電力需要を受け、原子力、特にSMR（小型モジュール炉）が再脚光を浴びています。SMRの基本的な仕組みから、なぜハイパースケーラーが原発に殺到するのか、NuScale・Oklo・ウラン関連株など注目銘柄を初心者向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-15-nuclear-smr-ai-datacenter-power-stocks.jpg"
 featureimagecaption: ""

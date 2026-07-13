@@ -2,7 +2,7 @@
 title: "S&P500 vs 全世界株式「オルカン」どっちを選ぶべき？徹底比較ガイド"
 date: 2026-03-20
 draft: false
-featured: true
+featured: false
 tags: ["S&P500", "オルカン", "全世界株式", "ETF", "インデックス投資", "新NISA"]
 categories: ["ETF・投資信託"]
 description: "S&P500と全世界株式（オルカン）の違いをリターン・リスク・コスト・将来性の観点から徹底比較。新NISAでどちらを選ぶべきか、初心者にもわかりやすく解説します。"

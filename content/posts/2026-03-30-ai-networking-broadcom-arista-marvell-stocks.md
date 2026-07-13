@@ -3,7 +3,7 @@ title: "AIデータセンターを支えるネットワーク半導体株：Broa
 date: 2026-03-30
 draft: false
 tags: ["AI投資", "ツルハシ投資", "Broadcom", "Arista Networks", "Marvell", "ネットワーク半導体", "米国株"]
-categories: ["AIバブルのツルハシ銘柄"]
+categories: ["ツルハシ投資"]
 description: "AIデータセンターの「見えない神経系」を担うネットワーク半導体。BroadcomのAIネットワーキングチップ、Arista Networksのイーサネット、MarvellのシリコンフォトニクスをAI時代の文脈で解説。投資家が知っておくべき注目ポイントを徹底分析。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-30-ai-networking-broadcom-arista-marvell-stocks.jpg"
 featureimagecaption: ""

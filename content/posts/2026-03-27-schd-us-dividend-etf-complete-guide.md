@@ -2,7 +2,7 @@
 title: "SCHD vs VYM 徹底比較｜米国高配当ETFどちらを選ぶべき？2026年版"
 date: 2026-03-27
 draft: false
-featured: true
+featured: false
 tags: ["SCHD", "ETF", "米国株", "高配当", "長期投資", "配当金"]
 categories: ["ETF・投資信託"]
 description: "SCHD（シュワブ米国配当株式ETF）の特徴・配当利回り・構成銘柄・VYMとの違いを徹底解説。長期投資家に人気の理由と、NISAでの活用法まで網羅。"

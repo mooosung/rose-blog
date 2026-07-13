@@ -3,7 +3,7 @@ title: "新NISAとiDeCoで節税を最大化する「最強の組み合わせ戦
 date: 2026-06-23
 draft: false
 tags: ["NISA", "iDeCo", "節税", "資産運用", "老後資金"]
-categories: ["NISA・iDeCo完全攻略"]
+categories: ["NISA・iDeCo"]
 description: "新NISAとiDeCoは「どちらか一方」ではなく「両方フル活用」が正解。掛金控除で今すぐ節税できるiDeCoと、運用益が非課税のNISAを組み合わせて節税効果を最大化する2026年版・実践戦略を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-23-nisa-ideco-combination-max-strategy.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

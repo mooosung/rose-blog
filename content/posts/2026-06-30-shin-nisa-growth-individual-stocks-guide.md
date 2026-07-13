@@ -3,7 +3,7 @@ title: "新NISAの成長投資枠で個別株を買う完全ガイド【2026年�
 date: 2026-06-30
 draft: false
 tags: ["新NISA", "成長投資枠", "個別株", "株式投資", "非課税"]
-categories: ["NISA・iDeCo完全攻略"]
+categories: ["NISA・iDeCo"]
 description: "新NISAの成長投資枠240万円/年を活用して個別株を非課税で運用する方法を徹底解説。銘柄選びの基準・投信との使い分け・失敗しない運用ルールまで具体的に紹介しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-30-shin-nisa-growth-individual-stocks-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

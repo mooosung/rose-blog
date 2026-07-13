@@ -3,7 +3,7 @@ title: "Google NotebookLMで決算書を10分で読破するAI活用術2026"
 date: 2026-07-01
 draft: false
 tags: ["AI活用術", "Google NotebookLM", "決算書分析", "生産性ハック", "投資リサーチ"]
-categories: ["AI活用術・生産性ハック"]
+categories: ["AI活用術"]
 description: "Google NotebookLMを使えば、英語の決算書や長大なIR資料も10〜15分で要点を把握できる。SEC EDGAR・EDINETのPDFをアップロードするだけで、根拠付き回答・競合比較・音声まとめまで実現できる個人投資家向けAI分析フロー完全ガイド。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-01-notebooklm-financial-report-analysis-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

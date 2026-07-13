@@ -4,7 +4,7 @@ date: 2026-03-01
 draft: false
 featured: true
 tags: ["MLCC", "積層セラミックコンデンサ", "村田製作所", "TDK", "ニチコン", "電子部品株", "AIインフラ株", "長期投資", "NISA", "AIバブル"]
-categories: ["AIバブルのツルハシ銘柄", "AIバブルのツルハシ銘柄"]
+categories: ["ツルハシ投資"]
 description: "AI需要で脚光を浴びる「縁の下の力持ち」——MLCC（積層セラミックコンデンサ）とは何か、なぜ村田製作所・TDKがAIインフラに不可欠なのかをわかりやすく解説。長期投資・NISA向けに分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-01-mlcc-murata-tdk-ai-infra.jpg"
 featureimagecaption: ""
@@ -273,6 +273,13 @@ AIサーバーの電源ユニット（PSU）や、太陽光発電・EV充電器�
 
 - [シリコンウェハとは？SUMCO・信越化学がAI時代に欠かせない理由](/posts/2026-02-28-silicon-wafer-sumco-shinetsu-ai/)
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
+
+---
+
+## 参考情報・データソース
+
+- [村田製作所 - 投資家情報（IR）](https://corporate.murata.com/ja-jp/investor)
+- [TDK株式会社 - IR情報](https://www.tdk.com/ja/ir/)
 
 ---
 

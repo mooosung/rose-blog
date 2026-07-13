@@ -2,7 +2,7 @@
 title: "VYMで配当収入を作る方法｜特徴・配当利回り・SBI/楽天での買い方【2026年版】"
 date: 2026-03-28
 draft: false
-featured: true
+featured: false
 tags: ["VYM", "高配当ETF", "米国株", "配当投資", "不労所得"]
 categories: ["ETF・投資信託"]
 description: "VYM（バンガード・米国高配当株式ETF）の特徴・利回り・構成銘柄・SCHDとの比較を徹底解説。配当再投資で資産を雪だるま式に増やす方法を初心者にもわかりやすく紹介します。"

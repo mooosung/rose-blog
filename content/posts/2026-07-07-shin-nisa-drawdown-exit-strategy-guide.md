@@ -3,10 +3,11 @@ title: "新NISAの出口戦略完全ガイド：資産を守りながら賢く�
 date: 2026-07-07
 draft: false
 tags: ["新NISA", "出口戦略", "取り崩し", "資産運用", "長期投資"]
-categories: ["NISA・iDeCo完全攻略"]
+categories: ["NISA・iDeCo"]
 description: "新NISAで築いた資産をどう取り崩すか？非課税期間無期限のメリットを最大限活かす出口戦略、4%ルール、定率・定額取り崩しの比較から年代別プランまで徹底解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-07-shin-nisa-drawdown-exit-strategy-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+featured: true
 ---
 
 新NISAで積立投資を始めた方が増えていますわね。でも「いざ使う時にどうすればいいの？」という出口戦略を考えていない方が意外と多いんですわ。

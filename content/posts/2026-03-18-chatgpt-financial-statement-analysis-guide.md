@@ -2,7 +2,7 @@
 title: "ChatGPTで決算書を10分で読み解く｜AI決算分析の実践ガイド【2026年版】"
 date: 2026-03-18
 draft: false
-featured: true
+featured: false
 description: "ChatGPTやClaudeを使って企業の決算書（損益計算書・貸借対照表・キャッシュフロー計算書）を素早く分析する方法を解説。プロンプト例付きで初心者でもすぐ実践できます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-18-chatgpt-financial-statement-analysis-guide.jpg"
 featureimagecaption: ""

@@ -7,6 +7,7 @@ categories: ["米国株・ETF長期投資"]
 description: "VOO（S&P500）とQQQ（ナスダック100）を徹底比較。10年リターン・ボラティリティ・コスト・セクター構成を分析し、長期積立NISA向けETFの正しい選び方を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+featured: true
 ---
 
 米国ETF投資で最もよく聞かれる質問のひとつが「VOOとQQQ、どちらに積立てるべきですか？」です。どちらも優れたETFですが、性質はかなり異なります。本記事では両者を徹底比較し、あなたの投資スタイルに合った選択の判断材料を提供します。

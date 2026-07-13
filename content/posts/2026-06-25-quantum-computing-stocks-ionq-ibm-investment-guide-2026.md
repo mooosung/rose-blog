@@ -7,7 +7,7 @@ description: "量子コンピュータ関連株の2026年最新動向を解説�
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026.jpg"
 featureimagecaption: ""
 tags: ["量子コンピュータ", "IonQ", "IBM", "Quantinuum", "テーマ株", "米国株", "次世代テクノロジー", "成長株投資"]
-categories: ["AI・テクノロジー株"]
+categories: ["ツルハシ投資"]
 ---
 
 AIの次に来る革命として注目を集めている**量子コンピュータ**。2026年に入り、主要プレイヤーが次々と商用マイルストーンを発表し、投資家の関心が急速に高まっていますわ。本記事では量子コンピュータ関連株の現状・各社比較・投資戦略を徹底解説します。

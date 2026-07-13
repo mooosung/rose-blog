@@ -2,7 +2,7 @@
 title: "Palantir Technologies（PLTR）とは？AI SaaSの本命銘柄を徹底解説"
 date: 2026-03-19
 draft: false
-featured: true
+featured: false
 tags: ["Palantir", "PLTR", "AI SaaS", "米国株", "ソフトウェア銘柄", "AIP"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Palantir Technologies（PLTR）のビジネスモデル、AIプラットフォーム（AIP）の強み、業績推移、投資リスクをわかりやすく解説します。"
