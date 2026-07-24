@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-07-25-asset-allocation-complete-guide",
+    "title": "アセットアロケーション完全入門｜年齢・リスク許容度別のベスト配分比率と見直しタイミング【2026年版】",
+    "date": "2026-07-25",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-25-asset-allocation-complete-guide.jpg"
+  },
+  {
     "path": "posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026",
     "title": "SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】",
     "date": "2026-07-24",
@@ -28,11 +34,5 @@
     "title": "Vertiv（VRT）とEaton（ETN）で狙う「AIの電力需要」受益株 2026年版",
     "date": "2026-07-20",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks.jpg"
-  },
-  {
-    "path": "posts/2026-07-19-ai-era-skill-investment-roadmap-2026",
-    "title": "AI時代に需要爆増するスキル5選と副業化ロードマップ【2026年版】",
-    "date": "2026-07-19",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-19-ai-era-skill-investment-roadmap-2026.jpg"
   }
 ]
