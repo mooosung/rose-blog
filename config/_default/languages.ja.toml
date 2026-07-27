@@ -1,9 +1,7 @@
-[ja]
-  languageName = "日本語"
-  weight = 1
-  title = "ローゼンマイヤー | AI・米国株・ETF投資ブログ"
+languageName = "日本語"
+weight = 1
+title = "ローゼンマイヤー | AI・米国株・ETF投資ブログ"
 
-  [ja.params]
-    author = "ローゼンマイヤー"
-    description = "AI・投資系ニュースをローゼがお届けするブログですわ 🌹"
-    dateFormat = "2006年1月2日"
+[params]
+  description = "AI・投資系ニュースをローゼがお届けするブログですわ 🌹"
+  dateFormat = "2006年1月2日"
