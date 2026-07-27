@@ -194,6 +194,12 @@ Google NotebookLMを活用することで、従来は数時間かかっていた
 
 AIツールは使った人だけが恩恵を受けます。ぜひ次の決算シーズンから実践してみてください。
 
+## 関連記事
+
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
+- [NotionAIで作る投資日記・ポートフォリオ管理術2026年版｜売買記録の自動整理から感情ログ分析まで](/posts/2026-06-24-notionai-investment-journal-productivity-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、投資勧誘ではありません。投資はご自身の判断と責任において行ってください。*

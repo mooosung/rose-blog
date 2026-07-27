@@ -167,6 +167,12 @@ AI時代の恩恵を最大限に受けるために、テクノロジーETFをポ
 - [VOO vs QQQ どちらを選ぶ？S&P500とNASDAQ100の長期投資比較](/posts/voo-vs-qqq-sp500-nasdaq100-longterm-investment/) — インデックス投資の基本からQQQとVOOの違いを解説
 - [債券ETF（AGG・BND・TLT）でポートフォリオを安定させる方法](/posts/bond-etf-agg-bnd-tlt-portfolio-guide/) — テック株のリスクをヘッジする債券ETF活用術
 
+## 関連記事
+
+- [QQQ・VGT・XLK比較｜テクノロジーETFの違いと選び方完全ガイド【2026年版】](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
+- [VOO vs QQQ 徹底比較2026年版｜S&P500とナスダック100、長期積立NISAはどちらが正解か](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
+- [QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+
 ---
 
 *※本記事は情報提供を目的としており、投資勧誘を行うものではありません。投資は自己責任でお願いします。*

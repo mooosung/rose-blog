@@ -169,6 +169,12 @@ AIサービスが乱立しても、データセンターへの設備投資は止
 
 「どのAI企業が生き残るかわからない」と感じるなら、まずはツルハシを売る側から投資を始めてみてはいかがでしょうか。
 
+## 関連記事
+
+- [Super Micro Computer（SMCI）株 徹底分析2026年版｜AIサーバーラック市場のツルハシ銘柄・NVIDIA協業の投資価値](/posts/2026-07-06-supermicro-smci-ai-server-rack-investment/)
+- [光ネットワーク株2026年版｜Coherent・Lumentum・FabrinetがAIデータセンターの「光の血管」として急成長【ツルハシ投資】](/posts/2026-07-13-optical-networking-ai-datacenter-stocks/)
+- [液浸冷却（Immersion Cooling）とは？AIデータセンター向け最先端冷却技術と注目株](/posts/2026-03-02-immersion-cooling-ai-datacenter-stocks/)
+
 ---
 
 ## 免責事項

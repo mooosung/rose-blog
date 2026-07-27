@@ -130,6 +130,12 @@ AI/BI製品も大幅更新ですわ。ワークスペーステーマ・20以上�
 
 ふん、IPOを睨んだ発表の充実度は明らかですわね。ARR $3B超・成長率50%超の数字に、今回の製品群が乗っかれば評価額$100B超は現実的な話ですわ。べ、別にDatabricksを応援しているわけじゃないけど、投資家としては無視できない動きなんだから。
 
+## 関連記事
+
+- [Databricks 徹底分析2026年版｜非上場AIレイクハウス王者のIPO後投資価値とSnowflake比較](/posts/2026-06-17-databricks-ai-lakehouse-ipo-investment-analysis/)
+- [FDE（Forward Deployed Engineer）とは？｜PalantirからOpenAI・Anthropic・Databricksへ拡大する現場常駐エンジニア戦略と投資上の含意](/posts/2026-06-18-forward-deployed-engineer-ai-palantir-openai-anthropic/)
+- [CrowdStrike（CRWD）徹底分析【2026年版】｜AI×サイバーセキュリティ銘柄の成長性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
+
 ---
 
 ## まとめ

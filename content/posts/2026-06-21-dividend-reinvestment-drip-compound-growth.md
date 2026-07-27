@@ -126,5 +126,11 @@ DRIPは魔法ではありませんわ。きちんとデメリットも把握し�
 
 「配当をもらう」から「配当を育てる」へ——この発想の転換が、長期的な資産形成の鍵なのですから。さあ、今すぐ証券口座の設定を見直しなさいな。
 
+## 関連記事
+
+- [500万円から始める配当生活シミュレーション｜10年・20年後の資産推移と段階的ロードマップ](/posts/2026-07-04-500man-dividend-life-portfolio-simulation/)
+- [高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+- [連続増配株 vs 高配当株 徹底比較｜VIG vs VYMで10年後のトータルリターンと使い分け戦略](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/)
+
 ---
 *ローゼンマイヤー著。投資はご自身の判断と責任で行ってくださいませ。*

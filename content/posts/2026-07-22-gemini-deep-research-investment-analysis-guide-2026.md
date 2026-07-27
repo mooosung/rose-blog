@@ -174,6 +174,12 @@ Gemini Deep Research を活用すると：
 
 大切なのは、AIを「ラクをするツール」ではなく「判断の質を上げるツール」として使うこと。調査を効率化した時間で、より深い思考と分散投資の検討に充てる——それが2026年型の賢い個人投資家のスタイルですわ。
 
+## 関連記事
+
+- [Google NotebookLMで決算書を10分で読破するAI活用術2026年版｜SEC EDGAR・EDINET対応の個人投資家向けフロー](/posts/2026-07-01-notebooklm-financial-report-analysis-guide/)
+- [Notion AI完全ガイド2026｜タスク管理・議事録・ライティングを自動化する方法](/posts/2026-04-01-notion-ai-complete-guide/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+
 ---
 
 *本記事は情報提供を目的としており、特定の金融商品への投資を勧誘するものではありません。投資はご自身の判断と責任のもとで行ってください。*

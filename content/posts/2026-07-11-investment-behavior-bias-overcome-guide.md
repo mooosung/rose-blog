@@ -237,6 +237,12 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 7つのバイアスを頭に入れて、**ルールベースの投資**を実践することが、長期的な資産形成への近道ですわよ。🌹
 
+## 関連記事
+
+- [アセットアロケーション完全入門｜年齢・リスク許容度別のベスト配分比率と見直しタイミング【2026年版】](/posts/2026-07-25-asset-allocation-complete-guide/)
+- [トランプ関税ショックで株価暴落｜長期投資家が今すべき5つの戦略【2026年版】](/posts/2026-04-06-trump-tariff-shock-investment-strategy/)
+- [TLT・IEF・SHY完全ガイド｜米国債ETFで株式暴落から資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
+
 ---
 
 *資産形成に関する情報は参考目的です。実際の投資判断はご自身の責任でお願いしますわ。*

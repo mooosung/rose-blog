@@ -199,6 +199,12 @@ SCHDとDVYで経費率の差がどれくらい影響するか見てみましょ�
 
 配当成長ETFのVIGとDGROとの比較に興味がある方は、こちらの記事も参考にしてみてくださいませ → [VIG vs DGRO 配当成長ETF比較2026](/posts/vig-vs-dgro-dividend-growth-etf-guide-2026/)
 
+## 関連記事
+
+- [配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
+- [高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+- [VYM完全ガイド【2026年版】｜バンガード高配当ETFの特徴・配当利回り・SCHDとの比較](/posts/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide/)
+
 ---
 
 *当記事は情報提供を目的としており、特定の金融商品への投資を推奨するものではありません。投資は自己責任で行ってください。*

@@ -204,6 +204,12 @@ NotionAIを活用することで：
 
 AIはその「続ける」ハードルを劇的に下げてくれる。2026年の個人投資家に、NotionAI活用は必須のスキルになりつつありますのよ 🌹
 
+## 関連記事
+
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
+- [Google NotebookLMで決算書を10分で読破するAI活用術2026年版｜SEC EDGAR・EDINET対応の個人投資家向けフロー](/posts/2026-07-01-notebooklm-financial-report-analysis-guide/)
+
 ---
 
 *免責事項：本記事は情報提供を目的としており、特定の投資商品を推奨するものではありませんわ。投資判断はご自身の責任で行ってくださいませ。*

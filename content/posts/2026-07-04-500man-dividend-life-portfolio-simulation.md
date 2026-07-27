@@ -174,6 +174,12 @@ categories: ["高配当株・配当再投資"]
 
 20年後の月12万円の価値は、現在の月12万円と同等ではありません。インフレ率2%を仮定すると20年後の購買力は現在の約67%になります。増配を続ける銘柄・ETFを組み合わせることでインフレヘッジが可能です。
 
+## 関連記事
+
+- [配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
+- [高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+- [連続増配株 vs 高配当株 徹底比較｜VIG vs VYMで10年後のトータルリターンと使い分け戦略](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/)
+
 ---
 
 ## まとめ

@@ -144,6 +144,12 @@ AI SaaS領域の他銘柄分析も参考にどうぞ：
 
 **総合評価**: 高成長AI株として魅力的だが、バリュエーションリスクを十分理解した上で少額・長期保有が基本ですの。
 
+## 関連記事
+
+- [Palantir（PLTR）徹底解説【2026年版】｜AI SaaSの本命銘柄の強みとリスクを分析](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)
+- [クラウドフレア（NET）：エッジAIインフラの覇者に投資する方法](/posts/2026-07-16-cloudflare-net-ai-edge-computing-stock-analysis/)
+- [FDE（Forward Deployed Engineer）とは？｜PalantirからOpenAI・Anthropic・Databricksへ拡大する現場常駐エンジニア戦略と投資上の含意](/posts/2026-06-18-forward-deployed-engineer-ai-palantir-openai-anthropic/)
+
 ---
 
 *本記事は情報提供目的で作成されており、投資アドバイスではありませんわ。投資は自己責任でお願いいたしますの。*

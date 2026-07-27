@@ -174,6 +174,12 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 なお、コモディティ全般への分散を検討されている方は、[コモディティETF完全ガイド（DBC・PDBC・GSG）](/posts/2026-06-14-commodity-etf-dbc-pdbc-gsg-complete-guide/)もあわせてご参照ください。また、オルタナティブ投資全体のポートフォリオ設計については[アセットアロケーション完全ガイド](/posts/2026-07-25-asset-allocation-complete-guide/)が参考になりますわ。
 
+## 関連記事
+
+- [DBC・PDBC・GSG 徹底比較2026年版｜コモディティETFでインフレに強いポートフォリオを作る](/posts/2026-06-14-commodity-etf-dbc-pdbc-gsg-complete-guide/)
+- [REIT（不動産投資信託）とは？J-REITの仕組み・選び方・NISAでの始め方【2026年版】](/posts/2026-03-22-reit-beginner-guide-alternative-investment/)
+- [GLD・IAU・GLDM 徹底比較2026年版｜金ETFの選び方とインフレヘッジ投資タイミング](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/)
+
 ---
 
 ## まとめ

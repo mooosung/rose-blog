@@ -119,6 +119,12 @@ Armはまさしく「真のツルハシ銘柄」ですわ。AIチップ競争で
 
 ただ……99%のシェアを30年かけて作り上げた設計資産は、そう簡単には崩せませんわよ。投資は感情ではなく構造で判断すること——それが「ツルハシ投資」の本質ですの。🌹
 
+## 関連記事
+
+- [ツルハシ投資完全ガイド2026年版｜AIインフラ株（液冷・半導体基板・電線・MLCCなど）で長期資産形成する方法](/posts/2026-07-14-tsuruhashi-investment-complete-guide/)
+- [Super Micro Computer（SMCI）株 徹底分析2026年版｜AIサーバーラック市場のツルハシ銘柄・NVIDIA協業の投資価値](/posts/2026-07-06-supermicro-smci-ai-server-rack-investment/)
+- [光ネットワーク株2026年版｜Coherent・Lumentum・FabrinetがAIデータセンターの「光の血管」として急成長【ツルハシ投資】](/posts/2026-07-13-optical-networking-ai-datacenter-stocks/)
+
 ---
 
 *本記事は情報提供を目的とするものであり、特定の銘柄への投資を推奨するものではありません。投資の最終判断はご自身でお願いします。*

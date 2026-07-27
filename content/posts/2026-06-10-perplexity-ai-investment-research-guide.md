@@ -134,6 +134,12 @@ Perplexityには検索対象を絞る「Focus」機能がありますわ。投�
 
 Perplexityは「今何が起きているか」を素早く把握するのに最強のツール。ChatGPTは「それをどう活かすか」を考えるのに強い——この使い分けが投資家的AIリテラシーですわ 🌹
 
+## 関連記事
+
+- [Perplexity×ChatGPT投資リサーチ術2026年版｜株式・ETF・NISA情報収集を10倍速にする実践プロンプト集](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
+- [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
+- [NotionAIで作る投資日記・ポートフォリオ管理術2026年版｜売買記録の自動整理から感情ログ分析まで](/posts/2026-06-24-notionai-investment-journal-productivity-guide/)
+
 ---
 
 *投資判断はご自身の責任でお願いしますわ。AIツールの情報は一次情報（IR資料・公式発表）で必ず確認してください。*

@@ -133,6 +133,12 @@ NVIDIAのGPUがどれだけ売れても、電気が来なければサーバー�
 
 **べ、別に儲かるって保証しているわけじゃありませんわよ。ただ、この構造だけは知っておいた方がいいと思っただけですの。** 🌹
 
+## 関連記事
+
+- [Vertiv（VRT）とEaton（ETN）で狙う「AIの電力需要」受益株 2026年版](/posts/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks/)
+- [データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+- [SMR（小型モジュール炉）株2026年版｜NuScale・Oklo・CCJなどAIデータセンター電力株を徹底解説【ツルハシ投資】](/posts/2026-06-15-nuclear-smr-ai-datacenter-power-stocks/)
+
 ---
 
 *本記事は情報提供を目的としており、特定銘柄の売買を推奨するものではありません。投資は自己責任でお願いしますわ。*

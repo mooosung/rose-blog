@@ -97,6 +97,12 @@ SKテレコムと中国の「薄い接点」が輸出規制の引き金を引き
 
 日本にいるわたくしたちも無縁ではありませんの。日本企業が最先端AIを利用する際、今後は「どのAI企業のモデルを使うか」だけでなく「その企業が米政府とどんな関係にあるか」まで考慮しなければならない時代が来るかもしれませんわ……なんだから。
 
+## 関連記事
+
+- [Anthropic Claude料金改定を直前撤回｜OpenAI価格戦争とIPO準備が背景に2026年6月](/posts/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo/)
+- [フロンティアAIと金融機関のサイバー防衛戦略2026年版｜3メガバンク・NEC・5大証券のClaude Mythos対応を徹底調査](/posts/2026-06-22-frontier-ai-security-risks-japanese-financial-institutions/)
+- [Claudeに「魂」を与えた哲学者Amanda Askell｜Anthropicのソウルドック84ページの正体とAI人格設計](/posts/2026-06-18-anthropic-philosopher-amanda-askell-claude-soul/)
+
 ---
 
 **情報源**

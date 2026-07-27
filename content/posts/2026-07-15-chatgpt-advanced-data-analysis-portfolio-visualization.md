@@ -186,6 +186,12 @@ Advanced Data Analysisを使えば、毎月のポートフォリオ管理が**�
 
 **投資の本質は「分析」ではなく「判断」**。ルーティンの集計・可視化はAIに任せて、あなたは「どの銘柄を追加するか」「リスクをどう調整するか」という本質的な意思決定に集中できますわ。
 
+## 関連記事
+
+- [Perplexity×ChatGPT投資リサーチ術2026年版｜株式・ETF・NISA情報収集を10倍速にする実践プロンプト集](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
+
 ---
 
 > 🌹 **ローゼのひとこと**

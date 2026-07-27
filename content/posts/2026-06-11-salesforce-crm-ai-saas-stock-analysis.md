@@ -111,6 +111,12 @@ Salesforceは「爆発的な成長は期待できないが、しっかりFCFを�
 
 成長株というよりは**質の高いFCF銘柄**として、長期ポートフォリオの1〜3%程度に組み込むのが合理的な使い方かと思いますわ。
 
+## 関連記事
+
+- [ServiceNow（NOW株）徹底分析【2026年版】｜AI SaaS最強銘柄が企業DXを制する理由](/posts/2026-03-26-servicenow-now-ai-saas-stock-analysis/)
+- [CrowdStrike（CRWD）徹底分析【2026年版】｜AI×サイバーセキュリティ銘柄の成長性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
+- [Palantir（PLTR）徹底解説【2026年版】｜AI SaaSの本命銘柄の強みとリスクを分析](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)
+
 ---
 
 *投資は元本保証ではありません。最新の財務情報はSalesforce公式IR資料でご確認ください。本記事は投資勧誘を目的としていませんわ。*

@@ -125,6 +125,12 @@ Sakana AI自体に直接投資できなくても、この動きから恩恵を�
 
 詳細はsakana.ai/fugu/で確認できますわ。
 
+## 関連記事
+
+- [Anthropic Claude料金改定を直前撤回｜OpenAI価格戦争とIPO準備が背景に2026年6月](/posts/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo/)
+- [AnthropicのFable 5・Mythos 5に初の輸出規制｜SKテレコム問題・Amazon報告が引き金【AI規制2026】](/posts/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom/)
+- [Databricks「Data + AI Summit 2026」全発表まとめ｜Genie One・LTAP・Omnigentの何が変わるのか](/posts/2026-06-19-databricks-data-ai-summit-2026-announcements/)
+
 ---
 
 ## まとめ

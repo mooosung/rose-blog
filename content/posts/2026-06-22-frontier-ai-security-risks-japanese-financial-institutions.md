@@ -157,6 +157,12 @@ NECは日本の国産ITベンダーとして唯一このレベルの枠組みに
 3. サイバー保険の加入状況（英国当局が明示的に言及）
 4. エンドオブライフシステムの割合（レガシー比率が高いほど脆弱）
 
+## 関連記事
+
+- [AnthropicのFable 5・Mythos 5に初の輸出規制｜SKテレコム問題・Amazon報告が引き金【AI規制2026】](/posts/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom/)
+- [Anthropic Claude料金改定を直前撤回｜OpenAI価格戦争とIPO準備が背景に2026年6月](/posts/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo/)
+- [ChatGPTで決算書を10分で読み解く方法【2026年版】｜プロンプト例付きAI財務分析ガイド](/posts/2026-03-18-chatgpt-financial-statement-analysis-guide/)
+
 ---
 
 ## まとめ：フロンティアAIは「矛と盾」の同時革新

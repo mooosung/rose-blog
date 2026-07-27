@@ -199,6 +199,12 @@ Red Hat買収によるハイブリッドクラウド事業が成長しており�
 
 また[日本高配当株の選び方](/posts/2026-03-21-japan-high-dividend-stocks-selection-guide/)も合わせて参照し、米国株・日本株のバランスを取ったポートフォリオ構築を検討してみてください。
 
+## 関連記事
+
+- [日本高配当株の選び方完全ガイド｜配当利回りだけで選ぶと失敗する5つの理由と正しい基準](/posts/2026-03-21-japan-high-dividend-stocks-selection-guide/)
+- [月10万円の配当収入を実現するポートフォリオ設計｜必要資産額と銘柄選びのロードマップ](/posts/2026-06-13-monthly-100k-dividend-income-portfolio-design/)
+- [米国株配当の外国税額控除・NISA活用ガイド｜二重課税を回避して手取り配当を最大化する方法](/posts/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide/)
+
 ---
 
 ## まとめ

@@ -143,6 +143,12 @@ AIを活用した投資リサーチに興味があれば、以下の記事もお
 - [NotebookLMで決算・有価証券報告書を効率的に分析する方法](/posts/notebooklm-financial-report-analysis-guide/) ── 複数の決算書をまとめてAIに読み込ませる高度な活用術
 - [NotionAIで投資日記・ポートフォリオ管理を自動化する実践ガイド](/posts/notionai-investment-journal-productivity-guide/) ── 日々の投資記録をAIで整理・振り返る方法
 
+## 関連記事
+
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
+- [ChatGPT Advanced Data Analysisで投資ポートフォリオを可視化する完全ガイド2026](/posts/2026-07-15-chatgpt-advanced-data-analysis-portfolio-visualization/)
+
 ---
 
 *当記事は情報提供を目的としており、投資を推奨するものではありません。投資判断はご自身の責任でお願いします。*

@@ -171,6 +171,12 @@ AGG・BND・TLTの違いを振り返りますわ。
 
 ふん、わかったかしら？難しいと思っていた債券ETFも、仕組みを理解すればちゃんと使いこなせますわよ。……少しはわたくしに感謝しなさいね。
 
+## 関連記事
+
+- [BND・AGG・TLT比較｜債券ETFで安定収益を得る方法と金利との関係【2026年版】](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+- [米国ETFコア・サテライト戦略とは？VOO×QQQ×VYMの最適な組み合わせ方を解説](/posts/2026-03-13-us-etf-core-satellite-strategy/)
+- [VWO・EEM・IEMG比較2026｜新興国ETFの違いと投資戦略を徹底解説](/posts/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/)
+
 ---
 
 *※本記事は情報提供を目的としており、投資を推奨するものではありません。投資は自己責任でお願いしますわ。*

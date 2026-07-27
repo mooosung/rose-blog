@@ -128,6 +128,12 @@ AnthropicやOpenAIが提供するLLMは防御ツールにも組み込まれ始�
 
 AI関連の投資動向が気になる方は[AIテクノロジー分野の銘柄分析](/posts/databricks-data-ai-summit-2026-announcements/)も参考にしてみてくださいね。セキュリティとAIは不可分の関係になりつつありますのよ。
 
+## 関連記事
+
+- [CrowdStrike（CRWD）徹底分析【2026年版】｜AI×サイバーセキュリティ銘柄の成長性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
+- [HACK・CIBR・BUG比較｜サイバーセキュリティETF完全ガイド2026](/posts/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide/)
+- [フロンティアAIと金融機関のサイバー防衛戦略2026年版｜3メガバンク・NEC・5大証券のClaude Mythos対応を徹底調査](/posts/2026-06-22-frontier-ai-security-risks-japanese-financial-institutions/)
+
 ---
 
 ## まとめ——サイバーセキュリティは「攻めと守り」のチームスポーツ

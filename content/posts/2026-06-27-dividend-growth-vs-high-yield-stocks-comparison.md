@@ -161,6 +161,12 @@ VIGは20年後にVYMの初期配当水準に追いつきます。増配株の力
 
 購入時の利回りが低くても、長期的にはYOCが高配当株を上回る水準に達します。これが「若いうちは増配株」戦略の根拠です。
 
+## 関連記事
+
+- [配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
+- [SCHD・VIG・DVY 完全比較2026年版｜高配当ETFの違いとおすすめの選び方](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
+- [500万円から始める配当生活シミュレーション｜10年・20年後の資産推移と段階的ロードマップ](/posts/2026-07-04-500man-dividend-life-portfolio-simulation/)
+
 ---
 
 ## まとめ

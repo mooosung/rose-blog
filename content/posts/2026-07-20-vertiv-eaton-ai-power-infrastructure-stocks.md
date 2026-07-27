@@ -132,6 +132,12 @@ AI時代のツルハシ株——VRT と ETN は、目立たないけれど確実
 
 **ふん、別に勧めているわけじゃありませんわよ。ただ、知らないよりは知っておいた方がいいと思っただけですの。** 🌹
 
+## 関連記事
+
+- [データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
+- [ガスタービン株が「売り切れ」に：GEヴァーノバ・シーメンスエナジーで狙う2026年AI電力ツルハシ投資](/posts/2026-07-27-ge-vernova-siemens-energy-gas-turbine-ai-power-stocks/)
+- [SMR（小型モジュール炉）株2026年版｜NuScale・Oklo・CCJなどAIデータセンター電力株を徹底解説【ツルハシ投資】](/posts/2026-06-15-nuclear-smr-ai-datacenter-power-stocks/)
+
 ---
 
 *本記事は情報提供を目的としており、特定銘柄の売買を推奨するものではありません。投資は自己責任でお願いしますわ。*

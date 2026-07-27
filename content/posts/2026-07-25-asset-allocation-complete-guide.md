@@ -205,6 +205,12 @@ NISAで売却すると、その年の非課税枠は復活しません（翌年�
 
 アセットアロケーションを決めたら、次は具体的なリバランス手法を深掘りしてみてください。[ポートフォリオのリバランス完全ガイド](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)では、実践的な手順を詳しく解説していますわ。また、新NISAをどう組み合わせるかについては[新NISA×AI株の始め方入門](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)も参考にどうぞ。
 
+## 関連記事
+
+- [債券ETF完全ガイド2026年版｜AGG・BND・TLTで株式ポートフォリオをリスクヘッジする方法](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
+- [投資家の行動バイアスを克服する7つのマインドセット｜損切りできない・暴落狼狽売りの心理的罠と対策](/posts/2026-07-11-investment-behavior-bias-overcome-guide/)
+- [新NISA成長投資枠240万円を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
+
 ---
 
 *本記事は情報提供を目的としており、投資の推奨・勧誘を行うものではありません。投資判断はご自身の責任で行ってくださいませ。*
