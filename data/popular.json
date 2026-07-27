@@ -1,15 +1,19 @@
 [
   {
     "path": "posts/2026-03-23-datacenter-liquid-cooling-stocks",
-    "pv": 43
+    "pv": 40
   },
   {
     "path": "posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai",
-    "pv": 21
+    "pv": 20
   },
   {
     "path": "posts/2026-03-01-mlcc-murata-tdk-ai-infra",
     "pv": 11
+  },
+  {
+    "path": "posts/2026-05-30-ai-robotics-etf-botz-robt-arkq-complete-guide",
+    "pv": 8
   },
   {
     "path": "posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter",
@@ -17,10 +21,6 @@
   },
   {
     "path": "posts/2026-03-24-shin-nisa-growth-investment-guide",
-    "pv": 5
-  },
-  {
-    "path": "posts/2026-04-11-robo-advisor-wealthnavi-theo-complete-guide",
     "pv": 5
   }
 ]
