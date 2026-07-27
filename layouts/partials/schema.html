@@ -8,40 +8,95 @@
     {{ with .Site.Params.description }}"description": "{{ . | safeJS }}",{{ end }}
     {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
     "url": {{ site.Home.Permalink | safeURL }},
-    "publisher" : {
+    "publisher": {
       "@type": "Person",
       "name": "{{ .Site.Params.Author.name | safeJS }}"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ site.Home.Permalink }}search/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
     }
   }
   </script>
 {{ else if .IsPage }}
   {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
   {{- $tags := .Params.tags | default slice -}}
+  {{- $imgURL := "" -}}
+  {{- with .Params.featureimage -}}
+    {{- if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") -}}
+      {{- $imgURL = . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if not $imgURL -}}
+    {{- $imgURL = "https://rozenmaier.com/img/roze-hello.png" -}}
+  {{- end -}}
   <script type="application/ld+json">
-  {
+  [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "name": "{{ .Title | safeJS }}",
     "headline": "{{ .Title | safeJS }}",
     {{ with .Description }}"description": "{{ . | safeJS }}",{{ end }}
     {{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
     "url": {{ .Permalink }},
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ $imgURL }}",
+      "width": 1200,
+      "height": 630
+    },
+    "articleSection": "{{ (site.GetPage .Section).Title | safeJS }}",
     "author": {
       "@type": "Person",
       "name": "{{ .Site.Params.Author.name | safeJS }}",
       "url": "{{ site.Home.Permalink }}"
     },
     "publisher": {
-      "@type": "Person",
+      "@type": "Organization",
       "name": "{{ .Site.Params.Author.name | safeJS }}",
-      "url": "{{ site.Home.Permalink }}"
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://rozenmaier.com/img/avatar.jpg"
+      }
     },
     {{ with .PublishDate }}"copyrightYear": "{{ .Format "2006" }}",{{ end }}
     {{ with .Date }}"dateCreated": "{{ .Format $iso8601 }}",{{ end }}
     {{ with .PublishDate }}"datePublished": "{{ .Format $iso8601 }}",{{ end }}
     {{ with .Lastmod }}"dateModified": "{{ .Format $iso8601 }}",{{ end }}
     {{ if $tags }}"keywords": {{ $tags | jsonify }},{{ end }}
-    "mainEntityOfPage": "true"
-  }
+    "wordCount": {{ .WordCount }},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ .Permalink }}
+    }
+  }{{ if site.Params.enableStructuredBreadcrumbs | default false }},
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- $position := 0 -}}
+      {{- range .Ancestors -}}
+        {{- if not .IsHome -}}
+          {{- $position = add $position 1 -}}
+          {
+            "@type": "ListItem",
+            "position": {{ $position }},
+            "name": "{{ .Title | safeJS }}",
+            "item": {{ .Permalink }}
+          },
+        {{- end -}}
+      {{- end -}}
+      {{- $position = add $position 1 -}}
+      {
+        "@type": "ListItem",
+        "position": {{ $position }},
+        "name": "{{ .Title | safeJS }}",
+        "item": {{ .Permalink }}
+      }
+    ]
+  }{{ end }}]
   </script>
 {{ end }}
