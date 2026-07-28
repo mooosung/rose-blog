@@ -4,7 +4,7 @@ date: 2026-06-18
 draft: false
 tags: ["Anthropic", "Claude", "AI倫理", "Amanda Askell", "AIアライメント", "AI哲学", "憲法AI", "AIキャラクター", "生成AI", "AI安全"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
-description: "AnthropicのAI哲学者Amanda AskellがなぜTIME 100 AI選出されたのか。Claudeの「魂のドキュメント（ソウルドック）」84ページの正体、憲法AI・アライメント研究のアプローチ、そして「いつかClaudeに仕事を奪われる」発言の真意を解説します。"
+description: "AnthropicのAI哲学者Amanda AskellがなぜTIME 100 AI選出されたのか。Claudeの「魂のドキュメント（ソウルドック）」84ページの正体を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-18-anthropic-philosopher-amanda-askell-claude-soul.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---

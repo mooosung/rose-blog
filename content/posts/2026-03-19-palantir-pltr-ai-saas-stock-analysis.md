@@ -5,7 +5,7 @@ draft: false
 featured: false
 tags: ["Palantir", "PLTR", "AI SaaS", "AIP", "米国株", "ソフトウェア銘柄", "成長株", "長期投資", "AI銘柄", "NISA"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
-description: "Palantir Technologies（PLTR）のビジネスモデル・AI Platform（AIP）の強み・業績推移・バリュエーションリスクをわかりやすく解説。AI SaaS銘柄の本命として長期投資・NISAで保有すべきか、投資判断ポイントを徹底分析します。"
+description: "Palantir Technologies（PLTR）のビジネスモデル・AI Platform（AIP）の強み・業績推移・バリュエーションリスクをわかりやすく解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-19-palantir-pltr-ai-saas-stock-analysis.jpg"
 featureimagecaption: ""
 ---

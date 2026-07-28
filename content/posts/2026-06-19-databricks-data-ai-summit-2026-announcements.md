@@ -4,7 +4,7 @@ date: 2026-06-19
 slug: 2026-06-19-databricks-data-ai-summit-2026-announcements
 categories: ["ツルハシ投資"]
 tags: ["Databricks", "AI", "データエンジニアリング", "エンタープライズAI", "レイクハウス", "Genie", "MLflow", "Delta Lake", "AI SaaS", "米国株"]
-description: "2026年6月サンフランシスコ開催のDatabricks最大年次イベント「Data + AI Summit 2026」の全発表内容を解説。Genie One、LTAP（OLTP+OLAP統合）、Agent Bricks、Unity AI Gatewayなど、エンタープライズAIの未来を変える新機能を徹底まとめ。"
+description: "2026年6月サンフランシスコ開催のDatabricks最大年次イベント「Data + AI Summit 2026」の全発表内容を解説。"
 summary: "2026年6月、Databricksが年次最大イベント「Data + AI Summit 2026」をサンフランシスコで開催。3万人超が参加した今年の発表は、Genie OneというAI同僚の登場から、OLTPとOLAPを統合するLTAP、オープンソースのエージェントメタハーネスOmnigentまで、盛りだくさんでしたわ。投資家・エンジニア必読のまとめよ。"
 featureimage: "/img/thumbnails/2026-06-19-databricks-data-ai-summit-2026-announcements.jpg"
 ---

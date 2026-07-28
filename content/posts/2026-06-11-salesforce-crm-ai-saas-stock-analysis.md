@@ -4,7 +4,7 @@ date: 2026-06-11
 draft: false
 tags: ["Salesforce", "CRM", "AI SaaS", "米国株", "SaaS銘柄", "クラウド", "Agentforce", "成長株", "長期投資", "エンタープライズAI"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
-description: "Salesforce（ティッカー：CRM）の事業モデル・AI戦略（Agentforce）・2026年の業績と株価を徹底解説。ServiceNow・HubSpotとの比較、長期投資としての評価・バリュエーションまでAI SaaS投資家必見の分析。"
+description: "Salesforce（ティッカー：CRM）の事業モデル・AI戦略（Agentforce）・2026年の業績と株価を徹底解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-11-salesforce-crm-ai-saas-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: false

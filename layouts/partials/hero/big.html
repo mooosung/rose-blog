@@ -63,15 +63,29 @@
     {{ $style = printf "object-position: %s;" . }}
   {{ end }}
   <figure>
-    <img
-      src="{{ . }}"
-      alt="{{ $alt }}"
-      loading="eager"
-      decoding="async"
-      fetchpriority="high"
-      {{ if $isHotlinkedFeatureImage }}width="1200" height="630"{{ end }}
-      class="w-full rounded-lg single_hero_round nozoom"
-      {{ if $style }}style="{{ $style | safeCSS }}"{{ end }}>
+    {{ if and $isHotlinkedFeatureImage (strings.HasSuffix . ".jpg") }}
+      <picture>
+        <source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp">
+        <img
+          src="{{ . }}"
+          alt="{{ $alt }}"
+          loading="eager"
+          decoding="async"
+          fetchpriority="high"
+          width="1200" height="630"
+          class="w-full rounded-lg single_hero_round nozoom"
+          {{ if $style }}style="{{ $style | safeCSS }}"{{ end }}>
+      </picture>
+    {{ else }}
+      <img
+        src="{{ . }}"
+        alt="{{ $alt }}"
+        loading="eager"
+        decoding="async"
+        fetchpriority="high"
+        class="w-full rounded-lg single_hero_round nozoom"
+        {{ if $style }}style="{{ $style | safeCSS }}"{{ end }}>
+    {{ end }}
     {{ if $caption }}
       <figcaption class="text-sm text-neutral-700 dark:text-neutral-400 hover:underline text-center">
         {{ $caption | markdownify }}
