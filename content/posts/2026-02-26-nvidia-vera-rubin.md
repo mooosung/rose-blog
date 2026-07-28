@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-26-nvidia-vera-rubi
 featureimagecaption: ""
 ---
 
-AIインフラの覇者・Nvidiaが、次世代AIシステム「**Vera Rubin**」の詳細をついに公開しましたわ。CNBCがサンタクララの本社で独占取材を行い、その実像が明らかになってきましたの。これは見逃せない情報ですわ！ 🎉
+AIインフラの覇者・[Nvidia](https://www.nvidia.com/)が、次世代AIシステム「**Vera Rubin**」の詳細をついに公開しましたわ。CNBCがサンタクララの本社で独占取材を行い、その実像が明らかになってきましたの。これは見逃せない情報ですわ！ 🎉
 
 ## Vera Rubin とは何ですの？
 
@@ -19,7 +19,7 @@ Vera Rubin は、Nvidiaの現行フラッグシップ「Grace Blackwell」の後
 
 - **GPU**: Rubin GPU × 72基
 - **CPU**: Vera CPU × 36基
-- **製造**: メインチップはTSMC（台湾積体電路製造）製
+- **製造**: メインチップは[TSMC（台湾積体電路製造）](https://www.tsmc.com/)製
 - **サプライヤー**: 80社以上、20カ国以上から部品を調達
 - **出荷予定**: 2026年後半
 

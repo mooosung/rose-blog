@@ -23,9 +23,9 @@ AI・ロボティクスETFとは、こうした次世代技術関連企業に分
 
 | ティッカー | 正式名称 | 運用会社 | 経費率 |
 |-----------|---------|---------|-------|
-| BOTZ | Global X Robotics & AI ETF | Global X | 0.68% |
+| BOTZ | Global X Robotics & AI ETF | [Global X](https://www.globalxetfs.com/) | 0.68% |
 | ROBT | First Trust Nasdaq AI & Robotics ETF | First Trust | 0.65% |
-| ARKQ | ARK Autonomous Technology & Robotics ETF | ARK Invest | 0.75% |
+| ARKQ | ARK Autonomous Technology & Robotics ETF | [ARK Invest](https://ark-invest.com/) | 0.75% |
 
 ---
 

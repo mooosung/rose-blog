@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-06-supermicro-smci-
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-AIブームの恩恵を直接受ける「ツルハシ銘柄」として注目されているのが、**Super Micro Computer（NASDAQ: SMCI）**です。GPUサーバーラックのサプライヤーとして、NVIDIA・AMD製AIチップを搭載したサーバーをデータセンター向けに供給しています。
+AIブームの恩恵を直接受ける「ツルハシ銘柄」として注目されているのが、**[Super Micro Computer](https://www.supermicro.com/)（NASDAQ: SMCI）**です。GPUサーバーラックのサプライヤーとして、[NVIDIA](https://www.nvidia.com/)・AMD製AIチップを搭載したサーバーをデータセンター向けに供給しています。
 
 ---
 

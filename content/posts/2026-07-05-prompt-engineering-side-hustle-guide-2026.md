@@ -68,8 +68,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 **学習リソース（無料）：**
 
-- OpenAI公式プロンプトガイド
-- Anthropic Prompt Engineering Interactive Tutorial
+- [OpenAI](https://openai.com/)公式プロンプトガイド
+- [Anthropic](https://www.anthropic.com/) Prompt Engineering Interactive Tutorial
 - X（旧Twitter）で #プロンプトエンジニアリング を追う
 
 この段階では「自分が仕事で使えるプロンプトを1つ完成させる」ことを目標にしますわ。

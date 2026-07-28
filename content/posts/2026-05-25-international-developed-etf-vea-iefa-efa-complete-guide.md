@@ -42,7 +42,7 @@ featureimagecaption: "Photo by Unsplash"
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | Vanguard |
+| 運用会社 | [Vanguard](https://www.vanguard.com/) |
 | ベンチマーク | FTSE先進国指数（除く米国） |
 | 経費率 | **0.06%** |
 | 純資産総額 | 約1,400億ドル（2026年5月現在） |
@@ -57,7 +57,7 @@ VEAの最大の特徴は**圧倒的な低コスト（0.06%）**と**カナダを
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | BlackRock（iShares） |
+| 運用会社 | [BlackRock（iShares）](https://www.ishares.com/) |
 | ベンチマーク | MSCI EAFE IMI指数 |
 | 経費率 | **0.07%** |
 | 純資産総額 | 約1,100億ドル（2026年5月現在） |

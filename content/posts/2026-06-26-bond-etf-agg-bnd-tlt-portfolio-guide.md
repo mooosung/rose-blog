@@ -38,7 +38,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-26-bond-etf-agg-bnd
 
 ### AGG（iShares Core U.S. Aggregate Bond ETF）
 
-運用会社はBlackRockですわ。米国債券市場全体を広くカバーする「債券版のVTI」とも呼ばれる王道インデックスETFですの。
+運用会社は[BlackRock（iShares）](https://www.ishares.com/)ですわ。米国債券市場全体を広くカバーする「債券版のVTI」とも呼ばれる王道インデックスETFですの。
 
 - **信託報酬（経費率）:** 0.03%（超低コスト）
 - **利回り（分配金）:** 約4.0〜4.5%（2026年時点）
@@ -52,7 +52,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-26-bond-etf-agg-bnd
 
 ### BND（Vanguard Total Bond Market ETF）
 
-ヴァンガードの総合債券ETF。AGGとほぼ同じ指数を追いますが、対象がわずかに広いですわ。
+[ヴァンガード](https://www.vanguard.com/)の総合債券ETF。AGGとほぼ同じ指数を追いますが、対象がわずかに広いですわ。
 
 - **信託報酬（経費率）:** 0.03%（AGGと同額）
 - **利回り（分配金）:** 約4.0〜4.5%

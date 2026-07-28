@@ -75,7 +75,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-21-dividend-reinves
 
 ### 擬似DRIPのやり方
 
-1. **配当金が口座に入金される**（SBI証券・楽天証券・マネックス証券など）
+1. **配当金が口座に入金される**（[SBI証券](https://www.sbisec.co.jp/)・[楽天証券](https://www.rakuten-sec.co.jp/)・マネックス証券など）
 2. **入金を確認したらすぐに同一銘柄（またはETF）を手動で追加購入**
 3. これを毎回繰り返すことで、DRIPと同等の効果を得る
 

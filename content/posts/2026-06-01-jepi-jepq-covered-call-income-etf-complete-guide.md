@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## JEPI・JEPQとは？毎月お金が入ってくるETFの仕組み
 
-**JEPI**（JPMorgan Equity Premium Income ETF）と**JEPQ**（JPMorgan Nasdaq Equity Premium Income ETF）は、JPモルガンが運用する「カバードコール戦略」を活用した高配当ETFです。
+**JEPI**（JPMorgan Equity Premium Income ETF）と**JEPQ**（JPMorgan Nasdaq Equity Premium Income ETF）は、[JPモルガン](https://www.jpmorgan.com/)が運用する「カバードコール戦略」を活用した高配当ETFです。
 
 両者の最大の特徴は**毎月分配金が出る**こと。年率7〜10%程度の利回りを実現しながら、株式の値上がり益もある程度享受できる"いいとこ取り"を狙った設計です。
 
@@ -119,7 +119,7 @@ JEPIは設定（2020年5月）以来、概ね安定したパフォーマンス�
 
 JEPIとJEPQはニューヨーク証券取引所に上場しているため、**米国株対応の証券会社**で購入できます。
 
-- **SBI証券**：米国株取引に対応、NISA口座でも購入可能
+- **[SBI証券](https://www.sbisec.co.jp/)**：米国株取引に対応、NISA口座でも購入可能
 - **楽天証券**：使いやすいUIで人気、積立設定も可能
 - **マネックス証券**：米国株に強く、NISA対応
 

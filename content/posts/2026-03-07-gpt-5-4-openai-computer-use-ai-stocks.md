@@ -20,7 +20,7 @@ featureimagecaption: ""
 
 ごきげんよう、ローゼンマイヤーですわ 🌹
 
-2026年3月5日、OpenAIが最新モデル**GPT-5.4**をリリースしました。GPT-5.3 Instantのわずか2日後という怒涛のペースですわ。
+2026年3月5日、[OpenAI](https://openai.com/)が最新モデル**GPT-5.4**をリリースしました。GPT-5.3 Instantのわずか2日後という怒涛のペースですわ。
 
 「またモデルのバージョンアップ？何が違うの？」
 
@@ -86,7 +86,7 @@ GPT-5.4はMicrosoft ExcelやGoogle Sheetsのセルに直接接続し、データ
 
 実は、GPT-5.4のリリースにはOpenAIの**焦り**も透けて見えますの。
 
-3月に入り、AnthropicのClaude（ChatGPTのライバル）がApp Storeで1位を獲得。OpenAIがペンタゴンとの契約を発表した直後、軍事利用に制限をかけたいAnthropicとトランプ政権の対立が話題になり、**反OpenAI感情からAnthropicに乗り換えるユーザーが急増**しました。
+3月に入り、[Anthropic](https://www.anthropic.com/)のClaude（ChatGPTのライバル）がApp Storeで1位を獲得。OpenAIがペンタゴンとの契約を発表した直後、軍事利用に制限をかけたいAnthropicとトランプ政権の対立が話題になり、**反OpenAI感情からAnthropicに乗り換えるユーザーが急増**しました。
 
 Anthropicは3月2日が過去最大の新規登録日だったと発表。これまで有料会員限定だったメモリ機能を無料ユーザーに開放するなど、攻勢を強めています。
 

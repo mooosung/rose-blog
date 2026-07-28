@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-25-datadog-ddog-obs
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-AIとクラウドへの投資が世界規模で加速する中、「誰がシステムを見張るか」という問いに答え続けているのがDatadog（NASDAQ: DDOG）ですわ。今回はこの可観測性（オブザーバビリティ）SaaSのリーダーを徹底分析します。
+AIとクラウドへの投資が世界規模で加速する中、「誰がシステムを見張るか」という問いに答え続けているのが[Datadog](https://www.datadoghq.com/)（NASDAQ: DDOG）ですわ。今回はこの可観測性（オブザーバビリティ）SaaSのリーダーを徹底分析します。
 
 ---
 
@@ -119,7 +119,7 @@ PER（株価収益率）・PSR（株価売上高倍率）ともに高水準で�
 
 ## 日本からの投資方法
 
-Datadogは**SBI証券・楽天証券・マネックス証券**などで購入できます。
+Datadogは**[SBI証券](https://www.sbisec.co.jp/)・楽天証券・マネックス証券**などで購入できます。
 
 米国株口座を開設し、ティッカーシンボル「**DDOG**」で検索すれば購入可能ですわ。
 

@@ -52,7 +52,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 2024年以降、米国ではプライベートクレジット関連ETFが登場していますの。
 
-- **BIZD（VanEck BDC Income ETF）**: Business Development Company（BDC）に分散投資するETF。BDCは法律上、中小企業向けに融資・出資を行う仕組みで、プライベートクレジットの最も身近な入口ですわ。
+- **BIZD（[VanEck](https://www.vaneck.com/) BDC Income ETF）**: Business Development Company（BDC）に分散投資するETF。BDCは法律上、中小企業向けに融資・出資を行う仕組みで、プライベートクレジットの最も身近な入口ですわ。
 - **PBDC（Putnam BDC Income ETF）**: BIZDと同様にBDC株を束ねたETF。
 
 ### ②　BDC株への直接投資
@@ -70,7 +70,7 @@ BDCは法律上、利益の90%以上を配当として支払う義務がある�
 
 ### ③　私募ファンド・クロスオーバーファンド
 
-アポロ、ブラックストーン、KKRなどの大手が個人向けに展開するプライベートクレジットファンドも増加していますわ。最低投資額が5万〜25万ドル程度と高いものの、機関投資家水準の案件にアクセスできますの。
+アポロ、[ブラックストーン](https://www.blackstone.com/)、KKRなどの大手が個人向けに展開するプライベートクレジットファンドも増加していますわ。最低投資額が5万〜25万ドル程度と高いものの、機関投資家水準の案件にアクセスできますの。
 
 ---
 

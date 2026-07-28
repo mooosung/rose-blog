@@ -28,7 +28,7 @@ AIライティングツールとは、**大規模言語モデル（LLM）を活�
 
 ## 主要3ツールの特徴比較
 
-### ChatGPT（OpenAI）
+### ChatGPT（[OpenAI](https://openai.com/)）
 
 **得意分野：** 汎用性・プラグイン連携・マルチモーダル
 
@@ -50,7 +50,7 @@ ChatGPTは最も広く普及しているAIツールです。GPT-4oを搭載し�
 - Plus：月額20ドル
 - Pro：月額200ドル（無制限アクセス）
 
-### Claude（Anthropic）
+### Claude（[Anthropic](https://www.anthropic.com/)）
 
 **得意分野：** 長文処理・正確性・安全性
 

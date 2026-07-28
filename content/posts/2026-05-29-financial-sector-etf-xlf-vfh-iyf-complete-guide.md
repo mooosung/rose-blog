@@ -32,7 +32,7 @@ featureimagecaption: "Photo by Unsplash"
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | State Street（SSGA） |
+| 運用会社 | [State Street（SSGA）](https://www.ssga.com/) |
 | 経費率 | 0.09% |
 | 純資産総額 | 約400億ドル（米最大級） |
 | 設定日 | 1998年12月 |
@@ -58,7 +58,7 @@ XLFはS&P500採用銘柄の金融セクターのみに投資しますわ。S&P50
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | Vanguard |
+| 運用会社 | [Vanguard](https://www.vanguard.com/) |
 | 経費率 | 0.10% |
 | 純資産総額 | 約100億ドル |
 | 設定日 | 2004年1月 |

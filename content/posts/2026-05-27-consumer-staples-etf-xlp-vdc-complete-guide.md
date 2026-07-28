@@ -39,7 +39,7 @@ featureimagecaption: "Photo by Unsplash"
 
 ### XLP（Consumer Discretionary Select Sector SPDR Fund）
 
-**XLP**はS&P500の消費者必需品セクターのみに投資するETFです。State Streetが運用し、1998年に設定された老舗ETF。
+**XLP**はS&P500の消費者必需品セクターのみに投資するETFです。[State Street](https://www.ssga.com/)が運用し、1998年に設定された老舗ETF。
 
 **主要保有銘柄（上位5位）:**
 1. プロクター・アンド・ギャンブル（P&G）〜約14%
@@ -55,7 +55,7 @@ featureimagecaption: "Photo by Unsplash"
 
 ### VDC（Vanguard Consumer Staples ETF）
 
-**VDC**はバンガードが運用する消費者必需品ETFで、MSCI指数をベンチマークにします。
+**VDC**は[バンガード](https://www.vanguard.com/)が運用する消費者必需品ETFで、MSCI指数をベンチマークにします。
 
 **主要保有銘柄（上位5位）:**
 1. プロクター・アンド・ギャンブル 〜約14%

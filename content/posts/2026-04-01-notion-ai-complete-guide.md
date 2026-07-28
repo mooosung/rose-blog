@@ -17,7 +17,7 @@ AIツールが飛躍的に進化する中、「Notion AI」はビジネスパー
 
 ## Notion AIとは？基本をおさらい
 
-**Notion AI**とは、情報管理ツール「Notion」に組み込まれたAI機能です。ChatGPTのような外部ツールに切り替えることなく、**Notionのワークスペース内でAIによる文章生成・要約・翻訳などが完結**します。
+**Notion AI**とは、情報管理ツール「[Notion](https://www.notion.so/)」に組み込まれたAI機能です。ChatGPTのような外部ツールに切り替えることなく、**Notionのワークスペース内でAIによる文章生成・要約・翻訳などが完結**します。
 
 ### Notion AIの主な機能
 

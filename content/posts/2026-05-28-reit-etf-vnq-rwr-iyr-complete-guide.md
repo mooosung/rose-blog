@@ -43,7 +43,7 @@ REIT ETFは、複数のREIT銘柄をまとめてパッケージにした上場�
 
 ### VNQ（Vanguard Real Estate ETF）
 
-バンガードが運用する米国最大のREIT ETFですわ。
+[バンガード](https://www.vanguard.com/)が運用する米国最大のREIT ETFですわ。
 
 - **運用会社:** Vanguard
 - **ベンチマーク:** MSCI US Investable Market Real Estate 25/50 Index
@@ -66,7 +66,7 @@ VNQは**流動性・コスト・分散度のバランス**が最も優れてお�
 
 ### RWR（SPDR Dow Jones REIT ETF）
 
-ステート・ストリートが運用する老舗REIT ETFですわ。
+[ステート・ストリート](https://www.ssga.com/)が運用する老舗REIT ETFですわ。
 
 - **運用会社:** State Street Global Advisors
 - **ベンチマーク:** Dow Jones U.S. Select REIT Index

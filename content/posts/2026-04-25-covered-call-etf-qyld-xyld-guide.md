@@ -30,7 +30,7 @@ featureimagecaption: ""
 
 ## QYLDとXYLDの特徴
 
-### QYLD（Global X NASDAQ 100 Covered Call ETF）
+### QYLD（[Global X](https://www.globalxetfs.co.jp/) NASDAQ 100 Covered Call ETF）
 
 | 項目 | 内容 |
 |------|------|

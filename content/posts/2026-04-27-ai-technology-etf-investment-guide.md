@@ -27,7 +27,7 @@ AI・テクノロジーETFとは、人工知能・半導体・クラウドコン
 
 ## 代表的なAI・テクノロジーETF一覧
 
-### QQQ（インベスコ・QQQ）
+### QQQ（[インベスコ](https://www.invesco.com/)・QQQ）
 
 **最も有名なテクノロジーETF**として知られるQQQは、NASDAQ-100指数に連動します。
 
@@ -48,7 +48,7 @@ QQQの低コスト版として2020年に登場したのがQQQMです。
 
 NISAでの積立を考えるなら、QQQよりQQQMのほうがコスト面で有利です。
 
-### BOTZ（グローバルX ロボティクス＆AI ETF）
+### BOTZ（[グローバルX](https://www.globalxetfs.co.jp/) ロボティクス＆AI ETF）
 
 AIとロボティクスに特化した純粋なAI ETFです。
 

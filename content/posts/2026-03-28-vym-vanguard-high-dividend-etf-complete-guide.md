@@ -12,7 +12,7 @@ featureimagecaption: ""
 
 ## VYMとは？30秒でわかる概要
 
-**VYM（Vanguard High Dividend Yield ETF）** は、バンガード社が運用する米国の高配当株ETFです。
+**VYM（Vanguard High Dividend Yield ETF）** は、[バンガード社](https://www.vanguard.com/)が運用する米国の高配当株ETFです。
 
 - 正式名称：Vanguard High Dividend Yield ETF
 - ティッカー：**VYM**
@@ -154,8 +154,8 @@ VYMは**米国株を取り扱う証券会社**で購入できます。
 
 おすすめの証券会社：
 
-- **SBI証券**：米国株手数料の安さと使いやすさが人気No.1
-- **楽天証券**：楽天ポイントで投資可能・楽天経済圏ユーザーに最適
+- **[SBI証券](https://www.sbisec.co.jp/)**：米国株手数料の安さと使いやすさが人気No.1
+- **[楽天証券](https://www.rakuten-sec.co.jp/)**：楽天ポイントで投資可能・楽天経済圏ユーザーに最適
 - **マネックス証券**：銘柄分析ツールが充実・米国株に強い
 
 > **NISAを使えばさらにお得！** 新NISAの成長投資枠を使えば、VYMの配当・値上がり益が非課税になります。年240万円の非課税枠を最大限活用しましょう。

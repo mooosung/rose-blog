@@ -23,7 +23,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 | 項目 | 詳細 |
 |------|------|
-| 運用会社 | State Street Global Advisors |
+| 運用会社 | [State Street Global Advisors](https://www.ssga.com/) |
 | 経費率 | 0.09% |
 | 配当利回り（目安） | 約3.0〜3.5% |
 | 純資産総額 | 約200億ドル超 |
@@ -37,7 +37,7 @@ XLUはS&P 500のユーティリティセクターに連動する最大規模のE
 
 | 項目 | 詳細 |
 |------|------|
-| 運用会社 | Vanguard |
+| 運用会社 | [Vanguard](https://www.vanguard.com/) |
 | 経費率 | 0.10% |
 | 配当利回り（目安） | 約2.8〜3.3% |
 | 純資産総額 | 約70億ドル |

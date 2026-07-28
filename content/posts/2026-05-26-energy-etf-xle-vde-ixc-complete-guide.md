@@ -45,7 +45,7 @@ AI時代の電力需要急増、エネルギー安全保障への関心の高ま
 
 ### 基本概要
 
-XLEは**S&P 500のエネルギーセクター**に連動するETFです。State Streetが運用し、1998年から存在する老舗ファンドです。
+XLEは**S&P 500のエネルギーセクター**に連動するETFです。[State Street](https://www.ssga.com/)が運用し、1998年から存在する老舗ファンドです。
 
 経費率は**0.09%**と非常に低く、コスト面では優秀です。
 
@@ -76,7 +76,7 @@ XLEは**S&P 500のエネルギーセクター**に連動するETFです。State 
 
 ### 基本概要
 
-VDEはVanguardが運用する米国エネルギーETFです。**MSCI US Investable Market Energy 25/50 Index**に連動し、XLEより幅広い銘柄に投資します。
+VDEは[Vanguard](https://www.vanguard.com/)が運用する米国エネルギーETFです。**MSCI US Investable Market Energy 25/50 Index**に連動し、XLEより幅広い銘柄に投資します。
 
 ### 構成の特徴
 

@@ -13,7 +13,7 @@ featureimagecaption: ""
 
 「25年以上、毎年増配を続けている企業」をまとめて**配当貴族（Dividend Aristocrats）**と呼びます。景気後退・リーマンショック・コロナショックといった試練を乗り越えながらも増配を続けてきた企業群であり、財務力と株主還元へのコミットメントを証明した選りすぐりの銘柄たちです。
 
-その配当貴族株だけに投資できるETFが、**NOBL（ProShares S&P 500 Dividend Aristocrats ETF）**です。
+その配当貴族株だけに投資できるETFが、**NOBL（[ProShares](https://www.proshares.com/) S&P 500 Dividend Aristocrats ETF）**です。
 
 ---
 
@@ -137,7 +137,7 @@ S&P 500全体には若干劣後する年もありますが、下落相場での�
 
 ## 購入方法
 
-NOBLは米国ETFなので、**楽天証券・SBI証券・マネックス証券**などから外国株として購入できます。新NISAの成長投資枠でも購入可能です（つみたて枠の対象外）。
+NOBLは米国ETFなので、**[楽天証券](https://www.rakuten-sec.co.jp/)・[SBI証券](https://www.sbisec.co.jp/)・[マネックス証券](https://www.monex.co.jp/)**などから外国株として購入できます。新NISAの成長投資枠でも購入可能です（つみたて枠の対象外）。
 
 最低購入単価は1株単位（約100〜130ドル前後・時価によって変動）なので、少額から始めやすいのも利点です。
 
