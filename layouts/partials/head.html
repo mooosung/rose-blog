@@ -8,12 +8,29 @@
   <meta name="theme-color">
 
   {{/* Title */}}
+  {{/* SERPで途中切れする長いtitleタグ対策：「｜」「【」区切りがあれば本題部分のみ使い、
+       それでも長い場合は32文字で丸める。サイト名を足すと長すぎる場合はサイト名を省略する */}}
+  {{ $seoTitle := .Title }}
+  {{ if strings.Contains $seoTitle "｜" }}
+    {{ $seoTitle = index (split $seoTitle "｜") 0 | strings.TrimSuffix " " }}
+  {{ else if strings.Contains $seoTitle "【" }}
+    {{ $seoTitle = index (split $seoTitle "【") 0 | strings.TrimSuffix " " }}
+  {{ end }}
+  {{ if gt (len $seoTitle) 32 }}
+    {{ $seoTitle = printf "%s…" (substr $seoTitle 0 32) }}
+  {{ end }}
   {{ if .IsHome }}
     <title>{{ .Site.Title | emojify }}</title>
     <meta name="title" content="{{ .Site.Title | emojify }}">
   {{ else }}
-    <title>{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}</title>
-    <meta name="title" content="{{ .Title | emojify }} &middot; {{ .Site.Title | emojify }}">
+    {{ $withSuffix := printf "%s · %s" $seoTitle .Site.Title }}
+    {{ if le (len $withSuffix) 60 }}
+      <title>{{ $withSuffix | emojify }}</title>
+      <meta name="title" content="{{ $withSuffix | emojify }}">
+    {{ else }}
+      <title>{{ $seoTitle | emojify }}</title>
+      <meta name="title" content="{{ $seoTitle | emojify }}">
+    {{ end }}
   {{ end }}
 
   {{/* Metadata */}}
