@@ -3,7 +3,7 @@ title: "Vertiv（VRT）とEaton（ETN）で狙う「AIの電力需要」受益�
 date: 2026-07-20
 draft: false
 tags: ["ツルハシ投資", "AIインフラ株", "Vertiv", "Eaton", "電力インフラ", "データセンター"]
-categories: ["ツルハシ投資（AIインフラ株）"]
+categories: ["ツルハシ投資"]
 description: "AIデータセンターの電力・冷却インフラを支えるVertiv（VRT）とEaton（ETN）の銘柄分析。急増する電力需要を「ツルハシ株」として狙う2026年の投資戦略を解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

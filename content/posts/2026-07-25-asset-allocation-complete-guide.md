@@ -3,7 +3,7 @@ title: "アセットアロケーション完全入門｜年齢・リスク許容
 date: 2026-07-25
 draft: false
 tags: ["アセットアロケーション", "資産配分", "投資マインド", "ポートフォリオ", "リスク管理", "長期投資", "新NISA", "資産運用入門", "株式投資", "債券"]
-categories: ["投資マインド・資産運用入門"]
+categories: ["投資戦略・資産運用"]
 description: "アセットアロケーション（資産配分）の基本から実践まで完全解説。20代・30代・40代・50代別のベスト配分比率、リスク許容度の測り方、年次リバランスのタイミングまで、長期投資家が押さえるべき核心をローゼが徹底解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-25-asset-allocation-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

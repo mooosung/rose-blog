@@ -2,8 +2,7 @@
 title: "フロンティアAIと金融機関のサイバー防衛戦略2026年版｜3メガバンク・NEC・5大証券のClaude Mythos対応を徹底調査"
 date: 2026-06-22
 slug: 2026-06-22-frontier-ai-security-risks-japanese-financial-institutions
-categories:
-  - AIバブルのツルハシ銘柄
+categories: ["ツルハシ投資"]
 tags: ["フロンティアAI", "サイバーセキュリティ", "金融機関", "メガバンク", "Anthropic", "Claude", "AI規制", "地政学", "NEC", "投資"]
 description: "フロンティアAIが金融機関のサイバー防衛に与える影響を徹底解説。三菱UFJ・三井住友・みずほ3メガバンクによるClaude Mythos導入の真相から、5大証券・NEC・海外当局の対応まで2026年最前線を調査。"
 summary: "2026年5月、三菱UFJ・三井住友・みずほの3メガバンクが米Anthropicの最高機密AI「Claude Mythos」のアクセス権を日本企業初として確保。フロンティアAIが変えたサイバー脅威の次元と、金融業界が取るべき防衛戦略を解説しますわ。"

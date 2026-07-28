@@ -3,7 +3,7 @@ title: "Gemini Deep Researchで投資リサーチを10倍速にする実践活�
 date: 2026-07-22
 draft: false
 tags: ["AI活用術", "Gemini", "投資リサーチ", "生産性ハック", "Deep Research"]
-categories: ["AI活用術・生産性ハック"]
+categories: ["AI活用術"]
 description: "Google Gemini のDeep Research機能を使って、銘柄分析・決算解読・競合比較を驚くほど効率化する具体的な活用術を解説します。2026年版の最新プロンプト集付き。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-22-gemini-deep-research-investment-analysis-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

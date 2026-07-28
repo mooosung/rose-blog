@@ -3,7 +3,7 @@ title: "新NISAクレカ積立、結局どこが一番お得？SBI・楽天・�
 date: 2026-07-28
 draft: false
 tags: ["新NISA", "iDeCo", "クレカ積立", "ポイント還元", "SBI証券", "楽天証券", "マネックス証券"]
-categories: ["NISA・iDeCo完全攻略"]
+categories: ["NISA・iDeCo"]
 description: "新NISAの積立をクレジットカードで行うと自動的にポイントが貯まる「クレカ積立」。SBI証券・楽天証券・マネックス証券・auの2026年最新ポイント還元率を比較し、自分に合った組み合わせを解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-28-nisa-credit-card-point-comparison-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

@@ -3,7 +3,7 @@ title: "投資家の行動バイアスを克服する7つのマインドセッ�
 date: 2026-07-11
 draft: false
 tags: ["投資マインド", "行動バイアス", "行動経済学", "資産運用入門", "長期投資", "心理学", "損切り", "暴落対策", "個人投資家", "投資哲学"]
-categories: ["投資マインド・資産運用入門"]
+categories: ["投資戦略・資産運用"]
 description: "損切りできない・暴落で狼狽売りする・高値掴みを繰り返す——それは意志の弱さではなく行動経済学的バイアスです。損失回避・確証バイアス・ギャンブラーの誤謬など7つの代表的バイアスと、資産を守るマインドセットを解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-11-investment-behavior-bias-overcome-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
