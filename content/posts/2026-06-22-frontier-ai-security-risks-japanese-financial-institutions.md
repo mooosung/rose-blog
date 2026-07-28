@@ -47,7 +47,7 @@ Anthropicが2026年4月7日に発表した「Claude Mythos（ミュトス）」�
 - **17年間誰も気づかなかったFreeBSDの重大な欠陥**を、AIだけで発見・悪用実演
 - Mozillaとの連携テストで**2週間でFirefoxの脆弱性22件を検出**（うち14件が「高危険度」）
 
-Anthropicはリスクを認識した上で、**Project Glasswing（プロジェクト・グラスウィング）** という防衛目的限定の企業連合を立ち上げましたわ。創設メンバーはAWS・Apple・Google・Microsoft・NVIDIA・JPMorgan Chaseなど、世界の重要インフラを担う顔ぶれですの。
+Anthropicはリスクを認識した上で、**[Project Glasswing（プロジェクト・グラスウィング）](https://www.anthropic.com/glasswing)** という防衛目的限定の企業連合を立ち上げましたわ。創設メンバーはAWS・Apple・Google・Microsoft・NVIDIA・JPMorgan Chaseなど、世界の重要インフラを担う顔ぶれですの。
 
 ### なぜメガバンクが動いたのか
 

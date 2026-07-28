@@ -21,6 +21,8 @@ NvidiaもAMDもAppleもQualcommも、みんなArmの設計図（ISA）を使っ�
 
 Armはチップそのものを作らない会社ですの。半導体の「設計図（アーキテクチャ）」をライセンスとして提供し、使った分だけロイヤリティを受け取るビジネスモデルですわ。
 
+[Arm Investor Relations](https://investors.arm.com/)で公開されている決算資料を見れば、このビジネスモデルの実態がよくわかりますわ。
+
 **世界の半導体設計の構造:**
 - Armが「命令セット（ISA）」と「コアIP」を設計
 - AppleやQualcomm、NvidiaがArmのIPを基にカスタムチップを設計

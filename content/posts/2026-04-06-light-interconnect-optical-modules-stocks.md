@@ -41,7 +41,7 @@ NVIDIA H100・H200といった高性能AIチップが数千〜数万台規模で
 
 ## 主要プレイヤー4社を徹底比較
 
-### 1. **Coherent（COHR）** — 光インターコネクト業界の頂点
+### 1. **[Coherent（COHR）](https://www.coherent.com/company/investor-relations)** — 光インターコネクト業界の頂点
 
 - **事業**：コヒーレント光受信機・光送信機・チップセット
 - **顧客**：Amazon・Microsoft・Google・Meta（ハイペリスケール・データセンター）
@@ -73,7 +73,7 @@ NVIDIA H100・H200といった高性能AIチップが数千〜数万台規模で
 
 ---
 
-### 3. **Lumentum（LITE）** — 光デバイス＆モジュール大手
+### 3. **[Lumentum（LITE）](https://investor.lumentum.com/)** — 光デバイス＆モジュール大手
 
 - **事業**：光トランシーバー・光モジュール・フォトニックスデバイス
 - **顧客**：ハイペリスケール・通信インフラ・半導体テスト装置

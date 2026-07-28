@@ -31,13 +31,13 @@ NVIDIA の NVLink や Infiniband、あるいは Ethernet ベースの AI ファ�
 
 ### 1. Coherent Corp（COHR）
 
-**光モジュールのシェアトップ級。**旧II-VI社とCoherent社が合併して誕生。400G・800G・1.6T対応の光トランシーバーを製造しており、NVIDIA・Microsoft・Googleなど主要クラウド各社に納入している。
+**光モジュールのシェアトップ級。**旧II-VI社とCoherent社が合併して誕生。[Coherent Corp](https://www.coherent.com/company/investor-relations)は400G・800G・1.6T対応の光トランシーバーを製造しており、NVIDIA・Microsoft・Googleなど主要クラウド各社に納入している。
 
 AI向けデータセンター需要の恩恵を直接受けており、収益は急拡大中。光モジュール単体だけでなく、光ファイバー・レーザーチップまで垂直統合しているのが強み。
 
 ### 2. Ciena Corporation（CIEN）
 
-**長距離光ネットワーク機器のリーダー。**データセンター間やクラウド拠点間をつなぐ広域ネットワーク（WAN）向け機器を主力とする。
+**長距離光ネットワーク機器のリーダー。**[Ciena](https://investor.ciena.com/)はデータセンター間やクラウド拠点間をつなぐ広域ネットワーク（WAN）向け機器を主力とする。
 
 AI学習に使う大量のデータをデータセンター間で転送する需要が増すほど、Cienaの機器が使われる。クラウド大手との直接取引が多く、安定した収益基盤を持つ。
 

@@ -32,7 +32,7 @@ categories: ["NISA・iDeCo"]
 
 ## iDeCoとは？1分でわかる基本の仕組み
 
-iDeCo（individual-type Defined Contribution pension plan）は、**自分で老後資金を積み立てる私的年金制度**です。
+iDeCo（individual-type Defined Contribution pension plan）は、**自分で老後資金を積み立てる私的年金制度**です。[iDeCo公式サイト（国民年金基金連合会）](https://www.ideco-koushiki.jp/guide/)でも解説されている通り、掛金が全額所得控除になるなど3つの税制優遇が用意されています。
 
 ### iDeCoの3つの税制メリット
 
@@ -176,6 +176,8 @@ iDeCoは証券会社（運営管理機関）によって**手数料と商品ラ�
 | 引き出し | 60歳まで不可 | いつでも可能 |
 | 年間投資枠 | 最大81.6万円 | 最大360万円 |
 | 向いている用途 | 老後資金 | 中期〜長期の資産形成 |
+
+新NISAの非課税枠（つみたて投資枠・成長投資枠合わせて年間360万円、生涯1,800万円）については[金融庁公式サイト](https://www.fsa.go.jp/policy/nisa2/know/index.html)にも詳しい解説があります。
 
 ### 30代の優先順位
 

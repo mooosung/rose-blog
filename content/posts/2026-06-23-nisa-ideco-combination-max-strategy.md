@@ -21,6 +21,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ### 新NISA（2024年〜）
 
+[金融庁公式サイト](https://www.fsa.go.jp/policy/nisa2/know/index.html)の制度概要はこちらの通りですわ。
+
 | 項目 | 内容 |
 |------|------|
 | 年間上限 | 360万円（つみたて120万＋成長240万） |
@@ -47,7 +49,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## iDeCoの節税効果は想像以上に強力
 
-多くの方がNISAばかり注目しますが、実はiDeCoの節税効果は**圧倒的**なんですのよ。
+多くの方がNISAばかり注目しますが、[iDeCo公式サイト](https://www.ideco-koushiki.jp/guide/)にもある通り、実はiDeCoの節税効果は**圧倒的**なんですのよ。
 
 ### 具体的なシミュレーション
 

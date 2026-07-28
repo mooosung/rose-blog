@@ -122,7 +122,7 @@ Sakana AI自体に直接投資できなくても、この動きから恩恵を�
 - **Fugu Mini 🐟**：コーディングアシスタント・チャットbot向け
 - **Fugu Ultra 🐡**：AI研究・サイバーセキュリティ解析・複雑な多段階タスク向け
 
-詳細はsakana.ai/fugu/で確認できますわ。
+詳細は[Sakana AI公式サイト（sakana.ai/fugu/）](https://sakana.ai/fugu/)で確認できますわ。
 
 ## 関連記事
 
