@@ -11,14 +11,6 @@
     "publisher": {
       "@type": "Person",
       "name": "{{ .Site.Params.Author.name | safeJS }}"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": {
-        "@type": "EntryPoint",
-        "urlTemplate": "{{ site.Home.Permalink }}search/?q={search_term_string}"
-      },
-      "query-input": "required name=search_term_string"
     }
   }
   </script>
