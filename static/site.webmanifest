@@ -2,15 +2,25 @@
   "name": "ローゼンマイヤー",
   "short_name": "ローゼ",
   "description": "AI・投資系ニュースをローゼがお届けするブログですわ 🌹",
-  "start_url": "/rose-blog/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#c084fc",
   "icons": [
     {
-      "src": "/rose-blog/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
