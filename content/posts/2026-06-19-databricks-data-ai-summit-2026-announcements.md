@@ -6,7 +6,7 @@ categories: ["ツルハシ投資"]
 tags: ["Databricks", "AI", "データエンジニアリング", "エンタープライズAI", "レイクハウス", "Genie", "MLflow", "Delta Lake", "AI SaaS", "米国株"]
 description: "2026年6月サンフランシスコ開催のDatabricks最大年次イベント「Data + AI Summit 2026」の全発表内容を解説。"
 summary: "2026年6月、Databricksが年次最大イベント「Data + AI Summit 2026」をサンフランシスコで開催。3万人超が参加した今年の発表は、Genie OneというAI同僚の登場から、OLTPとOLAPを統合するLTAP、オープンソースのエージェントメタハーネスOmnigentまで、盛りだくさんでしたわ。投資家・エンジニア必読のまとめよ。"
-featureimage: "/img/thumbnails/2026-06-19-databricks-data-ai-summit-2026-announcements.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-19-databricks-data-ai-summit-2026-announcements.jpg"
 ---
 
 🌹 2026年6月15〜18日、サンフランシスコのモスコーニセンターで **[Databricks](https://www.databricks.com/)最大の年次カンファレンス「Data + AI Summit 2026」** が開催されましたわ。登録者数は3万人超、Databricks共同創業者陣（Ali Ghodsi・Matei Zaharia・Arsalan Tavakoli-Shiraji・Reynold Xin）に加え、Satya Nadella（Microsoft CEO、事前録画）とGreg Brockman（OpenAI）がキーノートに登壇した、まさにエンタープライズAI業界最大の祭典でしたの。
