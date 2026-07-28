@@ -23,10 +23,19 @@
   {{ with  .Params.Tags | default .Site.Params.keywords }}
     <meta name="keywords" content="{{ range . }}{{ . }},{{ end }}">
   {{ end }}
-  {{ with .Site.Params.robots }}
-    <meta name="robots" content="{{ . }}">
+  {{/* タグ・カテゴリの薄いアーカイブページ（記事数が閾値未満）はnoindexにし、
+       クロール予算の浪費と低品質コンテンツシグナルを防ぐ */}}
+  {{ $robotsContent := .Site.Params.robots }}
+  {{ if eq .Kind "term" }}
+    {{ $thinThreshold := .Site.Params.thinTaxonomyThreshold | default 3 }}
+    {{ if lt (len .Pages) $thinThreshold }}
+      {{ $robotsContent = "noindex, follow" }}
+    {{ end }}
   {{ end }}
   {{ with .Params.robots }}
+    {{ $robotsContent = . }}
+  {{ end }}
+  {{ with $robotsContent }}
     <meta name="robots" content="{{ . }}">
   {{ end }}
   {{ with .Params.canonical }}
