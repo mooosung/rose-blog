@@ -113,14 +113,14 @@ featureimagecaption: ""
 **DFSV（Dimensional US Small Cap Value ETF）**
 - バリュー＋サイズ＋クオリティを組み合わせ
 - 経費率：0.22%
-- Dimensional Fund Advisors（DFA）の上場版
+- [Dimensional Fund Advisors（DFA）](https://www.dimensional.com/)の上場版
 
 **AVUV（Avantis U.S. Small Cap Value ETF）**
 - バリュー＋クオリティ重視の小型株
 - 経費率：0.25%
 - 近年人気急上昇のスマートベータETF
 
-**JPUS（JPMorgan Diversified Return US Equity ETF）**
+**JPUS（[JPMorgan](https://am.jpmorgan.com/jp) Diversified Return US Equity ETF）**
 - バリュー・モメンタム・クオリティの三因子
 - 経費率：0.19%
 

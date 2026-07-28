@@ -38,7 +38,7 @@ featureimagecaption: "Photo by Unsplash"
 
 | 項目 | IJR | VB | IWM |
 |------|-----|----|-----|
-| 運用会社 | iShares（ブラックロック） | バンガード | iShares（ブラックロック） |
+| 運用会社 | [iShares](https://www.ishares.com/jp)（ブラックロック） | [バンガード](https://www.vanguard.co.jp/) | iShares（ブラックロック） |
 | ベンチマーク | S&P SmallCap 600 | CRSP US Small Cap Index | Russell 2000 |
 | 銘柄数 | 約600社 | 約1,500社 | 約2,000社 |
 | 経費率 | 0.06% | 0.05% | 0.19% |

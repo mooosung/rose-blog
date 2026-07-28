@@ -60,14 +60,14 @@ featureimagecaption: ""
 
 ### SPDR Gold Shares（GLD）
 
-- **運用会社：** State Street
+- **運用会社：** [State Street](https://www.ssga.com/jp)
 - **経費率：** 0.40%
 - **純資産総額：** 約600億ドル（世界最大級）
 - **特徴：** 最も歴史が長く流動性が高い。機関投資家にも広く利用される
 
 ### iShares Gold Trust（IAU）
 
-- **運用会社：** BlackRock
+- **運用会社：** [BlackRock](https://www.ishares.com/jp)
 - **経費率：** 0.25%
 - **純資産総額：** 約350億ドル
 - **特徴：** GLDより経費率が低く、個人投資家に人気。1口あたりの金保有量はGLDの約1/10

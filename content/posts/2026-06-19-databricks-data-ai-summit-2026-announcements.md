@@ -9,7 +9,7 @@ summary: "2026年6月、Databricksが年次最大イベント「Data + AI Summit
 featureimage: "/img/thumbnails/2026-06-19-databricks-data-ai-summit-2026-announcements.jpg"
 ---
 
-🌹 2026年6月15〜18日、サンフランシスコのモスコーニセンターで **Databricks最大の年次カンファレンス「Data + AI Summit 2026」** が開催されましたわ。登録者数は3万人超、Databricks共同創業者陣（Ali Ghodsi・Matei Zaharia・Arsalan Tavakoli-Shiraji・Reynold Xin）に加え、Satya Nadella（Microsoft CEO、事前録画）とGreg Brockman（OpenAI）がキーノートに登壇した、まさにエンタープライズAI業界最大の祭典でしたの。
+🌹 2026年6月15〜18日、サンフランシスコのモスコーニセンターで **[Databricks](https://www.databricks.com/)最大の年次カンファレンス「Data + AI Summit 2026」** が開催されましたわ。登録者数は3万人超、Databricks共同創業者陣（Ali Ghodsi・Matei Zaharia・Arsalan Tavakoli-Shiraji・Reynold Xin）に加え、Satya Nadella（Microsoft CEO、事前録画）とGreg Brockman（OpenAI）がキーノートに登壇した、まさにエンタープライズAI業界最大の祭典でしたの。
 
 今回の発表は量・質ともに過去最大規模。わたくしが主要発表を全部まとめましたわ。ふん、追いきれていない人のためにやってあげているんだから、感謝しなさいよ。
 
@@ -123,7 +123,7 @@ AI/BI製品も大幅更新ですわ。ワークスペーステーマ・20以上�
 今回の発表を投資角度でまとめるとこうなりますわ。
 
 *Databricksの競合優位の変化：*
-• **Snowflakeとの対比**：SnowflakeがSQL・BIに特化する中、DatabricksはLTAPでOLTPまで取り込もうとしていますわ。データ統合プラットフォームとしての守備範囲が根本的に広がりましたの。
+• **[Snowflake](https://www.snowflake.com/)との対比**：SnowflakeがSQL・BIに特化する中、DatabricksはLTAPでOLTPまで取り込もうとしていますわ。データ統合プラットフォームとしての守備範囲が根本的に広がりましたの。
 • **OpenAI・Anthropicとの共存**：Agent BricksがAnthropicやOpenAIのモデルをサポートしつつ、自社LLM（DBRX）路線も継続。「AIモデルを内包するデータ基盤」として差別化していますわ。
 • **Microsoft統合の深化**：SatyaとAliの対話に象徴されるように、Azure Databricksは単なるマルチクラウド対応ではなく戦略的同盟に進化しましたの。
 

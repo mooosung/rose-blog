@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## クラウドフレアとは？ AIインフラの「縁の下の力持ち」
 
-AIブームで注目されるのは大型GPUクラウド（AWS・Azure・GCP）ばかりですが、**Cloudflare（NYSE: NET）**はその「エッジ」で静かに存在感を高めている銘柄ですわ。
+AIブームで注目されるのは大型GPUクラウド（AWS・Azure・GCP）ばかりですが、**[Cloudflare](https://www.cloudflare.com/)（NYSE: NET）**はその「エッジ」で静かに存在感を高めている銘柄ですわ。
 
 Cloudflareは世界120カ国・320都市以上にデータセンターを展開し、インターネットトラフィックの約20%を処理する企業です。もともとはDDoS防御・CDN（コンテンツ配信）が主力でしたが、2023年以降は**AIワークロードをエッジで処理するインフラ企業**へと急速に変貌しています。
 

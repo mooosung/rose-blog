@@ -41,7 +41,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## IBIT（iShares Bitcoin Trust）
 
-**運用会社:** BlackRock（世界最大の資産運用会社）
+**運用会社:** [BlackRock](https://www.ishares.com/us)（世界最大の資産運用会社）
 
 ### 特徴
 
@@ -65,7 +65,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## FBTC（Fidelity Wise Origin Bitcoin Fund）
 
-**運用会社:** Fidelity Investments
+**運用会社:** [Fidelity Investments](https://www.fidelity.com/)
 
 ### 特徴
 

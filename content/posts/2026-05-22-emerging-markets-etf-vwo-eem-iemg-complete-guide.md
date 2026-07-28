@@ -37,7 +37,7 @@ featureimagecaption: "Photo by Unsplash"
 
 ### VWO：Vanguard FTSE Emerging Markets ETF
 
-- **運用会社:** バンガード
+- **運用会社:** [バンガード](https://www.vanguard.co.jp/)
 - **ベンチマーク:** FTSE Emerging Markets All Cap China A Inclusion Index
 - **経費率:** 0.08%（業界最低水準）
 - **純資産総額:** 約1,000億ドル超
@@ -46,7 +46,7 @@ featureimagecaption: "Photo by Unsplash"
 
 ### EEM：iShares MSCI Emerging Markets ETF
 
-- **運用会社:** ブラックロック（iShares）
+- **運用会社:** ブラックロック（[iShares](https://www.ishares.com/jp)）
 - **ベンチマーク:** MSCI Emerging Markets Index
 - **経費率:** 0.68%
 - **純資産総額:** 約200億ドル

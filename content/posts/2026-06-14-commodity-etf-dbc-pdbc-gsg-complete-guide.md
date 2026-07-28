@@ -33,7 +33,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ※経費率・構成比は変動します。投資前に最新の目論見書を確認してください。
 
-## DBC（Invesco DB Commodity Index Tracking Fund）
+## DBC（[Invesco](https://www.invesco.com/) DB Commodity Index Tracking Fund）
 
 ### 特徴
 
@@ -66,7 +66,7 @@ DBCとほぼ同じ14商品・同じ指数に連動しますが、名前のとお
 - アクティブ運用に分類され、構成がやや変動する
 - 株式ETFと比べると経費率は高め
 
-## GSG（iShares S&P GSCI Commodity-Indexed Trust）
+## GSG（[iShares](https://www.ishares.com/us) S&P GSCI Commodity-Indexed Trust）
 
 ### 特徴
 

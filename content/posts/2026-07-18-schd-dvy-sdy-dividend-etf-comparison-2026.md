@@ -19,7 +19,7 @@ SCHDの詳細な解説は [SCHD完全ガイド](/posts/2026-03-27-schd-us-divide
 
 | 項目 | SCHD | DVY | SDY |
 |------|------|-----|-----|
-| 運用会社 | Charles Schwab | BlackRock | State Street (SPDR) |
+| 運用会社 | [Charles Schwab](https://www.schwab.com/) | [BlackRock](https://www.blackrock.com/) | State Street (SPDR) |
 | ベンチマーク | Dow Jones U.S. Dividend 100 | Dow Jones U.S. Select Dividend | S&P High Yield Dividend Aristocrats |
 | 経費率 | 0.06% | 0.38% | 0.35% |
 | 配当利回り（目安） | 約3.5% | 約4.5% | 約2.8% |

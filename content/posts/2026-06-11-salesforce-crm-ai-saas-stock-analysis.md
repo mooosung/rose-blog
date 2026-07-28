@@ -10,7 +10,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 featured: false
 ---
 
-SaaS株の王様、Salesforceをご存知ですわよね？🌹
+SaaS株の王様、[Salesforce](https://www.salesforce.com/)をご存知ですわよね？🌹
 
 時価総額約2,400億ドル（2026年時点）、世界最大のCRM（顧客管理）ソフトウェア企業。ティッカーシンボルが「CRM」という企業ですわ。
 
@@ -84,7 +84,7 @@ SaaS成熟企業としては割高ではなく、Agentforceの成功を織り込
 
 | 企業 | 強み | Salesforceとの違い |
 |------|------|------------------|
-| **ServiceNow（NOW）** | エンタープライズワークフロー | ITOps・HR等の業務自動化が主 |
+| **[ServiceNow](https://www.servicenow.com/)（NOW）** | エンタープライズワークフロー | ITOps・HR等の業務自動化が主 |
 | **HubSpot（HUBS）** | SMB向けオールインワン | 中小企業特化、価格競争力 |
 | **Microsoft（MSFT）** | Dynamics 365 + Copilot | Microsoft365との統合が強み |
 | **Adobe（ADBE）** | マーケティングAI | CreativeCloud+AIの融合 |

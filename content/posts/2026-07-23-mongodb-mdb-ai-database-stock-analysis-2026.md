@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-23-mongodb-mdb-ai-d
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-AIブームの真の受益者はどこか——GPUメーカーやLLM企業だけでなく、**「データを管理・検索するインフラ企業」**にも恩恵が及んでいますわ。その代表格が**MongoDB（ティッカー：MDB）**。本記事では2026年のMDBの事業戦略・業績トレンド・投資判断のポイントを詳しく見ていきますわ。
+AIブームの真の受益者はどこか——GPUメーカーやLLM企業だけでなく、**「データを管理・検索するインフラ企業」**にも恩恵が及んでいますわ。その代表格が**[MongoDB](https://www.mongodb.com/)（ティッカー：MDB）**。本記事では2026年のMDBの事業戦略・業績トレンド・投資判断のポイントを詳しく見ていきますわ。
 
 ---
 
@@ -40,7 +40,7 @@ MongoDBは**Atlas Vector Search**を2023年に本格リリースし、既存のM
 
 ### 2. 開発者エコシステムの厚さ
 
-GitHubのOctoverseによれば、MongoDBは世界で最も利用されるデータベースの一つ。**学習コストが低く、スタートアップから大企業まで**幅広い層に浸透しており、新たなAIプロジェクトが立ち上がるたびに採用候補に挙がりますわ。
+[GitHubのOctoverse](https://octoverse.github.com/)によれば、MongoDBは世界で最も利用されるデータベースの一つ。**学習コストが低く、スタートアップから大企業まで**幅広い層に浸透しており、新たなAIプロジェクトが立ち上がるたびに採用候補に挙がりますわ。
 
 ### 3. AIエージェント時代の恩恵
 

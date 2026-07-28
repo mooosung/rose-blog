@@ -38,7 +38,7 @@ AI・データセンターの電力需要が急拡大する中、クリーンエ
 
 | 項目 | 詳細 |
 |------|------|
-| 運用会社 | BlackRock（iShares） |
+| 運用会社 | BlackRock（[iShares](https://www.ishares.com/jp)） |
 | ベンチマーク | S&P Global Clean Energy Index |
 | 設定日 | 2008年6月 |
 | 経費率 | 0.40% |
@@ -75,7 +75,7 @@ ICLNは**グローバル**に分散されており、米国だけでなくヨー
 
 | 項目 | 詳細 |
 |------|------|
-| 運用会社 | First Trust |
+| 運用会社 | [First Trust](https://www.ftportfolios.com/) |
 | ベンチマーク | NASDAQ Clean Edge Green Energy Index |
 | 設定日 | 2007年2月 |
 | 経費率 | 0.58% |

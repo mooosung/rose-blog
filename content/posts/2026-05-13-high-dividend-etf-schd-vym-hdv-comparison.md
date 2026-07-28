@@ -35,7 +35,7 @@ featureimagecaption: ""
 
 | | **SCHD** | **VYM** | **HDV** |
 |---|---|---|---|
-| 運用会社 | Charles Schwab | Vanguard | BlackRock (iShares) |
+| 運用会社 | [Charles Schwab](https://www.schwab.com/) | [Vanguard](https://www.vanguard.co.jp/) | BlackRock (iShares) |
 | ベンチマーク | Dow Jones U.S. Dividend 100 | FTSE High Dividend Yield | Morningstar Dividend Yield Focus |
 | 構成銘柄数 | 約100 | 約440 | 約75 |
 | 経費率 | 0.06% | 0.06% | 0.08% |

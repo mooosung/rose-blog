@@ -114,7 +114,7 @@ SMHはNVIDIA単独で20%超を占めることがあります。NVIDIAが大き�
 
 ### 米国ETFを直接購入（SBI証券・楽天証券等）
 
-SBI証券や楽天証券、マネックス証券から**米ドルでSOXX/SMHを直接購入**できます。
+[SBI証券](https://www.sbisec.co.jp/)や[楽天証券](https://www.rakuten-sec.co.jp/)、マネックス証券から**米ドルでSOXX/SMHを直接購入**できます。
 
 **手順：**
 1. 円をドルに換金（為替手数料に注意）

@@ -10,7 +10,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 featured: false
 ---
 
-「AIで投資情報を調べたい、でも情報の出所が不明なのが怖い」——Perplexity AIはその問題を解決しますわ 🌹
+「AIで投資情報を調べたい、でも情報の出所が不明なのが怖い」——[Perplexity AI](https://www.perplexity.ai/)はその問題を解決しますわ 🌹
 
 ChatGPTと違って**常にリアルタイムWeb検索＋引用付き**で回答するため、投資情報収集ツールとして非常に優秀。2026年現在、投資家やアナリストが積極的に使い始めていますわ。
 
@@ -30,7 +30,7 @@ ChatGPTと違って**常にリアルタイムWeb検索＋引用付き**で回答
 | 無料利用 | ✅ 基本無料 | ✅ 基本無料 |
 | 回答の正確性 | ✅ 検索連動で高い | △ ハルシネーションあり |
 
-投資情報に限って言えば、**Perplexityの方がChatGPTより使いやすい場面が多い**のが正直なところですわ。
+投資情報に限って言えば、**Perplexityの方が[ChatGPT](https://chatgpt.com/)より使いやすい場面が多い**のが正直なところですわ。
 
 ### Perplexityが特に優れている場面
 - 最新の決算結果・ガイダンス確認

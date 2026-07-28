@@ -188,8 +188,8 @@ FIRE（経済的自立・早期退職）を目指す方や、すでに資産を�
 
 | 証券会社 | 取り扱い | 特徴 |
 |---------|---------|------|
-| SBI証券 | SCHD・VIG・DVY全対応 | 米国株手数料無料化、NISA対応 |
-| 楽天証券 | SCHD・VIG・DVY全対応 | インターフェース使いやすい |
+| [SBI証券](https://www.sbisec.co.jp/) | SCHD・VIG・DVY全対応 | 米国株手数料無料化、NISA対応 |
+| [楽天証券](https://www.rakuten-sec.co.jp/) | SCHD・VIG・DVY全対応 | インターフェース使いやすい |
 | マネックス証券 | SCHD・VIG・DVY全対応 | 米国株に強い |
 
 ### NISA（成長投資枠）で投資できる？

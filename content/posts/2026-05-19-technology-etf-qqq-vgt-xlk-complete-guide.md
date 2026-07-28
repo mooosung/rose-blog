@@ -36,7 +36,7 @@ AI革命・半導体ブーム・クラウドシフト――2026年もテクノ�
 
 | 項目 | QQQ | VGT | XLK |
 |------|-----|-----|-----|
-| 運用会社 | Invesco | Vanguard | State Street |
+| 運用会社 | [Invesco](https://www.invesco.com/jp/) | [Vanguard](https://www.vanguard.co.jp/) | State Street |
 | ベンチマーク | NASDAQ-100 | MSCI US IMI IT | S&P500 IT |
 | 経費率（年） | 0.20% | 0.10% | 0.09% |
 | 構成銘柄数 | 約100銘柄 | 約330銘柄 | 約65銘柄 |

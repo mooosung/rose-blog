@@ -9,9 +9,9 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-anthropic-billin
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-「**今のところ何も変わらない（Nothing changes for now）**」——2026年6月15日、Anthropicはユーザーへのメールにこう書いた。
+「**今のところ何も変わらない（Nothing changes for now）**」——2026年6月15日、[Anthropic](https://www.anthropic.com/)はユーザーへのメールにこう書いた。
 
-数週間前に予告されていた課金体系の大幅変更を、施行当日の直前になって撤回したのだ。一体何が起きたのか。そしてこの決断の裏には、業界を揺るがしかねない**OpenAIとの価格戦争**と、**Anthropicのギリギリのタイミングのナスダック上場準備**が絡んでいた。
+数週間前に予告されていた課金体系の大幅変更を、施行当日の直前になって撤回したのだ。一体何が起きたのか。そしてこの決断の裏には、業界を揺るがしかねない**[OpenAI](https://openai.com/)との価格戦争**と、**Anthropicのギリギリのタイミングのナスダック上場準備**が絡んでいた。
 
 ---
 

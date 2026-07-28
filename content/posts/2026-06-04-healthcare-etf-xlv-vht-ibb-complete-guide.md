@@ -21,7 +21,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ### 1. XLV（Health Care Select Sector SPDR Fund）
 
-**運用会社:** State Street Global Advisors  
+**運用会社:** [State Street Global Advisors](https://www.ssga.com/)  
 **経費率:** 0.09%  
 **純資産:** 約370億ドル（2026年時点）  
 **ベンチマーク:** S&P 500 Health Care Sector Index
@@ -53,7 +53,7 @@ VHTはXLVより幅広い銘柄をカバーし、S&P 500に含まれない中小�
 
 ### 3. IBB（iShares Biotechnology ETF）
 
-**運用会社:** BlackRock（iShares）  
+**運用会社:** [BlackRock（iShares）](https://www.ishares.com/us)  
 **経費率:** 0.44%  
 **純資産:** 約80億ドル（2026年時点）  
 **ベンチマーク:** ICE Biotechnology Index

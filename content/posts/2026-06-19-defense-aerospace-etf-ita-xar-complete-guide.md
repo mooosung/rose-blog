@@ -38,7 +38,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ---
 
-## ITA（iShares U.S. Aerospace & Defense ETF）
+## ITA（[iShares](https://www.ishares.com/us) U.S. Aerospace & Defense ETF）
 
 ### 概要
 
@@ -63,7 +63,7 @@ ITAの特徴は**時価総額加重型**である点。GE AerospaceとRTXの2銘
 
 ---
 
-## XAR（SPDR S&P Aerospace & Defense ETF）
+## XAR（[SPDR](https://www.ssga.com/us/en/intermediary/etfs) S&P Aerospace & Defense ETF）
 
 ### 概要
 

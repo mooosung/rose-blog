@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 「**いつかClaudeは、わたしよりずっと優れた哲学者になるでしょう。そしておそらく、わたしの仕事のあらゆる面で、わたしを超えていくでしょう。**」
 
-2026年6月、サンフランシスコで開催されたBloomberg Tech Summitで、こう語ったのは技術者でも経営者でもない。**Amanda Askell**——Anthropicに在籍する"社内哲学者"だ。
+2026年6月、サンフランシスコで開催されたBloomberg Tech Summitで、こう語ったのは技術者でも経営者でもない。**Amanda Askell**——[Anthropic](https://www.anthropic.com/)に在籍する"社内哲学者"だ。
 
 AIの能力が爆発的に拡大するなか、最先端のAI企業が哲学者を雇うのはなぜか？そしてClaudeの「魂」はどのように設計されたのか。日本ではあまり知られていないが、この問いへの答えはAI時代の投資・ビジネス・日常を理解するうえで極めて重要だ。
 
@@ -21,7 +21,7 @@ AIの能力が爆発的に拡大するなか、最先端のAI企業が哲学者�
 
 スコットランド出身のAmanda Askell（1988年生まれ）は、ニューヨーク大学で哲学の博士号を取得した研究者だ。AIの倫理・アライメント研究に転身し、まずOpenAIでAI安全性の研究に従事。その後Anthropic創業直後の**2021年に同社へ移籍**し、現在は**パーソナリティ・アライメントチームのトップ**として、Claudeの「人格形成」を一手に担っている。
 
-その実績は数字が語る。**2024年、TIME誌の「AI分野の最も影響力のある100人」（TIME 100 AI）に選出**された。Anthropicの共同創業者であるDario AmodeiやDaniela Amodeiと並んで掲載されるほどの存在感だ。
+その実績は数字が語る。**2024年、[TIME誌の「AI分野の最も影響力のある100人」（TIME 100 AI）](https://time.com/collections/time100-ai/)に選出**された。Anthropicの共同創業者であるDario AmodeiやDaniela Amodeiと並んで掲載されるほどの存在感だ。
 
 ---
 

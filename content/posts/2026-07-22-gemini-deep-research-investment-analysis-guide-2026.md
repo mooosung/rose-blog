@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 投資リサーチに何時間もかけていませんか？ 企業の決算資料を読み込み、競合他社と比較し、業界トレンドを把握する——これらを手作業でこなすのは、もはや非効率ですわ。
 
-Google の **Gemini Deep Research** は、2026年現在もっとも実用的なAI調査ツールのひとつ。本記事では、個人投資家が今すぐ使える具体的な活用術を余さずお伝えいたします。
+Google の **[Gemini Deep Research](https://gemini.google.com/)** は、2026年現在もっとも実用的なAI調査ツールのひとつ。本記事では、個人投資家が今すぐ使える具体的な活用術を余さずお伝えいたします。
 
 ---
 
@@ -25,7 +25,7 @@ Gemini Deep Research は、Google Gemini（Advancedプラン）に搭載され�
 - **日本語対応強化**：日本語ソースの精度が実用レベルに到達
 - **引用元の明示**：各情報の出典を確認できるため信頼性が担保される
 
-料金は Google One AI Premium（月2,900円）に含まれており、コスパも優秀ですわ。
+料金は [Google One](https://one.google.com/) AI Premium（月2,900円）に含まれており、コスパも優秀ですわ。
 
 ---
 

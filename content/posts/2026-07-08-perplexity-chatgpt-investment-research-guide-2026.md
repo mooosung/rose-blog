@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-08-perplexity-chatg
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-投資リサーチに毎日何時間もかけていませんか？ AIツールを使えば、同じ質の情報収集が**10分の1の時間**で完了します。今回は2026年現在最も投資家に役立つAIツール「Perplexity」と「ChatGPT」を使った、実践的なリサーチ術を紹介します。
+投資リサーチに毎日何時間もかけていませんか？ AIツールを使えば、同じ質の情報収集が**10分の1の時間**で完了します。今回は2026年現在最も投資家に役立つAIツール「[Perplexity](https://www.perplexity.ai/)」と「[ChatGPT](https://chatgpt.com/)」を使った、実践的なリサーチ術を紹介します。
 
 ## なぜ投資リサーチにAIが有効なのか
 

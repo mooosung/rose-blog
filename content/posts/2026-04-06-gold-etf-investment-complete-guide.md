@@ -96,7 +96,7 @@ featureimagecaption: ""
 
 ### 米国ETFに投資する場合
 
-SBI証券・楽天証券・マネックス証券などの主要ネット証券なら、IAUやGLDを円換算で購入できます。
+[SBI証券](https://www.sbisec.co.jp/)・[楽天証券](https://www.rakuten-sec.co.jp/)・マネックス証券などの主要ネット証券なら、IAUやGLDを円換算で購入できます。
 
 **注意点**：
 - 為替リスクあり（円高になると円換算のリターンが下がる）

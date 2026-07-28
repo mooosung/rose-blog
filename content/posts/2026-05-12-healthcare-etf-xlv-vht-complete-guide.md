@@ -48,7 +48,7 @@ featureimagecaption: ""
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | State Street（SPDR） |
+| 運用会社 | [State Street](https://www.ssga.com/jp)（SPDR） |
 | ベンチマーク | Health Care Select Sector Index |
 | 経費率 | 0.09% |
 | 純資産総額 | 約430億ドル（2026年時点） |
@@ -75,7 +75,7 @@ XLVはS&P500の大型株のみで構成されるため、**安定性・流動性
 
 | 項目 | 内容 |
 |------|------|
-| 運用会社 | Vanguard |
+| 運用会社 | [Vanguard](https://www.vanguard.co.jp/) |
 | ベンチマーク | MSCI US Investable Market Health Care 25/50 Index |
 | 経費率 | 0.10% |
 | 純資産総額 | 約190億ドル（2026年時点） |

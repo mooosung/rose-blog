@@ -23,7 +23,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 | 項目 | VT | ACWI | URTH |
 |------|-----|------|------|
-| 運用会社 | バンガード | ブラックロック | ブラックロック |
+| 運用会社 | [バンガード](https://www.vanguard.co.jp/) | [ブラックロック](https://www.ishares.com/jp) | ブラックロック |
 | ベンチマーク | FTSE Global All Cap | MSCI ACWI | MSCI World |
 | 経費率 | **0.07%** | 0.33% | 0.24% |
 | 組入銘柄数 | 約9,900銘柄 | 約2,900銘柄 | 約1,500銘柄 |

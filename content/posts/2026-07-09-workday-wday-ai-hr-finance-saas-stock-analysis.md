@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ## Workday（WDAY）とは？
 
-Workday（ナスダック: WDAY）は、人事（HCM）・財務管理（FMS）・計画（Planning）をクラウドで一元提供する米国SaaSの巨人ですわ。フォーチュン500の半数以上が採用しており、エンタープライズ市場での定着率は97%超を誇りますの。
+[Workday](https://www.workday.com/)（ナスダック: WDAY）は、人事（HCM）・財務管理（FMS）・計画（Planning）をクラウドで一元提供する米国SaaSの巨人ですわ。フォーチュン500の半数以上が採用しており、エンタープライズ市場での定着率は97%超を誇りますの。
 
 2026年に入り、WorkdayはAIエージェント機能「**Workday Illuminate**」を全製品に統合し始めましたわ。採用・給与計算・財務予測といった反復業務を自律型AIが処理することで、人事担当者や CFO が戦略的判断に集中できる環境を提供します。
 
@@ -48,7 +48,7 @@ WorkdayのAI戦略の中核は「**Workday Illuminate**」ですわ。主な機�
 | **財務予測AI** | 過去データ＋市場変数から精度の高いシナリオ分析を提供 |
 | **HRヘルプデスクBot** | 社員の問い合わせを即時解決、HR担当者の工数を削減 |
 
-Illuminateは外部LLMにも対応しており、企業が既に使っているOpenAIやAnthropicのAPIと連携可能なのですわ。
+Illuminateは外部LLMにも対応しており、企業が既に使っている[OpenAI](https://openai.com/)やAnthropicのAPIと連携可能なのですわ。
 
 ---
 

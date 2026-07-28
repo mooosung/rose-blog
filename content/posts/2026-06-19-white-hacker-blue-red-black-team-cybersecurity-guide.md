@@ -89,7 +89,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 - **脅威インテリジェンス**：世界中の攻撃情報をAIがリアルタイム分析
 - **自動レスポンス**：検知から隔離・対処までを人間を介さず自動実行
 
-AnthropicやOpenAIが提供するLLMは防御ツールにも組み込まれ始めており、近い将来「AIによるセキュリティ自動化」が標準になると見られていますわ。
+[Anthropic](https://www.anthropic.com/)や[OpenAI](https://openai.com/)が提供するLLMは防御ツールにも組み込まれ始めており、近い将来「AIによるセキュリティ自動化」が標準になると見られていますわ。
 
 ---
 

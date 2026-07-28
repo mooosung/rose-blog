@@ -37,7 +37,7 @@ AIが高度化するほど、より多くの光通信帯域が必要になる。
 
 ## 主要3銘柄の概要
 
-### 1. Coherent（COHR）——光通信の巨人
+### 1. [Coherent](https://www.coherent.com/)（COHR）——光通信の巨人
 
 **ティッカー：COHR / 市場：NYSE**
 
@@ -61,7 +61,7 @@ NVIDIAのBlackwell/Rubin世代では、Coherentのプラガブルトランシー
 
 ---
 
-### 2. Lumentum（LITE）——ダイオードレーザーの精鋭
+### 2. [Lumentum](https://www.lumentum.com/)（LITE）——ダイオードレーザーの精鋭
 
 **ティッカー：LITE / 市場：NASDAQ**
 

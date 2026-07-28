@@ -22,14 +22,14 @@ featureimagecaption: "Photo by rozenmaier.com"
 ## 代表的な金ETF3選
 
 ### 1. SPDR Gold Shares（GLD）
-- **運用会社:** ステート・ストリート（SSGA）
+- **運用会社:** [ステート・ストリート（SSGA）](https://www.ssga.com/)
 - **経費率:** 0.40%
 - **運用資産（AUM）:** 約800億ドル（2026年時点）
 - **設立:** 2004年（米国初の金ETF）
 - **特徴:** 最も歴史が長く、機関投資家にも広く利用される。流動性は業界最高水準。
 
 ### 2. iShares Gold Trust（IAU）
-- **運用会社:** ブラックロック（iShares）
+- **運用会社:** [ブラックロック（iShares）](https://www.ishares.com/us)
 - **経費率:** 0.25%
 - **運用資産（AUM）:** 約330億ドル
 - **設立:** 2005年

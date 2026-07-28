@@ -28,8 +28,8 @@ AI・クラウド・半導体の需要拡大が続く中、テクノロジーセ
 
 | ETF | 運用会社 | 経費率 | ベンチマーク | 特徴 |
 |-----|---------|--------|-------------|------|
-| **XLK** | State Street (SPDR) | 0.09% | S&P500テクノロジーセクター | 最低コスト・大型集中型 |
-| **VGT** | Vanguard | 0.10% | MSCI米国テクノロジー25/50指数 | 低コスト・銘柄数多め |
+| **XLK** | [State Street (SPDR)](https://www.ssga.com/jp/ja_gb/institutional/etfs) | 0.09% | S&P500テクノロジーセクター | 最低コスト・大型集中型 |
+| **VGT** | [Vanguard](https://www.vanguard.co.jp/) | 0.10% | MSCI米国テクノロジー25/50指数 | 低コスト・銘柄数多め |
 | **QQQ** | Invesco | 0.20% | NASDAQ-100 | 定番・分散効果あり |
 
 ---

@@ -39,7 +39,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ### GLD（SPDR Gold Shares）
 
-- **運用会社:** State Street Global Advisors
+- **運用会社:** [State Street Global Advisors](https://www.ssga.com/)
 - **設定:** 2004年（世界初の主要金ETF）
 - **経費率:** 0.40%/年
 - **純資産総額:** 約600億ドル超（2026年現在）
@@ -49,7 +49,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 ### IAU（iShares Gold Trust）
 
-- **運用会社:** BlackRock / iShares
+- **運用会社:** [BlackRock / iShares](https://www.ishares.com/us)
 - **設定:** 2005年
 - **経費率:** 0.25%/年
 - **純資産総額:** 約350億ドル超

@@ -33,7 +33,7 @@ ETFで投資することで個別銘柄リスクは低減できますが、セ�
 
 | | SOXX | SMH | SOXQ |
 |---|---|---|---|
-| 運用会社 | iShares（BlackRock） | VanEck | Invesco |
+| 運用会社 | [iShares](https://www.ishares.com/jp)（BlackRock） | [VanEck](https://www.vaneck.com/) | Invesco |
 | 連動指数 | ICE Semiconductor Index | MVIS US Listed Semiconductor 25 | PHLX Semiconductor Sector Index |
 | 経費率 | 0.35% | 0.35% | 0.19% |
 | 純資産総額 | 約150億ドル | 約200億ドル | 約10億ドル |

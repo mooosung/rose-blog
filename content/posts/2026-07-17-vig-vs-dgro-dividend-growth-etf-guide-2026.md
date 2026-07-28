@@ -17,7 +17,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 | 項目 | VIG | DGRO |
 |------|-----|------|
-| 運用会社 | バンガード | ブラックロック（iShares）|
+| 運用会社 | [バンガード](https://www.vanguard.co.jp/) | [ブラックロック（iShares）](https://www.ishares.com/us)|
 | ベンチマーク | S&P U.S. Dividend Growers Index | Morningstar US Dividend Growth Index |
 | 経費率 | 0.06% | 0.08% |
 | 銘柄数 | 約340銘柄 | 約430銘柄 |

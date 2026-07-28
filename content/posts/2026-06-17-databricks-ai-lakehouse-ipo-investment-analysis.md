@@ -9,7 +9,7 @@ featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-databricks-ai-la
 featureimagecaption: "Photo by rozenmaier.com"
 ---
 
-「**SnowflakeかDatabricksか**」――データエンジニア・ML研究者の間でこれほど議論されてきた問いもない。データクラウドの覇者Snowflakeを前回記事で徹底分析したが、今回はその最大のライバルである**Databricks**を掘り下げる。
+「**SnowflakeかDatabricksか**」――データエンジニア・ML研究者の間でこれほど議論されてきた問いもない。データクラウドの覇者[Snowflake](https://www.snowflake.com/)を前回記事で徹底分析したが、今回はその最大のライバルである**[Databricks](https://www.databricks.com/)**を掘り下げる。
 
 非上場企業ながら企業価値は約**620億ドル**（2024年10月Series J時点）。売上成長率は50%超を維持し、AIネイティブ世代のデータ・AIプラットフォームとして独走状態だ。IPO観測が絶えないこの企業、上場したら買うべきか？徹底分析する。
 
