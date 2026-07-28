@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "特集"
+  pageRef = "features"
+  weight = 15
+
+[[main]]
   name = "タグ"
   pageRef = "tags"
   weight = 20
@@ -17,6 +22,11 @@
   name = "カテゴリ"
   pageRef = "categories"
   weight = 30
+
+[[main]]
+  name = "用語集"
+  pageRef = "glossary"
+  weight = 35
 
 [[footer]]
   name = "プライバシーポリシー"
