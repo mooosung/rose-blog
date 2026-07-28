@@ -178,7 +178,7 @@ AWS・Azure・Google Cloud、それぞれのクラウド部門の売上成長率
 
 これらを組み合わせることで、**機関投資家並みのリサーチフローを個人でも構築できます。**
 
-たとえば、Perplexity AIで最新ニュースを収集するフローについては [Perplexity AIで投資リサーチを効率化する方法](/posts/perplexity-ai-investment-research-guide/) で詳しく解説しています。また、Claudeを活用した投資記録の自動化については [Claude投資秘書で証券口座管理を自動化する](/posts/claude-investment-secretary-automation/) も参考にしてみてください。
+たとえば、Perplexity AIで最新ニュースを収集するフローについては [Perplexity AIで投資リサーチを効率化する方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/) で詳しく解説しています。また、Claudeを活用した投資記録の自動化については [Claude投資秘書で証券口座管理を自動化する](/posts/2026-06-17-claude-investment-secretary-automation/) も参考にしてみてください。
 
 ---
 

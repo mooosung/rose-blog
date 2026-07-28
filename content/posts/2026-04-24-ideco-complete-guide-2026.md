@@ -175,7 +175,7 @@ iDeCoは、拠出・運用・受取の3段階で税優遇が受けられる、�
 ## 関連記事
 
 - [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/2026-05-24-ideco-complete-guide/)
-- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/2026-03-17-ideco-30s-beginners-guide-tax-saving/)
+- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [株価暴落・急落時の投資戦略完全ガイド — パニック売りを避けて資産を守る方法](/posts/2026-04-09-market-crash-investment-strategy-guide/)
 
 ---

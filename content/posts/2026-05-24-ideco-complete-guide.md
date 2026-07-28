@@ -204,7 +204,7 @@ iDeCoの最大の強みは、**今すぐ確実に節税できること**です�
 
 ## 関連記事
 
-- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/2026-03-17-ideco-30s-beginners-guide-tax-saving/)
+- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [iDeCo完全ガイド2026年版：税制メリットと賢い活用法](/posts/2026-04-24-ideco-complete-guide-2026/)
 - [AI・テクノロジーETF投資完全ガイド2026](/posts/2026-04-27-ai-technology-etf-investment-guide/)
 

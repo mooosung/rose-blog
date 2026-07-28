@@ -120,8 +120,8 @@ Cloudflare株を保有・監視する際は以下の指標を追うと良いで�
 
 Cloudflareと並んで注目されるAI SaaS銘柄の分析もあわせてご覧くださいませ：
 
-- [Workday（WDAY）：AI人事・財務SaaSの実力と投資判断](/posts/workday-wday-ai-hr-finance-saas-stock-analysis/)
-- [Palantir（PLTR）：AIエンタープライズ分析の雄を徹底解剖](/posts/palantir-pltr-ai-enterprise-analytics-stock-analysis/)
+- [Workday（WDAY）：AI人事・財務SaaSの実力と投資判断](/posts/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis/)
+- [Palantir（PLTR）：AIエンタープライズ分析の雄を徹底解剖](/posts/2026-07-02-palantir-pltr-ai-enterprise-analytics-stock-analysis/)
 
 ---
 

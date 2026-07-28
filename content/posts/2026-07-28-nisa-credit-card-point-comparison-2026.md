@@ -80,7 +80,7 @@ SBI証券・楽天証券・マネックス証券はいずれも新NISA対象の�
 
 ## 関連記事
 
-- [30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け](/posts/2026-03-17-ideco-30s-beginners-guide-tax-saving/)
+- [30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [SBI証券 vs 楽天証券 徹底比較2026｜NISA口座・手数料・使いやすさを比較](/posts/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison/)
 - [iDeCo完全ガイド2026｜節税額シミュレーション・おすすめ運用商品の選び方](/posts/2026-05-24-ideco-complete-guide/)
 

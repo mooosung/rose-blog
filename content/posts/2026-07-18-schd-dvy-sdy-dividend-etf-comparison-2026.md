@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 高配当ETFといえば **SCHD・VYM・HDV** の3強が有名ですわ。でも2026年現在、もうひとつ知っておきたい候補があります。それが **DVY**（iShares Select Dividend ETF）と **SDY**（SPDR S&P Dividend ETF）。
 
-SCHDの詳細な解説は [SCHD完全ガイド](/posts/schd-us-dividend-etf-complete-guide/) でもまとめていますわ。今回は SCHDを軸に、DVYとSDYを比較しながら「どれを選ぶべきか」を丁寧に解説していきますわ。
+SCHDの詳細な解説は [SCHD完全ガイド](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/) でもまとめていますわ。今回は SCHDを軸に、DVYとSDYを比較しながら「どれを選ぶべきか」を丁寧に解説していきますわ。
 
 ---
 
@@ -197,7 +197,7 @@ SCHDとDVYで経費率の差がどれくらい影響するか見てみましょ�
 
 どれを選んでも、「配当を再投資して長期保有する」という姿勢さえ守れば、必ず資産は育ちますわ 🌹
 
-配当成長ETFのVIGとDGROとの比較に興味がある方は、こちらの記事も参考にしてみてくださいませ → [VIG vs DGRO 配当成長ETF比較2026](/posts/vig-vs-dgro-dividend-growth-etf-guide-2026/)
+配当成長ETFのVIGとDGROとの比較に興味がある方は、こちらの記事も参考にしてみてくださいませ → [VIG vs DGRO 配当成長ETF比較2026](/posts/2026-07-17-vig-vs-dgro-dividend-growth-etf-guide-2026/)
 
 ## 関連記事
 

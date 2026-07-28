@@ -13,7 +13,7 @@ AIチップ競争が激化するほど、Arm Holdingsは笑う——。
 
 NvidiaもAMDもAppleもQualcommも、みんなArmの設計図（ISA）を使っていますの。まさしく「ゴールドラッシュでツルハシを売る商人」の現代版ですわ。
 
-以前ご紹介した[HBM（高帯域幅メモリ）銘柄](/posts/hbm-high-bandwidth-memory-ai-infrastructure-stocks/)や[AI向け半導体装置株](/posts/semiconductor-equipment-tel-asml-lasertec/)も同じツルハシの発想ですが、Armはさらに「上流」に位置する銘柄ですの。
+以前ご紹介した[HBM（高帯域幅メモリ）銘柄](/posts/2026-03-09-hbm-high-bandwidth-memory-ai-infrastructure-stocks/)や[AI向け半導体装置株](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/)も同じツルハシの発想ですが、Armはさらに「上流」に位置する銘柄ですの。
 
 今回はArm Holdings（NASDAQ: ARM）を徹底分析しますわね。
 

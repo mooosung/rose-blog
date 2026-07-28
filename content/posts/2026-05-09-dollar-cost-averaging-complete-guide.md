@@ -155,5 +155,5 @@ SBI証券・楽天証券・松井証券などのネット証券を選びまし�
 ## 関連記事
 
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
-- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/2026-03-17-ideco-30s-beginners-guide-tax-saving/)
+- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [積立投資と一括投資を徹底比較：シミュレーションで見る最適な投資タイミング戦略](/posts/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment/)

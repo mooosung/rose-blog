@@ -135,8 +135,8 @@ AIインフラ投資のツルハシ銘柄として、NVIDIAやAristネットワ�
 
 SMCIと組み合わせて検討したいAIインフラ関連銘柄の分析もぜひ参考にしてください。
 
-- [AI時代のネットワーク株：Broadcom・Arista・Marvell徹底比較](/posts/ai-networking-broadcom-arista-marvell-stocks/)
-- [ARM Holdings株式分析：AIチップアーキテクチャの覇者](/posts/arm-holdings-ai-chip-architecture-stock-analysis/)
+- [AI時代のネットワーク株：Broadcom・Arista・Marvell徹底比較](/posts/2026-03-30-ai-networking-broadcom-arista-marvell-stocks/)
+- [ARM Holdings株式分析：AIチップアーキテクチャの覇者](/posts/2026-06-22-arm-holdings-ai-chip-architecture-stock-analysis/)
 
 ---
 

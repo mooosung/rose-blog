@@ -202,7 +202,7 @@ ECサイトの商品ページや楽天・Amazon用説明文を大量生成する
 
 ## 関連記事
 
-AI活用スキルを副業に応用する前に、日々の投資リサーチにもAIを活かしてみてはいかがでしょう。[NotebookLMで決算書を分析する方法](/posts/notebooklm-financial-report-analysis-guide/)では、AIを使った効率的な情報収集術を紹介していますわ。また、[Claude×APIで投資秘書を自動化する](/posts/claude-investment-secretary-automation/)では、より発展的なAI活用事例を解説しています。
+AI活用スキルを副業に応用する前に、日々の投資リサーチにもAIを活かしてみてはいかがでしょう。[NotebookLMで決算書を分析する方法](/posts/2026-07-01-notebooklm-financial-report-analysis-guide/)では、AIを使った効率的な情報収集術を紹介していますわ。また、[Claude×APIで投資秘書を自動化する](/posts/2026-06-17-claude-investment-secretary-automation/)では、より発展的なAI活用事例を解説しています。
 
 ---
 

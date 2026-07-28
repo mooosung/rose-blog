@@ -218,7 +218,7 @@ AI時代の格差は「知識・スキルの有無」で広がっている。今
 ## 関連記事
 
 - [Python×株式投資の始め方｜初心者がデータ分析で個人投資家の武器を手に入れる方法【2026年版】🌹](/posts/2026-03-15-python-stock-investing-beginners-guide/)
-- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/2026-03-17-ideco-30s-beginners-guide-tax-saving/)
+- [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)
 
 ---
 

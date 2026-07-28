@@ -140,8 +140,8 @@ Perplexityの無料版は1日の検索回数に制限があります。毎日使
 
 AIを活用した投資リサーチに興味があれば、以下の記事もおすすめですわ。
 
-- [NotebookLMで決算・有価証券報告書を効率的に分析する方法](/posts/notebooklm-financial-report-analysis-guide/) ── 複数の決算書をまとめてAIに読み込ませる高度な活用術
-- [NotionAIで投資日記・ポートフォリオ管理を自動化する実践ガイド](/posts/notionai-investment-journal-productivity-guide/) ── 日々の投資記録をAIで整理・振り返る方法
+- [NotebookLMで決算・有価証券報告書を効率的に分析する方法](/posts/2026-07-01-notebooklm-financial-report-analysis-guide/) ── 複数の決算書をまとめてAIに読み込ませる高度な活用術
+- [NotionAIで投資日記・ポートフォリオ管理を自動化する実践ガイド](/posts/2026-06-24-notionai-investment-journal-productivity-guide/) ── 日々の投資記録をAIで整理・振り返る方法
 
 ## 関連記事
 
