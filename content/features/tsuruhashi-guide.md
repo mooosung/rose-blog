@@ -18,9 +18,13 @@ categories: ["ツルハシ投資"]
 
 ## まず読むべき総論
 
+まずはこの1本で全体像を掴んでくださいまし。「ツルハシ投資」がなぜ有効な戦略なのか、どんな分野に分散すればいいのかを俯瞰できる内容になっていますわ。
+
 - [ツルハシ投資完全ガイド2026年版｜AIインフラ株（液冷・半導体基板・電線・MLCCなど）で長期資産形成する方法](/posts/2026-07-14-tsuruhashi-investment-complete-guide/)
 
 ## 半導体・チップ関連
+
+AIモデルを動かすには膨大な計算資源が要りますの。その計算資源を作る側——製造装置・素材・設計・ネットワーク半導体まで、AI半導体サプライチェーンの各段階を担う企業をまとめましたわ。GPU企業そのものより地味だけど、代替が効きにくい分だけ長期投資に向いていますの。
 
 - [半導体製造装置株とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/)
 - [シリコンウェハとは？SUMCO・信越化学がAI時代に不可欠な理由【投資家向け完全解説】](/posts/2026-02-28-silicon-wafer-sumco-shinetsu-ai/)
@@ -33,6 +37,8 @@ categories: ["ツルハシ投資"]
 
 ## 電力・冷却インフラ
 
+AIデータセンターは電気を大量に食う上に、大量の熱を出しますの。「電力をどう確保するか」「発熱をどう冷やすか」は、AIブームの持続性を左右する死活問題ですわ。原発・ガスタービンから液浸冷却まで、電力・熱問題の受益株を集めましたの。
+
 - [液浸冷却（Immersion Cooling）とは？AIデータセンター向け最先端冷却技術と注目株](/posts/2026-03-02-immersion-cooling-ai-datacenter-stocks/)
 - [データセンターUPS・電源インフラとは？富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
 - [変圧器（トランス）不足とAI｜日立エナジー・ダイヘン・明電舎など注目インフラ株を解説](/posts/2026-03-10-power-transformer-grid-ai-datacenter-stocks/)
@@ -42,6 +48,8 @@ categories: ["ツルハシ投資"]
 
 ## 通信・ネットワーク
 
+AIサーバー同士が学習・推論のために膨大なデータをやり取りするには、光ファイバー・光モジュール・電線といった「土台」が必要ですの。データ爆発の裏で静かに需要が伸び続けている通信インフラ株をまとめましたわ。
+
 - [光通信・光ファイバーとは？AIデータ爆発を支えるインフラと注目株【ツルハシ投資】](/posts/2026-03-03-optical-communication-fiber-ai-stocks/)
 - [光インターコネクト・光モジュール株徹底解説｜Coherent・Ciena・Lumentum【AI半導体】](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
 - [光ネットワーク株2026年版｜Coherent・Lumentum・FabrinetがAIデータセンターの「光の血管」として急成長](/posts/2026-07-13-optical-networking-ai-datacenter-stocks/)
@@ -49,11 +57,15 @@ categories: ["ツルハシ投資"]
 
 ## 素材・部品
 
+チップの中や基板の上で使われるコンデンサ・レアメタル・特殊ガスなど、目立たないけどAIハードウェアに必須な部材メーカーですわ。個別の技術トレンドに左右されにくく、業界全体の需要増の恩恵を受けやすいのが特徴ですの。
+
 - [MLCC（積層セラミックコンデンサ）とは？村田製作所・TDKがAI需要で注目される理由](/posts/2026-03-01-mlcc-murata-tdk-ai-infra/)
 - [銅・レアメタル需要がAI時代に急増する理由｜住友金属鉱山・JX金属など注目株を解説](/posts/2026-03-06-copper-rare-metals-ai-infrastructure-stocks/)
 - [産業用ガス・特殊化学品株とは？大陽日酸・Linde・Air Liquideがツルハシ投資の本命な理由](/posts/industrial-gas-specialty-chemicals-ai-semiconductor/)
 
 ## データセンター建設・関連テーマ
+
+データセンターそのものを建てるゼネコン系企業や、隣接する次世代テーマ（量子コンピュータ・国産マルチエージェントAI）まで、ツルハシ投資の周辺領域も押さえておきたい方向けにまとめましたわ。
 
 - [AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】](/posts/2026-06-08-datacenter-construction-epc-stocks/)
 - [量子コンピュータ株投資ガイド2026年版｜IonQ・IBM・Quantinuumで押さえる次世代テーマ株の選び方とリスク](/posts/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026/)

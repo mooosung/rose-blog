@@ -16,6 +16,8 @@ categories: ["ETF・投資信託"]
 
 ## コア資産・戦略の型
 
+資産形成の土台になる「コア」部分をどう組むかという話ですわ。S&P500かオルカンか、VTIかVOOか——似たような選択肢で迷いがちなポイントを一つずつ比較していますの。まずはここから読んで、自分のポートフォリオの軸を決めてくださいまし。
+
 - [米国ETFコア・サテライト戦略とは？VOO×QQQ×VYMの最適な組み合わせ方を解説](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [S&P500 vs オルカン（全世界株式）どっちを選ぶ？新NISAで迷う人向け徹底比較【2026年版】](/posts/2026-03-20-sp500-vs-all-country-world-index-comparison/)
 - [VTI vs VOO どちらを選ぶ？全米株式とS&P500を徹底比較【2026年版】](/posts/2026-04-04-vti-vs-voo-etf-comparison/)
@@ -26,10 +28,14 @@ categories: ["ETF・投資信託"]
 
 ## 高配当ETF
 
+配当金という「実感できるリターン」を求める方向けの分類ですわ。定番のSCHD・VYMを軸に、増配実績や利回りの違いを比較していますの。値上がり益より安定したキャッシュフローを重視する人に向いていますわ。
+
 - [SCHD完全ガイド【2026年版】｜VYMと徹底比較・米国高配当ETFどちらを選ぶべき？](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
 - [VYM完全ガイド【2026年版】｜バンガード高配当ETFの特徴・配当利回り・SCHDとの比較](/posts/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide/)
 
 ## セクター別ETF
+
+「特定業界に絞って投資したい」というサテライト戦略向けの分類ですわ。半導体・テック・ロボティクスから、ヘルスケア・エネルギー・金融まで、業界単位でリスクを取りたいときの選択肢を比較していますの。個別株を選ぶ手間を省きつつ、テーマへの集中投資ができますわ。
 
 - [SOXX・SMH・SOXQ比較｜半導体ETFの違いとAI時代の選び方完全ガイド【2026年版】](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)
 - [QQQ・VGT・XLK比較｜テクノロジーETFの違いと選び方完全ガイド【2026年版】](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
@@ -43,6 +49,8 @@ categories: ["ETF・投資信託"]
 - [XLF・VFH・IYF比較｜金融セクターETF完全ガイド2026・銀行・保険・決済株に投資](/posts/2026-05-29-financial-sector-etf-xlf-vfh-iyf-complete-guide/)
 
 ## オルタナティブ・コモディティ系ETF
+
+株式・債券とは値動きの連動性が低い資産クラスの比較ですわ。金・ビットコイン・コモディティ・債券は、インフレヘッジや暴落局面での分散効果を狙うためのもの。ポートフォリオの守りを固めたい方はここをチェックしてくださいまし。
 
 - [GLD・IAU・GLDM 徹底比較2026年版｜金ETFの選び方とインフレヘッジ投資タイミング](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/)
 - [IBIT・FBTC・BITB 徹底比較2026年版｜現物ビットコインETFの選び方と始め方](/posts/2026-06-06-bitcoin-etf-ibit-fbtc-bitb-complete-guide/)
