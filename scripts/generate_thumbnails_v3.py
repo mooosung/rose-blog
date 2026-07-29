@@ -195,6 +195,9 @@ def main() -> None:
     img = overlay_title(img, title)
     output_path.parent.mkdir(parents=True, exist_ok=True)
     img.save(str(output_path), "JPEG", quality=88, optimize=True)
+    if not args.out:
+        webp_path = output_path.with_suffix(".webp")
+        img.save(str(webp_path), "WEBP", quality=85)
     print(f"OK: {output_path} ({output_path.stat().st_size:,} bytes, "
           f"{time.time()-t0:.0f}s)")
 
