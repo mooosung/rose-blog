@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2026-07-31-rsp-equal-weight-sp500-etf-guide-2026",
+    "title": "等ウェイトS&P500 ETF「RSP」とは｜SPYとの違いと選び方【2026年最新版】",
+    "date": "2026-07-31",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-31-rsp-equal-weight-sp500-etf-guide-2026.jpg"
+  },
+  {
+    "path": "posts/2026-07-29-data-governance-dspm-ai-trism-dlp-guide",
+    "title": "データガバナンス製品完全ガイド2026｜DSPM・AI TRiSM・DLPの違いと日本の主要製品",
+    "date": "2026-07-29",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-29-data-governance-dspm-ai-trism-dlp-guide.jpg"
+  },
+  {
     "path": "posts/2026-07-29-ai-transcription-earnings-call-analysis-guide",
     "title": "AI文字起こしツールで決算説明会を10分で読み解く方法【2026年版】Otter・Notta・Whisper活用術",
     "date": "2026-07-29",
@@ -22,17 +34,5 @@
     "title": "ゴールド投資完全ガイド2026 - GLD・IAU・GLDMの選び方と金ETF戦略",
     "date": "2026-07-26",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-26-gold-investment-gld-iau-gldm-guide-2026.jpg"
-  },
-  {
-    "path": "posts/2026-07-25-asset-allocation-complete-guide",
-    "title": "アセットアロケーション完全入門｜年齢・リスク許容度別のベスト配分比率と見直しタイミング【2026年版】",
-    "date": "2026-07-25",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-25-asset-allocation-complete-guide.jpg"
-  },
-  {
-    "path": "posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026",
-    "title": "SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】",
-    "date": "2026-07-24",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026.jpg"
   }
 ]
