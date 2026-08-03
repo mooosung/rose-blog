@@ -3,7 +3,7 @@ title: "投資・AI用語集"
 date: 2026-07-28
 draft: false
 description: "NISA・iDeCo・ETF・ツルハシ投資・AI活用術でよく出てくる用語を一覧でまとめた用語集ですわ。意味が分からない言葉が出てきたら、まずここを調べてくださいまし"
-featureimage: "https://rozenmaier.com/img/roze-hello.png"
+featureimage: "https://rozenmaier.com/img/glossary-hero.jpg"
 showDate: false
 showAuthor: false
 showReadingTime: false
