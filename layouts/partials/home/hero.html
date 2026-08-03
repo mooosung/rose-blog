@@ -21,6 +21,7 @@
   border-radius: 0.75rem;
   overflow: hidden;
   border: 1px solid rgba(128,128,128,0.2);
+  border-top: 3px solid var(--cat-color, #C8A45D);
   background: rgba(30,30,30,0.5);
   text-decoration: none;
   transition: all 0.2s;
@@ -120,7 +121,9 @@
         {{ range $popular }}
         {{- $article := site.GetPage .path -}}
         {{ with $article }}
-        <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card">
+        {{ $catColor := site.Data.category_colors._default }}
+        {{ with .GetTerms "categories" }}{{ with index . 0 }}{{ with index site.Data.category_colors .LinkTitle }}{{ $catColor = . }}{{ end }}{{ end }}{{ end }}
+        <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card" style="--cat-color:{{ $catColor }};">
           {{ with .Params.featureimage }}
           <img src="{{ . }}" alt="{{ $article.Title }}" class="nozoom">
           {{ end }}
@@ -146,12 +149,13 @@
       {{ range $recent }}
       {{- $article := site.GetPage .path -}}
       {{ with $article }}
-      <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card">
+      {{ $catColor := site.Data.category_colors._default }}
+      {{ with .GetTerms "categories" }}{{ with index . 0 }}{{ with index site.Data.category_colors .LinkTitle }}{{ $catColor = . }}{{ end }}{{ end }}{{ end }}
+      <a href="{{ .RelPermalink }}" class="no-underline rose-featured-card" style="--cat-color:{{ $catColor }};">
         {{ with .Params.featureimage }}
         <img src="{{ . }}" alt="{{ $article.Title }}" class="nozoom">
         {{ end }}
         <div class="rose-featured-card-body">
-          <div class="rose-featured-card-title">{{ $article.Title }}</div>
           <div class="rose-featured-card-date">{{ .Date.Format "2006年1月2日" }}</div>
         </div>
       </a>

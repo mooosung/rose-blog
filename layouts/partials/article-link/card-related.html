@@ -8,6 +8,15 @@
 {{ $page := .Page }}
 {{ $featured := "" }}
 {{ $featuredURL := "" }}
+
+{{/* CUSTOMIZED: カテゴリ別アクセントカラー（data/category_colors.json） */}}
+{{ $catColor := site.Data.category_colors._default }}
+{{ with $page.GetTerms "categories" }}
+  {{ with index . 0 }}
+    {{ with index site.Data.category_colors .LinkTitle }}{{ $catColor = . }}{{ end }}
+  {{ end }}
+{{ end }}
+
 {{/* frontmatter */}}
 {{ with $page }}
   {{ with .Params.featureimage }}
@@ -53,7 +62,8 @@
 
 
 <article
-  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  class="article-link--related relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600"
+  style="border-top: 3px solid {{ $catColor }};">
   {{ with $featuredURL }}
     <div class="flex-none relative overflow-hidden thumbnail_card_related">
       {{ if strings.HasSuffix . ".jpg" }}
