@@ -1,9 +1,27 @@
 [
   {
+    "path": "posts/2026-08-04-nisa-loss-offset-carryforward-blindspot-guide",
+    "title": "新NISA最大の盲点：損益通算・繰越控除ができない話｜2026年最新・含み損銘柄を売る前に知っておくべき落とし穴",
+    "date": "2026-08-04",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-04-nisa-loss-offset-carryforward-blindspot-guide.jpg"
+  },
+  {
     "path": "posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide",
     "title": "Digital Realty（DLR）とEquinix（EQIX）で狙う「AIデータセンターREIT」2026年版",
     "date": "2026-08-03",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide.jpg"
+  },
+  {
+    "path": "posts/2026-08-03-equinix-eqix-interconnection-reit-stock-analysis",
+    "title": "Equinix（EQIX）とは？決算後14%急騰の相互接続REITを徹底解説【2026年版】",
+    "date": "2026-08-03",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-03-equinix-eqix-interconnection-reit-stock-analysis.jpg"
+  },
+  {
+    "path": "posts/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis",
+    "title": "Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】",
+    "date": "2026-08-03",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis.jpg"
   },
   {
     "path": "posts/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide",
@@ -16,23 +34,5 @@
     "title": "等ウェイトS&P500 ETF「RSP」とは｜SPYとの違いと選び方【2026年最新版】",
     "date": "2026-07-31",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-31-rsp-equal-weight-sp500-etf-guide-2026.jpg"
-  },
-  {
-    "path": "posts/2026-07-29-data-governance-dspm-ai-trism-dlp-guide",
-    "title": "データガバナンス製品完全ガイド2026｜DSPM・AI TRiSM・DLPの違いと日本の主要製品",
-    "date": "2026-07-29",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-29-data-governance-dspm-ai-trism-dlp-guide.jpg"
-  },
-  {
-    "path": "posts/2026-07-29-ai-transcription-earnings-call-analysis-guide",
-    "title": "AI文字起こしツールで決算説明会を10分で読み解く方法【2026年版】Otter・Notta・Whisper活用術",
-    "date": "2026-07-29",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-29-ai-transcription-earnings-call-analysis-guide.jpg"
-  },
-  {
-    "path": "posts/2026-07-28-nisa-credit-card-point-comparison-2026",
-    "title": "新NISAクレカ積立、結局どこが一番お得？SBI・楽天・マネックス・au 2026年最新ポイント還元率比較",
-    "date": "2026-07-28",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-07-28-nisa-credit-card-point-comparison-2026.jpg"
   }
 ]
