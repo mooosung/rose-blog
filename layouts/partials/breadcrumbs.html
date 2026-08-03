@@ -20,7 +20,7 @@
       {{- $cat := index . 0 -}}
       <span style="color:rgb(200,164,93);margin:0 0.25rem;">›</span><a href="{{ $cat.RelPermalink }}" style="color:rgb(185,175,168);text-decoration:none;" class="hover:underline">{{ $cat.LinkTitle }}</a>
     {{- end -}}
-    <span style="color:rgb(200,164,93);margin:0 0.25rem;">›</span><span style="color:rgb(230,225,220);">{{ if gt (len .p1.Title) 38 }}{{ slice .p1.Title 0 38 }}…{{ else }}{{ .p1.Title }}{{ end }}</span>
+    <span style="color:rgb(200,164,93);margin:0 0.25rem;">›</span><span style="color:rgb(230,225,220);">{{ if gt (len .p1.Title) 38 }}{{ substr .p1.Title 0 38 }}…{{ else }}{{ .p1.Title }}{{ end }}</span>
   {{- else -}}
     {{/* 中間ページ */}}
     <span style="color:rgb(200,164,93);margin:0 0.25rem;">›</span><a href="{{ .p1.RelPermalink }}" style="color:rgb(185,175,168);text-decoration:none;" class="hover:underline">{{ if .p1.Title }}{{ .p1.Title }}{{ else }}{{ .p1.Section }}{{ end }}</a>
