@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-06-atlassian-team-ai-rovo-stock-analysis",
+    "title": "Atlassian（TEAM）株分析2026：AIエージェント「Rovo」は株価反転のカギとなるか",
+    "date": "2026-08-06",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-06-atlassian-team-ai-rovo-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-08-05-ai-household-budget-chatgpt-moneyforward-nisa-guide",
     "title": "ChatGPT×マネーフォワードMEで家計簿を自動分析！浮いたお金をNISA積立に回すAI家計管理術2026年版",
     "date": "2026-08-05",
@@ -28,11 +34,5 @@
     "title": "Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】",
     "date": "2026-08-03",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide",
-    "title": "高配当株の罠を見抜く5つのチェック項目｜配当性向・フリーキャッシュフローで選ぶ減配リスク回避スクリーニング術",
-    "date": "2026-08-01",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide.jpg"
   }
 ]
