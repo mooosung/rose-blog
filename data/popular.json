@@ -1,14 +1,18 @@
 [
   {
     "path": "posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai",
-    "pv": 24
+    "pv": 26
   },
   {
     "path": "posts/2026-03-23-datacenter-liquid-cooling-stocks",
-    "pv": 21
+    "pv": 20
   },
   {
     "path": "posts/2026-03-01-mlcc-murata-tdk-ai-infra",
+    "pv": 8
+  },
+  {
+    "path": "posts/2026-07-14-tsuruhashi-investment-complete-guide",
     "pv": 8
   },
   {
@@ -17,10 +21,6 @@
   },
   {
     "path": "posts/2026-05-30-ai-robotics-etf-botz-robt-arkq-complete-guide",
-    "pv": 7
-  },
-  {
-    "path": "posts/2026-07-14-tsuruhashi-investment-complete-guide",
     "pv": 7
   }
 ]
