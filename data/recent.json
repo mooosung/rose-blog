@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis",
+    "title": "Zscaler（ZS）株分析2026｜AIゼロトラストセキュリティの雄はサイバー攻撃対策の本命銘柄か",
+    "date": "2026-08-13",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-08-12-gemini-googlefinance-portfolio-tracking-rebalancing-guide",
     "title": "GeminiとGOOGLEFINANCE関数でポートフォリオを自動管理！スプレッドシート×AIリバランス通知ガイド2026年版",
     "date": "2026-08-12",
@@ -28,11 +34,5 @@
     "title": "「72の法則」で複利を体感する！資産が2倍になる年数を10秒で暗算する方法",
     "date": "2026-08-08",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-08-rule-of-72-compound-interest-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-07-vug-schg-qqqm-growth-etf-comparison-2026",
-    "title": "VUG・SCHG・QQQM｜グロース株ETF三銘柄を徹底比較【2026年最新版】",
-    "date": "2026-08-07",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-07-vug-schg-qqqm-growth-etf-comparison-2026.jpg"
   }
 ]
