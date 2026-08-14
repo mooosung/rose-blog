@@ -236,6 +236,7 @@ SCHDは「今すぐ最大の配当収入」ではなく、「時間をかけて�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)

@@ -246,6 +246,7 @@ REIT ETFが圧倒的に初心者向きです。数千円から始められ、物
 
 REIT ETFと合わせて、ポートフォリオの多様化に役立つ記事もご覧くださいな。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF SCHD・VYM・HDV徹底比較ガイド](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/) — 配当重視の長期投資戦略
 - [iDeCo完全ガイド｜節税しながら老後資金を作る](/posts/2026-05-24-ideco-complete-guide/) — 税優遇を最大限に活かした資産形成
 

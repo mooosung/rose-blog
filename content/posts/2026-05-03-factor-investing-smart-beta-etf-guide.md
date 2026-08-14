@@ -186,6 +186,7 @@ featureimagecaption: ""
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
 - [インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
 - [ゴールドETF完全ガイド｜金投資でポートフォリオを守る方法【2026年版】](/posts/2026-05-14-gold-etf-investment-complete-guide/)

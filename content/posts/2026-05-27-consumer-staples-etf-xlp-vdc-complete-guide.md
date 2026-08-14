@@ -176,6 +176,7 @@ AI・テック・バイオなどの成長セクターと比べると、長期の
 
 ポートフォリオの組み立てにはこちらの記事も参考にしてみてください。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF比較：SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [S&P500 ETF完全ガイド：VOO・IVV・SPYを徹底比較](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 

@@ -133,6 +133,7 @@ S&P GSCI指数に連動。この指数は**エネルギー(原油・天然ガス
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [金ETF GLD・IAU・GLDM 徹底比較](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/)
 - [TIPS インフレ連動債ETF 完全ガイド](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
 - [ビットコインETF IBIT・FBTC・BITB 徹底比較](/posts/2026-06-06-bitcoin-etf-ibit-fbtc-bitb-complete-guide/)

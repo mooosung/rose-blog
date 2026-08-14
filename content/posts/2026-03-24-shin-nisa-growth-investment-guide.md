@@ -159,6 +159,7 @@ NISA口座の損失は、特定口座・一般口座の利益と**損益通算�
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [新NISAの成長投資枠を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
 - [インデックスファンドとアクティブファンドの違いと選び方ガイド](/posts/2026-04-17-index-fund-vs-active-fund-guide/)
 - [S&P500 vs 全世界株式「オルカン」どっちを選ぶべき？徹底比較ガイド](/posts/2026-03-20-sp500-vs-all-country-world-index-comparison/)

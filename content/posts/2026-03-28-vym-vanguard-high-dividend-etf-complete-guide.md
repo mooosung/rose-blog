@@ -221,6 +221,7 @@ SCHDと並んで「高配当ETF界の2大巨頭」と呼ばれるVYMは、**資�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [高配当ETF×配当再投資の複利効果｜月3万円積立で20年後いくらになる？VYM・HDV・SPYD・SCHDシミュレーション](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)

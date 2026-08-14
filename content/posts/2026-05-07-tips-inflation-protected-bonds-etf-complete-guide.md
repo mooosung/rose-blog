@@ -189,6 +189,7 @@ SBI証券や楽天証券の米国株取引サービスを使えば、TIPやVTIP�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [米国債ETF「TLT・IEF・SHY」完全ガイド｜株式暴落時に資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
 - [ファクター投資・スマートベータETF完全ガイド｜バリュー・モメンタム・クオリティで賢く運用する方法](/posts/2026-05-03-factor-investing-smart-beta-etf-guide/)

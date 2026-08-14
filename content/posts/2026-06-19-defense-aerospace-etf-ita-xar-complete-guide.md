@@ -193,6 +193,7 @@ ITA・XARともに成長投資枠の対象外ETFのため、**課税口座での
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [VOO vs QQQ 徹底比較2026年版｜S&P500とナスダック100、長期積立NISAはどちらが正解か](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
 - [XLK・VGT・QQQ 徹底比較2026年版｜米国テクノロジーETFの経費率・組み入れ銘柄・10年リターンで選ぶAI時代の王道投資](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 - [配当成長ETF「VIG vs DGRO」徹底比較ガイド2026年版](/posts/2026-07-17-vig-vs-dgro-dividend-growth-etf-guide-2026/)

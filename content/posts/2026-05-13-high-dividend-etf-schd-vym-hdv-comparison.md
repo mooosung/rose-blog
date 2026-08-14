@@ -252,6 +252,7 @@ SCHDは増配力の高い厳選100銘柄、VYMは幅広い440銘柄以上に分�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
 - [高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
 - [JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)

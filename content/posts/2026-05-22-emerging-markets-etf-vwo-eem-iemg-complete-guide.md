@@ -265,6 +265,7 @@ EEMの経費率は0.68%と高いですが、オプション市場の流動性が
 
 新興国ETFと合わせて読みたいおすすめ記事ですわ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [SP500 ETF完全比較：VOO・IVV・SPY の違いと選び方](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)
 - [高配当ETF完全比較：SCHD・VYM・HDV で配当収入を最大化](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [ドルコスト平均法完全ガイド：積立投資で資産を着実に増やす方法](/posts/2026-05-09-dollar-cost-averaging-complete-guide/)

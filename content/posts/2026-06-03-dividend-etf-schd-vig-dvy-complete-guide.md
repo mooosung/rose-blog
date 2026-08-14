@@ -246,6 +246,7 @@ SCHD・VIG・DVYはいずれも成長投資枠対応銘柄に含まれること�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
 - [JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)

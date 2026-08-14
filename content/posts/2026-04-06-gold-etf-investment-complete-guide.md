@@ -189,6 +189,7 @@ featureimagecaption: ""
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ゴールド（金）投資完全ガイド2026：種類・メリット・始め方を徹底解説](/posts/2026-04-22-gold-investment-complete-guide/)
 - [ゴールドETF完全ガイド｜金投資でポートフォリオを守る方法【2026年版】](/posts/2026-05-14-gold-etf-investment-complete-guide/)
 - [米国債ETF「TLT・IEF・SHY」完全ガイド｜株式暴落時に資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)

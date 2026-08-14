@@ -229,6 +229,7 @@ QQQへの投資を始めるなら、まず証券口座の開設が必要です�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [VTI vs VOO 完全比較｜全米株式 vs S&P500、どっちを選ぶべき?【2026年版】](/posts/2026-04-04-vti-vs-voo-etf-comparison/)
 - [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)

@@ -165,6 +165,7 @@ ETFの分配金は現金で支払われるため、再投資するには自分�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
 - [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)
 - [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-04-14-reit-investment-beginners-guide/)

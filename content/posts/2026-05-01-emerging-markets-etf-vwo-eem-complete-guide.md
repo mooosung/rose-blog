@@ -185,6 +185,7 @@ VWOの設定来（2005年〜）のリターンを見ると、米国株（SPY）�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [新興国ETF完全比較ガイド2026年版：VWO・EEM・IMEGの違いと選び方](/posts/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide/)
 - [ヘルスケアETF（XLV・VHT）完全ガイド〜医療株で安定リターンを狙う投資戦略](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)
 - [米国小型株ETF（IJR・VB・IWM）完全ガイド2026｜S&P500との違いと投資戦略](/posts/2026-05-18-us-small-cap-etf-ijr-vb-iwm-complete-guide/)

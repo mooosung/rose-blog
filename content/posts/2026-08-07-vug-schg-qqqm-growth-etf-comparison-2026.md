@@ -131,6 +131,7 @@ VUG・SCHG・QQQMの選び方をまとめますわ。
 
 グロース株・ETF投資をさらに深めたい方はこちらもどうぞ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】](/posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026/)
 - [米国テックETF「XLK・VGT・QQQ」比較ガイド2026年版](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 

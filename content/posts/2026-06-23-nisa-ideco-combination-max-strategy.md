@@ -206,6 +206,8 @@ iDeCoは証券会社を変えると手続きが面倒なので、最初から**�
 
 ## 関連記事：さらに深く学びたい方へ
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
+
 iDeCoの受取方法と節税については[iDeCo受取戦略・退職所得控除の最適活用法](/posts/2026-06-16-ideco-payout-strategy-tax-optimization/)で詳しく解説していますわ。
 
 また、40〜50代の方がNISAをどう活用すべきかは[40〜50代のNISA戦略・老後2000万円への道](/posts/2026-06-09-nisa-strategy-40s-50s-retirement-2000man/)もあわせてご参照くださいませ。

@@ -256,6 +256,7 @@ VTI 70% + BND（米国総合債券） 30%
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [QQQ完全ガイド：ナスダック100に乗る米国ETFの仕組みと投資戦略](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
 - [S&P500 ETF 徹底比較：VOO・IVV・SPY どれを選ぶべきか【2026年版】](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)

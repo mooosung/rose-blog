@@ -216,6 +216,7 @@ AI関連株は決算発表で1日15%以上動くこともある高ボラティ�
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [ETFと投資信託の違いを徹底比較：どちらを選ぶべきか完全ガイド](/posts/2026-05-11-etf-vs-toshin-comparison-guide/)
 - [積立投資と一括投資を徹底比較：シミュレーションで見る最適な投資タイミング戦略](/posts/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment/)
 - [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)

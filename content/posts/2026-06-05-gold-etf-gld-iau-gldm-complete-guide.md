@@ -181,6 +181,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 金ETFと組み合わせて読みたい関連記事もご参考ください：
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [コア・サテライト戦略でETFポートフォリオを最適化する方法](/posts/2026-03-13-us-etf-core-satellite-strategy/)
 - [S&P500 ETF完全ガイド：VOO・IVV・SPYの違いと選び方](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 

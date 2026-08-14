@@ -203,6 +203,7 @@ S&P500への投資は、米国経済の長期成長を丸ごと取り込む、�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF（SCHD・VYM・HDV）徹底比較：配当収入を最大化する選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [ドルコスト平均法完全ガイド：積立投資で感情に左右されない資産形成](/posts/2026-05-09-dollar-cost-averaging-complete-guide/)
 

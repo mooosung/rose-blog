@@ -206,6 +206,7 @@ VEAはFTSE指数に連動しカナダを含む約4,000銘柄に投資できる�
 
 ### 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [新興国株式ETF完全ガイド2026：VWO・EEM・IEMGで世界の成長を取り込む](/posts/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide/)
 - [S&P500 ETF完全ガイド2026：VOO・IVV・SPYを徹底比較](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 

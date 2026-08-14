@@ -157,6 +157,7 @@ SMHが連動するMVIS US Listed Semiconductor 25 Indexは、米国市場に上�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
 - [クリーンエネルギーETF（ICLN・QCLN）完全ガイド｜AI時代の電力需要と再生可能エネルギー投資](/posts/2026-05-17-clean-energy-etf-icln-qcln-complete-guide/)
 - [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)

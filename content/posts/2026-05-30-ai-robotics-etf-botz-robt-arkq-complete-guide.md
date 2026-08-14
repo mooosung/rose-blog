@@ -218,6 +218,7 @@ AI・ロボティクスは今後数十年にわたって経済を変革するテ
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
 - [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
 - [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)

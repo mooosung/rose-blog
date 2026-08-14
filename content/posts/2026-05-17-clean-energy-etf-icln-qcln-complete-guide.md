@@ -208,6 +208,7 @@ AI時代の電力需要増加とエネルギー転換という二つの長期ト
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ロボティクス・自動化ETF投資完全ガイド【ROBO・IRBO・ARKQ比較】](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
 - [半導体ETF完全ガイド 2026年版：SOXX・SMH・SOXQの違いと選び方](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)
 - [エネルギーETF完全ガイド：XLE・VDE・IXCの特徴と選び方【2026年版】](/posts/2026-05-26-energy-etf-xle-vde-ixc-complete-guide/)

@@ -169,6 +169,7 @@ NextEraを筆頭に、多くのユーティリティ企業が太陽光・風力�
 
 ポートフォリオ構築に役立つ関連記事もあわせてご覧ください。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [債券ETF完全ガイド【BND・AGG・TLT】金利と債券の関係を理解して安定運用](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
 - [高配当ETF徹底比較【SCHD・VYM・HDV】配当投資で安定収入を得る方法](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [ゴールドETF投資完全ガイド】インフレ・有事に強い金への投資方法](/posts/2026-05-14-gold-etf-investment-complete-guide/)

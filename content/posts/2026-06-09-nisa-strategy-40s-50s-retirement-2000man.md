@@ -145,6 +145,7 @@ NISAで流動性を確保しながら、iDeCoで所得控除を最大化する�
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [新NISA×iDeCo 節税最大化の組み合わせ戦略2026年版｜両方フル活用で老後資産を加速](/posts/2026-06-23-nisa-ideco-combination-max-strategy/)
 - [新NISAの出口戦略完全ガイド2026年版｜4%ルール・定率・定額取り崩しの比較と年代別プラン](/posts/2026-07-07-shin-nisa-drawdown-exit-strategy-guide/)
 - [30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け](/posts/ideco-30s-beginners-guide-tax-saving/)

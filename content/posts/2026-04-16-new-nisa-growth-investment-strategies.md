@@ -128,6 +128,7 @@ NISA口座で損失が出た場合、**課税口座の利益との損益通算�
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [S&P500 vs 全世界株式「オルカン」どっちを選ぶべき？徹底比較ガイド](/posts/2026-03-20-sp500-vs-all-country-world-index-comparison/)
 - [AI・テクノロジーETF投資完全ガイド2026](/posts/2026-04-27-ai-technology-etf-investment-guide/)
 - [S&P500 ETF 徹底比較：VOO・IVV・SPY どれを選ぶべきか【2026年版】](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)

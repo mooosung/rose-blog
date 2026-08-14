@@ -208,6 +208,7 @@ S&P500にはテクノロジー企業が約30%含まれているため、テク�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [米国小型株ETF（IJR・VB・IWM）完全ガイド2026｜S&P500との違いと投資戦略](/posts/2026-05-18-us-small-cap-etf-ijr-vb-iwm-complete-guide/)
 - [AI・テクノロジーETF投資完全ガイド2026](/posts/2026-04-27-ai-technology-etf-investment-guide/)
 - [ヘルスケアETF（XLV・VHT）完全ガイド〜医療株で安定リターンを狙う投資戦略](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)

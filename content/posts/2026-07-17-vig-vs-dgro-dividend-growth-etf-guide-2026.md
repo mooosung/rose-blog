@@ -130,6 +130,7 @@ VIGとDGROを**半々で保有する**のも合理的な戦略ですわ。両者
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [VOO vs QQQ、どちらを選ぶ？S&P500とNasdaq100の長期投資比較](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
 - [新NISAの出口戦略・取り崩し方法を徹底解説](/posts/2026-07-07-shin-nisa-drawdown-exit-strategy-guide/)
 

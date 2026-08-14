@@ -182,6 +182,7 @@ Fidelityの口座を使っている場合は、同一プラットフォームで
 
 ビットコインETFと合わせて、他のETF投資も参考にしてみてください。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ゴールドETF（GLD・IAU・GLDM）完全ガイド](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/) - 金資産への分散投資
 - [グローバル全世界ETF（VT・ACWI）完全ガイド](/posts/2026-06-02-global-all-world-etf-vt-acwi-complete-guide/) - 世界市場への分散投資
 - [高配当ETF（SCHD・VIG・DVY）完全ガイド](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/) - インカム重視の投資戦略

@@ -156,6 +156,7 @@ RSP（等ウェイトS&P500 ETF）のポイントをまとめますわ。
 
 S&P500 ETF投資をさらに深めたい方はこちらもどうぞ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】](/posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026/)
 - [VOO vs QQQ｜S&P500 vs NASDAQ100 長期投資どちらが正解？](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
 

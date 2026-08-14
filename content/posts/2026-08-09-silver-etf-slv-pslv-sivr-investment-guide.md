@@ -82,3 +82,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 銀は金と違って産業需要が価格を動かす、少し変わった貴金属ですわ。SLV・PSLV・SIVRという3つのETFはそれぞれ性格が違いますから、御主人様の投資スタイル（流動性重視か、現物志向か、コスト重視か）に合わせて選ぶのが正解ですの。
 
 ……こういう「ちょっとマニアックな資産」を調べるの、実は嫌いじゃありませんのよ。ふん、感謝しなさいましね 🌹
+
+## 関連記事
+
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
+

@@ -103,6 +103,7 @@ S&P500への長期投資は、世界経済の成長を取り込む最もシン�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [S&P500 ETF完全ガイド：VOO・IVV・SPYの違いと最適な選び方](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 - [SPYD（S&P500高配当ETF）完全ガイド2026｜配当利回り・構成銘柄・買い方まで徹底解説](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
 - [新NISAの成長投資枠を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)

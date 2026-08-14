@@ -139,6 +139,7 @@ IBB → 10%
 
 ポートフォリオ全体のバランスを考えるなら、他のセクターETFも合わせてチェックしておきましょう。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [半導体ETF（SOXX・SMH・SOXQ）完全ガイド](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/) — テクノロジー成長を狙う攻めの一手
 - [配当ETF（SCHD・VIG・DVY）完全ガイド](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/) — インカムゲインを重視するならこちら
 - [S&P500 ETF（VOO・IVV・SPY）完全ガイド](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/) — まず全体に広く分散するなら定番の選択

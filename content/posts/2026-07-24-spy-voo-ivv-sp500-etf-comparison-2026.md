@@ -179,6 +179,7 @@ SPY・VOO・IVVの選び方をまとめますわ。
 
 S&P500 ETF投資をさらに深めたい方はこちらもどうぞ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [VOO vs QQQ｜S&P500 vs NASDAQ100 長期投資どちらが正解？](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
 - [米国テックETF「XLK・VGT・QQQ」比較ガイド2026年版](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 

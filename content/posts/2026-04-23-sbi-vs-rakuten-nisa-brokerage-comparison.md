@@ -134,6 +134,7 @@ SBI証券と楽天証券は、どちらも優秀なネット証券です。迷�
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
 - [積立投資と一括投資を徹底比較：シミュレーションで見る最適な投資タイミング戦略](/posts/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment/)
 - [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)

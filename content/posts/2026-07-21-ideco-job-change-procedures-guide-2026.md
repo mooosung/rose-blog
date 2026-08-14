@@ -209,6 +209,7 @@ iDeCoの受け取り方や出口戦略については、[iDeCo出口戦略・受
 
 ## 関連記事
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [新NISA×iDeCo 節税最大化の組み合わせ戦略2026年版｜両方フル活用で老後資産を加速](/posts/2026-06-23-nisa-ideco-combination-max-strategy/)
 - [40代・50代からのNISA戦略2026年版｜老後2000万問題を逆算で解決する積立・iDeCo組み合わせ術](/posts/2026-06-09-nisa-strategy-40s-50s-retirement-2000man/)

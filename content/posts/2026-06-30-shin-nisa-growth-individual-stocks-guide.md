@@ -148,6 +148,7 @@ NISAで発生した損失は、課税口座の利益と**相殺できません**
 
 新NISAの基礎からつみたて投資枠の活用まで幅広く解説しています。
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [新NISAの成長投資枠を最大活用する戦略](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
 - [NISA・iDeCoの併用で資産形成を最大化する完全戦略](/posts/2026-06-23-nisa-ideco-combination-max-strategy/)
 - [SBI証券 vs 楽天証券、NISA口座はどちらがおすすめか](/posts/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison/)

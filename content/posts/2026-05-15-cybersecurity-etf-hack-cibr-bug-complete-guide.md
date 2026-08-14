@@ -200,6 +200,7 @@ HACK・CIBR・BUGはいずれも無配またはほぼ無配です。サイバー
 
 テーマ型ETFをさらに学びたい方はこちらもどうぞ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [AIテクノロジーETF投資ガイド2026──テーマ投資の基本と有望ETFを解説](/posts/2026-04-27-ai-technology-etf-investment-guide/)
 - [半導体ETF（SOXX・SMH）完全ガイド──AI需要を支えるインフラに投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
 

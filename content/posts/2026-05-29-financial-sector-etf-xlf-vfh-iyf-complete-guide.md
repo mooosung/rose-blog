@@ -173,6 +173,7 @@ IYFは経費率が高めなので、よほどの理由がなければXLF・VFH�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ヘルスケアETF（XLV・VHT）完全ガイド〜医療株で安定リターンを狙う投資戦略](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)
 - [新興国株式ETFで世界の成長を取り込む方法【VWO・EEM完全ガイド2026】](/posts/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/)
 - [サイバーセキュリティETF完全ガイド2026──HACK・CIBR・BUGを徹底比較](/posts/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide/)

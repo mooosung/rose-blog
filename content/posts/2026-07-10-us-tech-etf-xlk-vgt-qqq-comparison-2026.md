@@ -164,6 +164,7 @@ AI時代の恩恵を最大限に受けるために、テクノロジーETFをポ
 
 テクノロジーETFと合わせて読みたい記事はこちらですわ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [VOO vs QQQ どちらを選ぶ？S&P500とNASDAQ100の長期投資比較](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/) — インデックス投資の基本からQQQとVOOの違いを解説
 - [債券ETF（AGG・BND・TLT）でポートフォリオを安定させる方法](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/) — テック株のリスクをヘッジする債券ETF活用術
 

@@ -215,6 +215,7 @@ ROBO・IRBO・ARKQはいずれも**米国市場（NYSE Arca）上場ETF**です�
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [AI・ロボティクスETF完全ガイド：BOTZ・ROBT・ARKQの違いと選び方](/posts/2026-05-30-ai-robotics-etf-botz-robt-arkq-complete-guide/)
 - [クリーンエネルギーETF（ICLN・QCLN）完全ガイド｜AI時代の電力需要と再生可能エネルギー投資](/posts/2026-05-17-clean-energy-etf-icln-qcln-complete-guide/)
 - [半導体ETF完全ガイド 2026年版：SOXX・SMH・SOXQの違いと選び方](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)

@@ -194,6 +194,7 @@ ETHは株式の3〜5倍の価格変動が起きることも珍しくありませ
 
 仮想通貨ETFをきっかけにオルタナティブ投資の幅を広げたい方には、以下の記事もあわせてご覧くださいませ。
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [ビットコインETF（IBIT・FBTC）完全ガイド——仮想通貨投資の扉を開く](/posts/2026-06-06-bitcoin-etf-ibit-fbtc-bitb-complete-guide/)
 - [プライベートクレジット投資入門——機関投資家の手法を個人に](/posts/2026-06-28-private-credit-investment-guide-2026/)
 

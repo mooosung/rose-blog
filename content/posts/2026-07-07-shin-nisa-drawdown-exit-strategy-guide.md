@@ -199,6 +199,7 @@ featured: true
 
 出口戦略と合わせてチェックしていただきたい記事ですわ：
 
+- [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
 - [新NISA×iDeCo併用で節税効果を最大化する「二刀流」戦略](/posts/2026-06-23-nisa-ideco-combination-max-strategy/)
 - [40代・50代からの新NISA戦略：老後2000万円を現実にする積立プラン](/posts/2026-06-09-nisa-strategy-40s-50s-retirement-2000man/)
 - [新NISA成長投資枠で個別株を選ぶコツ：優良銘柄の見極め方](/posts/2026-06-30-shin-nisa-growth-individual-stocks-guide/)

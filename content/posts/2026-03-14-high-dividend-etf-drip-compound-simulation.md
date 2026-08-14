@@ -208,6 +208,7 @@ NISA口座を使えば、**配当の約90%を再投資に回せる**ため、複
 
 ## 関連記事
 
+- [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [VYM完全ガイド：バンガード高配当ETFで不労所得を作る方法【2026年版】](/posts/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide/)
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
