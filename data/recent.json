@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide",
+    "title": "ChatGPTのタスク機能で株価・決算情報を自動チェック！スケジュール実行で作る自分専用アラートの作り方",
+    "date": "2026-08-19",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide.jpg"
+  },
+  {
     "path": "posts/2026-08-18-ideco-2027-contribution-limit-reform-guide",
     "title": "iDeCo掛金上限が2027年1月から激変｜会社員は月2.7倍・加入年齢70歳まで拡大の中身",
     "date": "2026-08-18",
@@ -28,11 +34,5 @@
     "title": "Zscaler（ZS）株分析2026｜AIゼロトラストセキュリティの雄はサイバー攻撃対策の本命銘柄か",
     "date": "2026-08-13",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-08-12-gemini-googlefinance-portfolio-tracking-rebalancing-guide",
-    "title": "GeminiとGOOGLEFINANCE関数でポートフォリオを自動管理！スプレッドシート×AIリバランス通知ガイド2026年版",
-    "date": "2026-08-12",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-12-gemini-googlefinance-portfolio-tracking-rebalancing-guide.jpg"
   }
 ]
