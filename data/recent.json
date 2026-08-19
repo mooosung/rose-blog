@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis",
+    "title": "GitLab（GTLB）株分析2026｜AIがコードを書く時代、DevSecOpsは食われる側か勝つ側か",
+    "date": "2026-08-20",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide",
     "title": "ChatGPTのタスク機能で株価・決算情報を自動チェック！スケジュール実行で作る自分専用アラートの作り方",
     "date": "2026-08-19",
@@ -28,11 +34,5 @@
     "title": "TQQQ・SPXL・SOXL｜レバレッジETFの仕組みと「ボラティリティディケイ」の恐ろしさ【2026年版】",
     "date": "2026-08-14",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-14-leveraged-etf-tqqq-spxl-volatility-decay-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis",
-    "title": "Zscaler（ZS）株分析2026｜AIゼロトラストセキュリティの雄はサイバー攻撃対策の本命銘柄か",
-    "date": "2026-08-13",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis.jpg"
   }
 ]
