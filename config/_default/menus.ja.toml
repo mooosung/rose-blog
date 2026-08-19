@@ -32,3 +32,13 @@
   name = "プライバシーポリシー"
   pageRef = "privacy-policy"
   weight = 10
+
+[[footer]]
+  name = "運営者情報"
+  pageRef = "about"
+  weight = 5
+
+[[footer]]
+  name = "お問い合わせ"
+  pageRef = "contact"
+  weight = 20

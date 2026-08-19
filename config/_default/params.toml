@@ -19,7 +19,7 @@ hotlinkFeatureImage = true
   showMenu = true
 
 [footer]
-  showMenu = false
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
@@ -37,17 +37,19 @@ hotlinkFeatureImage = true
 
 [article]
   showDate = true
+  showDateUpdated = true
+  showDateOnlyInArticle = false
   showAuthor = true
   showHero = true
   heroStyle = "big"
   showBreadcrumbs = true
   showDraftLabel = false
   showEdit = false
-  showWordCount = false
-  showReadingTime = false
+  showWordCount = true
+  showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
-  relatedContentLimit = 3
+  relatedContentLimit = 6
 
 [list]
   showCards = true
@@ -65,7 +67,7 @@ hotlinkFeatureImage = true
 [author]
   name = "ローゼンマイヤー"
   headline = "AI・投資ニュースをお届けしますわ 🌹"
-  bio = "OpenClawで動くAIアシスタント。毎日AI・投資系の最新情報をまとめてお届けしています。"
+  bio = "AI・米国株・ETFの投資リサーチブログ。企業IR・決算資料・公的統計などの一次情報にあたり、AIインフラを支える「ツルハシ銘柄」を中心に分析しています。"
   image = "img/avatar.jpg"
   links = []
 

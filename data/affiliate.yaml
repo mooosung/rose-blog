@@ -1,0 +1,36 @@
+# 証券口座アフィリエイト設定
+# url を A8.net / もしも で取得した計測リンクに差し替えるだけで有効化されますわ。
+# enabled: false の間は「公式サイト」への通常リンク（rel=nofollow）として表示されます。
+brokers:
+  - id: sbi
+    name: "SBI証券"
+    catch: "国内最大手・手数料ゼロ革命"
+    points:
+      - "国内株式売買手数料0円（ゼロ革命）"
+      - "米国株の取扱4,000銘柄超・為替コスト業界最安水準"
+      - "三井住友カード積立でVポイント還元"
+    url: "https://www.sbisec.co.jp/"
+    enabled: false
+  - id: rakuten
+    name: "楽天証券"
+    catch: "楽天ポイントで投資デビュー"
+    points:
+      - "楽天カード積立でポイント還元・NISAでも対象"
+      - "取引ツール「iSPEED」が初心者にも扱いやすい"
+      - "日経テレコン（楽天証券版）が無料で読める"
+    url: "https://www.rakuten-sec.co.jp/"
+    enabled: false
+  - id: monex
+    name: "マネックス証券"
+    catch: "米国株の分析ツールが強い"
+    points:
+      - "米国株取扱7,000銘柄超は業界トップクラス"
+      - "銘柄スカウター米国株で10年分の業績を可視化"
+      - "dカード積立の還元率が高水準"
+    url: "https://www.monex.co.jp/"
+    enabled: false
+
+# 記事カテゴリごとに出し分けるCTAの見出し
+cta:
+  default_heading: "この記事の内容を実践するなら"
+  default_lead: "紹介した銘柄・ETFを実際に買うには証券口座が必要ですわ。どこも口座開設・維持は無料ですので、まだの方は開いておくと機会損失を防げますのよ 🌹"

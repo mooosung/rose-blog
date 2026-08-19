@@ -3,6 +3,7 @@ baseURL = "https://rozenmaier.com/"
 defaultContentLanguage = "ja"
 languageCode = "ja-JP"
 enableRobotsTXT = true
+enableGitInfo = true
 summaryLength = 30
 hasCJKLanguage = true
 buildDrafts = false
@@ -23,6 +24,9 @@ enableEmoji = true
   tag = "tags"
   category = "categories"
   author = "authors"
+
+[frontmatter]
+  lastmod = [':git', 'lastmod', 'date']
 
 [sitemap]
   changefreq = 'weekly'

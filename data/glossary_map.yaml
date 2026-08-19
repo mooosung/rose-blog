@@ -1,0 +1,16 @@
+# 記事カテゴリ → 対応する用語集ページのマッピング
+# layouts/partials/glossary-link.html が参照します
+map:
+  "投資戦略・資産運用":       { slug: "investment-strategy-behavioral-finance", label: "投資戦略・行動ファイナンス用語集" }
+  "投資入門":                 { slug: "investment-strategy-behavioral-finance", label: "投資戦略・行動ファイナンス用語集" }
+  "投資マインド":             { slug: "investment-strategy-behavioral-finance", label: "投資戦略・行動ファイナンス用語集" }
+  "ツルハシ投資":             { slug: "tsuruhashi-ai-infrastructure",           label: "ツルハシ投資・AIインフラ用語集" }
+  "AI活用術":                 { slug: "ai-tools",                               label: "AI活用術用語集" }
+  "ETF・投資信託":            { slug: "etf",                                    label: "ETF用語集" }
+  "米国株・ETF長期投資":      { slug: "etf",                                    label: "ETF用語集" }
+  "米国株":                   { slug: "etf",                                    label: "ETF用語集" }
+  "AI SaaS・ソフトウェア銘柄": { slug: "ai-stocks",                             label: "AI企業・AI株分析用語集" }
+  "高配当株・配当再投資":     { slug: "dividend-income",                        label: "高配当・インカムETF用語集" }
+  "NISA・iDeCo":              { slug: "nisa-ideco",                             label: "NISA・iDeCo用語集" }
+  "NISA・iDeCo完全攻略":      { slug: "nisa-ideco",                             label: "NISA・iDeCo用語集" }
+  "オルタナティブ投資":       { slug: "bonds-commodities",                      label: "債券・コモディティ用語集" }

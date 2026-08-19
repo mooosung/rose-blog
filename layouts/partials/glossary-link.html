@@ -1,0 +1,14 @@
+{{/* カテゴリに応じた用語集へのコンテキストリンク（用語集ハブへの内部リンクを全記事から張る） */}}
+{{ $m := site.Data.glossary_map.map }}
+{{ $hit := false }}
+{{ range .Params.categories }}
+  {{ if and (not $hit) (index $m .) }}
+    {{ $g := index $m . }}
+    {{ $hit = true }}
+    <aside class="not-prose my-8 rounded-lg border-s-4 border-primary-500 bg-neutral-100 dark:bg-neutral-800 px-5 py-4 print:hidden">
+      <p class="m-0 text-sm text-neutral-700 dark:text-neutral-300">
+        📖 記事に出てくる専門用語でつまずいたら、<a class="font-bold text-primary-600 dark:text-primary-400 underline" href="/glossary/{{ $g.slug }}/">{{ $g.label }}</a>にまとめてありますわ。用語集の総合ページは<a class="underline" href="/glossary/">こちら</a>ですの 🌹
+      </p>
+    </aside>
+  {{ end }}
+{{ end }}
