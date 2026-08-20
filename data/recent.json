@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide",
+    "title": "バッファーETF完全ガイド2026｜BUFR・BALTの下落防御と、その代償を実データで検証",
+    "date": "2026-08-21",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide.jpg"
+  },
+  {
     "path": "posts/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis",
     "title": "GitLab（GTLB）株分析2026｜AIがコードを書く時代、DevSecOpsは食われる側か勝つ側か",
     "date": "2026-08-20",
@@ -28,11 +34,5 @@
     "title": "Total Shareholder Yieldとは？配当利回りだけに頼らない高配当株の見分け方",
     "date": "2026-08-15",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-15-total-shareholder-yield-dividend-stock-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-14-leveraged-etf-tqqq-spxl-volatility-decay-guide",
-    "title": "TQQQ・SPXL・SOXL｜レバレッジETFの仕組みと「ボラティリティディケイ」の恐ろしさ【2026年版】",
-    "date": "2026-08-14",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-14-leveraged-etf-tqqq-spxl-volatility-decay-guide.jpg"
   }
 ]
