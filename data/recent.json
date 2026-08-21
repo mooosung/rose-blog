@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide",
+    "title": "コストの複利｜信託報酬0.1%の差が30年で数十万円を溶かす仕組みと実質コストの読み方",
+    "date": "2026-08-22",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide.jpg"
+  },
+  {
     "path": "posts/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide",
     "title": "バッファーETF完全ガイド2026｜BUFR・BALTの下落防御と、その代償を実データで検証",
     "date": "2026-08-21",
@@ -28,11 +34,5 @@
     "title": "「AIエージェント構築代行」という副業スキル投資【2026年版】",
     "date": "2026-08-16",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-16-ai-agent-building-agency-side-hustle-2026.jpg"
-  },
-  {
-    "path": "posts/2026-08-15-total-shareholder-yield-dividend-stock-guide",
-    "title": "Total Shareholder Yieldとは？配当利回りだけに頼らない高配当株の見分け方",
-    "date": "2026-08-15",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-15-total-shareholder-yield-dividend-stock-guide.jpg"
   }
 ]
