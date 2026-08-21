@@ -156,9 +156,11 @@ def wrap_text(text: str, font, max_width: int, draw: ImageDraw.ImageDraw) -> lis
 
 
 def clean_title(title: str) -> str:
-    # 絵文字除去・クォート除去（&は保持）
+    # 絵文字除去・クォート除去
+    # 記号は意味を持つものを必ず残すこと。半角の . % , + × / ~ $ # を落とすと
+    # 「0.1%」→「01」、「61,500円」→「61500円」のように意味が変わる（2026-08-21 修正）
     title = re.sub(r'[\U00010000-\U0010ffff]', '', title)
-    title = re.sub(r'[^\w\s\u3000-\u9fff\u4e00-\u9fff\uff00-\uffef\u3040-\u309f\u30a0-\u30ff\-：:！!？?（）()【】「」・、。…|｜&]', '', title)
+    title = re.sub(r'[^\w\s\u3000-\u9fff\u4e00-\u9fff\uff00-\uffef\u3040-\u309f\u30a0-\u30ff\-：:！!？?（）()【】「」・、。…|｜&.%,+×/~$#]', '', title)
     return re.sub(r'\s+', ' ', title).strip().strip('"\'')
 
 
