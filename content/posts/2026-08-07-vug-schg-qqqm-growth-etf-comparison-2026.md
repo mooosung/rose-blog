@@ -1,5 +1,5 @@
 ---
-title: "VUG・SCHG・QQQM｜グロース株ETF三銘柄を徹底比較【2026年最新版】"
+title: "VUG・SCHG・QQQM比較｜グロースETF三銘柄を徹底検証"
 date: 2026-08-07
 draft: false
 tags: ["ETF", "グロース株", "VUG", "SCHG", "QQQM", "米国株", "長期投資", "インデックス投資"]

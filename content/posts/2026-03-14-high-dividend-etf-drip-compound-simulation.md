@@ -1,5 +1,5 @@
 ---
-title: "高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較"
+title: "高配当ETF×配当再投資DRIPの複利シミュレーション20年"
 date: 2026-03-14
 draft: false
 featured: false

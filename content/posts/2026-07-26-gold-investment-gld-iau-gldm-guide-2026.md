@@ -1,5 +1,5 @@
 ---
-title: "ゴールド投資完全ガイド2026 - GLD・IAU・GLDMの選び方と金ETF戦略"
+title: "金ETF比較 GLD・IAU・GLDMの違いと選び方2026"
 date: 2026-07-26
 draft: false
 tags: ["ゴールド投資", "金ETF", "GLD", "IAU", "オルタナティブ投資", "インフレ対策"]

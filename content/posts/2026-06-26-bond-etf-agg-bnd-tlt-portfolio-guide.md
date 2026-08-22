@@ -1,5 +1,5 @@
 ---
-title: "債券ETF完全ガイド2026年版｜AGG・BND・TLTで株式ポートフォリオをリスクヘッジする方法"
+title: "債券ETF比較2026｜AGG・BND・TLTの違いと選び方"
 date: 2026-06-26
 slug: 2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide
 categories: ["ETF・投資信託"]

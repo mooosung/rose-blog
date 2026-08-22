@@ -1,5 +1,5 @@
 ---
-title: "半導体製造装置株とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由"
+title: "半導体製造装置株とは？東京エレクトロン・ASML・レーザーテック"
 date: 2026-03-04
 draft: false
 featured: false

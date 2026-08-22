@@ -1,5 +1,5 @@
 ---
-title: "SPYD（S&P500高配当ETF）徹底解説2026｜配当利回り・構成銘柄・SCHD比較"
+title: "SPYD徹底解説2026｜配当利回り・構成銘柄・SCHD比較"
 date: 2026-04-10
 draft: false
 tags: ["ETF", "高配当", "SPYD", "米国株", "配当投資", "資産運用", "SCHD", "VYM", "S&P500", "NISA"]
