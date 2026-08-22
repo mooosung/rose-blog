@@ -8,23 +8,27 @@
   <meta name="theme-color">
 
   {{/* Title */}}
-  {{/* SERPで途中切れする長いtitleタグ対策：「｜」「【」区切りがあれば本題部分のみ使い、
-       それでも長い場合は32文字で丸める。サイト名を足すと長すぎる場合はサイト名を省略する */}}
+  {{/* SERPで途中切れする長いtitleタグ対策。
+       注意: Hugo の len は「バイト数」を返すため日本語では常に閾値を超える。
+       文字数判定には必ず countrunes を使うこと（旧実装は全記事に不要な「…」を付けていた）。
+       32文字を超える場合のみ「｜」「【」の前半だけに切り詰め、それでも長ければ丸める。 */}}
   {{ $seoTitle := .Title }}
-  {{ if strings.Contains $seoTitle "｜" }}
-    {{ $seoTitle = index (split $seoTitle "｜") 0 | strings.TrimSuffix " " }}
-  {{ else if strings.Contains $seoTitle "【" }}
-    {{ $seoTitle = index (split $seoTitle "【") 0 | strings.TrimSuffix " " }}
+  {{ if gt (countrunes $seoTitle) 32 }}
+    {{ if strings.Contains $seoTitle "｜" }}
+      {{ $seoTitle = index (split $seoTitle "｜") 0 | strings.TrimSuffix " " }}
+    {{ else if strings.Contains $seoTitle "【" }}
+      {{ $seoTitle = index (split $seoTitle "【") 0 | strings.TrimSuffix " " }}
+    {{ end }}
   {{ end }}
-  {{ if gt (len $seoTitle) 32 }}
-    {{ $seoTitle = printf "%s…" (substr $seoTitle 0 32) }}
+  {{ if gt (countrunes $seoTitle) 32 }}
+    {{ $seoTitle = printf "%s…" (substr $seoTitle 0 31) }}
   {{ end }}
   {{ if .IsHome }}
     <title>{{ .Site.Title | emojify }}</title>
     <meta name="title" content="{{ .Site.Title | emojify }}">
   {{ else }}
     {{ $withSuffix := printf "%s · %s" $seoTitle .Site.Title }}
-    {{ if le (len $withSuffix) 60 }}
+    {{ if le (countrunes $withSuffix) 34 }}
       <title>{{ $withSuffix | emojify }}</title>
       <meta name="title" content="{{ $withSuffix | emojify }}">
     {{ else }}
