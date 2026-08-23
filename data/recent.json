@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita",
+    "title": "AIデータセンターの水ツルハシ投資2026｜Xylemが1年で21%下げ栗田工業が55%上げた理由",
+    "date": "2026-08-24",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita.jpg"
+  },
+  {
     "path": "posts/2026-08-23-managed-futures-etf-dbmf-kmlm-cta-guide",
     "title": "マネージドフューチャーズETF徹底比較2026｜DBMF・KMLM・CTAは本当に暴落の保険になるのか",
     "date": "2026-08-23",
@@ -28,11 +34,5 @@
     "title": "ChatGPTのタスク機能で株価・決算情報を自動チェック！スケジュール実行で作る自分専用アラートの作り方",
     "date": "2026-08-19",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-18-ideco-2027-contribution-limit-reform-guide",
-    "title": "iDeCo掛金上限が2027年1月から激変｜会社員は月2.7倍・加入年齢70歳まで拡大の中身",
-    "date": "2026-08-18",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-18-ideco-2027-contribution-limit-reform-guide.jpg"
   }
 ]
