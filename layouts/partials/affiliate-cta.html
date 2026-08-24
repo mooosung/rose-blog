@@ -2,19 +2,42 @@
 {{ if not .Params.noAffiliate }}
 {{ $aff := site.Data.affiliate }}
 {{ if $aff }}
+
+{{/* 記事の文脈から松井証券のリンク種別を決める。
+     優先順位: ETF・米国株 > 投資信託 > NISA/iDeCo。
+     iDeCo記事もMID 6478が未提携のため nisa リンクを出す。 */}}
+{{ $terms := slice }}
+{{ with .Params.tags }}{{ $terms = $terms | append . }}{{ end }}
+{{ with .Params.categories }}{{ $terms = $terms | append . }}{{ end }}
+{{ $ctx := delimit (append (slice .Title) $terms) "," }}
+{{ $key := "us_stock" }}
+{{ if or (in $ctx "ETF") (in $ctx "米国株") }}
+  {{ $key = "us_stock" }}
+{{ else if in $ctx "投資信託" }}
+  {{ $key = "toshin" }}
+{{ else if or (in $ctx "NISA") (in $ctx "iDeCo") }}
+  {{ $key = "nisa" }}
+{{ end }}
+
 <aside class="not-prose my-12 rounded-xl border border-primary-300 dark:border-primary-700 bg-primary-50 dark:bg-neutral-800 p-6 print:hidden">
   <p class="m-0 mb-1 text-xs text-neutral-500 dark:text-neutral-400">PR・広告を含みます</p>
   <h2 class="m-0 mb-2 text-xl font-bold text-neutral-900 dark:text-neutral">{{ $aff.cta.default_heading }}</h2>
   <p class="m-0 mb-5 text-sm leading-relaxed text-neutral-700 dark:text-neutral-300">{{ $aff.cta.default_lead }}</p>
-  <div class="grid gap-4 md:grid-cols-3">
+  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
     {{ range $aff.brokers }}
+    {{/* 提携済みなら文脈に応じた計測リンク、未提携なら公式サイトへ */}}
+    {{ $href := .url }}
+    {{ if and .affiliate .links }}
+      {{ with index .links $key }}{{ $href = . }}{{ end }}
+    {{ end }}
+    {{ $rel := cond .affiliate "nofollow sponsored noopener" "nofollow noopener" }}
     <div class="rounded-lg bg-white dark:bg-neutral-900 p-4 border border-neutral-200 dark:border-neutral-700 flex flex-col">
       <p class="m-0 text-base font-bold text-neutral-900 dark:text-neutral">{{ .name }}</p>
       <p class="m-0 mt-1 mb-3 text-xs text-primary-600 dark:text-primary-400">{{ .catch }}</p>
       <ul class="m-0 mb-4 ps-4 text-xs leading-relaxed text-neutral-600 dark:text-neutral-400 list-disc">
         {{ range .points }}<li>{{ . }}</li>{{ end }}
       </ul>
-      <a href="{{ .url }}" target="_blank" rel="nofollow sponsored noopener"
+      <a href="{{ $href }}" target="_blank" rel="{{ $rel }}"
          class="mt-auto block rounded-md bg-primary-600 px-4 py-2 text-center text-sm font-bold text-white no-underline hover:bg-primary-700">
         {{ .name }}の口座を見る
       </a>
