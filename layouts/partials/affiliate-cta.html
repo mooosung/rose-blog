@@ -10,8 +10,10 @@
 {{ with .Params.tags }}{{ $terms = $terms | append . }}{{ end }}
 {{ with .Params.categories }}{{ $terms = $terms | append . }}{{ end }}
 {{ $ctx := delimit (append (slice .Title) $terms) "," }}
+{{/* iDeCoはタイトルで判定する。カテゴリ「NISA・iDeCo完全攻略」やタグ「NISA・iDeCo」に
+     引っかけると、純粋なNISA記事までiDeCoリンクになってしまうため。 */}}
 {{ $key := "us_stock" }}
-{{ if in $ctx "iDeCo" }}
+{{ if in .Title "iDeCo" }}
   {{ $key = "ideco" }}
 {{ else if or (in $ctx "ETF") (in $ctx "米国株") }}
   {{ $key = "us_stock" }}
