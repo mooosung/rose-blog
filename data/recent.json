@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-25-nisa-financial-institution-change-september-deadline-guide",
+    "title": "NISAの金融機関変更は9月30日が分岐点｜今年分か来年分かで手続きが変わる落とし穴",
+    "date": "2026-08-25",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-25-nisa-financial-institution-change-september-deadline-guide.jpg"
+  },
+  {
     "path": "posts/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita",
     "title": "AIデータセンターの水ツルハシ投資2026｜Xylemが1年で21%下げ栗田工業が55%上げた理由",
     "date": "2026-08-24",
@@ -28,11 +34,5 @@
     "title": "GitLab（GTLB）株分析2026｜AIがコードを書く時代、DevSecOpsは食われる側か勝つ側か",
     "date": "2026-08-20",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide",
-    "title": "ChatGPTのタスク機能で株価・決算情報を自動チェック！スケジュール実行で作る自分専用アラートの作り方",
-    "date": "2026-08-19",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide.jpg"
   }
 ]
