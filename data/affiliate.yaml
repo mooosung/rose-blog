@@ -8,7 +8,7 @@
 #
 # 提携状況（2026-08-25 TGアフィリエイト管理画面で実地確認）
 #   松井証券   MID 6012 … 提携中。口座開設申込 926円/件（定額）、再訪問90日、本人NG、リスティング不可
-#   松井iDeCo  MID 6478 … 未提携（6478が通るまでiDeCo記事にも nisa リンクを出す）
+#   松井iDeCo  MID 6478 … 提携中。運営管理手数料0円・投信残高ポイント最大1%が訴求点
 #   SBI証券    MID 1025 … 未提携（再申請中）
 #   楽天証券   MID  738 … 未提携（再申請中）
 #   マネックス          … TCSアフィリエイトのみ。TGでは取り扱いなし
@@ -26,6 +26,8 @@ brokers:
       us_stock: "https://ad2.trafficgate.net/t/r/99/6012/318938_398637"
       nisa: "https://ad2.trafficgate.net/t/r/94/6012/318938_398637"
       toshin: "https://ad2.trafficgate.net/t/r/60/6012/318938_398637"
+      # iDeCoのみ別MID(6478)。松井証券iDeCoの計測リンク
+      ideco: "https://ad2.trafficgate.net/t/r/28/6478/318938_398637"
     url: "https://ad2.trafficgate.net/t/r/99/6012/318938_398637"
   - id: sbi
     name: "SBI証券"

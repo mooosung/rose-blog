@@ -4,18 +4,20 @@
 {{ if $aff }}
 
 {{/* 記事の文脈から松井証券のリンク種別を決める。
-     優先順位: ETF・米国株 > 投資信託 > NISA/iDeCo。
-     iDeCo記事もMID 6478が未提携のため nisa リンクを出す。 */}}
+     優先順位: iDeCo > ETF・米国株 > 投資信託 > NISA。
+     iDeCoだけは別MID(6478)の専用リンクを使う。 */}}
 {{ $terms := slice }}
 {{ with .Params.tags }}{{ $terms = $terms | append . }}{{ end }}
 {{ with .Params.categories }}{{ $terms = $terms | append . }}{{ end }}
 {{ $ctx := delimit (append (slice .Title) $terms) "," }}
 {{ $key := "us_stock" }}
-{{ if or (in $ctx "ETF") (in $ctx "米国株") }}
+{{ if in $ctx "iDeCo" }}
+  {{ $key = "ideco" }}
+{{ else if or (in $ctx "ETF") (in $ctx "米国株") }}
   {{ $key = "us_stock" }}
 {{ else if in $ctx "投資信託" }}
   {{ $key = "toshin" }}
-{{ else if or (in $ctx "NISA") (in $ctx "iDeCo") }}
+{{ else if in $ctx "NISA" }}
   {{ $key = "nisa" }}
 {{ end }}
 
