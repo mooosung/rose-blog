@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing",
+    "title": "AIに「悪魔の代弁者」をやらせる投資プロンプト術｜買う前に自分の判断を論破させる7つの型",
+    "date": "2026-08-26",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing.jpg"
+  },
+  {
     "path": "posts/2026-08-25-nisa-financial-institution-change-september-deadline-guide",
     "title": "NISAの金融機関変更は9月30日が分岐点｜今年分か来年分かで手続きが変わる落とし穴",
     "date": "2026-08-25",
@@ -28,11 +34,5 @@
     "title": "バッファーETF完全ガイド2026｜BUFR・BALTの下落防御と、その代償を実データで検証",
     "date": "2026-08-21",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis",
-    "title": "GitLab（GTLB）株分析2026｜AIがコードを書く時代、DevSecOpsは食われる側か勝つ側か",
-    "date": "2026-08-20",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis.jpg"
   }
 ]
