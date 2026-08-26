@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-27-intuit-intu-ai-saas-stock-analysis",
+    "title": "Intuit（INTU）株分析2026｜売上14%増・EPS20%増でも株価は1年で半値、AI SaaSに何が起きたのか",
+    "date": "2026-08-27",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-27-intuit-intu-ai-saas-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing",
     "title": "AIに「悪魔の代弁者」をやらせる投資プロンプト術｜買う前に自分の判断を論破させる7つの型",
     "date": "2026-08-26",
@@ -28,11 +34,5 @@
     "title": "コストの複利｜信託報酬0.1%の差が30年で数十万円を溶かす仕組みと実質コストの読み方",
     "date": "2026-08-22",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide",
-    "title": "バッファーETF完全ガイド2026｜BUFR・BALTの下落防御と、その代償を実データで検証",
-    "date": "2026-08-21",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide.jpg"
   }
 ]
