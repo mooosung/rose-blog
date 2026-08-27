@@ -220,7 +220,7 @@ IPO後に投資する場合、以下の指標に注目したい。
 
 - [Snowflake（SNOW）徹底分析｜AIデータクラウド時代を制するSaaS株の投資価値](/posts/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis/)
 - [Salesforce（CRM）AIエージェント戦略と投資価値徹底分析](/posts/2026-06-11-salesforce-crm-ai-saas-stock-analysis/)
-- [Datadog（DDOG）AI時代のオブザーバビリティ株を徹底分析](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadog（DDOG）AI時代のオブザーバビリティ株を徹底分析](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 
 ---
 

@@ -17,7 +17,7 @@ AIブームの裏側で実際に稼働している「ハード」の部分です
 半導体セクターに投資するETFの代表格。AI需要の恩恵を最も受けやすいセクターの一つ。→ [半導体ETF SOXX・SMH完全ガイド](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
 
 **光インターコネクト（Optical Interconnect）**
-AIデータセンター内のサーバー同士を光信号で高速接続する技術。電気配線の限界を超える通信速度が求められる中で需要が急拡大。→ [光インターコネクト関連株](/posts/2026-04-06-light-interconnect-stocks/)
+AIデータセンター内のサーバー同士を光信号で高速接続する技術。電気配線の限界を超える通信速度が求められる中で需要が急拡大。→ [光インターコネクト関連株](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
 
 **データセンターREIT**
 AIサーバーを収容するデータセンターを保有・賃貸する不動産投資信託。Digital RealtyやEquinixが代表格。→ [Digital Realty・EquinixのデータセンターREIT](/posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide/)

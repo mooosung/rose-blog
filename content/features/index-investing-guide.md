@@ -18,9 +18,9 @@ categories: ["ETF・投資信託"]
 
 VOO・IVV・SPYの違い、そして等ウェイトのRSPやQQQとの使い分けまで、王道ETFを掘り下げますわ。
 
-- [S&P500 ETF徹底比較｜VOO・IVV・SPYどれを選ぶべきか【2026年版】](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)
+- [S&P500 ETF徹底比較｜VOO・IVV・SPYどれを選ぶべきか【2026年版】](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 - [VOO・IVV・SPY徹底比較｜S&P500 ETF2026年最強の選び方完全ガイド](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
-- [SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】](/posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026/)
+- [SPY vs VOO vs IVV｜S&P500 ETF三銘柄の違いを徹底解説【2026年最新版】](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 - [VOO vs QQQ 徹底比較2026年版｜S&P500とナスダック100、長期積立NISAはどちらが正解か](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
 - [等ウェイトS&P500 ETF「RSP」とは｜SPYとの違いと選び方【2026年最新版】](/posts/2026-07-31-rsp-equal-weight-sp500-etf-guide-2026/)
 

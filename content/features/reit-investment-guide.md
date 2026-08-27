@@ -18,8 +18,8 @@ REITは数万円から不動産オーナーになれる仕組みですけれど�
 
 まずはREITとは何か、J-REITと海外REITの違い、NISAでの活用法まで基本を押さえますわ。
 
-- [REIT（不動産投資信託）とは？J-REITの仕組み・選び方・NISAでの始め方【2026年版】](/posts/2026-03-22-reit-beginner-guide-alternative-investment/)
-- [REIT（不動産投資信託）入門｜少額から始める不動産投資の仕組みと始め方](/posts/2026-04-14-reit-investment-beginners-guide/)
+- [REIT（不動産投資信託）とは？J-REITの仕組み・選び方・NISAでの始め方【2026年版】](/posts/2026-05-06-reit-investment-guide-2026/)
+- [REIT（不動産投資信託）入門｜少額から始める不動産投資の仕組みと始め方](/posts/2026-05-06-reit-investment-guide-2026/)
 - [REIT（不動産投資信託）で始める不動産投資2026｜少額から不労所得を作る方法](/posts/2026-05-06-reit-investment-guide-2026/)
 
 ## 米国REIT ETFを比較する・テーマで狙う

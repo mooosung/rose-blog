@@ -3,7 +3,7 @@ title: "iDeCoで節税しながら老後資産を作る方法｜掛金上限・�
 date: 2026-04-24
 draft: false
 noindex: true
-canonical: "https://rozenmaier.com/posts/2026-05-24-ideco-complete-guide/"
+canonical: "https://rozenmaier.com/posts/ideco-30s-beginners-guide-tax-saving/"
 tags: ["iDeCo", "個人型確定拠出年金", "節税", "老後資金", "資産運用"]
 categories: ["投資戦略・資産運用"]
 description: "iDeCo（個人型確定拠出年金）の仕組み、税制メリット、運用商品の選び方、受け取り方まで2026年最新情報で徹底解説。新NISAとの併用戦略も紹介。"
@@ -12,7 +12,7 @@ featureimagecaption: ""
 ---
 
 {{< alert >}}
-この記事は最新版に統合されました。最新の情報は[iDeCo完全ガイド（最新版）](/posts/2026-05-24-ideco-complete-guide/)をご覧ください。
+この記事は最新版に統合されました。最新の情報は[iDeCo完全ガイド（最新版）](/posts/ideco-30s-beginners-guide-tax-saving/)をご覧ください。
 {{< /alert >}}
 
 老後資金の準備として、iDeCo（個人型確定拠出年金）はいま最も注目されている制度のひとつです。新NISAと並んで「絶対に使うべき非課税制度」として語られることが多いですが、「掛金をどう設定するのか」「どんな商品を選べばいいのか」と迷っている方も多いのではないでしょうか。
@@ -175,7 +175,7 @@ iDeCoは、拠出・運用・受取の3段階で税優遇が受けられる、�
 ## 関連記事
 
 - [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
-- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/2026-05-24-ideco-complete-guide/)
+- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [30代からのiDeCo完全ガイド｜節税シミュレーション・おすすめ商品・NISAとの併用戦略](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [株価暴落・急落時の投資戦略完全ガイド — パニック売りを避けて資産を守る方法](/posts/2026-04-09-market-crash-investment-strategy-guide/)
 

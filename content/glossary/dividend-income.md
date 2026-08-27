@@ -14,13 +14,13 @@ tags: ["用語集", "高配当ETF", "配当投資"]
 配当金生活に憧れる人は多いですけれど、まずは正しい用語から押さえておきましょう。高配当ETFとカバードコールETFは似て非なるものですのよ 🌹
 
 **配当利回り**
-株価に対して年間でどれだけ配当を受け取れるかを示す割合。SCHDやVYMなど高配当ETFを比較する際の基本指標。→ [SCHD完全ガイド](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+株価に対して年間でどれだけ配当を受け取れるかを示す割合。SCHDやVYMなど高配当ETFを比較する際の基本指標。→ [SCHD完全ガイド](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 **SCHD**
-米国の高配当・財務健全性重視のETF。配当成長力のある企業をスクリーニングして組み入れる設計で、高配当ETFの定番として人気。→ [SCHD完全ガイド](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+米国の高配当・財務健全性重視のETF。配当成長力のある企業をスクリーニングして組み入れる設計で、高配当ETFの定番として人気。→ [SCHD完全ガイド](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 **VYM**
-バンガード社の米国高配当株ETF。時価総額加重で幅広い高配当銘柄をカバーし、経費率の低さが特徴。→ [VYM完全ガイド](/posts/2026-03-28-vym-vanguard-high-dividend-etf-complete-guide/)
+バンガード社の米国高配当株ETF。時価総額加重で幅広い高配当銘柄をカバーし、経費率の低さが特徴。→ [VYM完全ガイド](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 **HDV・SPYD**
 HDVは財務健全性を重視した高配当ETF、SPYDはS&P500構成銘柄のうち利回り上位80銘柄を均等保有するETF。利回りの高さと安定性のバランスが異なる。→ [SPYD完全ガイド](/posts/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide/)
@@ -35,7 +35,7 @@ S&P500構成銘柄のうち25年以上連続増配した「配当貴族」銘柄
 利回りの高さより増配実績・増配余力を重視して銘柄を選ぶETF。景気後退時の減配リスクが相対的に低いとされる。→ [VIG vs DGRO配当成長ETF比較](/posts/2026-07-17-vig-vs-dgro-dividend-growth-etf-guide-2026/)
 
 **SCHD・DVY・SDY比較**
-高配当ETFの中でも異なる選定基準（財務健全性・利回り上位・連続増配年数）を持つ3銘柄の比較。→ [SCHD・DVY・SDY高配当ETF比較2026](/posts/2026-07-18-schd-dvy-sdy-dividend-etf-comparison-2026/)
+高配当ETFの中でも異なる選定基準（財務健全性・利回り上位・連続増配年数）を持つ3銘柄の比較。→ [SCHD・DVY・SDY高配当ETF比較2026](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 **配当成長株 vs 高利回り株**
 増配率を重視する銘柄と、現時点の利回りの高さを重視する銘柄のどちらを選ぶかという投資スタイルの比較。トータルリターンと安定性のトレードオフがある。→ [配当成長株 vs 高利回り株比較](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/)

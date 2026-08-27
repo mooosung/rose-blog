@@ -1,5 +1,6 @@
 ---
 title: "REIT（不動産投資信託）で始める不動産投資2026｜少額から不労所得を作る方法"
+aliases: ["/posts/2026-03-22-reit-beginner-guide-alternative-investment/", "/posts/2026-04-14-reit-investment-beginners-guide/"]
 date: 2026-05-06
 draft: false
 tags: ["REIT", "不動産投資", "不労所得", "投資信託", "資産運用", "配当投資", "NISA", "長期投資", "Jリート"]

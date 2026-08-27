@@ -192,4 +192,4 @@ DLC分野ではCoolIT Systems（現Ecolab傘下）、液浸冷却ではGreenRevo
 - [Vertiv - データセンター冷却・電源インフラ公式サイト](https://www.vertiv.com/)
 - [Schneider Electric - データセンター向けソリューション](https://www.se.com/jp/ja/work/solutions/for-business/it-and-data-centers/)
 - IDCの調査によると、データセンター向け液冷システム市場は2027年にかけて年率20%超の成長が見込まれており、空冷から液冷への移行加速が世界的なトレンドとなっています。
-- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-27-nvidia-vera-rubin/)

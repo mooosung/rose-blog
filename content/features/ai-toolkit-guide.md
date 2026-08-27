@@ -27,7 +27,7 @@ categories: ["AI活用術"]
 
 情報収集の速度と質は、そのままリサーチの深さに直結しますわ。引用付きで裏取りしやすいPerplexityや、複数ソースを自律的に調べてくれるDeep Researchが心強い味方になりますの。
 
-- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
 - [Perplexity×ChatGPT投資リサーチ術2026年版｜株式・ETF・NISA情報収集を10倍速にする実践プロンプト集](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
 - [Gemini Deep Researchで投資リサーチを10倍速にする実践活用術【2026年版】](/posts/2026-07-22-gemini-deep-research-investment-analysis-guide-2026/)
 - [AIライティングツール徹底比較【2026年版】｜ChatGPT・Claude・Geminiの使い分け完全ガイド](/posts/2026-03-25-ai-writing-tools-comparison-guide/)

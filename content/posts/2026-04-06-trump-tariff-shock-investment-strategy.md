@@ -166,8 +166,8 @@ featureimagecaption: ""
 ## 関連記事
 
 - [米国ETFコア・サテライト戦略｜VOO×QQQ×VYMの最適な組み合わせ方](/posts/2026-03-13-us-etf-core-satellite-strategy/)
-- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
-- [QQQ完全ガイド：ナスダック100に乗る米国ETFの仕組みと投資戦略](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [QQQ完全ガイド：ナスダック100に乗る米国ETFの仕組みと投資戦略](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 
 ---
 

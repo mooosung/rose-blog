@@ -1,5 +1,6 @@
 ---
 title: "XLK・VGT・QQQ比較2026｜経費率とリターンで選ぶ"
+aliases: ["/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/", "/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/"]
 date: 2026-07-10
 draft: false
 tags: ["ETF", "テクノロジー株", "XLK", "VGT", "QQQ", "米国株", "長期投資", "NISA", "AI株", "インデックス投資"]
@@ -170,9 +171,9 @@ AI時代の恩恵を最大限に受けるために、テクノロジーETFをポ
 
 ## 関連記事
 
-- [QQQ・VGT・XLK比較｜テクノロジーETFの違いと選び方完全ガイド【2026年版】](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
+- [QQQ・VGT・XLK比較｜テクノロジーETFの違いと選び方完全ガイド【2026年版】](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 - [VOO vs QQQ 徹底比較2026年版｜S&P500とナスダック100、長期積立NISAはどちらが正解か](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
-- [QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+- [QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 
 ---
 

@@ -150,5 +150,5 @@ S&P500の方がやや値動きが大きい。米国1カ国に集中している�
 ## 関連記事
 
 - [新NISAの成長投資枠を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
-- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
-- [S&P500 ETF 徹底比較：VOO・IVV・SPY どれを選ぶべきか【2026年版】](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)
+- [SCHDとは？米国高配当ETFの特徴・配当・VYMとの比較を徹底解説【2026年版】](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [S&P500 ETF 徹底比較：VOO・IVV・SPY どれを選ぶべきか【2026年版】](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)

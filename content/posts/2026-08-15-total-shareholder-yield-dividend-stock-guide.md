@@ -95,7 +95,7 @@ SYLDは配当だけでなく自社株買いと財務改善も評価するため�
 
 ### SCHDとの違い
 
-[SCHD（シュワブ米国配当株式ETF）](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)は配当の質と成長性を重視しますが、自社株買い利回りを直接的なスクリーニング基準にはしていません。
+[SCHD（シュワブ米国配当株式ETF）](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)は配当の質と成長性を重視しますが、自社株買い利回りを直接的なスクリーニング基準にはしていません。
 
 | 比較項目 | SYLD | SCHD |
 |---------|------|------|
@@ -155,7 +155,7 @@ Total Shareholder Yieldは、配当利回りだけでは見えない企業の株
 - 配当利回りに自社株買い利回りを加え、希薄化を引く
 - 日本の商社・銀行株は近年TSYが高い傾向
 - 米国テック株は配当が低くてもTSYで見ると高還元な銘柄が多い
-- ETFならSYLDがTSY特化、[SCHDは配当品質重視](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+- ETFならSYLDがTSY特化、[SCHDは配当品質重視](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - 自社株買いの持続性・財務健全性も必ず確認する
 
 配当利回りだけでなくTSYも活用することで、**本当に株主に報いる優良銘柄**を見極める精度が格段に上がります。ぜひ次のスクリーニングから取り入れてみてください。
@@ -163,7 +163,7 @@ Total Shareholder Yieldは、配当利回りだけでは見えない企業の株
 ---
 
 **関連記事:**
-- [SCHD完全ガイド](/posts/2026-03-27-schd-us-dividend-etf-complete-guide/)
+- [SCHD完全ガイド](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [VIG vs DGRO 配当成長ETF比較](/posts/2026-07-17-vig-vs-dgro-dividend-growth-etf-guide-2026/)
 - [配当利回りトラップの見分け方](/posts/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide/)
 - [高配当ETF SCHD・VYM・HDV比較](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)

@@ -1,5 +1,6 @@
 ---
 title: "債券ETF比較2026｜AGG・BND・TLTの違いと選び方"
+aliases: ["/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/"]
 date: 2026-06-26
 slug: 2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide
 categories: ["ETF・投資信託"]
@@ -173,9 +174,9 @@ AGG・BND・TLTの違いを振り返りますわ。
 ## 関連記事
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
-- [BND・AGG・TLT比較｜債券ETFで安定収益を得る方法と金利との関係【2026年版】](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+- [BND・AGG・TLT比較｜債券ETFで安定収益を得る方法と金利との関係【2026年版】](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 - [米国ETFコア・サテライト戦略とは？VOO×QQQ×VYMの最適な組み合わせ方を解説](/posts/2026-03-13-us-etf-core-satellite-strategy/)
-- [VWO・EEM・IEMG比較2026｜新興国ETFの違いと投資戦略を徹底解説](/posts/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/)
+- [VWO・EEM・IEMG比較2026｜新興国ETFの違いと投資戦略を徹底解説](/posts/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide/)
 
 ---
 

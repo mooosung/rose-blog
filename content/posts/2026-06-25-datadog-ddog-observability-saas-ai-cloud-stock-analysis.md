@@ -1,5 +1,6 @@
 ---
 title: "Datadog（DDOG）株 徹底分析2026年版｜AI・クラウド可観測性SaaSのNRR・LLM監視機能と投資判断"
+aliases: ["/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/"]
 date: 2026-06-25
 draft: false
 tags: ["Datadog", "DDOG", "AI SaaS", "米国株", "クラウド株", "可観測性", "オブザーバビリティ", "株式投資", "LLM", "長期投資"]
@@ -148,7 +149,7 @@ AIとクラウドが当たり前になる世界で、「誰がシステムを見
 
 ## 関連記事
 
-- [Datadog（DDOG）株徹底解説｜AIオブザーバビリティ時代のクラウド監視銘柄](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadog（DDOG）株徹底解説｜AIオブザーバビリティ時代のクラウド監視銘柄](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 - [CrowdStrike（CRWD）徹底分析【2026年版】｜AI×サイバーセキュリティ銘柄の成長性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
 - [Palantir（PLTR）徹底解説【2026年版】｜AI SaaSの本命銘柄の強みとリスクを分析](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/)
 

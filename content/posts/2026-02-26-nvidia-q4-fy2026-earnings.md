@@ -69,7 +69,7 @@ AI・半導体関連株として国内でも注目される銘柄群——電子
 ## 関連記事
 
 - [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)
-- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-27-nvidia-vera-rubin/)
 - [CrowdStrike（CRWD）徹底分析｜AI×サイバーセキュリティで成長する銘柄の将来性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
 
 ---

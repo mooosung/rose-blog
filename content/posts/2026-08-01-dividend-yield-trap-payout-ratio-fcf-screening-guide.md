@@ -120,7 +120,7 @@ categories: ["高配当株・配当再投資"]
 ## 関連記事
 
 - [連続増配株 vs 高配当株 徹底比較｜VIG vs VYMで10年後のトータルリターンと使い分け戦略](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/)
-- [SCHD・VIG・DVY 完全比較2026年版｜高配当ETFの違いとおすすめの選び方](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
+- [SCHD・VIG・DVY 完全比較2026年版｜高配当ETFの違いとおすすめの選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [500万円から始める配当生活シミュレーション｜10年・20年後の資産推移と段階的ロードマップ](/posts/2026-07-04-500man-dividend-life-portfolio-simulation/)
 
 ---

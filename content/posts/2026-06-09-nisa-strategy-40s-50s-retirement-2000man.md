@@ -12,7 +12,7 @@ featured: false
 
 「40代でNISAを始めるのは遅すぎる？」——そんなことはありませんわ 🌹
 
-> NISAとiDeCoの基本からおさらいしたい方は[iDeCo活用術2026｜節税額シミュレーション・おすすめ運用商品の選び方](/posts/2026-05-24-ideco-complete-guide/)と[SBI証券 vs 楽天証券 徹底比較](/posts/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison/)もあわせてどうぞ。
+> NISAとiDeCoの基本からおさらいしたい方は[iDeCo活用術2026｜節税額シミュレーション・おすすめ運用商品の選び方](/posts/ideco-30s-beginners-guide-tax-saving/)と[SBI証券 vs 楽天証券 徹底比較](/posts/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison/)もあわせてどうぞ。
 
 確かに20代・30代から始めるより期間は短い。でも新NISAの年間360万円という非課税枠を使いこなせば、40代・50代からでも老後資産形成は十分に間に合いますの。
 

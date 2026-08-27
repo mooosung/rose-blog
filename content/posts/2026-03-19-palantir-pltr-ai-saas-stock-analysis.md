@@ -103,7 +103,7 @@ Palantir Technologiesは、AI時代において**「AIモデルを実際の業�
 
 - [CrowdStrike（CRWD）徹底分析｜AI×サイバーセキュリティで成長する銘柄の将来性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
 - [ServiceNow（NOW）とは？AI時代の企業DXを支えるSaaS銘柄を徹底解説](/posts/2026-03-26-servicenow-now-ai-saas-stock-analysis/)
-- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 
 ---
 

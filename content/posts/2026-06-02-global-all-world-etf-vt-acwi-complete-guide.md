@@ -222,7 +222,7 @@ URTHは**先進国のみ**（MSCI World指数）に連動するETFだ。新興�
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [S&P500 ETF完全ガイド：VOO・IVV・SPY徹底比較](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)：米国市場への集中投資を検討する場合の定番3銘柄比較
-- [iDeCo完全ガイド：制度の仕組みから運用商品の選び方まで](/posts/2026-05-24-ideco-complete-guide/)：全世界株ファンドをiDeCoで活用する際の制度解説
+- [iDeCo完全ガイド：制度の仕組みから運用商品の選び方まで](/posts/ideco-30s-beginners-guide-tax-saving/)：全世界株ファンドをiDeCoで活用する際の制度解説
 - [高配当ETF完全ガイド：SCHD・VYM・HDV徹底比較](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)：インカムゲインを重視する場合の選択肢
 
 ---

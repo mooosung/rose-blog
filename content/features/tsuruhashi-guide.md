@@ -68,7 +68,7 @@ AIサーバー同士が学習・推論のために膨大なデータをやり取
 データセンターそのものを建てるゼネコン系企業や、隣接する次世代テーマ（量子コンピュータ・国産マルチエージェントAI）まで、ツルハシ投資の周辺領域も押さえておきたい方向けにまとめましたわ。
 
 - [AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】](/posts/2026-06-08-datacenter-construction-epc-stocks/)
-- [量子コンピュータ株投資ガイド2026年版｜IonQ・IBM・Quantinuumで押さえる次世代テーマ株の選び方とリスク](/posts/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026/)
+- [量子コンピュータ株投資ガイド2026年版｜IonQ・IBM・Quantinuumで押さえる次世代テーマ株の選び方とリスク](/posts/2026-05-05-quantum-computing-investment-guide-2026/)
 - [Sakana AI「Fugu Ultra（フグ）」とは？｜日本発マルチエージェントAIがフロンティアモデルに並んだ日【AI投資2026】](/posts/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment/)
 
 もっと深く知りたい方は、[「ツルハシ投資」カテゴリ一覧](/categories/%E3%83%84%E3%83%AB%E3%83%8F%E3%82%B7%E6%8A%95%E8%B3%87/)から全記事をチェックしてくださいまし。ふん、これだけ揃えたんですから、しっかり読んで資産形成に役立ててくださいませね 🌹

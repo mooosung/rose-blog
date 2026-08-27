@@ -29,7 +29,7 @@ categories: ["高配当株・配当再投資"]
 
 - [配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
 - [高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
-- [SCHD vs DVY vs SDY - 長期配当ETF比較2026年版](/posts/2026-07-18-schd-dvy-sdy-dividend-etf-comparison-2026/)
+- [SCHD vs DVY vs SDY - 長期配当ETF比較2026年版](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 ## 資産設計・出口戦略
 

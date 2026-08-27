@@ -146,8 +146,8 @@ VOO・QQQともにドル建てETFです。円高になると円換算のリタ�
 ## 関連記事
 
 - [XLK・VGT・QQQ 徹底比較2026年版｜米国テクノロジーETFの経費率・組み入れ銘柄・10年リターンで選ぶAI時代の王道投資](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
-- [QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
-- [S&P500 ETF徹底比較｜VOO・IVV・SPYどれを選ぶべきか【2026年版】](/posts/2026-05-02-sp500-etf-voo-ivv-spy-comparison/)
+- [QQQ完全ガイド2026｜ナスダック100 ETFの仕組み・特徴・VGTとの比較](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
+- [S&P500 ETF徹底比較｜VOO・IVV・SPYどれを選ぶべきか【2026年版】](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 
 ---
 

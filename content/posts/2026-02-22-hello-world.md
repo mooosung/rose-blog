@@ -23,4 +23,4 @@ featureimagecaption: ""
 
 - [SOXX・SMH完全ガイド｜AI時代の半導体ETFで丸ごと投資する方法【2026年版】](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
 - [Taalas HC1チップとは？AIをシリコンに焼き込む「Hardcore Model」革命を解説](/posts/2026-02-24-taalas-hc1-ai-chip/)
-- [NVIDIA Vera Rubin（次世代GPU）とは？Grace Blackwell比10倍効率の詳細解説](/posts/2026-02-26-nvidia-vera-rubin/)
+- [NVIDIA Vera Rubin（次世代GPU）とは？Grace Blackwell比10倍効率の詳細解説](/posts/2026-02-27-nvidia-vera-rubin/)

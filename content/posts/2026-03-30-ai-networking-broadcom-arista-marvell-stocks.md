@@ -179,7 +179,7 @@ NVIDIAやTSMCが「AIの花形」なら、Broadcom・Arista・Marvellは「AIの
 
 ## 関連記事
 
-- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadogとは？AIオブザーバビリティ時代のクラウド監視株「DDOG」を徹底解説](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 - [エヌビディア決算速報：AI覇者の成績表に市場が注目ですわ 🌹](/posts/2026-02-26-nvidia-q4-fy2026-earnings/)
 - [データセンター電力インフラとは？AI時代に急成長するUPS・電源関連銘柄を徹底解説🌹](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
 

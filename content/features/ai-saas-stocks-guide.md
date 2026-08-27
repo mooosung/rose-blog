@@ -37,7 +37,7 @@ AIブームの主役は半導体だけじゃありませんの。企業にAIを�
 
 AIシステムの「稼働状況を見張る」「守る」「配信を速くする」という裏方系の銘柄ですわ。地味に見えて、AI導入が進むほど必要とされる領域ですの。
 
-- [Datadog（DDOG）株徹底解説｜AIオブザーバビリティ時代のクラウド監視銘柄](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadog（DDOG）株徹底解説｜AIオブザーバビリティ時代のクラウド監視銘柄](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 - [Datadog（DDOG）株 徹底分析2026年版｜AI・クラウド可観測性SaaSのNRR・LLM監視機能と投資判断](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 - [CrowdStrike（CRWD）徹底分析【2026年版】｜AI×サイバーセキュリティ銘柄の成長性と買い方](/posts/2026-03-12-crowdstrike-crwd-ai-security-stock-analysis/)
 - [クラウドフレア（NET）：エッジAIインフラの覇者に投資する方法](/posts/2026-07-16-cloudflare-net-ai-edge-computing-stock-analysis/)

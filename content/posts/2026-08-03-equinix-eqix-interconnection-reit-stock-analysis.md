@@ -108,7 +108,7 @@ Equinixは「箱を貸す」だけのREITではなく、**AIが動くための�
 ## 関連記事
 
 - [Digital Realty（DLR）とEquinix（EQIX）で狙う「AIデータセンターREIT」2026年版](/posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide/)
-- [Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】](/posts/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis/)
+- [Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】](/posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide/)
 - [データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
 - [ツルハシ投資完全ガイド](/posts/2026-07-14-tsuruhashi-investment-complete-guide/)
 

@@ -1,5 +1,6 @@
 ---
 title: "量子コンピューティング株投資ガイド2026｜IBM・Google・IonQなど有望銘柄を徹底解説"
+aliases: ["/posts/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026/"]
 date: 2026-05-05
 draft: false
 tags: ["量子コンピュータ", "株式投資", "テクノロジー株", "IBM", "Google", "IonQ", "次世代テクノロジー", "ツルハシ投資", "長期投資"]

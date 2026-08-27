@@ -134,7 +134,7 @@ NotionAIだけでなく、外部AIとの組み合わせでさらに強力にな�
 
 ### ウォッチリストの定期更新
 
-> 関連記事：[Perplexity AIで投資リサーチを劇的に効率化する方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/) も参考にしてみてくださいませ。
+> 関連記事：[Perplexity AIで投資リサーチを劇的に効率化する方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/) も参考にしてみてくださいませ。
 
 週1回、Notionのウォッチリストを開いてChatGPTに聞くのですわ：
 
@@ -206,7 +206,7 @@ AIはその「続ける」ハードルを劇的に下げてくれる。2026年�
 
 ## 関連記事
 
-- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
 - [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
 - [Google NotebookLMで決算書を10分で読破するAI活用術2026年版｜SEC EDGAR・EDINET対応の個人投資家向けフロー](/posts/2026-07-01-notebooklm-financial-report-analysis-guide/)
 

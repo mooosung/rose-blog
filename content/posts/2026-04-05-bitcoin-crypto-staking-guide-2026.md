@@ -212,6 +212,6 @@ Lido（ETH）やMarinade（SOL）などのプロトコルを使うと、ステ�
 
 ## 関連記事
 
-- [金（ゴールド）ETF投資完全ガイド2026：インフレ・株安に強い安全資産の始め方](/posts/2026-04-06-gold-etf-investment-complete-guide/)
+- [金（ゴールド）ETF投資完全ガイド2026：インフレ・株安に強い安全資産の始め方](/posts/2026-07-26-gold-investment-gld-iau-gldm-guide-2026/)
 - [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)
 - [ゴールド（金）投資完全ガイド2026：種類・メリット・始め方を徹底解説](/posts/2026-04-22-gold-investment-complete-guide/)

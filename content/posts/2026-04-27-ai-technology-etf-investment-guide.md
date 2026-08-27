@@ -142,6 +142,6 @@ AI・テクノロジーETFは、長期的な成長期待が高い一方でリス
 ## 関連記事
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
-- [テクノロジーETF完全ガイド2026｜QQQ・VGT・XLKを徹底比較](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
+- [テクノロジーETF完全ガイド2026｜QQQ・VGT・XLKを徹底比較](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 - [新NISAの成長投資枠を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
 - [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)

@@ -189,7 +189,7 @@ Advanced Data Analysisを使えば、毎月のポートフォリオ管理が**�
 ## 関連記事
 
 - [Perplexity×ChatGPT投資リサーチ術2026年版｜株式・ETF・NISA情報収集を10倍速にする実践プロンプト集](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
-- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
 - [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
 
 ---

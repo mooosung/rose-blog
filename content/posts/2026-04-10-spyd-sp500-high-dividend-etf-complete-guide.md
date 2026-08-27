@@ -181,7 +181,7 @@ SPYDは**高い配当利回り・低コスト・均等加重**という三拍子
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [高配当ETF完全比較ガイド - SCHD・VYM・HDVの違いと選び方](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 - [JEPI・JEPQ完全ガイド｜毎月分配カバードコールETFで安定収入を得る方法](/posts/2026-06-01-jepi-jepq-covered-call-income-etf-complete-guide/)
-- [高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】](/posts/2026-06-03-dividend-etf-schd-vig-dvy-complete-guide/)
+- [高配当ETF完全ガイド｜SCHD・VIG・DVYの違いと選び方【2026年版】](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "NVIDIA Vera Rubin徹底解説｜前世代比10倍効率・AI半導体次世代覇者の全貌"
+aliases: ["/posts/2026-02-26-nvidia-vera-rubin/"]
 date: 2026-02-27
 draft: false
 tags: ["NVIDIA", "Vera Rubin", "Blackwell", "GPU", "AI半導体", "エヌビディア", "米国株", "データセンター", "長期投資"]
@@ -63,6 +64,6 @@ Nvidiaはいまなおデータセンター向けAIチップ市場のトップで
 
 ## 関連記事
 
-- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-27-nvidia-vera-rubin/)
 - [AIをハードウェアに「焼き込む」時代が来ましたわ 🌹 ― Taalas HC1チップが起こす革命](/posts/2026-02-24-taalas-hc1-ai-chip/)
 - [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)

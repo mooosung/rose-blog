@@ -1,5 +1,6 @@
 ---
 title: "金ETF比較 GLD・IAU・GLDMの違いと選び方2026"
+aliases: ["/posts/2026-05-14-gold-etf-investment-complete-guide/", "/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/", "/posts/2026-04-06-gold-etf-investment-complete-guide/"]
 date: 2026-07-26
 draft: false
 tags: ["ゴールド投資", "金ETF", "GLD", "IAU", "オルタナティブ投資", "インフレ対策"]
@@ -177,8 +178,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 ## 関連記事
 
 - [DBC・PDBC・GSG 徹底比較2026年版｜コモディティETFでインフレに強いポートフォリオを作る](/posts/2026-06-14-commodity-etf-dbc-pdbc-gsg-complete-guide/)
-- [REIT（不動産投資信託）とは？J-REITの仕組み・選び方・NISAでの始め方【2026年版】](/posts/2026-03-22-reit-beginner-guide-alternative-investment/)
-- [GLD・IAU・GLDM 徹底比較2026年版｜金ETFの選び方とインフレヘッジ投資タイミング](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/)
+- [REIT（不動産投資信託）とは？J-REITの仕組み・選び方・NISAでの始め方【2026年版】](/posts/2026-05-06-reit-investment-guide-2026/)
+- [GLD・IAU・GLDM 徹底比較2026年版｜金ETFの選び方とインフレヘッジ投資タイミング](/posts/2026-07-26-gold-investment-gld-iau-gldm-guide-2026/)
 
 ---
 

@@ -179,7 +179,7 @@ FY2026のGAAP純損失は▲$1.33B。SBCコストの抑制・効率化が中長�
 Snowflakeと同じAI SaaSカテゴリでは、他の有力銘柄も合わせて研究すると投資判断が深まる。
 
 - [Salesforce（CRM）AIエージェント戦略と投資価値徹底分析](/posts/2026-06-11-salesforce-crm-ai-saas-stock-analysis/)
-- [Datadog（DDOG）AI時代のオブザーバビリティ株を徹底分析](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+- [Datadog（DDOG）AI時代のオブザーバビリティ株を徹底分析](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 - [ServiceNow（NOW）AIワークフロー自動化の雄を徹底分析](/posts/2026-03-26-servicenow-now-ai-saas-stock-analysis/)
 
 ---

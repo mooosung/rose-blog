@@ -226,5 +226,5 @@ AIを「投資家の秘書」として使いこなすことで、**情報収集�
 
 投資リサーチをさらに効率化したい方はこちらもどうぞ：
 
-- [Perplexity AIとは？投資・株式情報収集に役立つAI検索の使い方](/posts/2026-06-10-perplexity-ai-investment-research-guide/) — AI検索ツールを使った最新情報収集術
+- [Perplexity AIとは？投資・株式情報収集に役立つAI検索の使い方](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/) — AI検索ツールを使った最新情報収集術
 - [AIフリーランス戦略2026：副業で月10万円稼ぐロードマップ](/posts/2026-06-07-ai-freelance-strategy-2026/) — AIスキルを副収入に変える実践ガイド

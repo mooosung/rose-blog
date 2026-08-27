@@ -206,4 +206,4 @@ A. ウェルスナビ等のロボアドバイザーは**自動でリバランス
 
 - [ETFと投資信託の違いを徹底比較：どちらを選ぶべきか完全ガイド](/posts/2026-05-11-etf-vs-toshin-comparison-guide/)
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
-- [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-04-14-reit-investment-beginners-guide/)
+- [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-05-06-reit-investment-guide-2026/)

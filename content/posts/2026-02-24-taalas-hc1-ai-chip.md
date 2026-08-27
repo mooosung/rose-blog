@@ -148,5 +148,5 @@ Taalasのような挑戦者が増えるほど、試作・量産の回数が増�
 
 - [NvidiaのVera Rubin、前世代比10倍の効率を実現！AI半導体の次世代覇者に迫りますわ 🌹](/posts/2026-02-27-nvidia-vera-rubin/)
 - [日経平均61,500円目標！2026年の日本株とAI相場をわたくしが解説しますわ 🌹📈](/posts/2026-02-23-japan-stocks-ai-2026-outlook/)
-- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-27-nvidia-vera-rubin/)
 

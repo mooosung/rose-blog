@@ -1,5 +1,6 @@
 ---
 title: "XLV・VHT比較｜ヘルスケアETFで医療株に安定投資2026"
+aliases: ["/posts/2026-06-04-healthcare-etf-xlv-vht-ibb-complete-guide/"]
 date: 2026-05-12
 draft: false
 tags: ["ETF", "ヘルスケア", "XLV", "VHT", "米国株", "投資", "セクター投資", "ディフェンシブ株", "NISA", "長期投資"]
@@ -243,7 +244,7 @@ AI・半導体ブームに乗るのも大切ですが、「ポートフォリオ
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [金融セクターETF完全ガイド：XLF・VFH・IYFを徹底比較【2026年版】](/posts/2026-05-29-financial-sector-etf-xlf-vfh-iyf-complete-guide/)
-- [新興国株式ETFで世界の成長を取り込む方法【VWO・EEM完全ガイド2026】](/posts/2026-05-01-emerging-markets-etf-vwo-eem-complete-guide/)
+- [新興国株式ETFで世界の成長を取り込む方法【VWO・EEM完全ガイド2026】](/posts/2026-05-22-emerging-markets-etf-vwo-eem-iemg-complete-guide/)
 - [サイバーセキュリティETF完全ガイド2026──HACK・CIBR・BUGを徹底比較](/posts/2026-05-15-cybersecurity-etf-hack-cibr-bug-complete-guide/)
 
 ---

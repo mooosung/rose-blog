@@ -158,7 +158,7 @@ featureimagecaption: ""
 
 - [新NISAの成長投資枠とは？使い方・おすすめ商品・つみたて投資枠との違いを徹底解説](/posts/2026-03-24-shin-nisa-growth-investment-guide/)
 - [「ドルコスト平均法」完全ガイド2026：積立投資で資産を着実に増やす方法](/posts/2026-05-09-dollar-cost-averaging-complete-guide/)
-- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/2026-05-24-ideco-complete-guide/)
+- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/ideco-30s-beginners-guide-tax-saving/)
 
 ---
 

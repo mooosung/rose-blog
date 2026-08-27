@@ -173,7 +173,7 @@ A. 毎月発行されますが、申込期間が月初〜月中旬に限定さ�
 
 - [インデックスファンドとアクティブファンドの違いと選び方ガイド](/posts/2026-04-17-index-fund-vs-active-fund-guide/)
 - [米国債ETF「TLT・IEF・SHY」完全ガイド｜株式暴落時に資産を守る方法](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
-- [債券ETF完全ガイド2026 - BND・AGG・TLTで安定収益を得る方法](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+- [債券ETF完全ガイド2026 - BND・AGG・TLTで安定収益を得る方法](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 
 ---
 

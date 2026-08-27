@@ -158,7 +158,7 @@ SHYは元本保全に近い性質を持ちますが、株式の暴落時に大�
 ## 関連記事
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
-- [債券ETF完全ガイド2026 - BND・AGG・TLTで安定収益を得る方法](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+- [債券ETF完全ガイド2026 - BND・AGG・TLTで安定収益を得る方法](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 - [インフレ連動債ETF（TIP・VTIP）完全ガイド：インフレから資産を守る投資戦略](/posts/2026-05-07-tips-inflation-protected-bonds-etf-complete-guide/)
 - [半導体ETF「SOXX・SMH」完全ガイド｜AI時代の主役セクターに丸ごと投資する方法](/posts/2026-04-08-semiconductor-etf-soxx-smh-guide/)
 

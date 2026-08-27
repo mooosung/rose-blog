@@ -1,5 +1,6 @@
 ---
 title: "光インターコネクト・光モジュール株徹底解説｜Coherent・Ciena・Lumentum【AI半導体】"
+aliases: ["/posts/2026-04-06-light-interconnect-stocks/"]
 date: 2026-04-06
 draft: false
 tags: ["光インターコネクト", "光モジュール", "半導体", "AI", "データセンター", "Coherent", "Ciena", "Lumentum", "ツルハシ投資", "米国株"]
@@ -184,8 +185,8 @@ NVIDIA・AMD などの AI チップメーカーと異なり、光インターコ
 
 ## 関連記事
 
-- [「光インターコネクト・光モジュール株」徹底解説｜AIインフラを支えるツルハシ銘柄](/posts/2026-04-06-light-interconnect-stocks/)
-- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-26-nvidia-vera-rubin/)
+- [「光インターコネクト・光モジュール株」徹底解説｜AIインフラを支えるツルハシ銘柄](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
+- [NvidiaのVera Rubin、ついにお披露目ですわ！Grace Blackwellの10倍効率とは 🌹](/posts/2026-02-27-nvidia-vera-rubin/)
 - [HBM（高帯域幅メモリ）とは？AI半導体を支える最重要メモリ技術と注目銘柄【ツルハシ株・投資解説】🌹](/posts/2026-03-09-hbm-high-bandwidth-memory-ai-infrastructure-stocks/)
 
 ---

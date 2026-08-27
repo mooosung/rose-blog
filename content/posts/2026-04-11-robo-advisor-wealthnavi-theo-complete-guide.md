@@ -125,5 +125,5 @@ AIが運用しても市場リスクはなくなりません。「ロボアドに
 ## 関連記事
 
 - [ポートフォリオのリバランスとは？時期・方法・税金を徹底解説【2026年版】](/posts/2026-04-12-portfolio-rebalancing-complete-guide/)
-- [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-04-14-reit-investment-beginners-guide/)
+- [REIT（不動産投資信託）入門ガイド：少額から始める不動産投資の全知識](/posts/2026-05-06-reit-investment-guide-2026/)
 - [企業型DC（確定拠出年金）完全ガイド：会社員が知るべき老後資産の作り方](/posts/2026-04-21-corporate-dc-defined-contribution-guide/)

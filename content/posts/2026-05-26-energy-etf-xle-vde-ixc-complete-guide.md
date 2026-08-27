@@ -243,7 +243,7 @@ XLEとの価格差はほぼないが、中小型も含む分散効果を享受�
 
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [半導体ETF（SOXX・SMH・SOXQ）完全ガイド](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)：AI時代の恩恵を受ける半導体セクターへの投資方法
-- [QQQ・NASDAQ100 ETF完全ガイド](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)：テクノロジー大型株に集中投資するNASDAQ100連動ETFの詳細解説
+- [QQQ・NASDAQ100 ETF完全ガイド](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)：テクノロジー大型株に集中投資するNASDAQ100連動ETFの詳細解説
 
 ---
 

@@ -178,7 +178,7 @@ AWS・Azure・Google Cloud、それぞれのクラウド部門の売上成長率
 
 これらを組み合わせることで、**機関投資家並みのリサーチフローを個人でも構築できます。**
 
-たとえば、Perplexity AIで最新ニュースを収集するフローについては [Perplexity AIで投資リサーチを効率化する方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/) で詳しく解説しています。また、Claudeを活用した投資記録の自動化については [Claude投資秘書で証券口座管理を自動化する](/posts/2026-06-17-claude-investment-secretary-automation/) も参考にしてみてください。
+たとえば、Perplexity AIで最新ニュースを収集するフローについては [Perplexity AIで投資リサーチを効率化する方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/) で詳しく解説しています。また、Claudeを活用した投資記録の自動化については [Claude投資秘書で証券口座管理を自動化する](/posts/2026-06-17-claude-investment-secretary-automation/) も参考にしてみてください。
 
 ---
 
@@ -196,7 +196,7 @@ AIツールは使った人だけが恩恵を受けます。ぜひ次の決算シ
 
 ## 関連記事
 
-- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-06-10-perplexity-ai-investment-research-guide/)
+- [Perplexity AI 投資活用ガイド2026年版｜株式・ETF情報収集をChatGPTより速く引用付きで行う方法](/posts/2026-07-08-perplexity-chatgpt-investment-research-guide-2026/)
 - [Claude・ChatGPTで作る「投資家の秘書」2026年版｜銘柄ウォッチ・決算サマリー自動化の実践術](/posts/2026-06-17-claude-investment-secretary-automation/)
 - [NotionAIで作る投資日記・ポートフォリオ管理術2026年版｜売買記録の自動整理から感情ログ分析まで](/posts/2026-06-24-notionai-investment-journal-productivity-guide/)
 

@@ -1,5 +1,6 @@
 ---
 title: "Digital Realty（DLR）とEquinix（EQIX）で狙う「AIデータセンターREIT」2026年版"
+aliases: ["/posts/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis/"]
 date: 2026-08-03
 draft: false
 tags: ["ツルハシ投資", "AIインフラ株", "REIT", "Digital Realty", "Equinix", "データセンター"]
@@ -148,7 +149,7 @@ CEOが「We were built for this moment（この瞬間のために作られた会
 ## 関連記事
 
 - [Equinix（EQIX）とは？決算後14%急騰の相互接続REITを徹底解説【2026年版】](/posts/2026-08-03-equinix-eqix-interconnection-reit-stock-analysis/)
-- [Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】](/posts/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis/)
+- [Digital Realty（DLR）とは？769メガワットの開発パイプラインを誇るデータセンターREITを徹底解説【2026年版】](/posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide/)
 - [データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
 - [Vertiv（VRT）とEaton（ETN）で狙う「AIの電力需要」受益株 2026年版](/posts/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks/)
 - [ツルハシ投資完全ガイド](/posts/2026-07-14-tsuruhashi-investment-complete-guide/)

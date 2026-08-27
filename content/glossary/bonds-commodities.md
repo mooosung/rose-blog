@@ -17,7 +17,7 @@ tags: ["用語集", "債券", "コモディティ"]
 米国国債に投資するETF。TLTは長期債、IEFは中期債、SHYは短期債と、残存期間によって金利変動への感応度（デュレーション）が大きく異なる。→ [TLT・IEF・SHY米国債ETF完全ガイド](/posts/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide/)
 
 **債券ETF（BND・AGG・TLT）**
-米国の投資適格債券市場全体（BND・AGG）や長期国債（TLT）に投資するETF。株式との逆相関を期待して分散目的で保有されることが多い。→ [BND・AGG・TLT債券ETF完全ガイド](/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/)
+米国の投資適格債券市場全体（BND・AGG）や長期国債（TLT）に投資するETF。株式との逆相関を期待して分散目的で保有されることが多い。→ [BND・AGG・TLT債券ETF完全ガイド](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 
 **債券ETFポートフォリオ設計**
 AGG・BND・TLTなど複数の債券ETFをデュレーションや信用度別に組み合わせ、金利リスクと安定性のバランスを取る設計手法。→ [AGG・BND・TLT債券ポートフォリオガイド](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
@@ -32,7 +32,7 @@ AGG・BND・TLTなど複数の債券ETFをデュレーションや信用度別�
 金（ゴールド）は株式や債券と相関が低く、インフレ・地政学リスクのヘッジとして保有されることが多い実物資産。現物・地金・ETFなど複数の保有方法がある。→ [金投資完全ガイド](/posts/2026-04-22-gold-investment-complete-guide/)
 
 **金ETF（GLD・IAU・GLDM）**
-金価格に連動するETF。現物の金地金や金貨を保有せずに、証券口座から手軽に金へ投資できる。経費率や1株あたりの金保有量に違いがある。→ [GLD・IAU・GLDM金ETF完全ガイド](/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/)
+金価格に連動するETF。現物の金地金や金貨を保有せずに、証券口座から手軽に金へ投資できる。経費率や1株あたりの金保有量に違いがある。→ [GLD・IAU・GLDM金ETF完全ガイド](/posts/2026-07-26-gold-investment-gld-iau-gldm-guide-2026/)
 
 **コモディティETF**
 原油・穀物・金属など実物資産の値動きに連動するETF。インフレ局面での分散先として使われる。→ [コモディティETF完全ガイド](/posts/2026-06-14-commodity-etf-dbc-pdbc-gsg-complete-guide/)

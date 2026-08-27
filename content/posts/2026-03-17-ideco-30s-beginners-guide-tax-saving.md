@@ -1,10 +1,11 @@
 ---
 title: "30代からのiDeCo完全ガイド【2026年版】｜節税シミュレーション・商品選び・NISAとの使い分け"
+aliases: ["/posts/2026-05-24-ideco-complete-guide/"]
 date: 2026-03-17
 draft: false
 slug: "ideco-30s-beginners-guide-tax-saving"
 noindex: true
-canonical: "https://rozenmaier.com/posts/2026-05-24-ideco-complete-guide/"
+canonical: "https://rozenmaier.com/posts/ideco-30s-beginners-guide-tax-saving/"
 description: "30代のiDeCo完全ガイド。節税額シミュレーション、掛金上限、そして一番知りたい「30代のポートフォリオ配分例」を3タイプ提示。年代別の株式比率の落とし方、NISAとの使い分け、転職時の注意点までまとめました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-17-ideco-30s-beginners-guide-tax-saving.jpg"
 featureimagecaption: ""
@@ -13,7 +14,7 @@ categories: ["NISA・iDeCo"]
 ---
 
 {{< alert >}}
-この記事は最新版に統合されました。最新の情報は[iDeCo完全ガイド（最新版）](/posts/2026-05-24-ideco-complete-guide/)をご覧ください。
+この記事は最新版に統合されました。最新の情報は[iDeCo完全ガイド（最新版）](/posts/ideco-30s-beginners-guide-tax-saving/)をご覧ください。
 {{< /alert >}}
 
 ## 30代こそiDeCoを始めるべき「3つの理由」
@@ -403,7 +404,7 @@ iDeCoは**始めた瞬間から節税が始まる**制度です。1年先延ば�
 ## 関連記事
 
 - [新NISA・iDeCo完全攻略特集｜制度活用から出口戦略まで](/features/nisa-ideco-guide/)
-- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/2026-05-24-ideco-complete-guide/)
+- [iDeCo完全ガイド2026：節税メリット・掛金上限・おすすめ運用商品を徹底解説](/posts/ideco-30s-beginners-guide-tax-saving/)
 - [NISAで始めるAI株投資入門：初心者が知っておくべき5つのポイント 🌹📈](/posts/2026-02-28-nisa-ai-stocks-beginners-guide/)
 - [「ドルコスト平均法」完全ガイド2026：積立投資で資産を着実に増やす方法](/posts/2026-05-09-dollar-cost-averaging-complete-guide/)
 

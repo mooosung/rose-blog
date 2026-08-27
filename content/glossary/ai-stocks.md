@@ -20,7 +20,7 @@ AI企業が顧客企業に常駐・伴走してAI導入を進める職種。Pala
 人間の指示を待たずにAIが自律的にタスクを実行・連携し合う経済圏の構想。→ [AIエージェント経済への投資](/posts/2026-05-04-ai-agent-economy-investment-guide/)
 
 **AIオブザーバビリティ**
-AIシステムやクラウドインフラの稼働状況をリアルタイムで監視・分析する仕組み。DatadogやMongoDBなどが提供。→ [Datadogとは？](/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/)
+AIシステムやクラウドインフラの稼働状況をリアルタイムで監視・分析する仕組み。DatadogやMongoDBなどが提供。→ [Datadogとは？](/posts/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis/)
 
 ---
 

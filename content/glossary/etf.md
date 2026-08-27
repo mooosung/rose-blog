@@ -33,10 +33,10 @@ ETFや投資信託を保有する際に毎年かかるコスト。年率で表�
 米国大型株500銘柄に集中投資するS&P500型と、先進国・新興国まで含む全世界株型のどちらを選ぶかという定番の比較論点。→ [S&P500 vs オール・カントリー完全比較](/posts/2026-03-20-sp500-vs-all-country-world-index-comparison/)
 
 **VOO・IVV・SPY**
-いずれもS&P500に連動するETF。経費率や出来高、設定形態（ETF/ユニット型）に細かな違いがある。→ [SPY・VOO・IVV徹底比較2026年版](/posts/2026-07-24-spy-voo-ivv-sp500-etf-comparison-2026/)
+いずれもS&P500に連動するETF。経費率や出来高、設定形態（ETF/ユニット型）に細かな違いがある。→ [SPY・VOO・IVV徹底比較2026年版](/posts/2026-05-23-sp500-etf-voo-ivv-spy-complete-guide/)
 
 **QQQ（ナスダック100ETF）**
-ナスダック上場の非金融大型株100銘柄に投資するETF。ハイテク・グロース株の比率が高い。→ [QQQ・ナスダック100ETF完全ガイド](/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/)
+ナスダック上場の非金融大型株100銘柄に投資するETF。ハイテク・グロース株の比率が高い。→ [QQQ・ナスダック100ETF完全ガイド](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 
 **VOO vs QQQ**
 S&P500型（VOO）とナスダック100型（QQQ）のどちらを長期の中核に据えるかという比較。値動きの大きさとセクター偏りが判断材料。→ [VOO vs QQQ長期投資比較](/posts/2026-07-03-voo-vs-qqq-sp500-nasdaq100-longterm-investment/)
@@ -62,13 +62,13 @@ VTIは米国株式市場全体（大型〜小型株）に投資する全米株�
 ## セクターETF
 
 **テクノロジーETF（QQQ・VGT・XLK）**
-ハイテクセクターに集中投資するETF群。構成銘柄の重なりや経費率、時価総額加重の違いを比較する必要がある。→ [QQQ・VGT・XLKテクノロジーETF完全ガイド](/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/)
+ハイテクセクターに集中投資するETF群。構成銘柄の重なりや経費率、時価総額加重の違いを比較する必要がある。→ [QQQ・VGT・XLKテクノロジーETF完全ガイド](/posts/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026/)
 
 **半導体ETF（SOXX・SMH・SOXQ）**
 半導体セクターに投資するETFの代表格。AI需要の恩恵を最も受けやすいセクターの一つ。→ [SOXX・SMH・SOXQ比較完全ガイド](/posts/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide/)
 
 **ヘルスケアETF（XLV・VHT・IBB）**
-医薬品・医療機器・バイオテクノロジー企業に投資するETF。景気に左右されにくいディフェンシブセクターとして知られる。→ [XLV・VHT・IBBヘルスケアETF完全ガイド](/posts/2026-06-04-healthcare-etf-xlv-vht-ibb-complete-guide/)
+医薬品・医療機器・バイオテクノロジー企業に投資するETF。景気に左右されにくいディフェンシブセクターとして知られる。→ [XLV・VHT・IBBヘルスケアETF完全ガイド](/posts/2026-05-12-healthcare-etf-xlv-vht-complete-guide/)
 
 **エネルギーセクターETF（XLE・VDE・IXC）**
 石油・ガスなどエネルギー関連企業に投資するETF。原油価格の動向と連動しやすい。→ [XLE・VDE・IXCエネルギーETF完全ガイド](/posts/2026-05-26-energy-etf-xle-vde-ixc-complete-guide/)
@@ -92,7 +92,7 @@ VTIは米国株式市場全体（大型〜小型株）に投資する全米株�
 太陽光・風力など再生可能エネルギー関連企業に投資するETF。政策動向に業績が左右されやすい。→ [ICLN・QCLNクリーンエネルギーETF完全ガイド](/posts/2026-05-17-clean-energy-etf-icln-qcln-complete-guide/)
 
 **ロボティクス・オートメーションETF（BOTZ・ROBT・ARKQ）**
-産業用ロボットや自動化技術に関連する企業に投資するテーマ型ETF。工場の人手不足解消需要を背景に注目される。→ [BOTZ・ROBT・ARKQロボティクスETF完全ガイド](/posts/2026-05-30-ai-robotics-etf-botz-robt-arkq-complete-guide/)
+産業用ロボットや自動化技術に関連する企業に投資するテーマ型ETF。工場の人手不足解消需要を背景に注目される。→ [BOTZ・ROBT・ARKQロボティクスETF完全ガイド](/posts/2026-05-08-robotics-automation-etf-complete-guide/)
 
 **AI関連テクノロジーETF**
 AIの開発・活用に関わる企業を幅広く組み入れたテーマ型ETF。半導体だけでなくソフトウェア企業も含む点がSOXXなどと異なる。→ [AI関連ETF投資完全ガイド](/posts/2026-04-27-ai-technology-etf-investment-guide/)

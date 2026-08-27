@@ -103,7 +103,7 @@ GPUは1枚では働きませんの。数千枚を高速でつなぐ必要があ�
 **電線・光ファイバー** —— フジクラ・住友電工・古河電工。物理的にケーブルを敷く層ですわ。
 
 - [光ネットワーク株2026年版｜Coherent・Lumentum・Fabrinet](/posts/2026-07-13-optical-networking-ai-datacenter-stocks/)
-- [光インターコネクト・光モジュール株｜AIインフラのツルハシ銘柄3選](/posts/2026-04-06-light-interconnect-stocks/)
+- [光インターコネクト・光モジュール株｜AIインフラのツルハシ銘柄3選](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
 - [電線株フジクラ・住友電工・古河電工｜AI需要で伸びる3銘柄](/posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter/)
 
 ## ⑦ 冷やす：熱がボトルネックになった
