@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2026-08-29-mitsubishi-corp-8058-dividend-analysis",
+    "title": "三菱商事の配当は買いか？利回り2.6%でも配当投資家が手放さない3つの理由【2026年8月最新】",
+    "date": "2026-08-29",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-29-mitsubishi-corp-8058-dividend-analysis.jpg"
+  },
+  {
+    "path": "posts/2026-08-27-ai-semiconductor-stocks-map",
+    "title": "AI半導体の銘柄マップ2026｜供給網10層で総ざらい",
+    "date": "2026-08-27",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-27-ai-semiconductor-stocks-map.jpg"
+  },
+  {
     "path": "posts/2026-08-27-intuit-intu-ai-saas-stock-analysis",
     "title": "Intuit（INTU）株分析2026｜売上14%増・EPS20%増でも株価は1年で半値、AI SaaSに何が起きたのか",
     "date": "2026-08-27",
@@ -22,17 +34,5 @@
     "title": "AIデータセンターの水ツルハシ投資2026｜Xylemが1年で21%下げ栗田工業が55%上げた理由",
     "date": "2026-08-24",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita.jpg"
-  },
-  {
-    "path": "posts/2026-08-23-managed-futures-etf-dbmf-kmlm-cta-guide",
-    "title": "マネージドフューチャーズETF徹底比較2026｜DBMF・KMLM・CTAは本当に暴落の保険になるのか",
-    "date": "2026-08-23",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-23-managed-futures-etf-dbmf-kmlm-cta-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide",
-    "title": "コストの複利｜信託報酬0.1%の差が30年で数十万円を溶かす仕組みと実質コストの読み方",
-    "date": "2026-08-22",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide.jpg"
   }
 ]
