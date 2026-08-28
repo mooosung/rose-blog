@@ -51,6 +51,7 @@
           {{ if eq .Section "posts" }}
             {{ partial "glossary-link.html" . }}
             {{ partial "affiliate-cta.html" . }}
+            {{ partial "note-cta.html" . }}
             {{ partial "disclaimer.html" . }}
           {{ end }}
           {{ $defaultReplyByEmail := site.Params.replyByEmail }}
