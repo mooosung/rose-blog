@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-08-31-fujikura-5803-stock-analysis",
+    "title": "フジクラ（5803）株価が高値から3割安の理由｜営業利益率26%の決算を読む",
+    "date": "2026-08-31",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-31-fujikura-5803-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-08-29-mitsubishi-corp-8058-dividend-analysis",
     "title": "三菱商事の配当は買いか？利回り2.6%でも配当投資家が手放さない3つの理由【2026年8月最新】",
     "date": "2026-08-29",
@@ -28,11 +34,5 @@
     "title": "NISAの金融機関変更は9月30日が分岐点｜今年分か来年分かで手続きが変わる落とし穴",
     "date": "2026-08-25",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-25-nisa-financial-institution-change-september-deadline-guide.jpg"
-  },
-  {
-    "path": "posts/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita",
-    "title": "AIデータセンターの水ツルハシ投資2026｜Xylemが1年で21%下げ栗田工業が55%上げた理由",
-    "date": "2026-08-24",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita.jpg"
   }
 ]
