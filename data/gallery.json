@@ -1,7 +1,7 @@
 {
  "updated": "2026-08-31",
- "count": 12,
- "daily": 11,
+ "count": 16,
+ "daily": 15,
  "work": 1,
  "items": [
   {
@@ -64,6 +64,42 @@
    "full": "/img/gallery/ai-datacenter-power-bill-who-pays-2026-08-24.webp",
    "caption": "窓辺で植物を水やり",
    "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-08-24"
+  },
+  {
+   "slug": "reward-sample-a",
+   "thumb": "/img/gallery/reward-sample-a_thumb.webp",
+   "full": "/img/gallery/reward-sample-a.webp",
+   "caption": "あたたかい缶で一息",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-08-24"
+  },
+  {
+   "slug": "reward-sample-b",
+   "thumb": "/img/gallery/reward-sample-b_thumb.webp",
+   "full": "/img/gallery/reward-sample-b.webp",
+   "caption": "雨の日のティータイム",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-08-24"
+  },
+  {
+   "slug": "test-shifuku-a",
+   "thumb": "/img/gallery/test-shifuku-a_thumb.webp",
+   "full": "/img/gallery/test-shifuku-a.webp",
+   "caption": "手作りケーキに大喜び",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-08-24"
+  },
+  {
+   "slug": "test-shifuku-b",
+   "thumb": "/img/gallery/test-shifuku-b_thumb.webp",
+   "full": "/img/gallery/test-shifuku-b.webp",
+   "caption": "桜を活ける",
+   "outfit": "私服",
    "kind": "日常",
    "date": "2026-08-24"
   },

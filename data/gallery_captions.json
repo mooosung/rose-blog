@@ -335,12 +335,12 @@
   "outfit": "メイド服"
  },
  "reward-sample-a": {
-  "caption": "自販機の前で悩む",
+  "caption": "あたたかい缶で一息",
   "kind": "日常",
-  "outfit": "その他"
+  "outfit": "メイド服"
  },
  "reward-sample-b": {
-  "caption": "雨の中のティータイム",
+  "caption": "雨の日のティータイム",
   "kind": "日常",
   "outfit": "メイド服"
  },
@@ -390,12 +390,12 @@
   "outfit": "メイド服"
  },
  "test-shifuku-a": {
-  "caption": "ケーキを囲む",
+  "caption": "手作りケーキに大喜び",
   "kind": "日常",
   "outfit": "私服"
  },
  "test-shifuku-b": {
-  "caption": "花を生ける",
+  "caption": "桜を活ける",
   "kind": "日常",
   "outfit": "私服"
  },
