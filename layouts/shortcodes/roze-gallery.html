@@ -1,0 +1,159 @@
+{{- /*
+  ローゼの写真集グリッド（2026-08-31）
+
+  data/gallery.json（scripts/build_gallery.py が生成）を読んで並べる。
+  画像は static/img/gallery/ に置いた WebP。サムネは450px、拡大は1024px。
+
+  テーマ(Blowfish)のgalleryショートコードは <img> をベタ書きする前提で、
+  89枚を手で書く運用にはできないのでこちらを用意した。
+*/ -}}
+{{- $g := site.Data.gallery -}}
+{{- with $g -}}
+<div class="roze-gallery" data-count="{{ .count }}">
+  <div class="rg-filter">
+    <button type="button" class="rg-chip is-on" data-filter="all">ぜんぶ（{{ .count }}）</button>
+    <button type="button" class="rg-chip" data-filter="日常">日常（{{ .daily }}）</button>
+    <button type="button" class="rg-chip" data-filter="お仕事">お仕事（{{ .work }}）</button>
+  </div>
+
+  <div class="rg-grid">
+    {{- range $i, $it := .items }}
+    <figure class="rg-item" data-kind="{{ $it.kind }}" data-index="{{ $i }}">
+      <button type="button" class="rg-open" data-full="{{ $it.full }}"
+              data-caption="{{ $it.caption }}" data-date="{{ $it.date }}"
+              aria-label="{{ $it.caption }}を拡大する">
+        <img src="{{ $it.thumb }}" alt="ローゼ：{{ $it.caption }}"
+             width="450" height="450" loading="lazy" decoding="async">
+      </button>
+      <figcaption>
+        <span class="rg-cap">{{ $it.caption }}</span>
+        <span class="rg-meta">{{ $it.date }}{{ if eq $it.outfit "私服" }}・私服{{ end }}</span>
+      </figcaption>
+    </figure>
+    {{- end }}
+  </div>
+
+  <p class="rg-note">最終更新 {{ .updated }}・全{{ .count }}枚</p>
+
+  <div class="rg-lightbox" hidden>
+    <button type="button" class="rg-close" aria-label="閉じる">×</button>
+    <button type="button" class="rg-prev" aria-label="前へ">‹</button>
+    <img class="rg-lb-img" src="" alt="">
+    <button type="button" class="rg-next" aria-label="次へ">›</button>
+    <p class="rg-lb-cap"></p>
+  </div>
+</div>
+
+<style>
+.roze-gallery .rg-filter{display:flex;gap:.5rem;flex-wrap:wrap;margin:0 0 1.25rem}
+.roze-gallery .rg-chip{border:1px solid currentColor;border-radius:9999px;
+  padding:.25rem .9rem;font-size:.85rem;line-height:1.6;opacity:.6;cursor:pointer;
+  background:transparent}
+.roze-gallery .rg-chip.is-on{opacity:1;font-weight:700}
+.roze-gallery .rg-grid{display:grid;gap:.75rem;
+  grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+.roze-gallery .rg-item{margin:0}
+.roze-gallery .rg-item[hidden]{display:none}
+.roze-gallery .rg-open{display:block;width:100%;padding:0;border:0;background:none;
+  cursor:zoom-in;border-radius:.6rem;overflow:hidden;line-height:0}
+.roze-gallery .rg-open img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;
+  border-radius:.6rem;transition:transform .25s ease}
+.roze-gallery .rg-open:hover img{transform:scale(1.05)}
+.roze-gallery figcaption{margin-top:.35rem;font-size:.78rem;line-height:1.4}
+.roze-gallery .rg-cap{display:block;font-weight:600}
+.roze-gallery .rg-meta{display:block;opacity:.6;font-size:.72rem}
+.roze-gallery .rg-note{margin-top:1.5rem;font-size:.8rem;opacity:.6;text-align:right}
+.roze-gallery .rg-lightbox{position:fixed;inset:0;z-index:9999;display:flex;
+  align-items:center;justify-content:center;background:rgba(0,0,0,.88);padding:1rem}
+.roze-gallery .rg-lightbox[hidden]{display:none}
+.roze-gallery .rg-lb-img{max-width:min(90vw,900px);max-height:82vh;
+  border-radius:.6rem;object-fit:contain}
+.roze-gallery .rg-lb-cap{position:absolute;bottom:1.2rem;left:0;right:0;
+  text-align:center;color:#fff;font-size:.9rem;margin:0}
+.roze-gallery .rg-close,.roze-gallery .rg-prev,.roze-gallery .rg-next{
+  position:absolute;background:none;border:0;color:#fff;cursor:pointer;
+  font-size:2.5rem;line-height:1;padding:.5rem 1rem;opacity:.75}
+.roze-gallery .rg-close:hover,.roze-gallery .rg-prev:hover,
+.roze-gallery .rg-next:hover{opacity:1}
+.roze-gallery .rg-close{top:.5rem;right:.5rem;font-size:2rem}
+.roze-gallery .rg-prev{left:0}
+.roze-gallery .rg-next{right:0}
+@media (max-width:480px){
+  .roze-gallery .rg-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}
+}
+</style>
+
+<script>
+(function () {
+  var root = document.currentScript.closest('.roze-gallery')
+    || document.querySelector('.roze-gallery');
+  if (!root) return;
+  var items = Array.prototype.slice.call(root.querySelectorAll('.rg-item'));
+  var box = root.querySelector('.rg-lightbox');
+  var img = root.querySelector('.rg-lb-img');
+  var cap = root.querySelector('.rg-lb-cap');
+  var cur = 0;
+
+  // 絞り込んだ状態で「次へ」を押したとき、隠れている画像へ飛ばないようにする
+  function visible() {
+    return items.filter(function (el) { return !el.hidden; });
+  }
+  function show(i) {
+    var list = visible();
+    if (!list.length) return;
+    cur = (i + list.length) % list.length;
+    var btn = list[cur].querySelector('.rg-open');
+    img.src = btn.dataset.full;
+    img.alt = 'ローゼ：' + btn.dataset.caption;
+    cap.textContent = btn.dataset.caption + '　' + btn.dataset.date;
+    box.hidden = false;
+    document.body.style.overflow = 'hidden';
+  }
+  function close() {
+    box.hidden = true;
+    img.src = '';
+    document.body.style.overflow = '';
+  }
+
+  root.querySelectorAll('.rg-open').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      show(visible().indexOf(btn.closest('.rg-item')));
+    });
+  });
+  root.querySelector('.rg-close').addEventListener('click', close);
+  root.querySelector('.rg-prev').addEventListener('click', function () { show(cur - 1); });
+  root.querySelector('.rg-next').addEventListener('click', function () { show(cur + 1); });
+  box.addEventListener('click', function (e) { if (e.target === box) close(); });
+  // スマホでは左右の矢印が小さくて押しにくいので、スワイプでも送れるようにする
+  var touchX = null;
+  box.addEventListener('touchstart', function (e) {
+    touchX = e.changedTouches[0].clientX;
+  }, { passive: true });
+  box.addEventListener('touchend', function (e) {
+    if (touchX === null) return;
+    var dx = e.changedTouches[0].clientX - touchX;
+    touchX = null;
+    if (Math.abs(dx) > 40) show(dx < 0 ? cur + 1 : cur - 1);
+  }, { passive: true });
+
+  document.addEventListener('keydown', function (e) {
+    if (box.hidden) return;
+    if (e.key === 'Escape') close();
+    if (e.key === 'ArrowLeft') show(cur - 1);
+    if (e.key === 'ArrowRight') show(cur + 1);
+  });
+
+  root.querySelectorAll('.rg-chip').forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      var f = chip.dataset.filter;
+      root.querySelectorAll('.rg-chip').forEach(function (c) {
+        c.classList.toggle('is-on', c === chip);
+      });
+      items.forEach(function (el) {
+        el.hidden = (f !== 'all' && el.dataset.kind !== f);
+      });
+    });
+  });
+})();
+</script>
+{{- end -}}

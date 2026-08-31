@@ -14,6 +14,11 @@
   weight = 15
 
 [[main]]
+  name = "🌹 写真集"
+  pageRef = "gallery"
+  weight = 18
+
+[[main]]
   name = "タグ"
   pageRef = "tags"
   weight = 20
