@@ -10,12 +10,6 @@
 {{- $g := site.Data.gallery -}}
 {{- with $g -}}
 <div class="roze-gallery" data-count="{{ .count }}">
-  <div class="rg-filter">
-    <button type="button" class="rg-chip is-on" data-filter="all">ぜんぶ（{{ .count }}）</button>
-    <button type="button" class="rg-chip" data-filter="日常">日常（{{ .daily }}）</button>
-    <button type="button" class="rg-chip" data-filter="お仕事">お仕事（{{ .work }}）</button>
-  </div>
-
   <div class="rg-grid">
     {{- range $i, $it := .items }}
     <figure class="rg-item" data-kind="{{ $it.kind }}" data-index="{{ $i }}">
@@ -23,7 +17,7 @@
               data-caption="{{ $it.caption }}" data-date="{{ $it.date }}"
               aria-label="{{ $it.caption }}を拡大する">
         <img src="{{ $it.thumb }}" alt="ローゼ：{{ $it.caption }}"
-             width="450" height="450" loading="lazy" decoding="async">
+             width="900" height="900" loading="lazy" decoding="async">
       </button>
       <figcaption>
         <span class="rg-cap">{{ $it.caption }}</span>
@@ -45,13 +39,8 @@
 </div>
 
 <style>
-.roze-gallery .rg-filter{display:flex;gap:.5rem;flex-wrap:wrap;margin:0 0 1.25rem}
-.roze-gallery .rg-chip{border:1px solid currentColor;border-radius:9999px;
-  padding:.25rem .9rem;font-size:.85rem;line-height:1.6;opacity:.6;cursor:pointer;
-  background:transparent}
-.roze-gallery .rg-chip.is-on{opacity:1;font-weight:700}
-.roze-gallery .rg-grid{display:grid;gap:.75rem;
-  grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+.roze-gallery .rg-grid{display:grid;gap:1rem;
+  grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
 .roze-gallery .rg-item{margin:0}
 .roze-gallery .rg-item[hidden]{display:none}
 .roze-gallery .rg-open{display:block;width:100%;padding:0;border:0;background:none;
@@ -59,14 +48,14 @@
 .roze-gallery .rg-open img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;
   border-radius:.6rem;transition:transform .25s ease}
 .roze-gallery .rg-open:hover img{transform:scale(1.05)}
-.roze-gallery figcaption{margin-top:.35rem;font-size:.78rem;line-height:1.4}
+.roze-gallery figcaption{margin-top:.45rem;font-size:.9rem;line-height:1.4}
 .roze-gallery .rg-cap{display:block;font-weight:600}
-.roze-gallery .rg-meta{display:block;opacity:.6;font-size:.72rem}
+.roze-gallery .rg-meta{display:block;opacity:.6;font-size:.8rem}
 .roze-gallery .rg-note{margin-top:1.5rem;font-size:.8rem;opacity:.6;text-align:right}
 .roze-gallery .rg-lightbox{position:fixed;inset:0;z-index:9999;display:flex;
   align-items:center;justify-content:center;background:rgba(0,0,0,.88);padding:1rem}
 .roze-gallery .rg-lightbox[hidden]{display:none}
-.roze-gallery .rg-lb-img{max-width:min(90vw,900px);max-height:82vh;
+.roze-gallery .rg-lb-img{max-width:min(92vw,1024px);max-height:82vh;
   border-radius:.6rem;object-fit:contain}
 .roze-gallery .rg-lb-cap{position:absolute;bottom:1.2rem;left:0;right:0;
   text-align:center;color:#fff;font-size:.9rem;margin:0}
@@ -78,8 +67,9 @@
 .roze-gallery .rg-close{top:.5rem;right:.5rem;font-size:2rem}
 .roze-gallery .rg-prev{left:0}
 .roze-gallery .rg-next{right:0}
-@media (max-width:480px){
-  .roze-gallery .rg-grid{grid-template-columns:repeat(auto-fill,minmax(120px,1fr))}
+/* 幅の狭い端末では1列にして、画面幅いっぱいに見せる */
+@media (max-width:560px){
+  .roze-gallery .rg-grid{grid-template-columns:1fr}
 }
 </style>
 
@@ -143,17 +133,6 @@
     if (e.key === 'ArrowRight') show(cur + 1);
   });
 
-  root.querySelectorAll('.rg-chip').forEach(function (chip) {
-    chip.addEventListener('click', function () {
-      var f = chip.dataset.filter;
-      root.querySelectorAll('.rg-chip').forEach(function (c) {
-        c.classList.toggle('is-on', c === chip);
-      });
-      items.forEach(function (el) {
-        el.hidden = (f !== 'all' && el.dataset.kind !== f);
-      });
-    });
-  });
 })();
 </script>
 {{- end -}}
