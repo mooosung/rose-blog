@@ -2,7 +2,7 @@
   ローゼの写真集グリッド（2026-08-31）
 
   data/gallery.json（scripts/build_gallery.py が生成）を読んで並べる。
-  画像は static/img/gallery/ に置いた WebP。サムネは450px、拡大は1024px。
+  画像は static/img/gallery/ に置いた WebP。サムネは900px、拡大は1024px。
 
   テーマ(Blowfish)のgalleryショートコードは <img> をベタ書きする前提で、
   89枚を手で書く運用にはできないのでこちらを用意した。
@@ -39,8 +39,10 @@
 </div>
 
 <style>
-.roze-gallery .rg-grid{display:grid;gap:1rem;
-  grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+/* モバイル2列・PC3列に固定する。auto-fillだと広い画面で4列以上になって
+   1枚が小さくなりすぎていた（2026-08-31 修正） */
+.roze-gallery .rg-grid{display:grid;gap:.6rem;
+  grid-template-columns:repeat(2,minmax(0,1fr))}
 .roze-gallery .rg-item{margin:0}
 .roze-gallery .rg-item[hidden]{display:none}
 .roze-gallery .rg-open{display:block;width:100%;padding:0;border:0;background:none;
@@ -67,9 +69,13 @@
 .roze-gallery .rg-close{top:.5rem;right:.5rem;font-size:2rem}
 .roze-gallery .rg-prev{left:0}
 .roze-gallery .rg-next{right:0}
-/* 幅の狭い端末では1列にして、画面幅いっぱいに見せる */
-@media (max-width:560px){
-  .roze-gallery .rg-grid{grid-template-columns:1fr}
+@media (min-width:768px){
+  .roze-gallery .rg-grid{gap:1rem;grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+/* 2列だとキャプションが窮屈なので、モバイルだけ一段小さくする */
+@media (max-width:767px){
+  .roze-gallery figcaption{font-size:.8rem}
+  .roze-gallery .rg-meta{font-size:.72rem}
 }
 </style>
 
