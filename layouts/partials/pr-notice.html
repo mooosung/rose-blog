@@ -1,0 +1,7 @@
+{{/* ステマ規制対応のPR表記 — 記事本文を読む前に見える位置に出す。
+     アフィリエイトCTA(partials/affiliate-cta.html)を出す記事だけに表示する。 */}}
+{{ if and (eq .Section "posts") (not .Params.noAffiliate) }}
+<p class="not-prose m-0 mb-4 text-xs text-neutral-500 dark:text-neutral-400 print:hidden">
+  ＜PR＞本ページはプロモーションが含まれています。アフィリエイトプログラムによる収益を得ています。
+</p>
+{{ end }}

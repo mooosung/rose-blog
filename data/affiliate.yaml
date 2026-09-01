@@ -6,12 +6,21 @@
 # ⚠️ 旧実装にあった enabled: フラグはテンプレートから参照されておらず死に設定だった。
 #    2026-08-25 に affiliate: へ置き換え、partials/affiliate-cta.html で実際に分岐させている。
 #
-# 提携状況（2026-08-25 TGアフィリエイト管理画面で実地確認）
+# 提携状況
+# ■ TGアフィリエイト（2026-08-31 提携管理タブで実地確認）
 #   松井証券   MID 6012 … 提携中。口座開設申込 926円/件（定額）、再訪問90日、本人NG、リスティング不可
 #   松井iDeCo  MID 6478 … 提携中。運営管理手数料0円・投信残高ポイント最大1%が訴求点
-#   SBI証券    MID 1025 … 未提携（再申請中）
-#   楽天証券   MID  738 … 未提携（再申請中）
-#   マネックス          … TCSアフィリエイトのみ。TGでは取り扱いなし
+#   楽天証券   MID  738 … 提携申請中（2026-08-21申請）
+#   SBI証券    MID 1025 … 一覧から消滅。却下された可能性が高い
+# ■ アクセストレード（2026-09-01 提携管理タブで実地確認）
+#   DMM 株     MID 840498 … 提携中。アカウント登録 4,000円/件（定額）、本人利用OK
+#   SBI証券    MID  38299 … 提携申請中（総合口座。資料請求 300円/件）
+#   マネックス MID 349213 … 提携申請中（3,000円/件）
+#   ※楽天証券はアクセストレードに存在しない
+#
+# ⚠️ アクセストレードのリンクコードは「改変禁止」（パートナー利用規約 第15条）。
+#    クリック用URL(cc?rk=)と1x1の計測ビーコン(rr?rk=)はセットで出すこと。
+#    beacon: を書いておくと partials/affiliate-cta.html がアンカー内に1x1 imgを描画する。
 brokers:
   - id: matsui
     name: "松井証券"
@@ -29,6 +38,24 @@ brokers:
       # iDeCoのみ別MID(6478)。松井証券iDeCoの計測リンク
       ideco: "https://ad2.trafficgate.net/t/r/28/6478/318938_398637"
     url: "https://ad2.trafficgate.net/t/r/99/6012/318938_398637"
+  - id: dmm
+    name: "DMM 株"
+    catch: "米国株の取引手数料が0ドル〜"
+    points:
+      - "米国株の取引手数料は0ドル〜・国内信用取引も0円"
+      - "1つのアプリで国内株から米国株まで取引できる"
+      - "新NISAにも対応・取引手数料の1%がポイント還元"
+    affiliate: true
+    # アクセストレード（MID 840498）テキストリンク素材 1053075「DMM 株」
+    # 素材が1本しかないため、文脈キー(us_stock/nisa/toshin/ideco)はすべて同じrkを指す
+    links:
+      us_stock: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
+      nisa: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
+      toshin: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
+      ideco: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
+    # 改変禁止のため計測ビーコンもリンクコードのとおりに出す
+    beacon: "https://h.accesstrade.net/sp/rr?rk=0100mkk300oy5v"
+    url: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
   - id: sbi
     name: "SBI証券"
     catch: "国内最大手・手数料ゼロ革命"

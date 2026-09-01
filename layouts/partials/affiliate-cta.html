@@ -27,7 +27,7 @@
   <p class="m-0 mb-1 text-xs text-neutral-500 dark:text-neutral-400">PR・広告を含みます</p>
   <h2 class="m-0 mb-2 text-xl font-bold text-neutral-900 dark:text-neutral">{{ $aff.cta.default_heading }}</h2>
   <p class="m-0 mb-5 text-sm leading-relaxed text-neutral-700 dark:text-neutral-300">{{ $aff.cta.default_lead }}</p>
-  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
     {{ range $aff.brokers }}
     {{/* 提携済みなら文脈に応じた計測リンク、未提携なら公式サイトへ */}}
     {{ $href := .url }}
@@ -41,14 +41,15 @@
       <ul class="m-0 mb-4 ps-4 text-xs leading-relaxed text-neutral-600 dark:text-neutral-400 list-disc">
         {{ range .points }}<li>{{ . }}</li>{{ end }}
       </ul>
-      <a href="{{ $href }}" target="_blank" rel="{{ $rel }}"
+      {{/* アクセストレードはリンクコードの改変が禁止のため、1x1の計測ビーコンもアンカー内に出す */}}
+      <a href="{{ $href }}" target="_blank" rel="{{ $rel }}" referrerpolicy="no-referrer-when-downgrade"
          class="mt-auto block rounded-md bg-primary-600 px-4 py-2 text-center text-sm font-bold text-white no-underline hover:bg-primary-700">
-        {{ .name }}の口座を見る
+        {{ .name }}の口座を見る{{ with .beacon }}<img src="{{ . }}" width="1" height="1" border="0" alt="" loading="eager">{{ end }}
       </a>
     </div>
     {{ end }}
   </div>
-  <p class="m-0 mt-4 text-xs text-neutral-500 dark:text-neutral-400">※ 口座開設・維持はいずれも無料です。手数料やサービス内容は変更される場合がありますので、最新情報は各社公式サイトでご確認くださいませ。</p>
+  <p class="m-0 mt-4 text-xs text-neutral-500 dark:text-neutral-400">※ 口座開設・維持はいずれも無料です。手数料やサービス内容は変更される場合がありますので、最新情報は各社公式サイトでご確認くださいませ。<br>※ 株式・投資信託等の取引には価格変動リスク・為替変動リスクがあり、元本割れが生じるおそれがあります。手数料やリスクの詳細は各社の契約締結前交付書面をご確認ください。</p>
 </aside>
 {{ end }}
 {{ end }}
