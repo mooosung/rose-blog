@@ -45,9 +45,12 @@
       {{ end }}
 
 
-      <div class="min-w-0 min-h-0 max-w-fit">
+      {{/* wideContent: true のページは本文を max-w-prose(65ch) で絞らず、
+           コンテナ幅いっぱいまで使う。写真集のようにグリッドを敷くページ用。
+           地の文が間延びしないよう、幅を戻すCSSは各ページ側で当てる。 */}}
+      <div class="min-w-0 min-h-0 {{ if .Params.wideContent }}w-full{{ else }}max-w-fit{{ end }}">
         {{ partial "series/series.html" . }}
-        <div class="article-content max-w-prose mb-20">
+        <div class="article-content {{ if .Params.wideContent }}w-full max-w-full{{ else }}max-w-prose{{ end }} mb-20">
           {{ .Content }}
           {{ if eq .Section "posts" }}
             {{ partial "glossary-link.html" . }}

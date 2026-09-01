@@ -11,6 +11,8 @@ showTableOfContents: false
 showPagination: false
 showWordCount: false
 showComments: false
+# 写真集はグリッドなので本文をコンテナ幅いっぱいまで広げる（layouts/_default/single.html）
+wideContent: true
 ---
 
 noteの記事を1本書き終えるたび、自分へのご褒美として1枚ずつ描きためてきたものですの。
