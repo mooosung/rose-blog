@@ -16,7 +16,10 @@
       <button type="button" class="rg-open" data-full="{{ $it.full }}"
               data-caption="{{ $it.caption }}" data-date="{{ $it.date }}"
               aria-label="{{ $it.caption }}を拡大する">
-        <img src="{{ $it.thumb }}" alt="ローゼ：{{ $it.caption }}"
+        {{- /* nozoom 必須。テーマのfooterが img:not(.nozoom) 全部に medium-zoom を
+               付けるので、外すと自前のライトボックスと二重に開いて、閉じても
+               medium-zoom側が拡大したまま残る（2026-09-02 修正） */ -}}
+        <img class="nozoom" src="{{ $it.thumb }}" alt="ローゼ：{{ $it.caption }}"
              width="900" height="900" loading="lazy" decoding="async">
       </button>
       <figcaption>
@@ -32,7 +35,7 @@
   <div class="rg-lightbox" hidden>
     <button type="button" class="rg-close" aria-label="閉じる">×</button>
     <button type="button" class="rg-prev" aria-label="前へ">‹</button>
-    <img class="rg-lb-img" src="" alt="">
+    <img class="rg-lb-img nozoom" src="" alt="">
     <button type="button" class="rg-next" aria-label="次へ">›</button>
     <p class="rg-lb-cap"></p>
   </div>
@@ -67,8 +70,10 @@
 .roze-gallery .rg-lightbox[hidden]{display:none}
 .roze-gallery .rg-lb-img{max-width:min(92vw,1024px);max-height:82vh;
   border-radius:.6rem;object-fit:contain}
+/* 画面下いっぱいに伸びる帯なので、そのままだと「画像の外」のクリックを
+   吸ってしまって閉じられない。クリックは透過させる（2026-09-02 修正） */
 .roze-gallery .rg-lb-cap{position:absolute;bottom:1.2rem;left:0;right:0;
-  text-align:center;color:#fff;font-size:.9rem;margin:0}
+  text-align:center;color:#fff;font-size:.9rem;margin:0;pointer-events:none}
 .roze-gallery .rg-close,.roze-gallery .rg-prev,.roze-gallery .rg-next{
   position:absolute;background:none;border:0;color:#fff;cursor:pointer;
   font-size:2.5rem;line-height:1;padding:.5rem 1rem;opacity:.75}
@@ -127,7 +132,11 @@
   root.querySelector('.rg-close').addEventListener('click', close);
   root.querySelector('.rg-prev').addEventListener('click', function () { show(cur - 1); });
   root.querySelector('.rg-next').addEventListener('click', function () { show(cur + 1); });
-  box.addEventListener('click', function (e) { if (e.target === box) close(); });
+  // 「画像の外」はどこを押しても1回で閉じる。e.target===box だけで判定すると
+  // キャプションや矢印の余白を踏んだときに閉じられなかった（2026-09-02 修正）
+  box.addEventListener('click', function (e) {
+    if (!e.target.closest('.rg-lb-img, .rg-close, .rg-prev, .rg-next')) close();
+  });
   // スマホでは左右の矢印が小さくて押しにくいので、スワイプでも送れるようにする
   var touchX = null;
   box.addEventListener('touchstart', function (e) {
