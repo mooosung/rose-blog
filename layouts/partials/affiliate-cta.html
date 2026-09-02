@@ -35,6 +35,10 @@
       {{ with index .links $key }}{{ $href = . }}{{ end }}
     {{ end }}
     {{ $rel := cond .affiliate "nofollow sponsored noopener" "nofollow noopener" }}
+    {{/* 計測ビーコン。松井証券のように文脈ごとにrkが違う場合は beacons: を使う。
+         DMM株のように素材が1本しかない場合は従来どおり beacon: の単一値。 */}}
+    {{ $beacon := .beacon }}
+    {{ with .beacons }}{{ with index . $key }}{{ $beacon = . }}{{ end }}{{ end }}
     <div class="rounded-lg bg-white dark:bg-neutral-900 p-4 border border-neutral-200 dark:border-neutral-700 flex flex-col">
       <p class="m-0 text-base font-bold text-neutral-900 dark:text-neutral">{{ .name }}</p>
       <p class="m-0 mt-1 mb-3 text-xs text-primary-600 dark:text-primary-400">{{ .catch }}</p>
@@ -44,7 +48,7 @@
       {{/* アクセストレードはリンクコードの改変が禁止のため、1x1の計測ビーコンもアンカー内に出す */}}
       <a href="{{ $href }}" target="_blank" rel="{{ $rel }}" referrerpolicy="no-referrer-when-downgrade"
          class="mt-auto block rounded-md bg-primary-600 px-4 py-2 text-center text-sm font-bold text-white no-underline hover:bg-primary-700">
-        {{ .name }}の口座を見る{{ with .beacon }}<img src="{{ . }}" width="1" height="1" border="0" alt="" loading="eager">{{ end }}
+        {{ .name }}の口座を見る{{ with $beacon }}<img src="{{ . }}" width="1" height="1" border="0" alt="" loading="eager">{{ end }}
       </a>
     </div>
     {{ end }}

@@ -7,16 +7,23 @@
 #    2026-08-25 に affiliate: へ置き換え、partials/affiliate-cta.html で実際に分岐させている。
 #
 # 提携状況
-# ■ TGアフィリエイト（2026-08-31 提携管理タブで実地確認）
-#   松井証券   MID 6012 … 提携中。口座開設申込 926円/件（定額）、再訪問90日、本人NG、リスティング不可
-#   松井iDeCo  MID 6478 … 提携中。運営管理手数料0円・投信残高ポイント最大1%が訴求点
-#   楽天証券   MID  738 … 提携申請中（2026-08-21申請）
-#   SBI証券    MID 1025 … 一覧から消滅。却下された可能性が高い
-# ■ アクセストレード（2026-09-01 提携管理タブで実地確認）
+# ■ アクセストレード（2026-09-02 提携管理タブで実地確認）
+#   松井証券   MID  38376 … 提携中。口座開設申込 1,000円/件（定額）、本人NG、リスティングNG
+#                            CVR 2.50% / EPC 353.68円 / 承認率 89.84%
+#   松井iDeCo  MID 841709 … 提携中。口座開設申込 500円/件
 #   DMM 株     MID 840498 … 提携中。アカウント登録 4,000円/件（定額）、本人利用OK
-#   SBI証券    MID  38299 … 提携申請中（総合口座。資料請求 300円/件）
-#   マネックス MID 349213 … 提携申請中（3,000円/件）
+#   申請中8件・却下0件 … SBI証券38299 / マネックス349213 / 三菱UFJ eスマート952022 /
+#                        岩井コスモ683969 / ひふみ329571 / マネックスiDeCo818105 /
+#                        SBIネオトレード303045 / イデコSBI758866
 #   ※楽天証券はアクセストレードに存在しない
+# ■ TGアフィリエイト（2026-08-31 提携管理タブで実地確認）
+#   松井証券   MID 6012 … 提携中。口座開設申込 926円/件、再訪問90日
+#                          ⚠️ 2026-09-02にアクセストレード(38376/1,000円)へ乗り換え済み。
+#                             TGは振込先口座が未登録で報酬を受け取れないのが決め手。
+#                             口座を登録したら単価とCookie期間(90日)で再評価すること。
+#   松井iDeCo  MID 6478 … 提携中。同上の理由でAT(841709)へ移設済み
+#   楽天証券   MID  738 … 提携申請中（2026-08-21申請）。通ったらTG側の口座登録が必須
+#   SBI証券    MID 1025 … 一覧から消滅。却下された可能性が高い
 #
 # ⚠️ アクセストレードのリンクコードは「改変禁止」（パートナー利用規約 第15条）。
 #    クリック用URL(cc?rk=)と1x1の計測ビーコン(rr?rk=)はセットで出すこと。
@@ -30,14 +37,23 @@ brokers:
       - "25歳以下は日本株の取引手数料が0円"
       - "投信残高ポイントは最大年1%還元・iDeCoの運営管理手数料も0円"
     affiliate: true
-    # 記事の文脈で出し分ける計測リンク（TGアフィリエイト MID 6012）
+    # 記事の文脈で出し分ける計測リンク（アクセストレード MID 38376）
+    # 2026-09-02 TGアフィリエイト(MID 6012 / ¥926)から乗り換え。
+    # 成果条件は同じ「広告主新規の口座開設申込」でATが¥1,000。
+    # 決め手はTG側の振込先口座が未登録で報酬を受け取れないこと。
     links:
-      us_stock: "https://ad2.trafficgate.net/t/r/99/6012/318938_398637"
-      nisa: "https://ad2.trafficgate.net/t/r/94/6012/318938_398637"
-      toshin: "https://ad2.trafficgate.net/t/r/60/6012/318938_398637"
-      # iDeCoのみ別MID(6478)。松井証券iDeCoの計測リンク
-      ideco: "https://ad2.trafficgate.net/t/r/28/6478/318938_398637"
-    url: "https://ad2.trafficgate.net/t/r/99/6012/318938_398637"
+      us_stock: "https://h.accesstrade.net/sp/cc?rk=0100p10300oy5v"
+      nisa: "https://h.accesstrade.net/sp/cc?rk=0100osr400oy5v"
+      toshin: "https://h.accesstrade.net/sp/cc?rk=0100n0al00oy5v"
+      # iDeCoのみ別プログラム(841709)。松井証券iDeCoの計測リンク
+      ideco: "https://h.accesstrade.net/sp/cc?rk=0100p7ck00oy5v"
+    # 改変禁止のため、クリックURLと対になる1x1ビーコンも文脈ごとに出す
+    beacons:
+      us_stock: "https://h.accesstrade.net/sp/rr?rk=0100p10300oy5v"
+      nisa: "https://h.accesstrade.net/sp/rr?rk=0100osr400oy5v"
+      toshin: "https://h.accesstrade.net/sp/rr?rk=0100n0al00oy5v"
+      ideco: "https://h.accesstrade.net/sp/rr?rk=0100p7ck00oy5v"
+    url: "https://h.accesstrade.net/sp/cc?rk=0100p10300oy5v"
   - id: dmm
     name: "DMM 株"
     catch: "米国株の取引手数料が0ドル〜"
