@@ -1,5 +1,17 @@
 [
   {
+    "path": "posts/2026-09-03-oracle-orcl-rpo-credit-downgrade-stock-analysis",
+    "title": "オラクル（ORCL）株価が高値から半値になった理由｜受注残6,380億ドルとBBB-格下げを5つの数字で読む",
+    "date": "2026-09-03",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-03-oracle-orcl-rpo-credit-downgrade-stock-analysis.jpg"
+  },
+  {
+    "path": "posts/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc",
+    "title": "Anthropic「EFS」徹底解説｜監視ログを自社クラウドに置くBYOC型AI",
+    "date": "2026-09-02",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc.jpg"
+  },
+  {
     "path": "posts/2026-08-31-fujikura-5803-stock-analysis",
     "title": "フジクラ（5803）株価が高値から3割安の理由｜営業利益率26%の決算を読む",
     "date": "2026-08-31",
@@ -22,17 +34,5 @@
     "title": "Intuit（INTU）株分析2026｜売上14%増・EPS20%増でも株価は1年で半値、AI SaaSに何が起きたのか",
     "date": "2026-08-27",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-27-intuit-intu-ai-saas-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing",
-    "title": "AIに「悪魔の代弁者」をやらせる投資プロンプト術｜買う前に自分の判断を論破させる7つの型",
-    "date": "2026-08-26",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing.jpg"
-  },
-  {
-    "path": "posts/2026-08-25-nisa-financial-institution-change-september-deadline-guide",
-    "title": "NISAの金融機関変更は9月30日が分岐点｜今年分か来年分かで手続きが変わる落とし穴",
-    "date": "2026-08-25",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-25-nisa-financial-institution-change-september-deadline-guide.jpg"
   }
 ]
