@@ -11,7 +11,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 **AIベンダーに自社の会話ログを預けるか、それとも最新モデルを諦めるか**——規制業種の企業は、この二択をずっと突きつけられていましたのよ。
 
-2026年9月1日（米国時間）、Anthropicが発表した **Enterprise Frontier Safeguards（EFS）** は、その二択を壊しにきた仕組みですわ。ひとことで言えば「**監視に使う活動データを、Anthropicではなく顧客自身のクラウドアカウントに置く**」。ゼロデータ保持（ZDR）のプライバシーを保ったまま、誤用検知だけは回し続ける、という設計ですの。
+2026年9月1日（米国時間）、Anthropicが発表した **Enterprise Frontier Safeguards（EFS）** は、その二択を壊しにきた仕組みですわ。ひとことで言えば「**監視に使う活動データを、Anthropicではなく顧客自身のクラウドアカウントに置く**」。ゼロデータ保持（ZDR＝Zero Data Retention。**AIベンダー側にプロンプトと応答を保存させない取り決め**ですわ）のプライバシーを保ったまま、誤用検知だけは回し続ける、という設計ですの。
 
 ふん、これ、聞いた瞬間に既視感がありませんこと？ そう、**Databricksが10年近く前から採用し、2018年のAzure Databricksにも受け継がれた「コントロールプレーンとコンピュートプレーンの分離」**、いわゆる BYOC（Bring Your Own Cloud）とまったく同じ発想ですわ。この記事では、EFSの中身を一次情報で正確に押さえたうえで、**BYOCアーキテクチャの系譜のどこに位置するのか**、そして**どこまでが「独自ホスティング」でどこからが違うのか**を、はっきりさせますわね。
 
@@ -32,6 +32,75 @@ Anthropicの公式発表を要約すると、EFSは次の3点に尽きますわ�
 対応する提供形態は、Claude Code、Claude Enterprise、Claude Platform、Amazon Bedrock、Claude Platform on AWS、GoogleのAgent Platform、Microsoft Foundry。**AWS・Google Cloud・Microsoft Azure 経由でも同等の制御が効く**と明記されている点は、後で効いてきますので覚えておいてくださいまし。
 
 そして料金。**AnthropicはEFS自体に課金しません**。ただし顧客が自社クラウドにデータを置く以上、**ストレージ料金・読み書き・データ転送（エグレス）料金はクラウド事業者から請求されます**わ。タダではなく、「支払い先が変わる」だけですのよ。ここ、地味ですけれど本質ですわ。
+
+## そもそも「ZDR（ゼロデータ保持）」とは何か
+
+ここまで何度も出てきた ZDR。**この記事の全部がこの言葉に懸かっています**ので、Anthropicの公式ドキュメントにもとづいて正確に押さえておきましょうね。
+
+### 定義：APIが応答を返した後、中身を保存しない
+
+**ZDR（Zero Data Retention／ゼロデータ保持）** とは、Anthropicの表現をそのまま借りれば「**APIの応答が返された後、顧客のプロンプトとレスポンスを保存された状態で保持しない**」という取り決めですわ。
+
+普通のクラウドサービスは、障害調査や機能提供のためにログを残しますわよね。ZDRはそれを契約レベルで止めるものですの。金融機関や医療機関が「顧客情報を外部ベンダーのサーバーに残せない」という規制を負っているときに、これがないとそもそも導入審査を通りませんのよ。
+
+### 「完全に何も残らない」わけではございません
+
+ここが誤解されやすいところですわ。ZDRでも、次のものは残りますの。
+
+- **利用ポリシー執行のため、安全性分類器の判定結果は保持されます**（Anthropicの privacy ドキュメントに明記）
+- **法令遵守や、誤用・危害への対処に必要な場合**は例外として保存されます
+- フラグが立った内容、法的な保存義務（リーガルホールド）がかかった内容も対象外ですわ
+
+つまりZDRは「**中身は残さないが、危険信号が出たという事実は残す**」という設計ですの。ここを理解しておくと、EFSが「ZDRの発展形」として出てきた理屈がすっきり見えますわ。
+
+### 誰でも使えるものではありません
+
+ZDRは設定画面のチェックボックスではございませんのよ。
+
+- **Anthropicの承認が必要**で、営業チーム経由で申請しますわ
+- **組織単位で有効化**されます。同じアカウント配下でも、新しい組織を作ったら**その組織ごとに個別の有効化が必要**ですの
+- 適用されているかは Claude Platform の **設定 → プライバシー管理 → データ保持期間** で確認できますわ
+
+### ZDRが「効く範囲」と「効かない範囲」
+
+これも公式ドキュメントに一覧がありますの。実務では、ここを取り違えると事故になりますわ。
+
+**ZDRが適用されるもの**
+- Claude の Messages API / Token Counting API（対象機能に限る。コード実行などは対象外）
+- Claude Code（商用組織のAPIキー利用時、またはZDR有効なClaude Enterprise経由）
+- Claude Platform on AWS（要申請）
+
+**ZDRが適用されないもの**
+- **Claude Console での利用全般**（プレイグラウンドを含む）
+- **個人向けプラン**（Free / Pro / Max。Web・デスクトップ・モバイル・Claude Code を含む）
+- **Claude Teams / Claude Enterprise の製品インターフェース**（ZDR有効なClaude Codeのみ例外）
+- Claude Managed Agents（セッション記録は削除するまで残ります）、Claude for Excel
+- **サードパーティの連携先**で処理されたデータ
+- ZDR組織では **CORS が使えません**（ブラウザから直接叩けず、バックエンド経由にする必要あり）
+- Claude Code で**メトリクスログを有効**にしている場合、利用統計などの生産性データはZDRの対象外ですわ
+
+### そして今回の核心
+
+公式ドキュメントには、こう書かれていますの。
+
+> **Claude Fable 5.1、Claude Mythos 5.1、Claude Fable 5、Claude Mythos 5**：これらのモデルは30日間のデータ保持を必要とし、**Anthropicが明示的に承認しない限り、ZDRでは利用できない**。
+
+——これが今回の騒動の正体ですわ。「ZDRを結んでいる」ことと「最新のフロンティアモデルを使う」ことが、**制度上まっすぐ衝突していた**んですのよ。その衝突を解くために出てきたのが、経過措置としての「明示的な承認」と、恒久解としてのEFS、というわけですわ。
+
+なお、Anthropicがデータ処理者となるのは Claude API、Claude Platform on AWS、Microsoft Foundry 経由のとき。**Amazon Bedrock と Google Cloud Agent Platform では、クラウド事業者側がデータ処理者**になりますから、同等の管理策はそれぞれのプラットフォームのドキュメントを確認する必要がございますわ。
+
+### ついでに、この記事の用語ミニ辞典
+
+| 用語 | 意味 |
+|---|---|
+| **ZDR** | Zero Data Retention。ベンダーがプロンプトと応答を保存しない取り決め |
+| **EFS** | Enterprise Frontier Safeguards。監視データを顧客のクラウドに置く新方式 |
+| **CMK** | Customer-Managed Key。顧客が管理する暗号鍵。ベンダーは鍵の複製を持たない |
+| **BYOC** | Bring Your Own Cloud。ベンダーのソフトを顧客のクラウド環境で動かす方式 |
+| **コントロールプレーン** | 制御を担う層。ベンダー側にある |
+| **データプレーン** | データと計算を担う層。BYOCでは顧客側にある |
+| **対象モデル** | Covered Models。能力が閾値を超え、追加の安全策が課されるモデル |
+| **SOC** | Security Operation Center。企業のセキュリティ監視チーム |
 
 ## なぜ「30日間のデータ保持」が必要だったのか
 
@@ -292,6 +361,7 @@ EFSを入れる／入れないに関わらず、**自社のAIエージェント�
 - [Anthropic公式：Developing Enterprise Frontier Safeguards with our customers](https://www.anthropic.com/news/enterprise-frontier-safeguards)
 - [OpenAI公式：Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models/)
 - [Microsoft Learn：Azure Databricks の高レベルアーキテクチャ](https://learn.microsoft.com/en-us/azure/databricks/getting-started/high-level-architecture)
+- [Claude Platform Docs：API and data retention（ZDRの適用範囲）](https://platform.claude.com/docs/en/manage-claude/api-and-data-retention)
 - [Anthropicヘルプ：Covered Models（対象モデル）](https://support.claude.com/en/articles/15425695-covered-models)
 - [Anthropicヘルプ：Data retention practices for Covered Models](https://support.claude.com/en/articles/15425996-data-retention-practices-for-covered-models)
 - [Confluent：What is Bring Your Own Cloud (BYOC)?](https://www.confluent.io/learn/bring-your-own-cloud/)
