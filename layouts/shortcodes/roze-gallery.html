@@ -43,12 +43,10 @@
 
 <style>
 /* 写真集ページは wideContent:true で本文がコンテナ幅いっぱいになる。
-   グリッドは全幅を使いたいが、地の文まで1000px幅だと読みづらいので
-   段落・区切り線・リンクだけ元の読み幅(65ch)に戻す（2026-09-02 修正） */
-.article-content > p,
-.article-content > hr,
-.article-content > h2,
-.article-content > h3{max-width:65ch}
+   一度は地の文だけ65chに戻したが、グリッドが全幅なので地の文が左半分に
+   寄って見えて不格好だった。幅は揃えて、代わりに行間だけ広げる
+   （2026-09-02 再修正） */
+.article-content > p{line-height:1.9}
 
 /* モバイル2列・PC3列に固定する。auto-fillだと広い画面で4列以上になって
    1枚が小さくなりすぎていた（2026-08-31 修正） */
