@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-02",
- "count": 17,
- "daily": 16,
+ "updated": "2026-09-04",
+ "count": 18,
+ "daily": 17,
  "work": 1,
  "items": [
+  {
+   "slug": "pjm-backstop-auction-ai-electricity-2026-09-06",
+   "thumb": "/img/gallery/pjm-backstop-auction-ai-electricity-2026-09-06_thumb.webp",
+   "full": "/img/gallery/pjm-backstop-auction-ai-electricity-2026-09-06.webp",
+   "caption": "洗濯物を干す",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-06"
+  },
   {
    "slug": "jgb-yield-3percent-rotation-2026-09-03",
    "thumb": "/img/gallery/jgb-yield-3percent-rotation-2026-09-03_thumb.webp",
