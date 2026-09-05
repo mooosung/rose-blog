@@ -144,6 +144,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "doj-ai-training-fair-use-2026-09-07": {
+  "caption": "本を掃除する",
+  "kind": "日常",
+  "outfit": "私服"
+ },
  "dram-price-8x-antitrust-lawsuit-2026-08-23": {
   "caption": "資料に目を通す",
   "kind": "お仕事",
@@ -441,6 +446,11 @@
  },
  "weekly-summary-2026-08-29": {
   "caption": "雪の中で傘を差す",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
+ "weekly-summary-2026-09-05": {
+  "caption": "ケーキにデコレーション",
   "kind": "日常",
   "outfit": "メイド服"
  },

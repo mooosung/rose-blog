@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-04",
- "count": 18,
- "daily": 17,
+ "updated": "2026-09-06",
+ "count": 20,
+ "daily": 19,
  "work": 1,
  "items": [
+  {
+   "slug": "doj-ai-training-fair-use-2026-09-07",
+   "thumb": "/img/gallery/doj-ai-training-fair-use-2026-09-07_thumb.webp",
+   "full": "/img/gallery/doj-ai-training-fair-use-2026-09-07.webp",
+   "caption": "本を掃除する",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-09-07"
+  },
   {
    "slug": "pjm-backstop-auction-ai-electricity-2026-09-06",
    "thumb": "/img/gallery/pjm-backstop-auction-ai-electricity-2026-09-06_thumb.webp",
@@ -12,6 +21,15 @@
    "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-09-06"
+  },
+  {
+   "slug": "weekly-summary-2026-09-05",
+   "thumb": "/img/gallery/weekly-summary-2026-09-05_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-09-05.webp",
+   "caption": "ケーキにデコレーション",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-05"
   },
   {
    "slug": "jgb-yield-3percent-rotation-2026-09-03",
