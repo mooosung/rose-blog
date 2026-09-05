@@ -3,7 +3,7 @@ title: "高配当株・配当再投資完全ガイド特集｜SCHD・VYMから�
 date: 2026-08-03
 draft: false
 description: "高配当株の選び方からDRIP複利シミュレーション、配当生活の資産設計、罠の見抜き方まで。配当投資を体系的に学べる記事をまとめた特集ですわ"
-featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-21-dividend-reinvestment-drip-compound-growth.jpg"
+featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -27,8 +27,7 @@ categories: ["高配当株・配当再投資"]
 
 配当をもらって終わりではなく、再投資して雪だるま式に増やすのが配当投資の本領ですわ。実際にどれくらい増えるのか、数字で確認してくださいまし。
 
-- [配当再投資（DRIP）で資産を雪だるま式に増やす方法｜VYM・SCHD 20年複利シミュレーション徹底解説](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
-- [高配当ETF×配当再投資（DRIP）の複利シミュレーション｜VYM・HDV・SPYD・SCHD月3万円20年比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+- [配当再投資のやり方｜SBI・楽天・マネックス3社比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
 - [SCHD vs DVY vs SDY - 長期配当ETF比較2026年版](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
 
 ## 資産設計・出口戦略

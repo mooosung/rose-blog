@@ -44,10 +44,7 @@ S&P500構成銘柄のうち25年以上連続増配した「配当貴族」銘柄
 表面上の配当利回りが高いだけで、実は業績悪化や配当減額リスクを抱えている銘柄のこと。ペイアウト比率やフリーキャッシュフローで見抜く。→ [配当利回りの罠を見抜くスクリーニング](/posts/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide/)
 
 **DRIP（配当再投資）**
-受け取った配当金をそのまま同じ銘柄の購入に充てる仕組み。複利効果を最大化する王道の手法。→ [配当再投資（DRIP）と複利成長](/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/)
-
-**配当再投資シミュレーション**
-高配当ETFの配当をDRIPで再投資し続けた場合の資産成長を試算する手法。時間軸を長く取るほど複利効果の差が顕著になる。→ [高配当ETF×DRIP複利シミュレーション](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
+受け取った配当金をそのまま同じ銘柄の購入に充てる仕組み。ただし米国のDRIP制度と、日本のネット証券が提供する「配当金再投資サービス」は別物で、後者は端数株を買えず買付手数料もかかる。→ [配当再投資のやり方｜SBI・楽天・マネックス3社比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
 
 **カバードコール戦略**
 保有株のコールオプションを売却してプレミアム収入を得る戦略。JEPI・QYLD等の高分配ETFで採用。→ [カバードコールETF完全ガイド](/posts/2026-04-25-covered-call-etf-qyld-xyld-guide/)
