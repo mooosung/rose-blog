@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-09-07-advantest-6857-ai-tester-stock-analysis",
+    "title": "アドバンテスト（6857）営業利益率51.7%の決算を解剖｜株価33,090円・PER36倍は割高か",
+    "date": "2026-09-07",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-07-advantest-6857-ai-tester-stock-analysis.jpg"
+  },
+  {
     "path": "posts/2026-09-05-inpex-1605-dividend-yield-total-payout",
     "title": "INPEXの配当利回り2.96%は買いか｜112円への増配と1400億円の自社株買いで読む株主還元【2026年9月】",
     "date": "2026-09-05",
@@ -28,11 +34,5 @@
     "title": "三菱商事の配当は買いか？利回り2.6%でも配当投資家が手放さない3つの理由【2026年8月最新】",
     "date": "2026-08-29",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-29-mitsubishi-corp-8058-dividend-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-08-27-ai-semiconductor-stocks-map",
-    "title": "AI半導体の銘柄マップ2026｜供給網10層で総ざらい",
-    "date": "2026-08-27",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-27-ai-semiconductor-stocks-map.jpg"
   }
 ]
