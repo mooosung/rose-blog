@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-06",
- "count": 20,
- "daily": 19,
+ "updated": "2026-09-07",
+ "count": 21,
+ "daily": 20,
  "work": 1,
  "items": [
+  {
+   "slug": "nvidia-huggingface-neutrality-2026-09-09",
+   "thumb": "/img/gallery/nvidia-huggingface-neutrality-2026-09-09_thumb.webp",
+   "full": "/img/gallery/nvidia-huggingface-neutrality-2026-09-09.webp",
+   "caption": "ケーキを持つ",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-09"
+  },
   {
    "slug": "doj-ai-training-fair-use-2026-09-07",
    "thumb": "/img/gallery/doj-ai-training-fair-use-2026-09-07_thumb.webp",
