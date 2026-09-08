@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-07",
- "count": 21,
- "daily": 20,
+ "updated": "2026-09-09",
+ "count": 22,
+ "daily": 21,
  "work": 1,
  "items": [
+  {
+   "slug": "meta-muse-free-agent-capex-2026-09-09",
+   "thumb": "/img/gallery/meta-muse-free-agent-capex-2026-09-09_thumb.webp",
+   "full": "/img/gallery/meta-muse-free-agent-capex-2026-09-09.webp",
+   "caption": "朝の身支度",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-09"
+  },
   {
    "slug": "nvidia-huggingface-neutrality-2026-09-09",
    "thumb": "/img/gallery/nvidia-huggingface-neutrality-2026-09-09_thumb.webp",
