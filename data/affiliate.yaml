@@ -12,9 +12,14 @@
 #                            CVR 2.50% / EPC 353.68円 / 承認率 89.84%
 #   松井iDeCo  MID 841709 … 提携中。口座開設申込 500円/件
 #   DMM 株     MID 840498 … 提携中。アカウント登録 4,000円/件（定額）、本人利用OK
-#   申請中8件・却下0件 … SBI証券38299 / マネックス349213 / 三菱UFJ eスマート952022 /
-#                        岩井コスモ683969 / ひふみ329571 / マネックスiDeCo818105 /
-#                        SBIネオトレード303045 / イデコSBI758866
+#   マネックス   MID 349213 … 提携中（2026-09-11承認）。口座開設申込 3,000円/件（定額）
+#                            CVR 3.09% / EPC 1,023.69円 / 承認率 99.59% … EPCは提携中で最高
+#                            本人利用NG / ポイントNG / リスティング条件あり（ドコモ系ワード禁止）
+#   マネックスiDeCo MID 818105 … 提携中（2026-09-11承認）。口座開設 1,000円/件
+#   提携却下4件 … SBI証券38299 / イデコSBI758866 / SBIネオトレード303045 /
+#                 三菱UFJ eスマート952022
+#                 ⚠️ SBIはTG(1025)でも一覧から消滅。両ASPで落ちたので当面は諦める
+#   申請中2件   … 岩井コスモ683969（1,758円） / 投資信託ひふみ329571（1,334円）
 #   ※楽天証券はアクセストレードに存在しない
 # ■ TGアフィリエイト（2026-08-31 提携管理タブで実地確認）
 #   松井証券   MID 6012 … 提携中。口座開設申込 926円/件、再訪問90日
@@ -29,6 +34,30 @@
 #    クリック用URL(cc?rk=)と1x1の計測ビーコン(rr?rk=)はセットで出すこと。
 #    beacon: を書いておくと partials/affiliate-cta.html がアンカー内に1x1 imgを描画する。
 brokers:
+  - id: monex
+    name: "マネックス証券"
+    catch: "米国株の分析ツールが強い"
+    points:
+      - "銘柄スカウター米国株で10年分の業績をグラフで確認できる"
+      - "NISA口座なら日本株・米国株・中国株・投資信託の売買手数料が無料"
+      - "dカードのクレカ積立に対応（還元率はカード種別により最大3.1%）"
+    affiliate: true
+    # アクセストレード MID 349213（2026-09-11 提携承認）。口座開設申込 3,000円/件（定額）
+    # CVR 3.09% / EPC 1,023.69円 / 承認率 99.59% … 提携中の中でEPCが最も高い
+    # 広告条件: 本人利用NG / ポイントNG / リスティング条件あり
+    #   （ドコモ・docomo・d払い・dポイント・dカード 等のワードでの出稿は禁止）
+    links:
+      us_stock: "https://h.accesstrade.net/sp/cc?rk=0100h3pw00oy5v"
+      nisa: "https://h.accesstrade.net/sp/cc?rk=0100mbfd00oy5v"
+      toshin: "https://h.accesstrade.net/sp/cc?rk=0100p00700oy5v"
+      # iDeCoのみ別プログラム(818105 マネックス証券 iDeCo / 1,000円）
+      ideco: "https://h.accesstrade.net/sp/cc?rk=0100ln7i00oy5v"
+    beacons:
+      us_stock: "https://h.accesstrade.net/sp/rr?rk=0100h3pw00oy5v"
+      nisa: "https://h.accesstrade.net/sp/rr?rk=0100mbfd00oy5v"
+      toshin: "https://h.accesstrade.net/sp/rr?rk=0100p00700oy5v"
+      ideco: "https://h.accesstrade.net/sp/rr?rk=0100ln7i00oy5v"
+    url: "https://h.accesstrade.net/sp/cc?rk=0100h3pw00oy5v"
   - id: matsui
     name: "松井証券"
     catch: "米国株の手数料が業界最安水準"
@@ -72,15 +101,6 @@ brokers:
     # 改変禁止のため計測ビーコンもリンクコードのとおりに出す
     beacon: "https://h.accesstrade.net/sp/rr?rk=0100mkk300oy5v"
     url: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
-  - id: sbi
-    name: "SBI証券"
-    catch: "国内最大手・手数料ゼロ革命"
-    points:
-      - "国内株式売買手数料0円（ゼロ革命）"
-      - "米国株の取扱4,000銘柄超・為替コスト業界最安水準"
-      - "三井住友カード積立でVポイント還元"
-    affiliate: false
-    url: "https://www.sbisec.co.jp/"
   - id: rakuten
     name: "楽天証券"
     catch: "楽天ポイントで投資デビュー"
@@ -90,15 +110,15 @@ brokers:
       - "日経テレコン（楽天証券版）が無料で読める"
     affiliate: false
     url: "https://www.rakuten-sec.co.jp/"
-  - id: monex
-    name: "マネックス証券"
-    catch: "米国株の分析ツールが強い"
+  - id: sbi
+    name: "SBI証券"
+    catch: "国内最大手・手数料ゼロ革命"
     points:
-      - "米国株取扱7,000銘柄超は業界トップクラス"
-      - "銘柄スカウター米国株で10年分の業績を可視化"
-      - "dカード積立の還元率が高水準"
+      - "国内株式売買手数料0円（ゼロ革命）"
+      - "米国株の取扱4,000銘柄超・為替コスト業界最安水準"
+      - "三井住友カード積立でVポイント還元"
     affiliate: false
-    url: "https://www.monex.co.jp/"
+    url: "https://www.sbisec.co.jp/"
 
 # 記事カテゴリごとに出し分けるCTAの見出し
 cta:
