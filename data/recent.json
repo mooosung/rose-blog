@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-09-12-ideco-year-end-adjustment-2026-guide",
+    "title": "iDeCoの年末調整はここでつまずく｜控除証明書はいつ届く？令和8年分から変わる添付ルール",
+    "date": "2026-09-12",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-12-ideco-year-end-adjustment-2026-guide.jpg"
+  },
+  {
     "path": "posts/2026-09-10-adobe-adbe-stock-forward-pe-ai-disruption-analysis",
     "title": "Adobe（ADBE）株価はなぜ予想PER10倍まで売られたのか｜AI破壊論を6つの数字で検証",
     "date": "2026-09-10",
@@ -28,11 +34,5 @@
     "title": "Anthropic「EFS」徹底解説｜監視ログを自社クラウドに置くBYOC型AI",
     "date": "2026-09-02",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc.jpg"
-  },
-  {
-    "path": "posts/2026-08-31-fujikura-5803-stock-analysis",
-    "title": "フジクラ（5803）株価が高値から3割安の理由｜営業利益率26%の決算を読む",
-    "date": "2026-08-31",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-08-31-fujikura-5803-stock-analysis.jpg"
   }
 ]
