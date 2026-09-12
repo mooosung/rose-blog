@@ -189,6 +189,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "global-rate-hikes-september-2026": {
+  "caption": "夏祭りを楽しむ",
+  "kind": "日常",
+  "outfit": "私服"
+ },
  "google-190b-ai-blackstone-tpu-2026-06-14": {
   "caption": "コンピュータを操作する",
   "kind": "お仕事",
@@ -466,6 +471,11 @@
  },
  "weekly-summary-2026-09-05": {
   "caption": "ケーキにデコレーション",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
+ "weekly-summary-2026-09-12": {
+  "caption": "縫い物に集中する",
   "kind": "日常",
   "outfit": "メイド服"
  },

@@ -1,9 +1,27 @@
 {
- "updated": "2026-09-11",
- "count": 23,
- "daily": 22,
+ "updated": "2026-09-13",
+ "count": 25,
+ "daily": 24,
  "work": 1,
  "items": [
+  {
+   "slug": "global-rate-hikes-september-2026",
+   "thumb": "/img/gallery/global-rate-hikes-september-2026_thumb.webp",
+   "full": "/img/gallery/global-rate-hikes-september-2026.webp",
+   "caption": "夏祭りを楽しむ",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-09-13"
+  },
+  {
+   "slug": "weekly-summary-2026-09-12",
+   "thumb": "/img/gallery/weekly-summary-2026-09-12_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-09-12.webp",
+   "caption": "縫い物に集中する",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-12"
+  },
   {
    "slug": "ai-agent-pilot-production-gap-2026-09-11",
    "thumb": "/img/gallery/ai-agent-pilot-production-gap-2026-09-11_thumb.webp",
