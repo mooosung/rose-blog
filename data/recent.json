@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-09-14-tokyo-electron-8035-stock-drawdown-analysis",
+    "title": "東京エレクトロン（8035）株価はなぜ高値から35%下げたのか｜営業利益+46%の決算でも売られた理由を5つの数字で検証",
+    "date": "2026-09-14",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-14-tokyo-electron-8035-stock-drawdown-analysis.jpg"
+  },
+  {
     "path": "posts/2026-09-12-ideco-year-end-adjustment-2026-guide",
     "title": "iDeCoの年末調整はここでつまずく｜控除証明書はいつ届く？令和8年分から変わる添付ルール",
     "date": "2026-09-12",
@@ -28,11 +34,5 @@
     "title": "オラクル（ORCL）株価が高値から半値になった理由｜受注残6,380億ドルとBBB-格下げを5つの数字で読む",
     "date": "2026-09-03",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-03-oracle-orcl-rpo-credit-downgrade-stock-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc",
-    "title": "Anthropic「EFS」徹底解説｜監視ログを自社クラウドに置くBYOC型AI",
-    "date": "2026-09-02",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc.jpg"
   }
 ]
