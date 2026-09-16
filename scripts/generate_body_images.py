@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 generate_body_images.py
-rose-blog記事の本文中に挿入する画像をOpenAI API (gpt-image-2) で生成する。
+rose-blog記事の本文中に挿入する画像をOpenAI API (gpt-image-2.5-flare) で生成する。
 2026-07-28: 「新規記事から画像入れて」（御主人様2指示）に基づき、
 featureimage（アイキャッチ）とは別に、本文中に1〜2枚の挿絵を入れるための画像を生成する。
 
@@ -34,7 +34,7 @@ from generate_thumbnails_v2 import POSTS_DIR, parse_frontmatter  # noqa: E402
 OUTPUT_DIR = Path(__file__).parent.parent / "static" / "img" / "body"
 KEY_FILE = Path.home() / ".openclaw/secrets/openai_api_key"
 REFERENCE = Path.home() / ".openclaw/workspace/images/rose_reference.png"
-MODEL = "gpt-image-2"
+MODEL = "gpt-image-2.5-flare"
 W, H = 1200, 630
 
 EXPRESSION_POOL = [

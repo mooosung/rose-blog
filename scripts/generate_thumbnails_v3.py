@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 generate_thumbnails_v3.py
-新方式 (2026-06-13): OpenAI API (gpt-image-2) でテーマに合ったベース画像を生成し、
+新方式 (2026-06-13): OpenAI API (gpt-image-2.5-flare) でテーマに合ったベース画像を生成し、
 v2と同じタイトルオーバーレイを重ねる。
 API失敗時は v2 の写真取得（picsum）へ自動フォールバックするので画像なし事故は起きない。
 
@@ -32,7 +32,7 @@ from generate_thumbnails_v2 import (  # noqa: E402
 
 KEY_FILE = Path.home() / ".openclaw/secrets/openai_api_key"
 REFERENCE = Path.home() / ".openclaw/workspace/images/rose_reference.png"
-MODEL = "gpt-image-2"
+MODEL = "gpt-image-2.5-flare"
 W, H = 1200, 630
 
 
@@ -67,7 +67,7 @@ def build_prompt(title: str, tags: list, scene: str | None, rose: bool) -> str:
 
 def generate_base_via_api(title: str, tags: list, scene: str | None,
                           rose: bool) -> Image.Image | None:
-    """gpt-image-2でベース画像を生成。失敗したらNone（呼び出し側でフォールバック）。"""
+    """gpt-image-2.5-flareでベース画像を生成。失敗したらNone（呼び出し側でフォールバック）。"""
     try:
         api_key = KEY_FILE.read_text().strip()
         prompt = build_prompt(title, tags, scene, rose)
