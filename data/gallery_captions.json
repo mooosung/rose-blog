@@ -19,6 +19,11 @@
   "kind": "お仕事",
   "outfit": "メイド服"
  },
+ "ai-datacenter-electricity-who-pays-2026-09-21": {
+  "caption": "桜を飾る",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "ai-datacenter-power-2026-06-12": {
   "caption": "雷鳴とともに佇む",
   "kind": "お仕事",
@@ -493,6 +498,11 @@
   "caption": "縫い物に集中する",
   "kind": "日常",
   "outfit": "メイド服"
+ },
+ "weekly-summary-2026-09-19": {
+  "caption": "自動販売機の前",
+  "kind": "日常",
+  "outfit": "その他"
  },
  "wsts-semiconductor-1-5trillion-2026": {
   "caption": "グラフを見つめる",

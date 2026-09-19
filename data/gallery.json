@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-18",
- "count": 28,
- "daily": 27,
+ "updated": "2026-09-20",
+ "count": 30,
+ "daily": 29,
  "work": 1,
  "items": [
+  {
+   "slug": "ai-datacenter-electricity-who-pays-2026-09-21",
+   "thumb": "/img/gallery/ai-datacenter-electricity-who-pays-2026-09-21_thumb.webp",
+   "full": "/img/gallery/ai-datacenter-electricity-who-pays-2026-09-21.webp",
+   "caption": "桜を飾る",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-21"
+  },
   {
    "slug": "ai-layoff-reason-fell-to-fourth-2026-09-20",
    "thumb": "/img/gallery/ai-layoff-reason-fell-to-fourth-2026-09-20_thumb.webp",
@@ -12,6 +21,15 @@
    "outfit": "私服",
    "kind": "日常",
    "date": "2026-09-20"
+  },
+  {
+   "slug": "weekly-summary-2026-09-19",
+   "thumb": "/img/gallery/weekly-summary-2026-09-19_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-09-19.webp",
+   "caption": "自動販売機の前",
+   "outfit": "その他",
+   "kind": "日常",
+   "date": "2026-09-19"
   },
   {
    "slug": "anthropic-ipo-pacing-letter-2026-09-16",
