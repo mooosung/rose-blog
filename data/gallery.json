@@ -1,7 +1,7 @@
 {
- "updated": "2026-09-21",
- "count": 31,
- "daily": 30,
+ "updated": "2026-09-23",
+ "count": 32,
+ "daily": 31,
  "work": 1,
  "items": [
   {
@@ -10,6 +10,15 @@
    "full": "/img/gallery/ai-testbed-breakout-killswitch-2026-09-23.webp",
    "caption": "買い物帰り",
    "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-23"
+  },
+  {
+   "slug": "trump-superintelligence-vs-states-2026-09-23",
+   "thumb": "/img/gallery/trump-superintelligence-vs-states-2026-09-23_thumb.webp",
+   "full": "/img/gallery/trump-superintelligence-vs-states-2026-09-23.webp",
+   "caption": "勉強に集中する",
+   "outfit": "私服",
    "kind": "日常",
    "date": "2026-09-23"
   },
