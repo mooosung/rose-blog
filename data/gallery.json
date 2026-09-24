@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-23",
- "count": 32,
- "daily": 31,
+ "updated": "2026-09-25",
+ "count": 33,
+ "daily": 32,
  "work": 1,
  "items": [
+  {
+   "slug": "anthropic-openevidence-free-medical-ai-2026-09-27",
+   "thumb": "/img/gallery/anthropic-openevidence-free-medical-ai-2026-09-27_thumb.webp",
+   "full": "/img/gallery/anthropic-openevidence-free-medical-ai-2026-09-27.webp",
+   "caption": "雨の中で怒る",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-27"
+  },
   {
    "slug": "ai-testbed-breakout-killswitch-2026-09-23",
    "thumb": "/img/gallery/ai-testbed-breakout-killswitch-2026-09-23_thumb.webp",
