@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-25",
- "count": 33,
- "daily": 32,
+ "updated": "2026-09-27",
+ "count": 35,
+ "daily": 34,
  "work": 1,
  "items": [
+  {
+   "slug": "ai-api-price-parity-openai-anthropic-2026-09-28",
+   "thumb": "/img/gallery/ai-api-price-parity-openai-anthropic-2026-09-28_thumb.webp",
+   "full": "/img/gallery/ai-api-price-parity-openai-anthropic-2026-09-28.webp",
+   "caption": "植物に水やり",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-09-28"
+  },
   {
    "slug": "anthropic-openevidence-free-medical-ai-2026-09-27",
    "thumb": "/img/gallery/anthropic-openevidence-free-medical-ai-2026-09-27_thumb.webp",
@@ -12,6 +21,15 @@
    "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-09-27"
+  },
+  {
+   "slug": "weekly-summary-2026-09-26",
+   "thumb": "/img/gallery/weekly-summary-2026-09-26_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-09-26.webp",
+   "caption": "お茶を準備する",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-09-26"
   },
   {
    "slug": "ai-testbed-breakout-killswitch-2026-09-23",

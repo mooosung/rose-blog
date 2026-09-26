@@ -9,6 +9,11 @@
   "kind": "日常",
   "outfit": "私服"
  },
+ "ai-api-price-parity-openai-anthropic-2026-09-28": {
+  "caption": "植物に水やり",
+  "kind": "日常",
+  "outfit": "私服"
+ },
  "ai-chip-selloff-micron-kospi-july-2026": {
   "caption": "薔薇と戯れる",
   "kind": "お仕事",
@@ -518,6 +523,11 @@
   "caption": "自動販売機の前",
   "kind": "日常",
   "outfit": "その他"
+ },
+ "weekly-summary-2026-09-26": {
+  "caption": "お茶を準備する",
+  "kind": "日常",
+  "outfit": "メイド服"
  },
  "wsts-semiconductor-1-5trillion-2026": {
   "caption": "グラフを見つめる",
