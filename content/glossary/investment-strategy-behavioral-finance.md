@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "投資戦略", "行動ファイナンス"]
+tags: ["用語集", "ポートフォリオ・分散", "入門・基礎知識", "長期投資", "老後資金・FIRE", "インデックス投資"]
 ---
 
 同じ資産に投資していても、戦略と心構え次第で結果は大きく変わりますの。数字の指標と、自分の心理の癖、両方を知っておいてくださいまし 🌹

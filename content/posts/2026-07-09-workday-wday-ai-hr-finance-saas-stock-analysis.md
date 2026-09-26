@@ -2,7 +2,7 @@
 title: "Workday（WDAY）株 徹底分析2026年版｜Illuminate AIエージェント・ARR90億ドル・97%継続率のHRテック投資価値"
 date: 2026-07-09
 draft: false
-tags: ["Workday", "WDAY", "AI SaaS", "HRテック", "米国株", "SaaS投資", "クラウド", "Illuminate", "エンタープライズ", "長期投資"]
+tags: ["銘柄分析", "米国株", "AI SaaS・ソフトウェア", "成長株"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Workday（WDAY）はHR・財務SaaSにAIエージェント「Illuminate」を組み込み企業の自動化を加速。97%超の継続率・ARR90億ドル・RPO230億ドルの盤石な財務体質と2026年成長戦略を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis.jpg"

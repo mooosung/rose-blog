@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "ツルハシ投資", "AIインフラ"]
+tags: ["用語集", "AIインフラ", "日本株"]
 ---
 
 AIブームの主役はモデル企業だけではありませんの。それを支えるインフラ企業に目を向けるのが「ツルハシ投資」の考え方ですわ 🌹

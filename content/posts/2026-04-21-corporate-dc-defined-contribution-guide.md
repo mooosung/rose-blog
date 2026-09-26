@@ -2,8 +2,8 @@
 title: "企業型DC（確定拠出年金）完全ガイド｜節税しながら老後資産を最大化する方法"
 date: 2026-04-21
 draft: false
-tags: ["確定拠出年金", "企業型DC", "老後資金", "節税", "資産運用", "iDeCo", "インデックスファンド", "NISA"]
-categories: ["投資入門"]
+tags: ["老後資金・FIRE", "入門・基礎知識", "税金・確定申告", "長期投資"]
+categories: ["NISA・iDeCo"]
 description: "企業型確定拠出年金（企業型DC）の仕組みから運用商品の選び方・iDeCoとの違いまで徹底解説。会社員が活用すべき税制優遇のポイントとインデックスファンド選びのコツを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-21-corporate-dc-defined-contribution-guide.jpg"
 featureimagecaption: ""

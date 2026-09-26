@@ -2,7 +2,7 @@
 title: "生活防衛資金の作り方2026｜いつ・いくら・どこに預けるべきか完全ガイド"
 date: 2026-04-20
 draft: false
-tags: ["資産運用", "家計管理", "貯金", "生活防衛資金", "初心者", "緊急資金", "普通預金", "節約"]
+tags: ["入門・基礎知識"]
 categories: ["投資戦略・資産運用"]
 description: "生活防衛資金の適切な金額・預け先・作り方を徹底解説。投資を始める前に必ず確保すべきお金の守りの基本と、高金利普通預金・定期預金の活用法を初心者向けに説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-20-emergency-fund-guide-2026.jpg"

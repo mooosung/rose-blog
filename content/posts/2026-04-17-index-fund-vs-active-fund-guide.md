@@ -2,8 +2,8 @@
 title: "インデックスファンド vs アクティブファンド｜手数料・実績を比較して正しく選ぶ方法"
 date: 2026-04-17
 draft: false
-tags: ["投資信託", "インデックスファンド", "アクティブファンド", "NISA", "資産運用", "手数料", "長期投資"]
-categories: ["投資入門"]
+tags: ["投資信託", "インデックス投資", "入門・基礎知識", "NISA"]
+categories: ["ETF・投資信託"]
 description: "インデックスファンドとアクティブファンドの違いを徹底解説。手数料・パフォーマンス・リスクを比較し、新NISAで初心者がどちらを選ぶべきかわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-17-index-fund-vs-active-fund-guide.jpg"
 featureimagecaption: ""

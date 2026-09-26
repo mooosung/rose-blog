@@ -2,8 +2,8 @@
 title: "配当成長ETF「VIG vs DGRO」徹底比較ガイド2026年版"
 date: 2026-07-17
 draft: false
-tags: ["ETF", "配当成長", "VIG", "DGRO", "長期投資", "米国株"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "米国株", "長期投資", "高配当・配当再投資"]
+categories: ["ETF・投資信託"]
 description: "バンガード・VIGとブラックロック・DGROを徹底比較。経費率・配当利回り・銘柄構成・長期パフォーマンスを分析し、あなたに合った配当成長ETFの選び方を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-17-vig-vs-dgro-dividend-growth-etf-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

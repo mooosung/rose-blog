@@ -2,8 +2,8 @@
 title: "AI時代に需要爆増するスキル5選と副業化ロードマップ【2026年版】"
 date: 2026-07-19
 draft: false
-tags: ["副業", "スキル投資", "AI活用", "フリーランス", "資産形成"]
-categories: ["スキル投資・副業戦略"]
+tags: ["副業・スキル投資"]
+categories: ["AI活用術"]
 description: "2026年のAI時代に需要が急増しているスキルTop5と、それぞれを副業収入につなげる具体的なロードマップを徹底解説。スキル習得から案件獲得まで、実践的なステップを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-19-ai-era-skill-investment-roadmap-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

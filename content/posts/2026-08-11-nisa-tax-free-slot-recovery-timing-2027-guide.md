@@ -2,8 +2,8 @@
 title: "新NISA非課税枠が「復活」する仕組み完全ガイド｜翌年1月から？2027年「当年中復活」改正の中身"
 date: 2026-08-11
 draft: false
-tags: ["新NISA", "非課税枠復活", "NISA 出口戦略", "税制改正", "簿価管理", "リバランス", "資産運用入門"]
-categories: ["NISA・iDeCo完全攻略"]
+tags: ["NISA", "税金・確定申告"]
+categories: ["NISA・iDeCo"]
 description: "新NISAで売却した非課税枠が「いつ」「いくら」復活するかを解説。簿価ベースの計算方法、翌年1月の復活タイミング、年末売却の受渡日リスク、2027年1月施行予定の税制改正大綱による「当年中復活」ルールの中身まで整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-11-nisa-tax-free-slot-recovery-timing-2027-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

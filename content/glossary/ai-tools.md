@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "AI活用術"]
+tags: ["AI活用", "用語集"]
 ---
 
 投資リサーチにAIを使いこなすための、実践的な用語を集めましたわ 🌹

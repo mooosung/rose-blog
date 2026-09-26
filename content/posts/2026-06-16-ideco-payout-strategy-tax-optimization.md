@@ -3,7 +3,7 @@ title: "iDeCo受け取り方はどれが一番お得？一時金・年金・併�
 date: 2026-06-16
 lastmod: 2026-09-25
 draft: false
-tags: ["iDeCo", "出口戦略", "退職所得控除", "節税", "老後資金", "公的年金等控除", "資産形成", "確定申告", "NISA", "税金対策"]
+tags: ["iDeCo", "老後資金・FIRE", "税金・確定申告"]
 categories: ["NISA・iDeCo"]
 description: "iDeCoの受け取り方で一番お得なのはどれか。退職金の有無と60〜64歳の収入で一時金・年金・併用を判定する表と、残高1,500万円・退職金2,000万円の税額試算、2026年からの「10年ルール」、年金受取中に残りを一括で受け取る条件まで解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-16-ideco-payout-strategy-tax-optimization.jpg"

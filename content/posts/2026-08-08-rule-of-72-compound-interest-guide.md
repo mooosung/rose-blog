@@ -2,8 +2,8 @@
 title: "「72の法則」で複利を体感する！資産が2倍になる年数を10秒で暗算する方法"
 date: 2026-08-08
 draft: false
-tags: ["複利", "投資マインド", "資産運用入門", "新NISA", "資産形成", "初心者投資", "ドルコスト平均法", "72の法則"]
-categories: ["投資マインド"]
+tags: ["長期投資", "入門・基礎知識"]
+categories: ["投資戦略・資産運用"]
 description: "アインシュタインも絶賛したという「72の法則」を使えば、電卓なしで資産が2倍になる年数が暗算できますわ。新NISAの利回り別シミュレーションから借金への応用まで、複利を直感的に理解する方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-08-rule-of-72-compound-interest-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

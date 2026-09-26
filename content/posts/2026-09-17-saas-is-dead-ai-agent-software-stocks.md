@@ -2,7 +2,7 @@
 title: "「SaaSの死」は本当か｜AIエージェント時代にソフトウェア銘柄を見極める3つのモノサシ"
 date: 2026-09-17
 draft: false
-tags: ["SaaS", "AIエージェント", "米国株", "ソフトウェア株", "Claude Cowork", "セールスフォース", "銘柄分析"]
+tags: ["AI SaaS・ソフトウェア"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "2026年1月以降ソフトウェア株を押し下げた「SaaSの死」論を、野村證券・第一生命経済研・三菱UFJ eスマート証券の3レポートと実際の出来事で検証。座席課金の何が壊れ、何が壊れないのか。投資家が座席数の代わりに見るべき3つの指標を整理いたしますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-17-saas-is-dead-ai-agent-software-stocks.jpg"

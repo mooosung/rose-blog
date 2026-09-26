@@ -8,8 +8,8 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["REIT", "不動産投資", "特集"]
-categories: ["オルタナティブ投資"]
+tags: ["REIT・不動産", "ETF", "米国株"]
+categories: ["ETF・投資信託"]
 ---
 
 REITは数万円から不動産オーナーになれる仕組みですけれど、仕組みを知らずに利回りだけで飛びつくと痛い目を見ますわ。基礎からETF比較、テーマ別の狙い目まで順番に読めるようまとめましたの 🌹

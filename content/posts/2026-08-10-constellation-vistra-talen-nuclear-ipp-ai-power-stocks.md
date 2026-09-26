@@ -2,8 +2,8 @@
 title: "既存原発が「金脈」に変わる2026年：Constellation・Vistra・TalenがAI電力需要で急騰する理由【ツルハシ投資】"
 date: 2026-08-10
 draft: false
-tags: ["独立系発電事業者", "IPP", "Constellation Energy", "Vistra", "Talen Energy", "原子力", "電力インフラ", "AIインフラ株", "データセンター", "長期投資", "ツルハシ投資", "米国株"]
-categories: ["ツルハシ投資", "米国株"]
+tags: ["米国株", "データセンター・電力", "成長株", "銘柄分析"]
+categories: ["ツルハシ投資"]
 description: "新しい原発を建てるより早い手がある——既存の稼働中原発を持つ独立系発電事業者（IPP）に、ハイパースケーラーが殺到中。Constellation Energy・Vistra・Talen Energyの2026年最新動向と投資妙味を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-10-constellation-vistra-talen-nuclear-ipp-ai-power-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

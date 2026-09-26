@@ -3,8 +3,8 @@ title: "ホワイトハッカーとは？なり方・資格と年収565万円の
 date: 2026-06-19
 lastmod: 2026-08-29
 draft: false
-tags: ["サイバーセキュリティ", "ホワイトハッカー", "レッドチーム", "ブルーチーム", "ペネトレーションテスト", "CEH", "AI・テクノロジー", "セキュリティエンジニア", "バグバウンティ", "情報セキュリティ"]
-categories: ["AI・テクノロジー"]
+tags: ["サイバーセキュリティ"]
+categories: ["投資戦略・資産運用"]
 description: "ホワイトハッカーになるには何が要るのか。求人ボックスの実測で平均年収565万円、CEH講座は651,200円、登録セキスペは26,453名。資格ロードマップ・未経験からの12か月学習計画・脆弱性を見つけたときのIPA届出手順まで、一次データで解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-19-white-hacker-blue-red-black-team-cybersecurity-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

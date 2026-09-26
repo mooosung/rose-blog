@@ -2,7 +2,7 @@
 title: "クラウドフレア（NET）：エッジAIインフラの覇者に投資する方法"
 date: 2026-07-16
 draft: false
-tags: ["Cloudflare", "NET", "AI株", "SaaS", "エッジコンピューティング", "米国株"]
+tags: ["銘柄分析", "米国株", "成長株", "長期投資", "AIインフラ", "AI SaaS・ソフトウェア"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Cloudflare（NET）はAI時代のエッジインフラとして急成長中。Workers AI・Zero Trust・R2などAIワークロード対応の製品群と収益モデルを徹底分析し、長期投資としての魅力を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-16-cloudflare-net-ai-edge-computing-stock-analysis.jpg"

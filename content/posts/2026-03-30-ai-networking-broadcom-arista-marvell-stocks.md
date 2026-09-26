@@ -2,7 +2,7 @@
 title: "AIネットワーク半導体株｜Broadcom・Arista Networks・Marvellが注目される理由を徹底解説"
 date: 2026-03-30
 draft: false
-tags: ["Broadcom", "AVGO", "Arista Networks", "Marvell", "ネットワーク半導体", "AIインフラ株", "米国株", "ツルハシ投資", "長期投資", "NISA"]
+tags: ["半導体", "AIインフラ", "米国株", "成長株", "銘柄分析"]
 categories: ["ツルハシ投資"]
 description: "AIデータセンターの「見えない神経系」を担うネットワーク半導体。Broadcom（AVGO）のAIネットワーキングチップ・Arista Networksのイーサネット・MarvellのシリコンフォトニクスをAI投資の文脈で徹底分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-30-ai-networking-broadcom-arista-marvell-stocks.jpg"

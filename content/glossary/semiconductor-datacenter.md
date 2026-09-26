@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "半導体", "データセンター"]
+tags: ["用語集", "半導体", "AIインフラ", "米国株"]
 ---
 
 AIブームの裏側で実際に稼働している「ハード」の部分ですわ。半導体からデータセンターの建物まで押さえておきましょう 🌹

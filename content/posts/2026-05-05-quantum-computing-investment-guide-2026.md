@@ -3,8 +3,8 @@ title: "量子コンピューティング株投資ガイド2026｜IBM・Google�
 aliases: ["/posts/2026-06-25-quantum-computing-stocks-ionq-ibm-investment-guide-2026/"]
 date: 2026-05-05
 draft: false
-tags: ["量子コンピュータ", "株式投資", "テクノロジー株", "IBM", "Google", "IonQ", "次世代テクノロジー", "ツルハシ投資", "長期投資"]
-categories: ["ツルハシ投資"]
+tags: ["米国株", "ポートフォリオ・分散", "成長株", "リスク管理・暴落対策"]
+categories: ["投資戦略・資産運用"]
 description: "量子コンピューティングの基礎から投資戦略まで徹底解説。IBM・Google・IonQなど有望銘柄の特徴と、初心者でも実践できるリスク管理・ETFでの分散投資方法をわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-05-quantum-computing-investment-guide-2026.jpg"
 featureimagecaption: ""

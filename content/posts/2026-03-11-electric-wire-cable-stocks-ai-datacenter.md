@@ -4,8 +4,8 @@ date: 2026-03-11
 lastmod: 2026-08-31
 draft: false
 featured: true
-tags: ["電線株", "フジクラ", "住友電工", "古河電工", "SWCC", "光ファイバー", "データセンター", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA"]
-categories: ["ツルハシ投資", "AI活用術"]
+tags: ["日本株", "決算分析", "銘柄分析", "フジクラ"]
+categories: ["投資戦略・資産運用"]
 description: "フジクラ（5803）・古河電工（5801）・住友電工（5802）・SWCC（5805）を、2027年3月期第1四半期の決算短信と2026年8月31日終値で横並び比較。予想PER・配当利回り・最低投資金額・営業利益のAI依存度まで実数で並べ、2026年に3社が実施した株式分割も整理しました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-11-electric-wire-cable-stocks-ai-datacenter.jpg"
 featureimagecaption: ""

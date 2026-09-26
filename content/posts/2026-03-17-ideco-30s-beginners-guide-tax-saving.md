@@ -7,7 +7,7 @@ slug: "ideco-30s-beginners-guide-tax-saving"
 description: "30代のiDeCo完全ガイド。節税額シミュレーション、掛金上限、そして一番知りたい「30代のポートフォリオ配分例」を3タイプ提示。年代別の株式比率の落とし方、NISAとの使い分け、転職時の注意点までまとめました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-17-ideco-30s-beginners-guide-tax-saving.jpg"
 featureimagecaption: ""
-tags: ["iDeCo", "イデコ", "30代", "節税", "確定拠出年金", "NISA", "資産形成", "老後資金", "インデックス投資", "SBI証券"]
+tags: ["iDeCo", "ポートフォリオ・分散", "税金・確定申告", "長期投資", "入門・基礎知識", "老後資金・FIRE", "NISA"]
 categories: ["NISA・iDeCo"]
 ---
 

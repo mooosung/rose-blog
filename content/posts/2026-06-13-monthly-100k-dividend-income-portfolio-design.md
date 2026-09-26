@@ -6,7 +6,7 @@ featured: false
 description: "月10万円の配当生活に必要な資産額を逆算。ETFと個別株のバランス、日本株・米国株・REITの組み合わせ、NISA活用で税効率を高める方法、段階的に配当収入を積み上げるロードマップを詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-13-monthly-100k-dividend-income-portfolio-design.jpg"
 featureimagecaption: ""
-tags: ["配当投資", "高配当株", "ポートフォリオ", "配当生活", "FIRE", "月10万円", "資産形成", "インカム投資", "NISA", "REIT"]
+tags: ["ポートフォリオ・分散", "長期投資", "高配当・配当再投資", "米国株", "日本株"]
 categories: ["高配当株・配当再投資"]
 ---
 

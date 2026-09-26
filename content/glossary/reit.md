@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "REIT", "不動産投資"]
+tags: ["REIT・不動産", "用語集", "米国株", "入門・基礎知識"]
 ---
 
 REITは「不動産に間接的に投資できる株」のようなものですわ。オフィスや住宅だけでなく、AI時代はデータセンターREITも要チェックですの 🌹

@@ -2,7 +2,7 @@
 title: "オラクル（ORCL）株価が高値から半値になった理由｜受注残6,380億ドルとBBB-格下げを5つの数字で読む"
 date: 2026-09-03
 draft: false
-tags: ["オラクル", "ORCL", "AI SaaS", "米国株", "決算分析", "OCI", "RPO"]
+tags: ["銘柄分析", "米国株", "決算分析"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "オラクル（ORCL）の株価が高値345ドルから145ドルへ約58%下落した理由を、受注残（RPO）6,380億ドル、S&PによるBBB-格下げ、6四半期連続のフリーキャッシュフロー赤字、ROIC11.5%とWACC10.5%の関係、2,600億ドルの未開始リースという5つの数字から解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-03-oracle-orcl-rpo-credit-downgrade-stock-analysis.jpg"

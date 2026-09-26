@@ -2,8 +2,8 @@
 title: "ETF vs 投資信託の違いを徹底比較｜NISAでどちらを選ぶべきか完全ガイド"
 date: 2026-05-11
 draft: false
-tags: ["ETF", "投資信託", "インデックス投資", "資産運用", "初心者", "NISA", "手数料比較", "長期投資"]
-categories: ["投資入門"]
+tags: ["ETF", "投資信託", "NISA", "入門・基礎知識"]
+categories: ["ETF・投資信託"]
 description: "ETFと投資信託の違いを手数料・流動性・税金・使いやすさの観点から徹底比較。新NISAでどちらを選ぶべきか、つみたて投資枠・成長投資枠それぞれの活用法も初心者向けに解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-11-etf-vs-toshin-comparison-guide.jpg"
 featureimagecaption: ""

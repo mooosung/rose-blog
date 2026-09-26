@@ -3,8 +3,8 @@ title: "イーサリアムETFはいつ買える？日本解禁は2028年見込�
 date: 2026-07-12
 lastmod: 2026-09-14
 draft: false
-tags: ["イーサリアム", "仮想通貨ETF", "ETHA", "FETH", "ETHB", "ETF", "米国株", "ステーキング", "暗号資産", "金商法改正"]
-categories: ["オルタナティブ投資"]
+tags: ["ETF", "暗号資産"]
+categories: ["ETF・投資信託"]
 description: "イーサリアムETFは日本の証券会社では買えませんわ。2026年7月15日成立の改正金商法で解禁は2028年見込み、税率も最大55%から20%へ。米国上場7本の信託報酬・純資産をSEC提出書類で取り直し、ステーキング分配の開始とETHAの1対3併合まで実数で整理しますの。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-12-ethereum-etf-etha-feth-investment-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

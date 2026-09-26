@@ -2,8 +2,8 @@
 title: "AIエージェント経済2026年版｜個人投資家が注目すべき銘柄・ETF完全ガイド"
 date: 2026-05-04
 draft: false
-tags: ["AIエージェント", "米国株", "投資", "AI株", "テック株", "Nvidia", "Palantir", "ETF", "長期投資", "AI投資"]
-categories: ["AI活用術"]
+tags: ["ETF", "米国株", "ポートフォリオ・分散", "成長株"]
+categories: ["投資戦略・資産運用"]
 description: "AIエージェント時代に個人投資家が注目すべき企業・ETFを徹底解説。自律型AIが経済を変えるなか、Nvidia・Palantir・BOTZ・ARKQなどへの投資戦略と銘柄選びを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-04-ai-agent-economy-investment-guide.jpg"
 featureimagecaption: ""

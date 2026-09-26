@@ -2,8 +2,8 @@
 title: "フジクラ（5803）株価が高値から3割安の理由｜営業利益率26%の決算を読む"
 date: 2026-08-31
 draft: false
-tags: ["ツルハシ投資", "AIインフラ", "フジクラ", "日本株", "データセンター", "光通信", "決算分析"]
-categories: ["ツルハシ投資"]
+tags: ["日本株", "銘柄分析", "決算分析", "フジクラ"]
+categories: ["投資戦略・資産運用"]
 description: "フジクラ（5803）は2027年3月期1Qで営業利益率26.1%、通期経常利益を43%上方修正しましたわ。それでも株価は5月高値から3割安。決算の中身と株価の乖離を、電線4社の実データで検証します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-31-fujikura-5803-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

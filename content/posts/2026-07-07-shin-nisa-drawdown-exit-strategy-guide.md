@@ -2,7 +2,7 @@
 title: "新NISAの出口戦略完全ガイド2026年版｜4%ルール・定率・定額取り崩しの比較と年代別プラン"
 date: 2026-07-07
 draft: false
-tags: ["新NISA", "出口戦略", "取り崩し", "資産運用", "長期投資", "4%ルール", "FIRE", "老後資金", "資産形成", "iDeCo"]
+tags: ["NISA", "老後資金・FIRE"]
 categories: ["NISA・iDeCo"]
 description: "新NISAで築いた資産をどう取り崩すか？非課税期間無期限のメリットを最大限活かす出口戦略、4%ルール、定率・定額取り崩しの比較から年代別・ライフステージ別の取り崩しプランまで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-07-shin-nisa-drawdown-exit-strategy-guide.jpg"

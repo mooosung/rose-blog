@@ -2,8 +2,8 @@
 title: "VNQ・RWR・IYR比較｜米国REIT ETFの選び方・利回り・リスクを徹底解説"
 date: 2026-05-28
 draft: false
-tags: ["REIT", "ETF", "不動産投資", "VNQ", "RWR", "IYR", "配当投資", "米国株", "NISA", "長期投資"]
-categories: ["投資戦略・資産運用"]
+tags: ["ETF", "REIT・不動産", "米国株"]
+categories: ["ETF・投資信託"]
 description: "米国REIT ETFの代表銘柄VNQ・RWR・IYRを徹底比較。REITとは何か・ETFで不動産投資をする方法・経費率・配当利回り・リスクまでわかりやすく解説します。NISA活用法も紹介。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-28-reit-etf-vnq-rwr-iyr-complete-guide.jpg"
 featureimagecaption: "REIT ETF投資ガイド"

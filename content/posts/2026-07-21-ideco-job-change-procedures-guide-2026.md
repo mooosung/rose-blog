@@ -2,7 +2,7 @@
 title: "iDeCo転職・退職時の手続き完全ガイド2026"
 date: 2026-07-21
 draft: false
-tags: ["iDeCo", "転職", "退職", "確定拠出年金", "年金", "資産管理"]
+tags: ["iDeCo"]
 categories: ["NISA・iDeCo"]
 description: "転職・退職時にiDeCoはどうすればいい？移換先の選び方から手続きの流れ、期限まで徹底解説。放置すると6ヶ月で強制移換されるリスクも。状況別の対応チャートで確認できる2026年最新完全ガイドですわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-21-ideco-job-change-procedures-guide-2026.jpg"

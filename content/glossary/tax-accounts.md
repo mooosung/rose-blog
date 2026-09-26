@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "税金", "証券口座"]
+tags: ["用語集", "税金・確定申告", "米国株", "入門・基礎知識"]
 ---
 
 投資は「増やす」だけでなく「手続き」も大事ですの。税金や口座の実務は面倒でも、知らないと損をする話ばかりですわ 🌹

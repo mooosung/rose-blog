@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["AI活用術", "時短術", "特集"]
+tags: ["AI活用", "決算分析"]
 categories: ["AI活用術"]
 ---
 

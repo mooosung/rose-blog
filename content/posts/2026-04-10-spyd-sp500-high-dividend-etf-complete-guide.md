@@ -2,8 +2,8 @@
 title: "SPYD徹底解説2026｜配当利回り・構成銘柄・SCHD比較"
 date: 2026-04-10
 draft: false
-tags: ["ETF", "高配当", "SPYD", "米国株", "配当投資", "資産運用", "SCHD", "VYM", "S&P500", "NISA"]
-categories: ["投資戦略・資産運用"]
+tags: ["ETF", "米国株", "高配当・配当再投資", "インデックス投資", "SCHD"]
+categories: ["ETF・投資信託"]
 description: "SPYDはS&P500の高配当上位80銘柄に投資するETF。配当利回り・構成銘柄・SCHDやVYMとの違い・NISAでの買い方まで2026年最新情報で徹底解説します。高配当投資初心者にも最適。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-10-spyd-sp500-high-dividend-etf-complete-guide.jpg"
 featureimagecaption: ""

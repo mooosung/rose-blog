@@ -2,7 +2,7 @@
 title: "GitLab（GTLB）株分析2026｜AIがコードを書く時代、DevSecOpsは食われる側か勝つ側か"
 date: 2026-08-20
 draft: false
-tags: ["GitLab", "GTLB", "AI SaaS", "DevSecOps", "米国株", "成長株", "AIエージェント"]
+tags: ["銘柄分析", "米国株", "AI SaaS・ソフトウェア", "決算分析", "成長株"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "GitLab（GTLB）株を2026年8月最新データで徹底分析。高値から75%下落して2.3倍に戻した株価、23%成長とFCFマージン26%の実像、14%人員削減とDuo Agent Platform、空売り13.8%の意味を個人投資家目線で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis.jpg"

@@ -6,7 +6,7 @@ featured: false
 description: "利回りの高さだけで高配当株を選ぶと減配の罠にはまります。AT&Tやインテルの減配事例を交え、配当性向・FCF配当性向・負債比率をチェックする実践的な5項目スクリーニング手法を解説し、減配リスクの低い銘柄を見極めるコツを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide.jpg"
 featureimagecaption: ""
-tags: ["高配当株", "配当性向", "フリーキャッシュフロー", "減配リスク", "配当投資", "米国株", "インカム投資", "スクリーニング", "配当利回りの罠", "NISA"]
+tags: ["決算分析", "米国株", "高配当・配当再投資"]
 categories: ["高配当株・配当再投資"]
 ---
 

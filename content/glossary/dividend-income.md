@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "高配当ETF", "配当投資"]
+tags: ["高配当・配当再投資", "用語集", "ETF", "米国株", "VYM", "SCHD"]
 ---
 
 配当金生活に憧れる人は多いですけれど、まずは正しい用語から押さえておきましょう。高配当ETFとカバードコールETFは似て非なるものですのよ 🌹

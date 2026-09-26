@@ -4,7 +4,7 @@ date: 2026-03-04
 lastmod: 2026-09-10
 draft: false
 featured: false
-tags: ["半導体製造装置", "東京エレクトロン", "ASML", "レーザーテック", "EUV", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA", "日本株", "米国株"]
+tags: ["半導体", "日本株", "決算分析"]
 categories: ["ツルハシ投資"]
 description: "半導体製造装置メーカーの世界シェアを一次情報で整理しましたわ。ASMLのEUV独占、東京エレクトロンのコータ/デベロッパ91%、レーザーテックのEUVマスク検査まで、各社の最新決算と工程別シェア、そして3社が競合ではない理由を数字で解説いたします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-04-semiconductor-equipment-tel-asml-lasertec.jpg"

@@ -2,7 +2,7 @@
 title: "FDE（Forward Deployed Engineer）とは？｜PalantirからOpenAI・Anthropic・Databricksへ拡大する現場常駐エンジニア戦略と投資上の含意"
 date: 2026-06-18
 draft: false
-tags: ["FDE", "Palantir", "PLTR", "OpenAI", "Anthropic", "Databricks", "AI SaaS", "エンタープライズAI", "米国株", "エンジニア"]
+tags: ["AI SaaS・ソフトウェア", "Palantir", "Databricks"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "FDE（Forward Deployed Engineer）はPalantirが発明した顧客常駐エンジニア戦略がAI時代の業界標準に。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-18-forward-deployed-engineer-ai-palantir-openai-anthropic.jpg"

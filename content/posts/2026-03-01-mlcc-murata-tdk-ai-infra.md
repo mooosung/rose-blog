@@ -3,7 +3,7 @@ title: "MLCC（積層セラミックコンデンサ）とは？村田製作所�
 date: 2026-03-01
 draft: false
 featured: true
-tags: ["MLCC", "積層セラミックコンデンサ", "村田製作所", "TDK", "電子部品株", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA", "日本株"]
+tags: ["日本株", "成長株", "AIインフラ"]
 categories: ["ツルハシ投資"]
 description: "AI時代のツルハシ株「MLCC（積層セラミックコンデンサ）」を徹底解説。村田製作所（6981）・TDK（6762）・ニチコンの強みと収益構造、AI・EV需要での成長性をNISA・長期投資の観点から初心者にもわかりやすく分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-01-mlcc-murata-tdk-ai-infra.jpg"

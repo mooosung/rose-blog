@@ -2,8 +2,8 @@
 title: "「AIエージェント構築代行」という副業スキル投資【2026年版】"
 date: 2026-08-16
 draft: false
-tags: ["副業", "スキル投資", "AIエージェント", "フリーランス", "資産形成"]
-categories: ["スキル投資・副業戦略"]
+tags: ["副業・スキル投資", "AI活用"]
+categories: ["AI活用術"]
 description: "企業のAI導入を代行する「AIエージェント構築代行」が2026年に急拡大している新しい副業市場を解説。案件単価の相場、必要スキル、始め方ロードマップまで人的資本投資の視点で整理しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-16-ai-agent-building-agency-side-hustle-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

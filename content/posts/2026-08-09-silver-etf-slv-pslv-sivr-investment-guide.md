@@ -2,8 +2,8 @@
 title: "銀（シルバー）投資完全ガイド2026 - SLV・PSLV・SIVR徹底比較とポートフォリオ活用術"
 date: 2026-08-09
 draft: false
-tags: ["シルバー投資", "銀ETF", "SLV", "PSLV", "SIVR", "オルタナティブ投資", "インフレ対策", "貴金属"]
-categories: ["オルタナティブ投資"]
+tags: ["ETF", "金・コモディティ", "ポートフォリオ・分散"]
+categories: ["ETF・投資信託"]
 description: "金の陰に隠れがちな「銀」投資に注目。SLV・PSLV・SIVRの経費率・保有方式の違いから、太陽光パネル需要という産業的な追い風、ポートフォリオへの組み入れ比率まで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-09-silver-etf-slv-pslv-sivr-investment-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

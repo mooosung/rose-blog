@@ -2,8 +2,8 @@
 title: "積立投資 vs 一括投資を徹底比較｜シミュレーションで見る最適な投資タイミング戦略"
 date: 2026-04-10
 draft: false
-tags: ["積立投資", "一括投資", "ドルコスト平均法", "投資戦略", "NISA", "iDeCo", "長期投資", "インデックス投資"]
-categories: ["投資入門"]
+tags: ["積立投資", "入門・基礎知識", "長期投資", "リスク管理・暴落対策", "NISA"]
+categories: ["投資戦略・資産運用"]
 description: "積立投資（ドルコスト平均法）と一括投資、どちらが有利かをシミュレーションで徹底検証。市場の暴落局面でも続けられる投資戦略の選び方と、NISA・iDeCoでの実践法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment.jpg"
 featureimagecaption: ""

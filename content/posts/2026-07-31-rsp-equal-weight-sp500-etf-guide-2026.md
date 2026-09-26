@@ -2,8 +2,8 @@
 title: "等ウェイトS&P500 ETF「RSP」とは｜SPYとの違いと選び方【2026年最新版】"
 date: 2026-07-31
 draft: false
-tags: ["ETF", "RSP", "S&P500", "等ウェイト", "米国株", "長期投資", "インデックス投資"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "米国株", "インデックス投資", "ポートフォリオ・分散"]
+categories: ["ETF・投資信託"]
 description: "S&P500に均等配分投資する「RSP（等ウェイトETF）」を徹底解説。時価総額加重のSPYとの違い、マグニフィセント7集中リスクへの対策、2026年の実績を分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-31-rsp-equal-weight-sp500-etf-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

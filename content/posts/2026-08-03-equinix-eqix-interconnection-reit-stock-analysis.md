@@ -2,7 +2,7 @@
 title: "Equinix（EQIX）とは？決算後14%急騰の相互接続REITを徹底解説【2026年版】"
 date: 2026-08-03
 draft: false
-tags: ["ツルハシ投資", "AIインフラ株", "REIT", "Equinix", "EQIX", "データセンター", "米国株"]
+tags: ["銘柄分析", "米国株", "REIT・不動産", "決算分析", "成長株"]
 categories: ["ツルハシ投資"]
 description: "Equinix（EQIX）のビジネスモデル・決算後14%急騰の背景・配当成長率13%の実力・新規予約42%増の中身を徹底解説。AI推論需要を取り込む相互接続REITの強みとリスクをまとめました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-03-equinix-eqix-interconnection-reit-stock-analysis.jpg"

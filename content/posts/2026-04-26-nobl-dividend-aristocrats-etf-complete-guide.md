@@ -2,8 +2,8 @@
 title: "NOBL（米国配当貴族ETF）完全ガイド｜25年連続増配企業に投資するメリットと注意点"
 date: 2026-04-26
 draft: false
-tags: ["ETF", "配当投資", "米国株", "NOBL", "長期投資", "配当貴族", "SCHD", "VYM", "増配株", "NISA"]
-categories: ["投資戦略・資産運用"]
+tags: ["ETF", "米国株", "高配当・配当再投資", "長期投資"]
+categories: ["ETF・投資信託"]
 description: "米国配当貴族ETF「NOBL」の特徴・構成銘柄・配当利回り・メリット・デメリットをわかりやすく解説。SCHD・VYMとの徹底比較と、NISAでの活用法も紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-26-nobl-dividend-aristocrats-etf-complete-guide.jpg"
 featureimagecaption: ""

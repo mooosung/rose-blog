@@ -6,7 +6,7 @@ featured: true
 description: "500万円の元手から配当再投資で20年間積み立てた場合の資産推移をシミュレーション。DRIP戦略・NISA活用・配当生活への段階的ステップと、高配当ETF（VYM・SCHD）を使った配当金の賢い使い方を詳しく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-04-500man-dividend-life-portfolio-simulation.jpg"
 featureimagecaption: ""
-tags: ["配当生活", "資産シミュレーション", "配当再投資", "高配当株", "FIRE", "資産形成", "複利", "VYM", "SCHD", "NISA"]
+tags: ["高配当・配当再投資", "長期投資", "米国株", "積立投資"]
 categories: ["高配当株・配当再投資"]
 ---
 

@@ -2,8 +2,8 @@
 title: "iDeCo掛金上限が2027年1月から激変｜会社員は月2.7倍・加入年齢70歳まで拡大の中身"
 date: 2026-08-18
 draft: false
-tags: ["iDeCo", "拠出限度額", "制度改正", "確定拠出年金", "老後資金", "節税", "NISA・iDeCo"]
-categories: ["NISA・iDeCo完全攻略"]
+tags: ["iDeCo", "老後資金・FIRE"]
+categories: ["NISA・iDeCo"]
 description: "iDeCoの掛金拠出限度額が2027年1月から大きく変わります。会社員の上限が月2.3万円から6.2万円へ引き上げられる改正の中身、自営業者・専業主婦の変更点、加入可能年齢70歳までの拡大、今から準備しておくべきことを整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-18-ideco-2027-contribution-limit-reform-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

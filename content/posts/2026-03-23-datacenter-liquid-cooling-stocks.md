@@ -3,8 +3,8 @@ title: "データセンター冷却関連株まとめ【2026年版】｜液冷�
 date: 2026-03-23
 draft: false
 featured: true
-tags: ["データセンター", "液冷", "リキッドクーリング", "AI投資", "ツルハシ投資", "Vertiv", "Ecolab", "SMC", "長期投資", "NISA"]
-categories: ["AI活用術"]
+tags: ["AIインフラ", "米国株", "銘柄分析", "成長株", "データセンター・電力", "Vertiv"]
+categories: ["ツルハシ投資"]
 description: "AIデータセンターの消費電力急増で注目される液冷（リキッドクーリング）技術とその関連株を網羅的に解説。Vertiv・Ecolab・SMCなど注目銘柄の強みと投資妙味をNISA・長期投資の観点から徹底分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-23-datacenter-liquid-cooling-stocks.jpg"
 featureimagecaption: ""

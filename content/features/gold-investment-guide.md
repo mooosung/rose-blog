@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["金投資", "ゴールドETF", "特集"]
+tags: ["ETF", "金・コモディティ", "ポートフォリオ・分散"]
 categories: ["オルタナティブ投資"]
 ---
 

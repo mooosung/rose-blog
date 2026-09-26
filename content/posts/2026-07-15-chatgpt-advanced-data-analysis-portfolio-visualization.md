@@ -2,7 +2,7 @@
 title: "ChatGPT Advanced Data Analysisで投資ポートフォリオを可視化する完全ガイド2026"
 date: 2026-07-15
 draft: false
-tags: ["AI活用", "ChatGPT", "生産性ハック", "投資管理", "ポートフォリオ", "データ分析", "可視化", "NISA", "資産管理", "自動化"]
+tags: ["AI活用", "ポートフォリオ・分散"]
 categories: ["AI活用術"]
 description: "ChatGPTのAdvanced Data Analysis（旧Code Interpreter）を使って投資ポートフォリオをグラフ・チャートで可視化する方法を徹底解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-15-chatgpt-advanced-data-analysis-portfolio-visualization.jpg"

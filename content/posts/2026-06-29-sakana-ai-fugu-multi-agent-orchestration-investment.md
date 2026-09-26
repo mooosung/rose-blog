@@ -2,8 +2,8 @@
 title: "Sakana Fugu（サカナ・フグ）とは？使い方・性能・最新動向と、投資家が見るべき関連銘柄【2026年8月更新】"
 date: 2026-06-29
 slug: 2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment
-categories: ["ツルハシ投資"]
-tags: ["Sakana AI", "フグ", "Fugu Ultra", "マルチエージェント", "日本AI", "AIスタートアップ", "AI投資", "輸出規制", "生成AI", "AI主権"]
+categories: ["AI活用術"]
+tags: ["AI活用", "AI SaaS・ソフトウェア"]
 description: "Sakana Fugu（サカナ・フグ）の使い方を解説。2026年8月13日からSakana Chatで無料利用可能に。Claude Code連携やFugu-Cyberなど最新動向に加え、Sakana AIは未上場のため「大和証券グループ・NVIDIA」など関連銘柄から見る投資視点までまとめました。"
 summary: "ふぐ——毒があって、でも食べれば絶品。Sakana AIの新モデル「Fugu Ultra」が2026年6月22日に正式リリースされ、AnthropicのミュトスやGPT 5.4と肩を並べるベンチマークを達成しましたわ。輸出規制に依存しない「AI主権」という新概念とともに、投資家として絶対に見ておくべき一手を解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment.jpg"

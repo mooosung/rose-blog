@@ -2,7 +2,7 @@
 title: "AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】"
 date: 2026-06-08
 draft: false
-tags: ["ツルハシ投資", "データセンター", "EPC", "電気工事", "AIインフラ", "Quanta Services", "MYR Group", "Aecom", "米国株", "インフラ株"]
+tags: ["米国株", "データセンター・電力", "AIインフラ", "銘柄分析", "成長株"]
 categories: ["ツルハシ投資"]
 description: "AIデータセンターの急増で需要が爆発する電気工事・EPC（設計・調達・建設）企業を分析。Quanta Services・MYR Group・Aecomなど主要銘柄の投資ポイント・業績・成長性をツルハシ投資の視点で解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-08-datacenter-construction-epc-stocks.jpg"

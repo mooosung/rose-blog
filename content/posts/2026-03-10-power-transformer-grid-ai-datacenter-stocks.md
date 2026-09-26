@@ -2,8 +2,8 @@
 title: "変圧器（トランス）不足とAI｜日立エナジー・ダイヘン・明電舎など注目インフラ株を解説"
 date: 2026-03-10
 draft: false
-tags: ["変圧器", "トランス", "送電インフラ", "日立エナジー", "ダイヘン", "明電舎", "Siemens Energy", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA"]
-categories: ["ツルハシ投資", "AI活用術"]
+tags: ["データセンター・電力", "日本株", "AIインフラ", "長期投資", "成長株"]
+categories: ["ツルハシ投資"]
 description: "AIデータセンター急増で世界的な変圧器不足が深刻化。変圧器の仕組みからAI時代のボトルネックになる理由、日立エナジー・ダイヘン（6622）・明電舎（6508）などの注目銘柄を長期投資・NISA向けに解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-10-power-transformer-grid-ai-datacenter-stocks.jpg"
 featureimagecaption: ""

@@ -6,8 +6,8 @@ featured: false
 description: "米国株配当の二重課税問題を徹底解説。外国税額控除の仕組みと確定申告の手順、NISA成長投資枠活用法、特定口座とNISAの使い分け戦略まで、高配当投資家が知っておくべき税金対策を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide.jpg"
 featureimagecaption: ""
-tags: ["税金対策", "外国税額控除", "NISA", "高配当株", "確定申告", "米国株", "二重課税", "配当投資", "節税", "特定口座"]
-categories: ["高配当株・配当再投資"]
+tags: ["税金・確定申告", "米国株", "NISA", "高配当・配当再投資"]
+categories: ["NISA・iDeCo"]
 ---
 
 米国株の高配当銘柄に投資していると、配当金から二重に税金が引かれていることに気づく方も多いでしょう。本記事では、**米国株配当にかかる二重課税の仕組み**と、**外国税額控除・NISA活用によって手取り配当を最大化する方法**を詳しく解説します。

@@ -2,7 +2,7 @@
 title: "ChatGPT×マネーフォワードMEで家計簿を自動分析！浮いたお金をNISA積立に回すAI家計管理術2026年版"
 date: 2026-08-05
 draft: false
-tags: ["AI活用", "ChatGPT", "Claude", "マネーフォワード", "家計管理", "家計簿", "新NISA", "生産性ハック", "資産形成", "個人投資家"]
+tags: ["AI活用", "積立投資", "NISA"]
 categories: ["AI活用術"]
 description: "マネーフォワードMEの家計簿データをChatGPT・Claudeに読み込ませて支出を自動分析する方法を解説。無駄遣いの発見からNISA積立額の最適化まで、投資資金を捻出するAI家計管理の実践手順をまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-05-ai-household-budget-chatgpt-moneyforward-nisa-guide.jpg"

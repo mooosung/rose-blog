@@ -2,7 +2,7 @@
 title: "GeminiとGOOGLEFINANCE関数でポートフォリオを自動管理！スプレッドシート×AIリバランス通知ガイド2026年版"
 date: 2026-08-12
 draft: false
-tags: ["AI活用", "Gemini", "Googleスプレッドシート", "GOOGLEFINANCE", "ポートフォリオ管理", "リバランス", "新NISA", "生産性ハック", "資産形成", "個人投資家"]
+tags: ["AI活用", "ポートフォリオ・分散"]
 categories: ["AI活用術"]
 description: "GoogleスプレッドシートのGOOGLEFINANCE関数とGemini機能を組み合わせて、保有銘柄の時価評価・配当・資産配分を自動追跡する方法を解説。リバランス判定まで自動化する具体的な数式とプロンプトをまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-12-gemini-googlefinance-portfolio-tracking-rebalancing-guide.jpg"

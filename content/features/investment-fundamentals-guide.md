@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["資産形成", "リスク管理", "特集"]
+tags: ["リスク管理・暴落対策", "長期投資", "積立投資", "ポートフォリオ・分散", "入門・基礎知識"]
 categories: ["投資戦略・資産運用"]
 ---
 

@@ -2,7 +2,7 @@
 title: "Total Shareholder Yieldとは？配当利回りだけに頼らない高配当株の見分け方"
 date: 2026-08-15
 draft: false
-tags: ["高配当株", "Total Shareholder Yield", "自社株買い", "配当投資", "SCHD", "SYLD"]
+tags: ["用語集", "米国株", "高配当・配当再投資"]
 categories: ["高配当株・配当再投資"]
 description: "Total Shareholder Yield（総株主還元利回り）の計算方法と活用法を解説。配当利回り・自社株買い・新株発行を総合評価し、本当に株主に報いる優良銘柄を見極めるための実践ガイドです。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-15-total-shareholder-yield-dividend-stock-guide.jpg"

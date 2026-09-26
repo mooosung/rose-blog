@@ -2,7 +2,7 @@
 title: "Atlassian（TEAM）株分析2026：AIエージェント「Rovo」は株価反転のカギとなるか"
 date: 2026-08-06
 draft: false
-tags: ["Atlassian", "TEAM", "AI SaaS", "Rovo", "米国株", "成長株", "Jira", "Confluence"]
+tags: ["銘柄分析", "米国株", "AI SaaS・ソフトウェア", "決算分析"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Jira・ConfluenceでおなじみのAtlassian（TEAM）を徹底分析。AIエージェント「Rovo」戦略、直近の業績、52週で4割近く下落した株価のバリュエーションを個人投資家目線で解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-06-atlassian-team-ai-rovo-stock-analysis.jpg"

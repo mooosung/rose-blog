@@ -4,7 +4,7 @@ aliases: ["/posts/2026-05-21-bond-etf-bnd-agg-tlt-complete-guide/"]
 date: 2026-06-26
 slug: 2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide
 categories: ["ETF・投資信託"]
-tags: ["債券ETF", "AGG", "BND", "TLT", "リスクヘッジ", "分散投資", "ポートフォリオ", "金利", "NISA", "長期投資"]
+tags: ["ETF", "債券", "ポートフォリオ・分散", "長期投資", "リスク管理・暴落対策"]
 description: "AGG・BND・TLTの主要債券ETF3本を徹底比較。金利と価格の逆相関の仕組みから2026年の金利環境を踏まえた保有戦略まで、株式との組み合わせ方と長期投資へのリスクヘッジ効果をわかりやすく解説します。"
 summary: "株が下がる時に債券が上がる——本当にそうなの？AGG・BND・TLTの違いと2026年の金利環境を踏まえた組み合わせ戦略を解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide.jpg"

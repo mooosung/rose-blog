@@ -2,7 +2,7 @@
 title: "AIデータセンターの水ツルハシ投資2026｜Xylemが1年で21%下げ栗田工業が55%上げた理由"
 date: 2026-08-24
 draft: false
-tags: ["ツルハシ投資", "AIインフラ", "データセンター", "水処理", "Xylem", "栗田工業", "液冷", "WUE"]
+tags: ["銘柄分析", "AIインフラ", "米国株"]
 categories: ["ツルハシ投資"]
 description: "AIデータセンターの水需要は爆発しているのに、水株の代表Xylemは1年で21%下落。一方で栗田工業は55%上昇しましたわ。同じ「水」テーマで明暗が分かれた構造的な理由を、WUEの実データと株価で検証します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita.jpg"

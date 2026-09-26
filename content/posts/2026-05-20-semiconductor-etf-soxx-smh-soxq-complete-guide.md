@@ -3,7 +3,7 @@ title: "SOXQ・SOXX・SMH比較｜SBI・楽天で買える？"
 date: 2026-05-20
 lastmod: 2026-08-25
 draft: false
-tags: ["半導体ETF", "SOXX", "SMH", "SOXQ", "ETF", "AI投資", "NISA", "長期投資", "テクノロジー株", "SOX指数"]
+tags: ["半導体", "ETF", "米国株"]
 categories: ["ETF・投資信託"]
 description: "SOXQ・SOXX・SMHの経費率と純資産を公式データで比較。SOXQがSBI証券の取扱一覧に無いという事実と、SOX指数連動の投資信託という代替案まで解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-20-semiconductor-etf-soxx-smh-soxq-complete-guide.jpg"

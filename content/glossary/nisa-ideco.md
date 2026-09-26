@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "NISA", "iDeCo"]
+tags: ["NISA", "用語集", "iDeCo", "入門・基礎知識", "税金・確定申告", "老後資金・FIRE"]
 ---
 
 税制優遇口座は種類が多くて混乱しやすいですわ。新NISA・iDeCo・企業型DCの違いと、それぞれの実践的な使い方をまとめましたの 🌹

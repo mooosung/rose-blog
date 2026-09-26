@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["ツルハシ投資", "AI半導体", "特集"]
+tags: ["AIインフラ", "データセンター・電力", "半導体", "成長株"]
 categories: ["ツルハシ投資"]
 ---
 

@@ -3,7 +3,7 @@ title: "Palantir（PLTR）徹底解説【2026年版】｜AI SaaSの本命銘柄�
 date: 2026-03-19
 draft: false
 featured: false
-tags: ["Palantir", "PLTR", "AI SaaS", "AIP", "米国株", "ソフトウェア銘柄", "成長株", "長期投資", "AI銘柄", "NISA"]
+tags: ["銘柄分析", "AI SaaS・ソフトウェア", "米国株", "成長株", "Palantir"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Palantir Technologies（PLTR）のビジネスモデル・AI Platform（AIP）の強み・業績推移・バリュエーションリスクをわかりやすく解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-19-palantir-pltr-ai-saas-stock-analysis.jpg"

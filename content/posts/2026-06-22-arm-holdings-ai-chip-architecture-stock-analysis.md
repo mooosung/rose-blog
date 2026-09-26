@@ -2,7 +2,7 @@
 title: "Arm Holdings（ARM）完全分析2026年版｜AIチップ設計の黒幕は真のツルハシ銘柄か？投資価値を徹底検証"
 date: 2026-06-22
 draft: false
-tags: ["Arm Holdings", "ARM", "AIインフラ株", "ツルハシ投資", "半導体", "チップ設計", "米国株", "NVIDIA", "Apple", "長期投資"]
+tags: ["銘柄分析", "半導体", "AIインフラ", "成長株", "米国株", "決算分析"]
 categories: ["ツルハシ投資"]
 description: "スマホからAIサーバーまで、あらゆるチップの設計図を提供するArm Holdings（ARM）。Apple・NVIDIA・Qualcommに設計IPをライセンスする「真のツルハシ」の投資価値・業績・バリュエーションを徹底分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-22-arm-holdings-ai-chip-architecture-stock-analysis.jpg"

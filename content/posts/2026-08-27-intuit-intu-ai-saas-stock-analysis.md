@@ -2,7 +2,7 @@
 title: "Intuit（INTU）株分析2026｜売上14%増・EPS20%増でも株価は1年で半値、AI SaaSに何が起きたのか"
 date: 2026-08-27
 draft: false
-tags: ["Intuit", "INTU", "AI SaaS", "米国株", "決算分析", "TurboTax", "QuickBooks"]
+tags: ["銘柄分析", "米国株", "決算分析", "成長株"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Intuit（INTU）を2026年8月最新決算で徹底分析。FY26は売上21.4億ドル・14%増、EPS20%増と好調なのに株価は1年で48%下落。顧客増の鈍化、TurboTaxの価格敗北、来期9%成長ガイダンス、そして非GAAP定義変更の罠まで数字で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-27-intuit-intu-ai-saas-stock-analysis.jpg"

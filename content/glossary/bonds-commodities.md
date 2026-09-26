@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "債券", "コモディティ"]
+tags: ["用語集", "債券", "ETF", "金・コモディティ"]
 ---
 
 株式だけがポートフォリオではありませんの。値動きの異なる資産を組み合わせることで、下落局面の耐性が変わってきますわ 🌹

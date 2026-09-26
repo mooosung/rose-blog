@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "ETF"]
+tags: ["ETF", "米国株", "用語集", "インデックス投資", "入門・基礎知識"]
 ---
 
 ETFはティッカーの数だけ違いがありますの。基礎用語から主要ティッカーの使い分けまで、迷ったらここに戻ってきてくださいまし 🌹

@@ -2,8 +2,8 @@
 title: "AI時代のフリーランス副業戦略2026年版｜稼げるスキルと差別化の秘訣"
 date: 2026-06-07
 draft: false
-tags: ["副業", "フリーランス", "AI活用", "スキルアップ", "キャリア", "プロンプトエンジニアリング", "副収入", "在宅ワーク", "AI時代", "生産性向上"]
-categories: ["スキル投資・副業戦略"]
+tags: ["AI活用", "副業・スキル投資"]
+categories: ["AI活用術"]
 description: "AI時代に生き残り稼げるフリーランス・副業戦略を徹底解説。プロンプトエンジニアリング・業務自動化・AIコンテンツ制作など需要急増スキルの習得方法から、月収アップの差別化戦略まで2026年最新情報でお届けします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-07-ai-freelance-strategy-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

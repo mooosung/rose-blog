@@ -2,8 +2,8 @@
 title: "バッファーETF完全ガイド2026｜BUFR・BALTの下落防御と、その代償を実データで検証"
 date: 2026-08-21
 draft: false
-tags: ["ETF", "バッファーETF", "ディファインド・アウトカム", "BUFR", "BALT", "SFLR", "米国株", "リスク管理"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "リスク管理・暴落対策", "米国株"]
+categories: ["ETF・投資信託"]
 description: "下落の一定幅を吸収する「バッファーETF（ディファインド・アウトカムETF）」を徹底解説。BUFR・BALT・SFLR・PJULの実データでS&P500との差を検証し、守りの代償と向き不向きを明らかにします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-21-buffer-etf-defined-outcome-bufr-balt-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

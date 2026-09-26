@@ -4,8 +4,8 @@ date: 2026-04-24
 draft: false
 noindex: true
 canonical: "https://rozenmaier.com/posts/ideco-30s-beginners-guide-tax-saving/"
-tags: ["iDeCo", "個人型確定拠出年金", "節税", "老後資金", "資産運用"]
-categories: ["投資戦略・資産運用"]
+tags: ["iDeCo", "老後資金・FIRE", "入門・基礎知識", "税金・確定申告", "長期投資"]
+categories: ["NISA・iDeCo"]
 description: "iDeCo（個人型確定拠出年金）の仕組み、税制メリット、運用商品の選び方、受け取り方まで2026年最新情報で徹底解説。新NISAとの併用戦略も紹介。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-24-ideco-complete-guide-2026.jpg"
 featureimagecaption: ""

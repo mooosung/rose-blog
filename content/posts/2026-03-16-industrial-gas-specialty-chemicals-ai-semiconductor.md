@@ -3,7 +3,7 @@ title: "産業用ガス・特殊化学品株とは？大陽日酸・Linde・Air 
 date: 2026-03-16
 slug: "industrial-gas-specialty-chemicals-ai-semiconductor"
 description: "半導体に不可欠な産業用ガス・特殊化学品株を徹底解説。日本酸素HD（旧・大陽日酸／4091）・Linde・Air Liquideの違い、オンサイト供給という参入障壁、ネオン供給ショックの教訓、NISAでの買い方までまとめました。"
-tags: ["産業用ガス", "特殊化学品", "大陽日酸", "Linde", "Air Liquide", "半導体", "ツルハシ投資", "AIインフラ株", "長期投資", "NISA"]
+tags: ["日本株", "AIインフラ"]
 categories: ["ツルハシ投資"]
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-16-industrial-gas-specialty-chemicals-ai-semiconductor.jpg"
 featureimagecaption: ""

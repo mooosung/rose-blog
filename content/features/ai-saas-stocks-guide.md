@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["AI SaaS", "AI株", "特集"]
+tags: ["AI SaaS・ソフトウェア", "米国株", "銘柄分析", "成長株", "Palantir"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 ---
 

@@ -2,7 +2,7 @@
 title: "AI文字起こしツールで決算説明会を10分で読み解く方法【2026年版】Otter・Notta・Whisper活用術"
 date: 2026-07-29
 draft: false
-tags: ["AI活用術", "文字起こし", "決算説明会", "生産性ハック", "Otter.ai"]
+tags: ["AI活用", "AI SaaS・ソフトウェア", "決算分析"]
 categories: ["AI活用術"]
 description: "Otter.ai・Notta・Whisper・Claude/ChatGPTを組み合わせて、英語・日本語の決算説明会（アーニングスコール）を短時間で要約・分析する実践ワークフローを解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-29-ai-transcription-earnings-call-analysis-guide.jpg"

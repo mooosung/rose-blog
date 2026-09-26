@@ -2,7 +2,7 @@
 title: "株価暴落時にすべき行動5選｜パニック売りを避けて資産を守る投資戦略"
 date: 2026-04-09
 draft: false
-tags: ["株価暴落", "投資戦略", "長期投資", "資産運用", "リスク管理", "ドルコスト平均法", "リバランス", "ETF", "インデックス投資"]
+tags: ["リスク管理・暴落対策", "ポートフォリオ・分散", "積立投資", "長期投資"]
 categories: ["投資戦略・資産運用"]
 description: "株価が急落したとき投資家はどう動くべきか。パニック売りを避け暴落を「チャンス」に変える5つの実践的投資戦略を解説。リバランス・ドルコスト平均法の活用法も紹介。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-09-market-crash-investment-strategy-guide.jpg"

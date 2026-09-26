@@ -2,7 +2,7 @@
 title: "シリコンウェハとは？SUMCO・信越化学がAI時代に不可欠な理由【投資家向け完全解説】"
 date: 2026-02-28
 draft: false
-tags: ["シリコンウェハ", "SUMCO", "信越化学", "半導体素材", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA", "日本株"]
+tags: ["日本株", "半導体", "長期投資", "AIインフラ"]
 categories: ["ツルハシ投資"]
 description: "シリコンウェハとは何かをやさしく解説。SUMCO（3436）と信越化学（4063）の違い、300mm・450mmウェハのサイズ問題、寡占構造が崩れない理由、NISAでの買い方まで、AI時代の長期投資視点でまとめました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-28-silicon-wafer-sumco-shinetsu-ai.jpg"

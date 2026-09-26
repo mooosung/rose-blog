@@ -3,7 +3,7 @@ title: "ICパッケージ基板（ABF基板）とは？イビデン・新光電�
 date: 2026-03-05
 draft: false
 featured: true
-tags: ["ICパッケージ基板", "ABF基板", "プリント基板", "イビデン", "新光電気工業", "Unimicron", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA"]
+tags: ["AIインフラ", "日本株", "成長株", "半導体", "長期投資", "銘柄分析"]
 categories: ["ツルハシ投資"]
 description: "AIチップを動かすために不可欠なICパッケージ基板（ABF基板）を徹底解説。イビデン（4062）・新光電気工業・Unimicronの強みと競争優位性、AI需要での成長性をNISA・長期投資向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-05-pcb-ic-package-substrate-ibiden-ai.jpg"

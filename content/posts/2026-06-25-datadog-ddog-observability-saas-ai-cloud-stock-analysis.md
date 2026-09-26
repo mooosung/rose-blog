@@ -3,7 +3,7 @@ title: "Datadog（DDOG）株 徹底分析2026年版｜AI・クラウド可観測
 aliases: ["/posts/2026-04-02-datadog-ddog-ai-observability-stock-analysis/"]
 date: 2026-06-25
 draft: false
-tags: ["Datadog", "DDOG", "AI SaaS", "米国株", "クラウド株", "可観測性", "オブザーバビリティ", "株式投資", "LLM", "長期投資"]
+tags: ["銘柄分析", "米国株", "成長株", "AI SaaS・ソフトウェア", "決算分析"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Datadog（DDOG）はAIとクラウドの急拡大を追い風に成長を続けるオブザーバビリティSaaS企業。NRR110%超・LLM監視機能を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis.jpg"

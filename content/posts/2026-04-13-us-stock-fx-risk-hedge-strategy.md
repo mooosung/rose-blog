@@ -2,7 +2,7 @@
 title: "米国株の為替リスク完全ガイド｜円高でも負けないヘッジ戦略と長期投資の考え方"
 date: 2026-04-13
 draft: false
-tags: ["為替リスク", "米国株", "ドル円", "ヘッジ", "投資戦略", "円高", "為替ヘッジ", "ETF", "長期投資"]
+tags: ["米国株", "リスク管理・暴落対策"]
 categories: ["投資戦略・資産運用"]
 description: "米国株に投資する日本人が直面する為替リスクを徹底解説。円高局面での損失を最小化する実践的なヘッジ戦略と、ドルコスト平均法・為替ヘッジETFの活用法を初心者向けに紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-13-us-stock-fx-risk-hedge-strategy.jpg"

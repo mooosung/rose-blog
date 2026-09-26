@@ -2,7 +2,7 @@
 title: "AIに「悪魔の代弁者」をやらせる投資プロンプト術｜買う前に自分の判断を論破させる7つの型"
 date: 2026-08-26
 draft: false
-tags: ["AI活用", "プロンプト", "確証バイアス", "投資判断", "ChatGPT", "Gemini", "Claude", "生産性ハック", "個人投資家"]
+tags: ["AI活用"]
 categories: ["AI活用術"]
 description: "AIは基本的にあなたに賛成してしまいます。だからこそ「反対意見を作らせる」使い方が効きます。買う前に自分の投資判断を論破させる悪魔の代弁者プロンプトを7つの型で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing.jpg"

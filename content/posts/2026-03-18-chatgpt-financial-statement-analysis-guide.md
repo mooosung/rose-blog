@@ -6,7 +6,7 @@ featured: false
 description: "ChatGPT・Claudeを使って企業の決算書（PL・BS・CF）を素早く分析するAI活用術を徹底解説。初心者でもすぐ使えるプロンプト例付きで、損益計算書・貸借対照表・キャッシュフロー計算書の読み方を実践的に紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-18-chatgpt-financial-statement-analysis-guide.jpg"
 featureimagecaption: ""
-tags: ["ChatGPT", "Claude", "AI活用", "決算分析", "財務諸表", "投資", "生産性", "決算書の読み方", "プロンプト"]
+tags: ["AI活用", "決算分析"]
 categories: ["AI活用術"]
 ---
 

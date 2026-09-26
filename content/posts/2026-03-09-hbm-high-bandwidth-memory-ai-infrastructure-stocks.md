@@ -3,8 +3,8 @@ title: "HBM（高帯域幅メモリ）とは？SK Hynix・Micron・SamsungがAI�
 date: 2026-03-09
 draft: false
 featured: false
-tags: ["HBM", "高帯域幅メモリ", "HBM3E", "HBM4", "SK Hynix", "Micron", "Samsung", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA"]
-categories: ["ツルハシ投資", "AI活用術"]
+tags: ["半導体", "AIインフラ"]
+categories: ["ツルハシ投資"]
 description: "AI向けGPUに不可欠な超高速メモリ「HBM（High Bandwidth Memory）」を徹底解説。HBM3E・HBM4の技術進化と競争構図を分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-09-hbm-high-bandwidth-memory-ai-infrastructure-stocks.jpg"
 featureimagecaption: ""

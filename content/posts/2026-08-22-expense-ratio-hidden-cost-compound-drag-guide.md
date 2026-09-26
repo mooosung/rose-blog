@@ -3,8 +3,8 @@ title: "信託報酬0.1％は高い？総経費率と実質コストの違い"
 date: 2026-08-22
 lastmod: 2026-09-18
 draft: false
-tags: ["投資信託", "信託報酬", "総経費率", "実質コスト", "eMAXIS Slim", "オルカン", "複利", "資産運用入門", "インデックス投資"]
-categories: ["投資マインド・資産運用入門"]
+tags: ["投資信託", "インデックス投資", "ETF", "米国株"]
+categories: ["ETF・投資信託"]
 description: "信託報酬0.1％は高いのか。交付運用報告書と交付目論見書の実数で、全世界株式・米国株式・新興国株式・アクティブの総経費率と実質コストを比較しました。信託報酬が同率0.05775％でも総経費率は0.07％と0.12％に分かれます。3つの数字の違いと確認手順も解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-22-expense-ratio-hidden-cost-compound-drag-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

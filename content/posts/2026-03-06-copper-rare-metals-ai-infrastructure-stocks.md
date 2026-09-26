@@ -3,7 +3,7 @@ title: "レアアース銘柄と銅関連株15社｜PER・ETFで比較"
 date: 2026-03-06
 lastmod: 2026-09-22
 draft: false
-tags: ["レアアース", "レアアース銘柄", "銅関連株", "銅ETF", "COPX", "REMX", "住友金属鉱山", "JX金属", "MP Materials", "米国株", "日本株", "ETF", "ツルハシ投資", "NISA"]
+tags: ["日本株", "米国株", "ETF", "金・コモディティ"]
 categories: ["ツルハシ投資"]
 description: "レアアース銘柄・銅関連株の日本株9社と米国株6社を、株価・予想PER・PBR・配当利回り・最低投資額で一覧にしました。数字は2026年9月18日／21日終値。銅ETFのCOPX・CPER・PICKとレアアースETFのREMXは運用会社の開示から実費用を比較しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-06-copper-rare-metals-ai-infrastructure-stocks.jpg"

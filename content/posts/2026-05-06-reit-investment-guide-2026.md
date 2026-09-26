@@ -3,8 +3,8 @@ title: "REIT（不動産投資信託）で始める不動産投資2026｜少額�
 aliases: ["/posts/2026-03-22-reit-beginner-guide-alternative-investment/", "/posts/2026-04-14-reit-investment-beginners-guide/"]
 date: 2026-05-06
 draft: false
-tags: ["REIT", "不動産投資", "不労所得", "投資信託", "資産運用", "配当投資", "NISA", "長期投資", "Jリート"]
-categories: ["投資戦略・資産運用"]
+tags: ["REIT・不動産", "入門・基礎知識"]
+categories: ["オルタナティブ投資"]
 description: "REIT（不動産投資信託）とは何か、仕組みからメリット・デメリット・国内REIT・米国REITの選び方まで徹底解説。数万円から始められる不動産投資の全貌をわかりやすく説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-06-reit-investment-guide-2026.jpg"
 featureimagecaption: ""

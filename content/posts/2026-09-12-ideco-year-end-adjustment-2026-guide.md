@@ -2,8 +2,8 @@
 title: "iDeCoの年末調整はここでつまずく｜控除証明書はいつ届く？令和8年分から変わる添付ルール"
 date: 2026-09-12
 draft: false
-tags: ["iDeCo", "年末調整", "小規模企業共済等掛金控除", "控除証明書", "節税", "NISA・iDeCo"]
-categories: ["NISA・iDeCo完全攻略"]
+tags: ["iDeCo", "税金・確定申告"]
+categories: ["NISA・iDeCo"]
 description: "iDeCoの掛金は全額が所得控除になりますが、年末調整で申告しなければ1円も戻ってきません。控除証明書が届く時期、証明書が発行されない人の条件、保険料控除申告書の書き方、そして令和8年分から変わる添付ルールまで、つまずきやすい順に整理しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-12-ideco-year-end-adjustment-2026-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

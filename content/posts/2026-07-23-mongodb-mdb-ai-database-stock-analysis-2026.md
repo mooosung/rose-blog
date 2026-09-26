@@ -2,7 +2,7 @@
 title: "MongoDB（MDB）株分析2026：AIネイティブデータベースは次の成長株か"
 date: 2026-07-23
 draft: false
-tags: ["MongoDB", "MDB", "AI SaaS", "データベース株", "米国株", "成長株", "Atlas"]
+tags: ["銘柄分析", "米国株", "成長株", "AI SaaS・ソフトウェア"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "MongoDB（MDB）の2026年AI戦略・業績・バリュエーションを徹底分析。Atlas Vector SearchやAI統合機能がどう収益成長に貢献するか、個人投資家目線で解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-23-mongodb-mdb-ai-database-stock-analysis-2026.jpg"

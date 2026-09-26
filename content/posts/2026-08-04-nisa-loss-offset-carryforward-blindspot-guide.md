@@ -6,8 +6,8 @@ featured: false
 description: "新NISA口座で損失を出しても、特定口座の利益と相殺できず、3年間の繰越控除も使えません。国税庁の一次情報をもとに、この制度上の盲点と、含み損銘柄をどう扱うべきかの実践的な対策を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-04-nisa-loss-offset-carryforward-blindspot-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
-tags: ["新NISA", "損益通算", "繰越控除", "NISA デメリット", "税金", "資産運用入門", "確定申告", "特定口座"]
-categories: ["NISA・iDeCo完全攻略"]
+tags: ["NISA", "税金・確定申告", "日本株"]
+categories: ["NISA・iDeCo"]
 ---
 
 「NISA口座は非課税だからお得」——その理解自体は正しいのですが、裏を返せば**NISA口座で損失を出しても、税制上はその損失が「なかったこと」になる**という重大な盲点があります。特定口座の利益と相殺（損益通算）することも、3年間繰り越して将来の利益と相殺（繰越控除）することもできません。本記事では国税庁の一次情報をもとに、この仕組みと、含み損銘柄を抱えたときにどう行動すべきかを解説します。

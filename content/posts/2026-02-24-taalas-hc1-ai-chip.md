@@ -3,7 +3,7 @@ title: "Taalasの株価は？2026年AMD買収で上場は消滅へ"
 date: 2026-02-24
 lastmod: 2026-09-07
 draft: false
-tags: ["Taalas", "AMD", "HC1", "AIチップ", "AI半導体", "推論", "M&A", "Cerebras", "未公開株", "米国株"]
+tags: ["半導体", "米国株", "銘柄分析", "AIインフラ"]
 categories: ["ツルハシ投資"]
 description: "Taalas（タアラス）の株価を2026年9月時点の一次情報で更新。2026年8月6日にAMDが買収の最終合意を発表し、Taalas単独の株価は存在しません。買収額・AMD株の反応・HC1チップの限界・未公開株詐欺への注意点まで出典つきで整理いたしますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-24-taalas-hc1-ai-chip.jpg"

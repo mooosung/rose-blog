@@ -8,7 +8,7 @@ featured: false
 description: "米国株・ETFの配当金を同じ銘柄に自動で再投資できるのは、主要ネット証券3社のうちマネックス証券だけ。SBI証券は非対応、楽天証券は米ドルMMFの自動買付。各社の公式ルールを引いて手順と手数料を整理し、VYM・SCHD・HDV・SPYDの10年実績から20年シミュレーションも引き直しました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
 featureimagecaption: ""
-tags: ["配当再投資", "DRIP", "高配当ETF", "VYM", "SCHD", "HDV", "SPYD", "SBI証券", "楽天証券", "マネックス証券", "NISA", "米国株"]
+tags: ["米国株", "高配当・配当再投資", "長期投資", "ETF"]
 categories: ["高配当株・配当再投資"]
 ---
 

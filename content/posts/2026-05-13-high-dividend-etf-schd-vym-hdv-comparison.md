@@ -4,8 +4,8 @@ aliases: ["/posts/2026-03-27-schd-us-dividend-etf-complete-guide/", "/posts/2026
 date: 2026-05-13
 lastmod: 2026-09-13
 draft: false
-tags: ["ETF", "高配当", "SCHD", "VYM", "HDV", "楽天SCHD", "SBI SCHD", "米国株", "NISA", "投資信託"]
-categories: ["投資戦略・資産運用"]
+tags: ["ETF", "米国株", "高配当・配当再投資", "VYM", "SCHD"]
+categories: ["ETF・投資信託"]
 description: "SCHD・VYM・HDVを2026年9月11日終値と一次資料で比較。実績分配金利回りはHDV3.39%・SCHD3.07%・VYM2.23%、VYMの経費率は0.04%、HDVは2026年7月から毎月分配に変更。楽天SCHD・SBI SCHDの実質コストと分配金実績も並べました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison.jpg"
 featureimagecaption: ""

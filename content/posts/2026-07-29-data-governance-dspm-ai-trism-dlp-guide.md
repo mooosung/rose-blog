@@ -2,7 +2,7 @@
 title: "データガバナンス製品完全ガイド2026｜DSPM・AI TRiSM・DLPの違いと日本の主要製品"
 date: 2026-07-29
 draft: false
-tags: ["データガバナンス", "DSPM", "AI TRiSM", "DLP", "サイバーセキュリティ"]
+tags: ["サイバーセキュリティ"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "DSPM・AI TRiSM・DLPの違いを整理し、Wiz・Varonis・Microsoft Purview・Prisma AIRS・Digital Artsなど日本で導入可能な具体的製品まで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-29-data-governance-dspm-ai-trism-dlp-guide.jpg"

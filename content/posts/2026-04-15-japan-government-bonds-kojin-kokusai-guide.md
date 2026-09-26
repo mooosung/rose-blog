@@ -3,8 +3,8 @@ title: "個人向け国債 変動10年は年1.95%｜固定5年2.24%との逆転"
 date: 2026-04-15
 lastmod: 2026-09-11
 draft: false
-tags: ["国債", "個人向け国債", "債券投資", "安全資産", "資産運用", "変動10年", "定期預金", "老後資金"]
-categories: ["投資入門"]
+tags: ["債券", "入門・基礎知識", "長期投資"]
+categories: ["投資戦略・資産運用"]
 description: "2026年9月募集の個人向け国債・変動10年（第198回）の適用利率は年1.95%（税引後1.5538575%）。固定5年2.24%・固定3年1.96%と並べ、メガバンク普通預金0.4%との差、中途換金のルールまで財務省の一次情報で整理しました。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-15-japan-government-bonds-kojin-kokusai-guide.jpg"
 featureimagecaption: ""

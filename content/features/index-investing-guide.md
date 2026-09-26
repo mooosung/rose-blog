@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["インデックス投資", "S&P500", "特集"]
+tags: ["ETF", "インデックス投資", "米国株", "ポートフォリオ・分散", "VOO"]
 categories: ["ETF・投資信託"]
 ---
 

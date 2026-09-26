@@ -2,8 +2,8 @@
 title: "Anthropic「EFS」徹底解説｜監視ログを自社クラウドに置くBYOC型AI"
 date: 2026-09-02
 draft: false
-tags: ["Anthropic", "Claude", "エンタープライズAI", "データガバナンス", "BYOC", "Databricks", "クラウド", "AIセキュリティ", "米国株", "AIインフラ"]
-categories: ["AI活用"]
+tags: ["AI SaaS・ソフトウェア", "サイバーセキュリティ"]
+categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Anthropicが2026年9月1日に発表したEnterprise Frontier Safeguards（EFS）を一次情報で解説。ZDRを保ったまま誤用検知を続ける仕組みを、Azure Databricksのコントロールプレーン／コンピュートプレーン分離やBYOCと比較し、投資テーマとしての意味まで掘り下げますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-02-anthropic-efs-enterprise-frontier-safeguards-byoc.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

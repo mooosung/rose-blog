@@ -3,7 +3,7 @@ title: "半導体関連株の一覧｜10層×日本株20銘柄をPERで比較"
 date: 2026-08-27
 lastmod: 2026-09-19
 draft: false
-tags: ["半導体関連株", "AI半導体", "半導体", "ツルハシ投資", "AIインフラ", "NVIDIA", "TSMC", "ASML", "米国株", "日本株", "ETF"]
+tags: ["半導体", "日本株", "AIインフラ"]
 categories: ["ツルハシ投資"]
 description: "半導体関連株を設計から電力まで10の層に分け、日本株20銘柄の株価・予想PER・PBR・最低投資額を2026年9月18日終値で一覧にしました。SOX指数は6月22日の高値から18.5%安、20銘柄すべてが高値割れ。業績は伸びているのに株価が下がっている理由を決算短信の実数で確かめますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-27-ai-semiconductor-stocks-map.jpg"

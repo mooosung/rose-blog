@@ -2,8 +2,8 @@
 title: "TQQQ・SPXL・SOXL｜レバレッジETFの仕組みと「ボラティリティディケイ」の恐ろしさ【2026年版】"
 date: 2026-08-14
 draft: false
-tags: ["ETF", "TQQQ", "SPXL", "SOXL", "レバレッジETF", "米国株", "リスク管理"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "米国株"]
+categories: ["ETF・投資信託"]
 description: "TQQQ・SPXL・SOXLなど3倍レバレッジETFの仕組みを解説。日次リバランスが生む「ボラティリティディケイ」の数学的な罠と、NISA対象外である理由を徹底検証します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-14-leveraged-etf-tqqq-spxl-volatility-decay-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

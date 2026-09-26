@@ -2,8 +2,8 @@
 title: "NISAの金融機関変更は9月30日が分岐点｜今年分か来年分かで手続きが変わる落とし穴"
 date: 2026-08-25
 draft: false
-tags: ["NISA", "金融機関変更", "証券会社", "勘定廃止通知書", "非課税保有限度額", "NISA・iDeCo"]
-categories: ["NISA・iDeCo完全攻略"]
+tags: ["NISA"]
+categories: ["NISA・iDeCo"]
 description: "NISA口座の金融機関変更は「変更したい年の前年10月1日〜当年9月30日」が受付期間。今年1円でも買い付けていると当年分の変更はできず、10月1日以降に翌年分として手続きすることになります。期限・必要書類・旧口座の資産の扱い・積立設定の再現まで整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-25-nisa-financial-institution-change-september-deadline-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

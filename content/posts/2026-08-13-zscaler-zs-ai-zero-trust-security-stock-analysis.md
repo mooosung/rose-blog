@@ -2,7 +2,7 @@
 title: "Zscaler（ZS）株分析2026｜AIゼロトラストセキュリティの雄はサイバー攻撃対策の本命銘柄か"
 date: 2026-08-13
 draft: false
-tags: ["Zscaler", "ZS", "AI SaaS", "サイバーセキュリティ", "米国株", "成長株", "ゼロトラスト"]
+tags: ["銘柄分析", "サイバーセキュリティ", "米国株", "成長株", "決算分析", "AI SaaS・ソフトウェア"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "AI時代のゼロトラストセキュリティを牽引するZscaler（ZS）を徹底分析。25%成長を続けるARR、AIエージェント時代の新たな脅威への対応戦略、直近決算とバリュエーションを個人投資家目線で解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-13-zscaler-zs-ai-zero-trust-security-stock-analysis.jpg"

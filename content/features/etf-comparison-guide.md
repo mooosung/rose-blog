@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["ETF", "米国株", "特集"]
+tags: ["ETF", "米国株", "金・コモディティ", "インデックス投資", "高配当・配当再投資", "SCHD", "VOO", "QQQ"]
 categories: ["ETF・投資信託"]
 ---
 

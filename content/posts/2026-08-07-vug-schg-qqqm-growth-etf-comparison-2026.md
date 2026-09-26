@@ -2,8 +2,8 @@
 title: "VUG・SCHG・QQQM比較｜グロースETF三銘柄を徹底検証"
 date: 2026-08-07
 draft: false
-tags: ["ETF", "グロース株", "VUG", "SCHG", "QQQM", "米国株", "長期投資", "インデックス投資"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "米国株", "成長株", "インデックス投資"]
+categories: ["ETF・投資信託"]
 description: "米国グロース株ETFの代表格「VUG・SCHG・QQQM」を経費率・組入銘柄・集中度の観点から徹底比較。2026年に日本の個人投資家が選ぶべき最適な1本を明らかにします。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-07-vug-schg-qqqm-growth-etf-comparison-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

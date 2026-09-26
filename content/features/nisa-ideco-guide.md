@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["NISA", "iDeCo", "特集"]
+tags: ["iDeCo", "NISA", "入門・基礎知識", "老後資金・FIRE", "税金・確定申告", "長期投資"]
 categories: ["NISA・iDeCo"]
 ---
 

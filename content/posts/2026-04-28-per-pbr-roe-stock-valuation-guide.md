@@ -2,8 +2,8 @@
 title: "PER・PBR・ROEとは？株式投資の3大指標を初心者向けにわかりやすく解説"
 date: 2026-04-28
 draft: false
-tags: ["PER", "PBR", "ROE", "株式投資", "初心者", "バリュー投資", "割安株", "株価指標", "スクリーニング"]
-categories: ["投資入門"]
+tags: ["入門・基礎知識", "用語集"]
+categories: ["投資戦略・資産運用"]
 description: "PER・PBR・ROEの意味と使い方を初心者向けにわかりやすく解説。割安株を見つけるための実践的な活用法・業種別の目安・スクリーニングの方法まで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-28-per-pbr-roe-stock-valuation-guide.jpg"
 featureimagecaption: ""

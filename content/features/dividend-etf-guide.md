@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["高配当株", "配当再投資", "特集"]
+tags: ["高配当・配当再投資", "長期投資", "米国株", "老後資金・FIRE", "VYM", "SCHD"]
 categories: ["高配当株・配当再投資"]
 ---
 

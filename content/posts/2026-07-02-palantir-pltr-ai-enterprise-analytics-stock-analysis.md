@@ -2,7 +2,7 @@
 title: "パランティア（PLTR）徹底分析2026年版｜AIエンタープライズ分析プラットフォームAIPの成長と投資判断"
 date: 2026-07-02
 draft: false
-tags: ["パランティア", "Palantir", "PLTR", "AI株", "米国株", "SaaS", "エンタープライズAI", "AIP", "政府契約", "長期投資"]
+tags: ["銘柄分析", "AI SaaS・ソフトウェア", "米国株", "成長株", "Palantir"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "パランティア・テクノロジーズ（PLTR）の事業モデル・AIプラットフォーム（AIP）戦略・政府部門と民間部門の二本柱・財務分析を徹底解説。高バリュエーションとFDE戦略を踏まえたAIデータ分析企業への投資価値を探ります。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-02-palantir-pltr-ai-enterprise-analytics-stock-analysis.jpg"

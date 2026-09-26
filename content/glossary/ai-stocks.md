@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "AI企業", "AI株"]
+tags: ["用語集", "AI SaaS・ソフトウェア", "米国株", "Palantir"]
 ---
 
 個別のAI企業を分析するときに出てくる、少し専門的な用語を集めましたわ 🌹

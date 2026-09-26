@@ -2,7 +2,7 @@
 title: "Adobe（ADBE）株価はなぜ予想PER10倍まで売られたのか｜AI破壊論を6つの数字で検証"
 date: 2026-09-10
 draft: false
-tags: ["Adobe", "ADBE", "AI SaaS", "米国株", "決算分析", "バリュエーション", "Firefly"]
+tags: ["銘柄分析", "米国株", "決算分析", "AI SaaS・ソフトウェア"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Adobe（ADBE）の株価が予想PER9.9倍・FCF利回り10%まで売られた理由を、AI-first ARR 5億ドル、ARR成長率10.2%ガイダンス、消えたネットキャッシュ、CEO・CFO同時交代の6つの数字で検証。9月10日Q3決算の着眼点も整理いたしますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-10-adobe-adbe-stock-forward-pe-ai-disruption-analysis.jpg"

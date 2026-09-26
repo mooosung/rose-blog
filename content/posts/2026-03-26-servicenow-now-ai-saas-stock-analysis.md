@@ -3,7 +3,7 @@ title: "サービスナウの将来性は？2026年Q2決算とNOW株価で検証
 date: 2026-03-26
 lastmod: 2026-09-03
 draft: false
-tags: ["ServiceNow", "NOW", "AI SaaS", "米国株", "決算分析", "cRPO", "Armis", "株式分割", "NISA"]
+tags: ["銘柄分析", "米国株", "決算分析", "成長株"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "サービスナウ（ServiceNow／NOW株）の将来性を2026年Q2決算と株価の実数で検証。サブスク売上38.77億ドル・cRPO132億ドル・更新率98%という強さと、GAAP営業利益率4%・株式報酬6.55億ドル・のれん98.4億ドルという弱さを並べ、5分割後の1株約2.3万円で買う実務まで整理しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-26-servicenow-now-ai-saas-stock-analysis.jpg"

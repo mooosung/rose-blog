@@ -4,8 +4,8 @@ aliases: ["/posts/2026-05-14-gold-etf-investment-complete-guide/", "/posts/2026-
 date: 2026-07-26
 lastmod: 2026-08-27
 draft: false
-tags: ["ゴールド投資", "金ETF", "GLD", "GLDM", "IAU", "オルタナティブ投資", "インフレ対策", "NISA"]
-categories: ["オルタナティブ投資"]
+tags: ["ETF", "金・コモディティ", "長期投資", "税金・確定申告"]
+categories: ["ETF・投資信託"]
 description: "GLD・GLDM・IAUの違いを2026年8月の実測値で比較。経費率0.10%対0.40%が30年で生む差、逆分割で崩れた「1口が安い」神話、SBI・楽天でGLDMだけ買付手数料無料という事実、東証の金ETFとの比較まで解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-26-gold-investment-gld-iau-gldm-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

@@ -3,7 +3,7 @@ title: "Perplexity×ChatGPT投資リサーチ術2026年版｜株式・ETF・NISA
 aliases: ["/posts/2026-06-10-perplexity-ai-investment-research-guide/"]
 date: 2026-07-08
 draft: false
-tags: ["AI活用", "投資リサーチ", "生産性ハック", "Perplexity", "ChatGPT", "株式投資", "ETF", "NISA", "プロンプト", "情報収集"]
+tags: ["AI活用", "ETF", "日本株"]
 categories: ["AI活用術"]
 description: "PerplexityとChatGPTを使って株式・NISA・ETFの投資リサーチを劇的に効率化する具体的なプロンプトと使い方を徹底解説。リアルタイム情報収集・決算分析・銘柄比較の2026年最新AI活用術で情報収集時間を大幅短縮します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-08-perplexity-chatgpt-investment-research-guide-2026.jpg"

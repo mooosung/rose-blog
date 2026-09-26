@@ -2,7 +2,7 @@
 title: "ガスタービン株が「売り切れ」に：GEヴァーノバ・シーメンスエナジーで狙う2026年AI電力ツルハシ投資"
 date: 2026-07-27
 draft: false
-tags: ["ツルハシ投資", "AIインフラ株", "GEヴァーノバ", "シーメンスエナジー", "電力インフラ", "データセンター"]
+tags: ["データセンター・電力", "米国株", "AIインフラ", "銘柄分析", "成長株"]
 categories: ["ツルハシ投資"]
 description: "AIデータセンターの電力不足がガスタービン受注残を押し上げ続けている2026年。GEヴァーノバ（GEV）とシーメンスエナジーの寡占構造・受注残・投資戦略を解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-27-ge-vernova-siemens-energy-gas-turbine-ai-power-stocks.jpg"

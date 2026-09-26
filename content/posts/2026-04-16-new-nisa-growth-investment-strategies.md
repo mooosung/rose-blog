@@ -2,8 +2,8 @@
 title: "新NISA成長投資枠240万円を使いこなす完全ガイド【2026年版】"
 date: 2026-04-16
 draft: false
-tags: ["新NISA", "成長投資枠", "投資", "ETF", "インデックス投資", "NISA活用", "長期投資", "株式投資"]
-categories: ["投資戦略・資産運用"]
+tags: ["NISA", "長期投資"]
+categories: ["NISA・iDeCo"]
 description: "新NISAの成長投資枠240万円を最大限活用する戦略を解説。つみたて投資枠との使い分け・おすすめETF・株式の選び方・注意点まで初心者にもわかりやすく説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-16-new-nisa-growth-investment-strategies.jpg"
 featureimagecaption: ""

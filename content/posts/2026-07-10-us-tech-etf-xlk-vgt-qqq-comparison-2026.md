@@ -3,8 +3,8 @@ title: "XLK・VGT・QQQ比較2026｜経費率とリターンで選ぶ"
 aliases: ["/posts/2026-04-03-qqq-nasdaq100-etf-complete-guide/", "/posts/2026-05-19-technology-etf-qqq-vgt-xlk-complete-guide/"]
 date: 2026-07-10
 draft: false
-tags: ["ETF", "テクノロジー株", "XLK", "VGT", "QQQ", "米国株", "長期投資", "NISA", "AI株", "インデックス投資"]
-categories: ["米国株・ETF長期投資"]
+tags: ["ETF", "米国株", "長期投資", "インデックス投資", "QQQ"]
+categories: ["ETF・投資信託"]
 description: "XLK・VGT・QQQの3大テクノロジーETFを徹底比較。経費率・組み入れ上位銘柄・10年リターン・セクター構成・シーン別の選び方まで、AI時代の長期NISA投資戦略として初心者にも分かりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-10-us-tech-etf-xlk-vgt-qqq-comparison-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

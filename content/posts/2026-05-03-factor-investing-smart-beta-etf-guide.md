@@ -2,8 +2,8 @@
 title: "スマートベータETFとは？ファクター投資でバリュー・モメンタム・クオリティ戦略を実践する方法"
 date: 2026-05-03
 draft: false
-tags: ["ファクター投資", "スマートベータ", "ETF", "バリュー投資", "資産運用", "モメンタム投資", "クオリティ投資", "長期投資"]
-categories: ["投資戦略・資産運用"]
+tags: ["ETF", "入門・基礎知識"]
+categories: ["ETF・投資信託"]
 description: "ファクター投資（スマートベータ）の基本から実践まで徹底解説。バリュー・モメンタム・クオリティ・低ボラティリティなど主要ファクターとおすすめETFを比較します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-03-factor-investing-smart-beta-etf-guide.jpg"
 featureimagecaption: ""

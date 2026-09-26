@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "仮想通貨", "暗号資産"]
+tags: ["暗号資産", "用語集", "ETF", "入門・基礎知識"]
 ---
 
 仮想通貨はボラティリティが高い分、用語を正しく理解していないと痛い目を見ますわ。基礎から丁寧に押さえていきましょう 🌹

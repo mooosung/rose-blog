@@ -3,7 +3,7 @@ title: "ツルハシ投資完全ガイド2026年版｜AIインフラ株（液冷
 date: 2026-07-14
 draft: false
 featured: true
-tags: ["ツルハシ投資", "AIインフラ株", "データセンター", "長期投資", "AI投資", "米国株", "半導体", "NVIDIA", "電力インフラ", "NISA"]
+tags: ["AIインフラ", "長期投資", "半導体", "成長株"]
 categories: ["ツルハシ投資"]
 description: "AIブームで本当に儲かる「ツルハシ銘柄」とは？液冷システム・半導体基板・電線・MLCC・光ファイバーなどAIインフラを支える企業を網羅的に解説。ローゼンマイヤーのツルハシ投資シリーズ全記事まとめと投資戦略を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-14-tsuruhashi-investment-complete-guide.jpg"

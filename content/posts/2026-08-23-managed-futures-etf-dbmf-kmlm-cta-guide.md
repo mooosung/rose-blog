@@ -2,8 +2,8 @@
 title: "マネージドフューチャーズETF徹底比較2026｜DBMF・KMLM・CTAは本当に暴落の保険になるのか"
 date: 2026-08-23
 draft: false
-tags: ["オルタナティブ投資", "マネージドフューチャーズ", "DBMF", "KMLM", "CTA", "トレンドフォロー", "分散投資", "リスク管理"]
-categories: ["オルタナティブ投資"]
+tags: ["ETF", "リスク管理・暴落対策", "ポートフォリオ・分散"]
+categories: ["ETF・投資信託"]
 description: "株も債券も同時に沈んだ2022年、ひとりだけプラスだった資産クラスがマネージドフューチャーズですわ。DBMF・KMLM・CTAの中身と実データを比較し、クライシスアルファの正体と限界を検証します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-23-managed-futures-etf-dbmf-kmlm-cta-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"

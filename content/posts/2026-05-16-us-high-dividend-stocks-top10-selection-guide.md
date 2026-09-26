@@ -6,7 +6,7 @@ featured: false
 description: "コカ・コーラ・JNJ・Chevronなど配当利回り4%以上の米国高配当株10銘柄を厳選。スクリーニング基準・各銘柄の特徴・配当再投資戦略まで配当投資初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-16-us-high-dividend-stocks-top10-selection-guide.jpg"
 featureimagecaption: ""
-tags: ["米国株", "高配当株", "配当投資", "連続増配", "インカム投資", "KO", "JNJ", "Chevron", "配当利回り", "NISA"]
+tags: ["米国株", "高配当・配当再投資", "長期投資"]
 categories: ["高配当株・配当再投資"]
 ---
 

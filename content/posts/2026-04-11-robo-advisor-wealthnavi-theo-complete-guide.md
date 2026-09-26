@@ -2,8 +2,8 @@
 title: "ロボアドバイザー完全比較2026｜ウェルスナビ・THEOの手数料・実績を徹底解説"
 date: 2026-04-11
 draft: false
-tags: ["ロボアドバイザー", "ウェルスナビ", "THEO", "資産運用", "投資初心者", "自動投資", "NISA", "長期投資"]
-categories: ["投資入門"]
+tags: ["入門・基礎知識", "長期投資"]
+categories: ["投資戦略・資産運用"]
 description: "ロボアドバイザーの仕組みから、ウェルスナビとTHEOの手数料・実績・特徴まで徹底比較。投資初心者が自動で資産運用を始めるための完全ガイド。向いている人・向かない人も解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-11-robo-advisor-wealthnavi-theo-complete-guide.jpg"
 featureimagecaption: ""

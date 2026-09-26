@@ -2,7 +2,7 @@
 title: "マイクロソフト（MSFT）株価は安値から+42%｜Azure 43%成長と設備投資を5つの数字で検証"
 date: 2026-09-24
 draft: false
-tags: ["Microsoft", "MSFT", "マイクロソフト", "AI SaaS", "米国株", "決算分析", "Azure", "Copilot"]
+tags: ["銘柄分析", "米国株", "決算分析", "成長株"]
 categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "マイクロソフト（MSFT）の株価は6月安値352.83ドルから500ドル台へ+42%回復。Azure 43%成長、受注残6,780億ドル、Copilot有料3,000万席、四半期設備投資410億ドル、FCF−23%の5つの数字で、回復の中身と残るリスクを検証いたしますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-24-microsoft-msft-stock-azure-copilot-capex-analysis.jpg"

@@ -2,7 +2,7 @@
 title: "ChatGPTのタスク機能で株価・決算情報を自動チェック！スケジュール実行で作る自分専用アラートの作り方"
 date: 2026-08-19
 draft: false
-tags: ["AI活用", "ChatGPT", "タスク機能", "自動化", "株価アラート", "決算チェック", "生産性ハック", "個人投資家", "情報収集"]
+tags: ["AI活用"]
 categories: ["AI活用術"]
 description: "ChatGPTのタスク（スケジュール実行）機能を使って、保有銘柄のニュースや決算スケジュールを自動でチェックする仕組みを作る方法を解説。プロンプト例と設定の注意点をまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-19-chatgpt-scheduled-tasks-stock-earnings-alerts-guide.jpg"

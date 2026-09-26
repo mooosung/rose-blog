@@ -3,7 +3,7 @@ title: "Digital Realty（DLR）とEquinix（EQIX）で狙う「AIデータセン
 aliases: ["/posts/2026-08-03-digital-realty-dlr-development-pipeline-reit-stock-analysis/"]
 date: 2026-08-03
 draft: false
-tags: ["ツルハシ投資", "AIインフラ株", "REIT", "Digital Realty", "Equinix", "データセンター"]
+tags: ["REIT・不動産", "米国株", "AIインフラ", "銘柄分析"]
 categories: ["ツルハシ投資"]
 description: "AIインフラ投資の中でも見落とされがちな「不動産」の切り口。データセンターREITの2大巨頭Digital Realty（DLR）とEquinix（EQIX）の業績・配当・成長戦略を徹底比較。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide.jpg"

@@ -3,7 +3,7 @@ title: "日本高配当株の選び方完全ガイド｜配当利回りだけで
 date: 2026-03-21
 draft: false
 featured: false
-tags: ["高配当株", "日本株", "配当投資", "配当利回り", "長期投資", "インカムゲイン", "NISA", "減配リスク", "株式投資"]
+tags: ["日本株", "高配当・配当再投資", "ポートフォリオ・分散"]
 categories: ["高配当株・配当再投資"]
 description: "日本の高配当株を選ぶ際にチェックすべき5つの指標と、配当利回りランキングだけで選ぶと失敗する理由を徹底解説。減配リスクの見極め方・業種別注目セクター・NISA活用法まで網羅します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-21-japan-high-dividend-stocks-selection-guide.jpg"

@@ -2,8 +2,8 @@
 title: "パワー半導体（SiC・GaN）とは？ローム・富士電機・インフィニオンがAIデータセンターに不可欠な理由"
 date: 2026-03-08
 draft: false
-tags: ["パワー半導体", "SiC", "GaN", "炭化ケイ素", "ローム", "富士電機", "インフィニオン", "AIインフラ株", "ツルハシ投資", "長期投資", "NISA"]
-categories: ["ツルハシ投資", "AI活用術"]
+tags: ["半導体", "データセンター・電力", "長期投資", "AIインフラ", "日本株", "成長株"]
+categories: ["ツルハシ投資"]
 description: "AIデータセンターの電力効率化を支えるパワー半導体（SiC・GaN）を徹底解説。ローム（6963）・富士電機・インフィニオン・STマイクロの強みを比較し、長期投資・NISAでの投資妙味をわかりやすく分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure.jpg"
 featureimagecaption: ""

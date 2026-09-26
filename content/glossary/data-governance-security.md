@@ -8,7 +8,7 @@ showDate: false
 showAuthor: false
 showReadingTime: false
 showTableOfContents: true
-tags: ["用語集", "データガバナンス", "セキュリティ"]
+tags: ["用語集", "サイバーセキュリティ", "入門・基礎知識"]
 ---
 
 生成AI時代に急に重要になった、データ管理とセキュリティの用語ですわ。投資テーマとしても押さえておくべき分野ですの 🌹
