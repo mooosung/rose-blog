@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-09-26-nisa-kabushikisu-hirei-haibun-dividend-reinvest",
+    "title": "株式数比例配分方式とは｜NISAの配当金が非課税にならない原因と、成長投資枠で再投資する手順",
+    "date": "2026-09-26",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-26-nisa-kabushikisu-hirei-haibun-dividend-reinvest.jpg"
+  },
+  {
     "path": "posts/2026-09-24-microsoft-msft-stock-azure-copilot-capex-analysis",
     "title": "マイクロソフト（MSFT）株価は安値から+42%｜Azure 43%成長と設備投資を5つの数字で検証",
     "date": "2026-09-24",
@@ -28,11 +34,5 @@
     "title": "東京エレクトロン（8035）株価はなぜ高値から35%下げたのか｜営業利益+46%の決算でも売られた理由を5つの数字で検証",
     "date": "2026-09-14",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-14-tokyo-electron-8035-stock-drawdown-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-09-12-ideco-year-end-adjustment-2026-guide",
-    "title": "iDeCoの年末調整はここでつまずく｜控除証明書はいつ届く？令和8年分から変わる添付ルール",
-    "date": "2026-09-12",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-12-ideco-year-end-adjustment-2026-guide.jpg"
   }
 ]

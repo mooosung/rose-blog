@@ -45,6 +45,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 年間1.2万円の差が複利で積み上がります。
 
+なお、日本株の配当金を非課税で受け取るには受け取り方の設定が必要ですわ。設定方法と、配当金を成長投資枠で再投資する手順は[株式数比例配分方式とは｜NISAの配当金が非課税にならない原因と再投資の手順](/posts/2026-09-26-nisa-kabushikisu-hirei-haibun-dividend-reinvest/)で解説していますの。
+
 ### 2. 売却益が非課税
 
 株価が上昇して売却した際の利益にも税金がかかりません。
