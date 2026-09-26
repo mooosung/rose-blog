@@ -173,6 +173,7 @@ AGG・BND・TLTの違いを振り返りますわ。
 
 ## 関連記事
 
+- [個人向け国債 変動10年の仕組み｜固定5年との比較と買うべき人](/posts/2026-04-15-japan-government-bonds-kojin-kokusai-guide/)
 - [米国ETF完全比較特集｜VOO・QQQ・SCHDから金・BTCまで](/features/etf-comparison-guide/)
 - [BND・AGG・TLT比較｜債券ETFで安定収益を得る方法と金利との関係【2026年版】](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 - [米国ETFコア・サテライト戦略とは？VOO×QQQ×VYMの最適な組み合わせ方を解説](/posts/2026-03-13-us-etf-core-satellite-strategy/)

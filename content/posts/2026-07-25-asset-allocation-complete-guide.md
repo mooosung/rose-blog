@@ -207,6 +207,7 @@ NISAで売却すると、その年の非課税枠は復活しません（翌年�
 
 ## 関連記事
 
+- [個人向け国債 変動10年の仕組み｜固定5年との比較と買うべき人](/posts/2026-04-15-japan-government-bonds-kojin-kokusai-guide/)
 - [債券ETF完全ガイド2026年版｜AGG・BND・TLTで株式ポートフォリオをリスクヘッジする方法](/posts/2026-06-26-bond-etf-agg-bnd-tlt-portfolio-guide/)
 - [投資家の行動バイアスを克服する7つのマインドセット｜損切りできない・暴落狼狽売りの心理的罠と対策](/posts/2026-07-11-investment-behavior-bias-overcome-guide/)
 - [新NISA成長投資枠240万円を使いこなす完全ガイド【2026年版】](/posts/2026-04-16-new-nisa-growth-investment-strategies/)
