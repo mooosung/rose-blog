@@ -1,9 +1,18 @@
 {
- "updated": "2026-09-27",
- "count": 35,
- "daily": 34,
+ "updated": "2026-09-28",
+ "count": 36,
+ "daily": 35,
  "work": 1,
  "items": [
+  {
+   "slug": "oracle-force-majeure-project-jupiter-2026-09-30",
+   "thumb": "/img/gallery/oracle-force-majeure-project-jupiter-2026-09-30_thumb.webp",
+   "full": "/img/gallery/oracle-force-majeure-project-jupiter-2026-09-30.webp",
+   "caption": "洗濯物を干す",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-09-30"
+  },
   {
    "slug": "ai-api-price-parity-openai-anthropic-2026-09-28",
    "thumb": "/img/gallery/ai-api-price-parity-openai-anthropic-2026-09-28_thumb.webp",
