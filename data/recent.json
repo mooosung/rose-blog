@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-10-01-applovin-app-stock-price-drop-q2-analysis",
+    "title": "アップラビン（APP）株価は年初来57%下落｜300ドル割れの理由を決算と5つの数字で検証",
+    "date": "2026-10-01",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-01-applovin-app-stock-price-drop-q2-analysis.jpg"
+  },
+  {
     "path": "posts/2026-09-28-ajinomoto-2802-abf-stock-analysis",
     "title": "味の素（2802）株価分析｜売上6%のABF事業が利益の3割を稼ぐ「食品株の皮をかぶった半導体株」",
     "date": "2026-09-28",
@@ -28,11 +34,5 @@
     "title": "JTの株価6,886円で配当272円は買いか｜利回り3.95%を配当性向75%方針から検証【2026年9月】",
     "date": "2026-09-19",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-19-jt-2914-stock-price-dividend-272yen.jpg"
-  },
-  {
-    "path": "posts/2026-09-17-saas-is-dead-ai-agent-software-stocks",
-    "title": "「SaaSの死」は本当か｜AIエージェント時代にソフトウェア銘柄を見極める3つのモノサシ",
-    "date": "2026-09-17",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-17-saas-is-dead-ai-agent-software-stocks.jpg"
   }
 ]
