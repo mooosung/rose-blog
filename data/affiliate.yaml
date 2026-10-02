@@ -83,6 +83,19 @@ brokers:
       toshin: "https://h.accesstrade.net/sp/rr?rk=0100n0al00oy5v"
       ideco: "https://h.accesstrade.net/sp/rr?rk=0100p7ck00oy5v"
     url: "https://h.accesstrade.net/sp/cc?rk=0100p10300oy5v"
+    # 口座開設キャンペーン（広告主側の特典）。文脈キーごとに文言を出し分ける。
+    # until を入れると、その日を過ぎたビルドから自動で消える（空なら終了日未定）。
+    # 終了日未定のものは scripts/asp_alliance_watch.py が公式ページを毎日見張っている。
+    campaign:
+      name: "NISA・こどもNISA応援プログラム"
+      url: "https://www.matsui.co.jp/campaign/detail/nisa-06.html"
+      start: "2026-10-01"
+      until: ""
+      checked: "2026-10-03"
+      text:
+        nisa: "こどもNISAの口座開設予約を受付中。口座開設＋クイズ正解で最大2,000ポイント（親子なら最大4,000ポイント）"
+        toshin: "NISA口座の開設＋クイズ正解で最大2,000ポイント。こどもNISAの予約受付も始まっています"
+        us_stock: "総合口座・NISA口座の開設＋クイズ正解で最大2,000ポイント"
   - id: dmm
     name: "DMM 株"
     catch: "米国株の取引手数料が0ドル〜"

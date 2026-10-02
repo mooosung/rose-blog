@@ -42,6 +42,16 @@
     <div class="rounded-lg bg-white dark:bg-neutral-900 p-4 border border-neutral-200 dark:border-neutral-700 flex flex-col">
       <p class="m-0 text-base font-bold text-neutral-900 dark:text-neutral">{{ .name }}</p>
       <p class="m-0 mt-1 mb-3 text-xs text-primary-600 dark:text-primary-400">{{ .catch }}</p>
+      {{/* 広告主のキャンペーン。文脈に文言がある時だけ、期間内(start〜until)に限って出す */}}
+      {{ with .campaign }}
+        {{ $c := . }}
+        {{ $live := true }}
+        {{ with $c.start }}{{ if lt now (time.AsTime (printf "%sT00:00:00+09:00" .)) }}{{ $live = false }}{{ end }}{{ end }}
+        {{ with $c.until }}{{ if gt now (time.AsTime (printf "%sT23:59:59+09:00" .)) }}{{ $live = false }}{{ end }}{{ end }}
+        {{ with index $c.text $key }}{{ if $live }}
+        <p class="m-0 mb-3 rounded-md bg-primary-100 dark:bg-neutral-700 px-2 py-1.5 text-xs leading-relaxed text-primary-800 dark:text-neutral-200">🎁 {{ . }}<br><span class="text-neutral-500 dark:text-neutral-400">{{ $c.name }}・要エントリー・{{ (time.AsTime $c.checked).Format "2006年1月" }}時点。条件は<a href="{{ $c.url }}" target="_blank" rel="nofollow noopener" class="underline">公式ページ</a>でご確認ください</span></p>
+        {{ end }}{{ end }}
+      {{ end }}
       <ul class="m-0 mb-4 ps-4 text-xs leading-relaxed text-neutral-600 dark:text-neutral-400 list-disc">
         {{ range .points }}<li>{{ . }}</li>{{ end }}
       </ul>
