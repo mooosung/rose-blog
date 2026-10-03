@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-02",
- "count": 38,
- "daily": 37,
+ "updated": "2026-10-04",
+ "count": 40,
+ "daily": 39,
  "work": 1,
  "items": [
+  {
+   "slug": "anthropic-s1-risk-80pages-2026-10-05",
+   "thumb": "/img/gallery/anthropic-s1-risk-80pages-2026-10-05_thumb.webp",
+   "full": "/img/gallery/anthropic-s1-risk-80pages-2026-10-05.webp",
+   "caption": "ケーキをデコレーション",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-05"
+  },
+  {
+   "slug": "weekly-summary-2026-10-03",
+   "thumb": "/img/gallery/weekly-summary-2026-10-03_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-10-03.webp",
+   "caption": "勉強に励む",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-10-03"
+  },
   {
    "slug": "nikkei-2203-semiconductor-concentration-2026-10-02",
    "thumb": "/img/gallery/nikkei-2203-semiconductor-concentration-2026-10-02_thumb.webp",

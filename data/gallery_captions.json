@@ -124,6 +124,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "anthropic-s1-risk-80pages-2026-10-05": {
+  "caption": "ケーキをデコレーション",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "apple-iphone-price-hike-ai-memory-crisis-2026-06-18": {
   "caption": "考え事をする",
   "kind": "日常",
@@ -543,6 +548,11 @@
   "caption": "お茶を準備する",
   "kind": "日常",
   "outfit": "メイド服"
+ },
+ "weekly-summary-2026-10-03": {
+  "caption": "勉強に励む",
+  "kind": "日常",
+  "outfit": "私服"
  },
  "wsts-semiconductor-1-5trillion-2026": {
   "caption": "グラフを見つめる",
