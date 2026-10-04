@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-04",
- "count": 40,
- "daily": 39,
+ "updated": "2026-10-05",
+ "count": 41,
+ "daily": 40,
  "work": 1,
  "items": [
   {
@@ -9,6 +9,15 @@
    "thumb": "/img/gallery/anthropic-s1-risk-80pages-2026-10-05_thumb.webp",
    "full": "/img/gallery/anthropic-s1-risk-80pages-2026-10-05.webp",
    "caption": "ケーキをデコレーション",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-05"
+  },
+  {
+   "slug": "jera-dell-ai-datacenter-chiba-2026-10-05",
+   "thumb": "/img/gallery/jera-dell-ai-datacenter-chiba-2026-10-05_thumb.webp",
+   "full": "/img/gallery/jera-dell-ai-datacenter-chiba-2026-10-05.webp",
+   "caption": "桜の花を飾る",
    "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-10-05"
