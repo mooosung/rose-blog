@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-10-05-resonac-4004-stock-semiconductor-materials",
+    "title": "レゾナック（4004）株価分析｜半導体材料の利益率27%、コア営業利益2.5倍の中身とスピンオフ後の見方",
+    "date": "2026-10-05",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-05-resonac-4004-stock-semiconductor-materials.jpg"
+  },
+  {
     "path": "posts/2026-10-03-kddi-9433-dividend-84yen-stock-price",
     "title": "KDDIの配当は100株でいくら？株価2,896円で年84円・利回り2.9%を検証【2026年10月】",
     "date": "2026-10-03",
@@ -28,11 +34,5 @@
     "title": "マイクロソフト（MSFT）株価は安値から+42%｜Azure 43%成長と設備投資を5つの数字で検証",
     "date": "2026-09-24",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-24-microsoft-msft-stock-azure-copilot-capex-analysis.jpg"
-  },
-  {
-    "path": "posts/2026-09-21-ibiden-4062-abf-substrate-stock-analysis",
-    "title": "イビデン（4062）株価分析｜1年で5倍になったABF基板株が、高値から26%下げている理由",
-    "date": "2026-09-21",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-09-21-ibiden-4062-abf-substrate-stock-analysis.jpg"
   }
 ]
