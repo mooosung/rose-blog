@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07",
- "count": 42,
- "daily": 41,
+ "updated": "2026-10-09",
+ "count": 43,
+ "daily": 42,
  "work": 1,
  "items": [
   {
@@ -10,6 +10,15 @@
    "full": "/img/gallery/marvell-custom-ai-silicon-investor-day-2026-10-06.webp",
    "caption": "ノートに集中する",
    "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-10-06"
+  },
+  {
+   "slug": "software-stocks-saaspocalypse-rebound-2026-10-06",
+   "thumb": "/img/gallery/software-stocks-saaspocalypse-rebound-2026-10-06_thumb.webp",
+   "full": "/img/gallery/software-stocks-saaspocalypse-rebound-2026-10-06.webp",
+   "caption": "窓辺で手紙を書く",
+   "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-10-06"
   },
