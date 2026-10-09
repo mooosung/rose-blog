@@ -203,6 +203,8 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 前述のとおり、受渡日が年をまたぐと復活が1年遅れます。年内に売却を済ませたいなら12月中旬が目安ですわ。
 
+2026年の年内買付の締切日を商品別にまとめた記事は[NISAの年内はいつまで？2026年の買付締切を商品別に整理](/posts/2026-10-10-nisa-nennai-itsumade-2026-deadline/)をご覧くださいまし。
+
 ![NISA口座のポートフォリオをリバランスするイメージ](/img/body/2026-08-11-nisa-tax-free-slot-recovery-timing-2027-guide-2.jpg)
 
 ---
