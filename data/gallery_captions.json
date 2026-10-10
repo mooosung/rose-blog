@@ -444,6 +444,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "samsung-q3-memory-margin-2026-10-12": {
+  "caption": "ストレッチする",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "sandisk-nand-earnings-2026-08-09": {
   "caption": "バラを見つめる",
   "kind": "日常",
@@ -568,6 +573,11 @@
   "caption": "勉強に励む",
   "kind": "日常",
   "outfit": "私服"
+ },
+ "weekly-summary-2026-10-10": {
+  "caption": "ラーメンを食べる",
+  "kind": "日常",
+  "outfit": "メイド服"
  },
  "wsts-semiconductor-1-5trillion-2026": {
   "caption": "グラフを見つめる",

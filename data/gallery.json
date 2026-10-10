@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-09",
- "count": 43,
- "daily": 42,
+ "updated": "2026-10-11",
+ "count": 45,
+ "daily": 44,
  "work": 1,
  "items": [
+  {
+   "slug": "samsung-q3-memory-margin-2026-10-12",
+   "thumb": "/img/gallery/samsung-q3-memory-margin-2026-10-12_thumb.webp",
+   "full": "/img/gallery/samsung-q3-memory-margin-2026-10-12.webp",
+   "caption": "ストレッチする",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-12"
+  },
+  {
+   "slug": "weekly-summary-2026-10-10",
+   "thumb": "/img/gallery/weekly-summary-2026-10-10_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-10-10.webp",
+   "caption": "ラーメンを食べる",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-10"
+  },
   {
    "slug": "marvell-custom-ai-silicon-investor-day-2026-10-06",
    "thumb": "/img/gallery/marvell-custom-ai-silicon-investor-day-2026-10-06_thumb.webp",
