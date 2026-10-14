@@ -1,11 +1,11 @@
 ---
-title: "イビデン（4062）株価の今後｜分割後12,100円・急騰理由・PER81.4倍"
+title: "イビデン（4062）株価は今後どうなる？急騰理由と株式分割｜PER81.4倍"
 date: 2026-09-21
 lastmod: 2026-10-04
 draft: false
 tags: ["銘柄分析", "日本株", "成長株", "決算分析", "AIインフラ"]
 categories: ["ツルハシ投資"]
-description: "イビデン（4062）の株価は10月2日終値12,100円、10月1日の1→2分割後は100株121万円。9月24日の+14.6%急騰はエヌビディアCEO発言報道が材料で、PER81.4倍は同業の約2倍。焦点は10月29日の2Q決算ですわ。"
+description: "イビデン（4062）の株価は10月2日終値12,100円、10月1日の1→2株式分割後は100株121万円。9月24日の急騰はエヌビディアCEO発言報道が材料で、PER81.4倍は同業の約2倍。今後の焦点は10月29日の2Q決算ですわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-21-ibiden-4062-abf-substrate-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
