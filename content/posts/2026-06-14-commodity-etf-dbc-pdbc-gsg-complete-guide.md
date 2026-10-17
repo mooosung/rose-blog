@@ -1,5 +1,5 @@
 ---
-title: "DBC・PDBC・GSGの違い｜コモディティETFはSBIで買える？"
+title: "DBC・PDBC・GSG比較｜コモディティETFはSBIで買える"
 date: 2026-06-14
 lastmod: 2026-10-18
 draft: false
