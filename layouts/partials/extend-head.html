@@ -1,4 +1,2 @@
-<!-- Google AdSense -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7652169193675702"
-     crossorigin="anonymous"></script>
+<!-- Google AdSense は params.toml の advertisement.adsense から head.html が出す（二重読み込み防止） -->
 {{ if .Params.noindex }}<meta name="robots" content="noindex, follow">{{ end }}
