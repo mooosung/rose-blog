@@ -1,9 +1,18 @@
 {
- "updated": "2026-10-16",
- "count": 48,
- "daily": 47,
+ "updated": "2026-10-18",
+ "count": 50,
+ "daily": 49,
  "work": 1,
  "items": [
+  {
+   "slug": "ai-chatbot-child-safety-state-laws-2026-10-19",
+   "thumb": "/img/gallery/ai-chatbot-child-safety-state-laws-2026-10-19_thumb.webp",
+   "full": "/img/gallery/ai-chatbot-child-safety-state-laws-2026-10-19.webp",
+   "caption": "夕日に照らされて",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-19"
+  },
   {
    "slug": "asml-q3-2026-capacity-shortage-2026-10-18",
    "thumb": "/img/gallery/asml-q3-2026-capacity-shortage-2026-10-18_thumb.webp",
@@ -12,6 +21,15 @@
    "outfit": "私服",
    "kind": "日常",
    "date": "2026-10-18"
+  },
+  {
+   "slug": "weekly-summary-2026-10-17",
+   "thumb": "/img/gallery/weekly-summary-2026-10-17_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-10-17.webp",
+   "caption": "海の生き物に感心",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-10-17"
   },
   {
    "slug": "ai-day-after-backlash-2026-10-16",
