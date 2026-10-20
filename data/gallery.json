@@ -1,9 +1,18 @@
 {
- "updated": "2026-10-19",
- "count": 51,
- "daily": 50,
+ "updated": "2026-10-21",
+ "count": 52,
+ "daily": 51,
  "work": 1,
  "items": [
+  {
+   "slug": "microsoft-nscale-loughton-power-grid-2026-10-23",
+   "thumb": "/img/gallery/microsoft-nscale-loughton-power-grid-2026-10-23_thumb.webp",
+   "full": "/img/gallery/microsoft-nscale-loughton-power-grid-2026-10-23.webp",
+   "caption": "観覧車で景色を見る",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-23"
+  },
   {
    "slug": "us-layoffs-ai-reason-challenger-sep-2026-10-21",
    "thumb": "/img/gallery/us-layoffs-ai-reason-challenger-sep-2026-10-21_thumb.webp",
