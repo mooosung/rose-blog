@@ -29,6 +29,8 @@
   <p class="m-0 mb-5 text-sm leading-relaxed text-neutral-700 dark:text-neutral-300">{{ $aff.cta.default_lead }}</p>
   <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
     {{ range $aff.brokers }}
+    {{/* A paused broker emits neither its card, fallback URL, nor tracking pixel. */}}
+    {{ if not .paused }}
     {{/* 提携済みなら文脈に応じた計測リンク、未提携なら公式サイトへ */}}
     {{ $href := .url }}
     {{ if and .affiliate .links }}
@@ -61,6 +63,7 @@
         {{ .name }}の口座を見る{{ with $beacon }}<img src="{{ . }}" width="1" height="1" border="0" alt="" loading="eager">{{ end }}
       </a>
     </div>
+    {{ end }}
     {{ end }}
   </div>
   <p class="m-0 mt-4 text-xs text-neutral-500 dark:text-neutral-400">※ 口座開設・維持はいずれも無料です。手数料やサービス内容は変更される場合がありますので、最新情報は各社公式サイトでご確認くださいませ。<br>※ 株式・投資信託等の取引には価格変動リスク・為替変動リスクがあり、元本割れが生じるおそれがあります。手数料やリスクの詳細は各社の契約締結前交付書面をご確認ください。</p>
