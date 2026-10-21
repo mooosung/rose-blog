@@ -35,6 +35,9 @@
 #    beacon: を書いておくと partials/affiliate-cta.html がアンカー内に1x1 imgを描画する。
 brokers:
   - id: monex
+    # Pause the entire CTA and its paired pixels; set false only after reopening is confirmed.
+    # ACCESS TRADE pause: 2026-10-22 00:00; new-account intake suspended; reopening unknown.
+    paused: true
     name: "マネックス証券"
     catch: "米国株の分析ツールが強い"
     points:
