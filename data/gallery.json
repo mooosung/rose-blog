@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-21",
- "count": 52,
- "daily": 51,
+ "updated": "2026-10-23",
+ "count": 53,
+ "daily": 52,
  "work": 1,
  "items": [
   {
@@ -10,6 +10,15 @@
    "full": "/img/gallery/microsoft-nscale-loughton-power-grid-2026-10-23.webp",
    "caption": "観覧車で景色を見る",
    "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-23"
+  },
+  {
+   "slug": "tesla-q3-capex-cut-2026-10-23",
+   "thumb": "/img/gallery/tesla-q3-capex-cut-2026-10-23_thumb.webp",
+   "full": "/img/gallery/tesla-q3-capex-cut-2026-10-23.webp",
+   "caption": "折り紙を楽しむ",
+   "outfit": "私服",
    "kind": "日常",
    "date": "2026-10-23"
   },
