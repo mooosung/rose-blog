@@ -1,11 +1,11 @@
 ---
-title: "INPEXの配当はいくら・いつ？年112円と累進配当の中身"
+title: "INPEX（1605）の配当は年112円・利回り3.09%｜支払日と権利確定日"
 date: 2026-09-05
 lastmod: 2026-10-09
 draft: false
 tags: ["日本株", "銘柄分析", "高配当・配当再投資", "決算分析"]
 categories: ["高配当株・配当再投資"]
-description: "INPEX（1605）の配当は2026年12月期が年112円（中間56円・期末56円）、100株なら年11,200円。中間配当は9月1日に支払済み、期末は12月末の権利で翌年3月下旬の支払い。累進配当90円の下限、株主優待のQUOカード、1,400億円の自社株買いの進み具合まで、会社の開示資料で確かめて整理しますわ。"
+description: "INPEX（1605）の配当は2026年12月期が年112円、100株で年11,200円・利回り3.09%。中間は9月1日に支払済み、期末は12月末の権利で翌年3月下旬。権利付最終日は12月28日の見込み、累進配当の下限は90円ですわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-09-05-inpex-1605-dividend-yield-total-payout.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
