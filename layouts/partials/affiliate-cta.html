@@ -30,7 +30,15 @@
   <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
     {{ range $aff.brokers }}
     {{/* A paused broker emits neither its card, fallback URL, nor tracking pixel. */}}
-    {{ if not .paused }}
+    {{/* title_any / title_none があるカード（ひふみ投信など）は、タイトルが条件に合う記事にだけ出す */}}
+    {{ $show := not .paused }}
+    {{ with .title_any }}
+      {{ $hit := false }}
+      {{ range . }}{{ if in $.Title . }}{{ $hit = true }}{{ end }}{{ end }}
+      {{ if not $hit }}{{ $show = false }}{{ end }}
+    {{ end }}
+    {{ range .title_none }}{{ if in $.Title . }}{{ $show = false }}{{ end }}{{ end }}
+    {{ if $show }}
     {{/* 提携済みなら文脈に応じた計測リンク、未提携なら公式サイトへ */}}
     {{ $href := .url }}
     {{ if and .affiliate .links }}

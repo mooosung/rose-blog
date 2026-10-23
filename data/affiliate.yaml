@@ -19,7 +19,9 @@
 #   提携却下4件 … SBI証券38299 / イデコSBI758866 / SBIネオトレード303045 /
 #                 三菱UFJ eスマート952022
 #                 ⚠️ SBIはTG(1025)でも一覧から消滅。両ASPで落ちたので当面は諦める
-#   申請中2件   … 岩井コスモ683969（1,758円） / 投資信託ひふみ329571（1,334円）
+#   ひふみ投信  MID 329571 … 提携中（2026-10-23承認）。口座開設 1,334円/件（定額）
+#                            title_any/title_none で投信・積立系の記事だけに出す
+#   申請中1件   … 岩井コスモ683969（1,758円）
 #   ※楽天証券はアクセストレードに存在しない
 # ■ TGアフィリエイト（2026-08-31 提携管理タブで実地確認）
 #   松井証券   MID 6012 … 提携中。口座開設申込 926円/件、再訪問90日
@@ -117,6 +119,29 @@ brokers:
     # 改変禁止のため計測ビーコンもリンクコードのとおりに出す
     beacon: "https://h.accesstrade.net/sp/rr?rk=0100mkk300oy5v"
     url: "https://h.accesstrade.net/sp/cc?rk=0100mkk300oy5v"
+  - id: hifumi
+    # 証券会社ではなく投信の直販なので、米国株・ETFの記事には出さない。
+    # title_any のいずれかがタイトルにあり、title_none のどれも無い記事だけに表示する
+    title_any: ["アクティブ", "インデックスファンド", "信託報酬", "積立", "つみたて", "ドルコスト", "日経平均"]
+    title_none: ["ETF", "米国株", "S&P500", "QQQ", "VOO", "REIT", "iDeCo"]
+    name: "ひふみ投信"
+    catch: "日本の成長企業に投資するアクティブファンド"
+    # 2026-10-23 投信協会ライブラリ(JP90C0005U71)と公式LP・ASP案件情報で確認
+    points:
+      - "運用会社レオス・キャピタルワークスの直販。購入時手数料は0円"
+      - "1,000円から購入・つみたてができる"
+      - "信託報酬は年0.98%（税抜）で、インデックスファンドより高め"
+    affiliate: true
+    # アクセストレード MID 329571（2026-10-23 提携承認）。口座開設 1,334円/件（定額）
+    # 広告条件: ポイントNG / 本人利用初回のみ / リスティングはキーワード制限なし
+    # テキスト素材「レオスのひふみ投信」。「安心」を含む素材は金融特約に触れるので使わない
+    links:
+      us_stock: "https://h.accesstrade.net/sp/cc?rk=01006f1e00oy5v"
+      nisa: "https://h.accesstrade.net/sp/cc?rk=01006f1e00oy5v"
+      toshin: "https://h.accesstrade.net/sp/cc?rk=01006f1e00oy5v"
+      ideco: "https://h.accesstrade.net/sp/cc?rk=01006f1e00oy5v"
+    beacon: "https://h.accesstrade.net/sp/rr?rk=01006f1e00oy5v"
+    url: "https://h.accesstrade.net/sp/cc?rk=01006f1e00oy5v"
   - id: rakuten
     name: "楽天証券"
     catch: "楽天ポイントで投資デビュー"
