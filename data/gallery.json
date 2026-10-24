@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-23",
- "count": 53,
- "daily": 52,
+ "updated": "2026-10-25",
+ "count": 55,
+ "daily": 54,
  "work": 1,
  "items": [
+  {
+   "slug": "coreweave-bond-shock-ai-credit-2026-10-26",
+   "thumb": "/img/gallery/coreweave-bond-shock-ai-credit-2026-10-26_thumb.webp",
+   "full": "/img/gallery/coreweave-bond-shock-ai-credit-2026-10-26.webp",
+   "caption": "アイロン掛けをする",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-26"
+  },
+  {
+   "slug": "weekly-summary-2026-10-24",
+   "thumb": "/img/gallery/weekly-summary-2026-10-24_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-10-24.webp",
+   "caption": "小鳥に餌やり",
+   "outfit": "私服",
+   "kind": "日常",
+   "date": "2026-10-24"
+  },
   {
    "slug": "microsoft-nscale-loughton-power-grid-2026-10-23",
    "thumb": "/img/gallery/microsoft-nscale-loughton-power-grid-2026-10-23_thumb.webp",

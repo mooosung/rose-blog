@@ -194,6 +194,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "coreweave-bond-shock-ai-credit-2026-10-26": {
+  "caption": "アイロン掛けをする",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "deepseek-anthropic-frontier-open-source-2026-07-07": {
   "caption": "黒き薔薇を持つ",
   "kind": "日常",
@@ -616,6 +621,11 @@
  },
  "weekly-summary-2026-10-17": {
   "caption": "海の生き物に感心",
+  "kind": "日常",
+  "outfit": "私服"
+ },
+ "weekly-summary-2026-10-24": {
+  "caption": "小鳥に餌やり",
   "kind": "日常",
   "outfit": "私服"
  },
