@@ -1,11 +1,11 @@
 ---
-title: "配当再投資のやり方｜日本株・米国株・NISA 3社比較"
+title: "配当再投資のやり方｜米国ETFの自動再投資はマネックスだけ"
 aliases: ["/posts/2026-06-21-dividend-reinvestment-drip-compound-growth/"]
 date: 2026-03-14
 lastmod: 2026-10-11
 draft: false
 featured: false
-description: "配当金の再投資を、日本株（S株・かぶミニ・ワン株）、米国株・ETF、NISAの投信分配金に分けてSBI・楽天・マネックス3社で比較。米国ETFの同一銘柄自動再投資はマネックスだけ、日本株は単元未満株＋積立で代替、NISAの再投資は非課税枠を使い不足分は特定口座へ——各社の公式ルールで整理しました。"
+description: "米国ETFの配当を同一銘柄へ自動再投資できるのは主要3社でマネックス証券だけ。SBIは非対応、楽天は米ドルMMF買付ですわ。日本株は単元未満株で代替、NISAの再投資は非課税枠を消費。100ドルの配当でVYMは0株、SCHDは3株ですの。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
 featureimagecaption: ""
 tags: ["米国株", "高配当・配当再投資", "長期投資", "ETF"]
