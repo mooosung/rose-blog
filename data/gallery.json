@@ -1,9 +1,18 @@
 {
- "updated": "2026-10-26",
- "count": 56,
- "daily": 55,
+ "updated": "2026-10-28",
+ "count": 57,
+ "daily": 56,
  "work": 1,
  "items": [
+  {
+   "slug": "sakana-sawara-2026-10-28",
+   "thumb": "/img/gallery/sakana-sawara-2026-10-28_thumb.webp",
+   "full": "/img/gallery/sakana-sawara-2026-10-28.webp",
+   "caption": "雨の中でテニス",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-10-28"
+  },
   {
    "slug": "texas-instruments-q3-2026-10-28",
    "thumb": "/img/gallery/texas-instruments-q3-2026-10-28_thumb.webp",
