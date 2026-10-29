@@ -4,7 +4,7 @@ date: 2026-06-02
 draft: false
 tags: ["ETF", "インデックス投資", "ポートフォリオ・分散"]
 categories: ["ETF・投資信託"]
-description: "全世界株ETFの代表格VT・ACWI・URTHを徹底比較。経費率0.07%の最安値VTから機関投資家御用達のACWIまで、コスト差・分散銘柄数・リターン・新興国比率の違いを詳しく解説。"
+description: "全世界株ETFの代表格VT・ACWI・URTHを徹底比較。3本の中で経費率が最も低いVTから機関投資家御用達のACWIまで、コスト差・分散銘柄数・リターン・新興国比率の違いを詳しく解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-02-global-all-world-etf-vt-acwi-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
@@ -40,7 +40,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 VT（Vanguard Total World Stock ETF）は、全世界株ETFの中で最も広く支持される銘柄だ。
 
-**最大の強みは「経費率0.07%」という圧倒的な低コスト。** 同カテゴリで最安水準を誇り、長期投資においてコスト差は複利効果で大きな差になる。
+**最大の強みは「経費率0.07%」という圧倒的な低コスト。** ACWI・URTHより低く、長期投資においてコスト差は複利効果で大きな差になる。
 
 ### VTの特徴
 

@@ -226,7 +226,7 @@ AI時代の格差は「知識・スキルの有無」で広がっている。今
 
 副業収入を投資に回すなら、まずは証券口座の開設を。
 
-- **[SBI証券](https://www.sbisec.co.jp/ETGate)**：国内最大手・手数料最安水準・新NISA対応
+- **[SBI証券](https://www.sbisec.co.jp/ETGate)**：ネット証券の大手・新NISA対応
 - **[楽天証券](https://www.rakuten-sec.co.jp/)**：楽天ポイント投資・使いやすいUIが人気
 - **[マネックス証券](https://www.monex.co.jp/)**：米国株・ETFの取扱い豊富
 
