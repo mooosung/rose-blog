@@ -179,6 +179,11 @@
   "kind": "お仕事",
   "outfit": "メイド服"
  },
+ "boj-etf-sale-accelerate-2026-10-30": {
+  "caption": "クレーンゲームに挑戦",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "china-duv-lithography-kospi-crash-2026-07-28": {
   "caption": "チェスに挑む",
   "kind": "日常",
@@ -643,6 +648,11 @@
   "caption": "小鳥に餌やり",
   "kind": "日常",
   "outfit": "私服"
+ },
+ "weekly-summary-2026-10-31": {
+  "caption": "ピアノを弾く",
+  "kind": "日常",
+  "outfit": "メイド服"
  },
  "wsts-semiconductor-1-5trillion-2026": {
   "caption": "グラフを見つめる",
