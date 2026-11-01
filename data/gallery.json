@@ -1,9 +1,18 @@
 {
- "updated": "2026-11-01",
- "count": 60,
- "daily": 59,
+ "updated": "2026-11-02",
+ "count": 61,
+ "daily": 60,
  "work": 1,
  "items": [
+  {
+   "slug": "spacex-anthropic-customer-b",
+   "thumb": "/img/gallery/spacex-anthropic-customer-b_thumb.webp",
+   "full": "/img/gallery/spacex-anthropic-customer-b.webp",
+   "caption": "絵を描く",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-02"
+  },
   {
    "slug": "weekly-summary-2026-10-31",
    "thumb": "/img/gallery/weekly-summary-2026-10-31_thumb.webp",
