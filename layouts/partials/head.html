@@ -53,6 +53,10 @@
       {{ $robotsContent = "noindex, follow" }}
     {{ end }}
   {{ end }}
+  {{/* 統合済みの古い記事は noindex: true を付ける（extend-head.html はキャッシュされ記事ごとの値を読めない） */}}
+  {{ if .Params.noindex }}
+    {{ $robotsContent = "noindex, follow" }}
+  {{ end }}
   {{ with .Params.robots }}
     {{ $robotsContent = . }}
   {{ end }}
