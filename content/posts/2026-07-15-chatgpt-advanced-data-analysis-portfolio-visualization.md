@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "ChatGPTのAdvanced Data Analysis（旧Code Interpreter）を使って投資ポートフォリオをグラフ・チャートで可視化する方法を徹底解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-15-chatgpt-advanced-data-analysis-portfolio-visualization.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「ポートフォリオを見える化したいけど、Excelのグラフ作りが面倒…」そんな悩み、ChatGPTのAdvanced Data Analysis（旧Code Interpreter）が一発で解決しますわ。CSVを投げるだけで、プロ並みの分析グラフが数十秒で完成します。

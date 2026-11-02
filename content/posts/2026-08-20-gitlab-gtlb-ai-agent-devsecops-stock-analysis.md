@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "GitLab（GTLB）株を2026年8月最新データで徹底分析。高値から75%下落して2.3倍に戻した株価、23%成長とFCFマージン26%の実像、14%人員削減とDuo Agent Platform、空売り13.8%の意味を個人投資家目線で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-20-gitlab-gtlb-ai-agent-devsecops-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIがコードを書く時代に、「開発者向けソフトウェア」を売る会社の株はどうなるのか——**[GitLab](https://about.gitlab.com/)（ティッカー：GTLB）** ほどこの問いを正面から突きつけられた銘柄はありませんわ。株価は2025年1月の高値74ドルから2026年4月の18.73ドルまで**約75%下落**し、そこから足元の42.61ドルまで**2.3倍**に戻しています。市場は一度「AIに食われる側」と判定し、いま判定を書き換えている最中ですの。

@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "AIは基本的にあなたに賛成してしまいます。だからこそ「反対意見を作らせる」使い方が効きます。買う前に自分の投資判断を論破させる悪魔の代弁者プロンプトを7つの型で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-26-ai-devils-advocate-prompt-confirmation-bias-investing.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「この銘柄、どう思う？」——AIにそう聞いて、返ってきた前向きな答えに背中を押されて買った経験、ありませんこと？

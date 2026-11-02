@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AIデータセンターでGPUクラスターを繋ぐ光ネットワーク株（Coherent・Lumentum・Fabrinet）の業績・成長性・投資ポイントをツルハシ視点で徹底解説。NVIDIAが40億ドルを投資した注目セクターの将来性を分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-13-optical-networking-ai-datacenter-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## AIデータセンターを支える「見えない血管」

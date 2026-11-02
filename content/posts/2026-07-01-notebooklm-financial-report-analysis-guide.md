@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "Google NotebookLMを使えば英語の決算書や長大なIR資料も10〜15分で要点を把握できます。SEC EDGAR・EDINETのPDFをアップロードするだけで根拠付き回答が得られます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-01-notebooklm-financial-report-analysis-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 決算シーズンになるたびに「また100ページの10-Kが来た……」と憂鬱になっていませんか？ Google NotebookLMを活用すれば、英語の決算書も日本語のIR資料も、10〜15分で投資判断に必要な情報を引き出せるようになります。

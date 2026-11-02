@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "Claude・ChatGPTをパーソナル投資秘書として活用する実践ガイド。銘柄ウォッチリスト管理から決算サマリー自動生成まで、AIで投資リサーチ時間を劇的に短縮する具体的なプロンプトと活用法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-claude-investment-secretary-automation.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 個人投資家の最大の悩みのひとつが**情報過多と時間不足**ですわ。決算シーズンには数十社の決算を追い、毎日無数のニュースが流れ込んでくる。それを全部読んでいたら、本業も生活も立ち行かなくなりますわよね。

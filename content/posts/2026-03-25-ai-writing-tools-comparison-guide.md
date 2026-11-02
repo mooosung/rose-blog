@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "ChatGPT・Claude・Geminiなど主要AIライティングツールを徹底比較。料金・文章品質・強みと弱みを分析し、ブログ執筆・ビジネス文書・コーディングなど目的別の最適な使い分け方を初心者向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-25-ai-writing-tools-comparison-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIを使った文章作成が当たり前になった2026年。しかし「結局どのツールを使えばいいの？」と迷っている人は多いはず。

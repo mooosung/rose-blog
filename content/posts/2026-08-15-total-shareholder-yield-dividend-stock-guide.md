@@ -8,6 +8,11 @@ categories: ["高配当株・配当再投資"]
 description: "総還元性向＝（配当総額＋自社株買い）÷純利益。三菱商事は176%、KDDIは99.6%、JTは85%、Appleは94.8%（各社の決算短信・10-Kから計算）。配当性向・DOE・総還元利回り（Total Shareholder Yield）との違いと、100%超えの読み方を実例で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-15-total-shareholder-yield-dividend-stock-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「総還元性向」で調べる方が知りたいのは、だいたい次の3つですわね。**どう計算するのか。配当性向やDOEと何が違うのか。100%を超えている会社は大丈夫なのか。**

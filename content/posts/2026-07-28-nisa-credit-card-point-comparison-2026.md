@@ -7,6 +7,11 @@ categories: ["NISA・iDeCo"]
 description: "新NISAの積立をクレジットカードで行うと自動的にポイントが貯まる「クレカ積立」。SBI証券・楽天証券・マネックス証券・auの2026年最新ポイント還元率を比較し、自分に合った組み合わせを解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-28-nisa-credit-card-point-comparison-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 新NISAで毎月コツコツ積立をしているなら、絶対に見逃してはいけない制度がありますわ。それが**クレカ積立**——クレジットカードで投資信託の買付をするだけで、勝手にポイントが貯まる仕組みですの。

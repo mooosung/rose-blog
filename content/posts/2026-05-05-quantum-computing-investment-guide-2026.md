@@ -8,6 +8,11 @@ categories: ["投資戦略・資産運用"]
 description: "量子コンピューティングの基礎から投資戦略まで徹底解説。IBM・Google・IonQなど有望銘柄の特徴と、初心者でも実践できるリスク管理・ETFでの分散投資方法をわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-05-quantum-computing-investment-guide-2026.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 量子コンピューティングは、AIと並ぶ「次世代テクノロジー」として注目を集めています。2026年現在、大手IT企業から専業スタートアップまで、この分野への投資競争が激化しています。

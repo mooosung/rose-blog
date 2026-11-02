@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Jira・ConfluenceでおなじみのAtlassian（TEAM）を徹底分析。AIエージェント「Rovo」戦略、直近の業績、52週で4割近く下落した株価のバリュエーションを個人投資家目線で解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-06-atlassian-team-ai-rovo-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「Jira」「Confluence」——エンジニアやプロダクトマネージャーなら一度は触れたことがあるはずですわ。この2大プロダクトを擁するソフトウェア企業が**[Atlassian](https://www.atlassian.com/)（ティッカー：TEAM）**ですわ。株価は52週で約4割下落し、ちょうど今日（2026年8月6日）決算発表を控えるタイミング。AIエージェント「Rovo」への転換は本物か、それとも期待先行か——数字で見ていきますわよ。

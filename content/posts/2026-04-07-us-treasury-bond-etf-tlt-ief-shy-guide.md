@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "TLT・IEF・SHYの違いと特徴を徹底解説。株式市場暴落時に米国債ETFがなぜ資産を守るのか、デュレーション別の特性と実践的なポートフォリオへの組み込み方まで紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-07-us-treasury-bond-etf-tlt-ief-shy-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 2026年春、トランプ政権の関税ショックで世界株式市場が大きく揺れました。こういった局面で注目されるのが**米国債ETF**です。

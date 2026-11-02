@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AIデータセンター急拡大の恩恵を受けるSuper Micro Computer（SMCI）を徹底分析。NVIDIAとの協業・液冷GPUサーバーラック市場でのポジション・財務リスク・2026年の成長性まで投資判断に必要な情報を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-06-supermicro-smci-ai-server-rack-investment.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIブームの恩恵を直接受ける「ツルハシ銘柄」として注目されているのが、**[Super Micro Computer](https://www.supermicro.com/)（NASDAQ: SMCI）**です。GPUサーバーラックのサプライヤーとして、[NVIDIA](https://www.nvidia.com/)・AMD製AIチップを搭載したサーバーをデータセンター向けに供給しています。

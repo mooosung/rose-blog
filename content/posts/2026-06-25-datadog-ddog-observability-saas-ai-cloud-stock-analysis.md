@@ -8,6 +8,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Datadog（DDOG）はAIとクラウドの急拡大を追い風に成長を続けるオブザーバビリティSaaS企業。NRR110%超・LLM監視機能を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-25-datadog-ddog-observability-saas-ai-cloud-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIとクラウドへの投資が世界規模で加速する中、「誰がシステムを見張るか」という問いに答え続けているのが[Datadog](https://www.datadoghq.com/)（NASDAQ: DDOG）ですわ。今回はこの可観測性（オブザーバビリティ）SaaSのリーダーを徹底分析します。

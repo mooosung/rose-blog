@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AIデータセンターの電力・冷却インフラを支えるVertiv（VRT）とEaton（ETN）の銘柄分析。急増する電力需要を「ツルハシ株」として狙う2026年の投資戦略を解説。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIブームは半導体だけではありませんわ。データセンターを動かすには**電力と冷却**が欠かせない——その需要を静かに取り込んでいるのが、今回紹介するVertiv（VRT）とEaton（ETN）ですの。

@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AI時代のデータ爆発を支える「光通信・光ファイバー」技術を徹底解説。Coherent・古河電工（5801）・フジクラ（5803）など関連注目銘柄の強みをNISA・長期投資の観点からわかりやすく比較します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-03-optical-communication-fiber-ai-stocks.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 {{< roze-summary >}}

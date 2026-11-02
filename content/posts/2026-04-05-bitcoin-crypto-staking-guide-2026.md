@@ -7,6 +7,11 @@ categories: ["オルタナティブ投資"]
 description: "2026年のビットコイン・仮想通貨市場を徹底解説。相場展望・ステーキングで年利5〜10%を稼ぐ方法・DeFi活用・機関投資家動向・初心者向けリスク管理・税務対策まで網羅。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-05-bitcoin-crypto-staking-guide-2026.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ビットコインは2024年の半減期を経て、2025年に史上最高値を更新。2026年に入った現在も、機関投資家の流入や各国のETF承認を背景に、暗号資産市場は新たなフェーズを迎えています。

@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "米国小型株ETF（IJR・VB・IWM）を徹底比較。S&P500との違い・過去の長期リターン・コスト差・リスク特性・NISAでの活用戦略まで初心者にもわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-18-us-small-cap-etf-ijr-vb-iwm-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 米国株投資といえばS&P500が定番ですが、「小型株」に注目したETFが実は長期的に高リターンをたたき出してきたことをご存じでしょうか。

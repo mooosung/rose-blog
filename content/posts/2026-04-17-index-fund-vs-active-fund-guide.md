@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "インデックスファンドとアクティブファンドの違いを徹底解説。手数料・パフォーマンス・リスクを比較し、新NISAで初心者がどちらを選ぶべきかわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-17-index-fund-vs-active-fund-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 投資信託を始めようとすると、必ず出てくる疑問があります。「インデックスファンドとアクティブファンド、どっちがいいの？」

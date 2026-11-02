@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AIデータセンター急増で世界的な変圧器不足が深刻化。変圧器の仕組みからAI時代のボトルネックになる理由、日立エナジー・ダイヘン（6622）・明電舎（6508）などの注目銘柄を長期投資・NISA向けに解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-10-power-transformer-grid-ai-datacenter-stocks.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 {{< roze-summary >}}

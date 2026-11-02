@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "XLP・VDCなど消費者必需品セクターETFを徹底比較。不景気・暴落相場に強いディフェンシブETFの特徴・メリット・デメリット・選び方と、NISA活用法を初心者向けにわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-27-consumer-staples-etf-xlp-vdc-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 景気が悪化しても「食料品」「日用品」「医薬品」の需要はなくなりません。こうした**消費者必需品セクター**に投資するETFは、暴落相場でポートフォリオを守る「盾」として機能します。

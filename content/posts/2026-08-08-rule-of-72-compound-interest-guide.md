@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "アインシュタインも絶賛したという「72の法則」を使えば、電卓なしで資産が2倍になる年数が暗算できますわ。新NISAの利回り別シミュレーションから借金への応用まで、複利を直感的に理解する方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-08-rule-of-72-compound-interest-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「複利は人類最大の発明」——そんな言葉を聞いたことがある方も多いと思いますけれど、正直「で、具体的にどれくらいすごいの？」と聞かれると答えられない方がほとんどですわよね。

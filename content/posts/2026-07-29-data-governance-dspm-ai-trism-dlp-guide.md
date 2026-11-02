@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "DSPM・AI TRiSM・DLPの違いを整理し、Wiz・Varonis・Microsoft Purview・Prisma AIRS・Digital Artsなど日本で導入可能な具体的製品まで徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-29-data-governance-dspm-ai-trism-dlp-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「データガバナンス」という言葉、最近やたら聞くようになりましたわよね。生成AIの業務利用が広がるにつれて、「どのデータがどこにあって、誰がアクセスできて、AIにどこまで渡していいのか」が分からなくなっている企業が急増していますの。

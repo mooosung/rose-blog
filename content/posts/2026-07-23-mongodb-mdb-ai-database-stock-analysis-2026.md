@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "MongoDB（MDB）の2026年AI戦略・業績・バリュエーションを徹底分析。Atlas Vector SearchやAI統合機能がどう収益成長に貢献するか、個人投資家目線で解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-23-mongodb-mdb-ai-database-stock-analysis-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIブームの真の受益者はどこか——GPUメーカーやLLM企業だけでなく、**「データを管理・検索するインフラ企業」**にも恩恵が及んでいますわ。その代表格が**[MongoDB](https://www.mongodb.com/)（ティッカー：MDB）**。本記事では2026年のMDBの事業戦略・業績トレンド・投資判断のポイントを詳しく見ていきますわ。

@@ -8,6 +8,11 @@ categories: ["ツルハシ投資"]
 description: "AIサーバーの発熱問題を解決する「液浸冷却（Immersion Cooling）」を徹底解説。技術の仕組みから市場規模、SMC・オルガノなど関連注目銘柄まで、NISA・長期投資の観点からわかりやすく解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-02-immersion-cooling-ai-datacenter-stocks.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 {{< roze-summary >}}

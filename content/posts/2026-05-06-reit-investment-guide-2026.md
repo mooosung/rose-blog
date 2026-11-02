@@ -8,6 +8,11 @@ categories: ["オルタナティブ投資"]
 description: "REIT（不動産投資信託）とは何か、仕組みからメリット・デメリット・国内REIT・米国REITの選び方まで徹底解説。数万円から始められる不動産投資の全貌をわかりやすく説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-06-reit-investment-guide-2026.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 不動産投資に興味はあるけれど、「数千万円の資金が必要」「管理が大変そう」と感じて踏み出せない人は多いでしょう。そんな方に注目してほしいのが**REIT（リート）**です。REITを使えば、数万円という少額からでも不動産に投資し、安定した配当収入を得ることができます。

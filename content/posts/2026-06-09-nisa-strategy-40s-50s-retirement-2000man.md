@@ -8,6 +8,11 @@ description: "「もう遅い」は大きな勘違い。40代・50代からNISA�
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-09-nisa-strategy-40s-50s-retirement-2000man.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: false
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「40代でNISAを始めるのは遅すぎる？」——そんなことはありませんわ 🌹

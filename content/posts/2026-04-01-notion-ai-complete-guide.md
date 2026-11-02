@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "Notion AIの使い方を徹底解説。タスク管理・議事録自動化・文章生成・翻訳まで、ビジネスパーソンが今すぐ使える活用法を具体例つきで紹介します。初心者でも即実践できるプロンプト例も掲載。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-01-notion-ai-complete-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIツールが飛躍的に進化する中、「Notion AI」はビジネスパーソンの生産性を一段引き上げるツールとして注目を集めています。

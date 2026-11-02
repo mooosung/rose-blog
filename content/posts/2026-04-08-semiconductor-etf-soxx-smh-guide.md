@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "SOXX・SMHの違いと特徴を徹底解説。AI・データセンター需要で急成長する半導体セクターにETFで分散投資する方法・経費率・構成銘柄比較・NISAでの活用まで紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-08-semiconductor-etf-soxx-smh-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 2026年、AIブームはさらなる加速を見せています。ChatGPT、Gemini、Claude——これらの生成AIを動かしているのは、大量の**半導体チップ**です。

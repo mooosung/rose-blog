@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "2026年3月リリースのOpenAI「GPT-5.4」を徹底解説。100万トークン対応・ネイティブPC操作（Computer Use）・トークン効率47%改善など、AIエージェント時代の幕開けが関連銘柄に与える影響を分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-07-gpt-5-4-openai-computer-use-ai-stocks.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 {{< roze-summary >}}

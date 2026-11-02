@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Anthropicが2026年6月15日予定のAgent SDK課金変更を直前で撤回。OpenAIとのAPI価格戦争・Anthropic IPO準備・米国政府の規制圧力が複合的に影響した決断の全容を分析する。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-17-anthropic-billing-reversal-openai-price-war-ipo.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「**今のところ何も変わらない（Nothing changes for now）**」——2026年6月15日、[Anthropic](https://www.anthropic.com/)はユーザーへのメールにこう書いた。

@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "VTI（全米株式ETF）とVOO（S&P500 ETF）の違いを徹底比較。構成銘柄・経費率・過去リターン・新NISA活用法まで解説。どちらが自分に合うかをわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-04-vti-vs-voo-etf-comparison.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## 「VTIとVOO、どっちがいいの？」という疑問

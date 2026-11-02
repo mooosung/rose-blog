@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "AIデータセンターの水需要は爆発しているのに、水株の代表Xylemは1年で21%下落。一方で栗田工業は55%上昇しましたわ。同じ「水」テーマで明暗が分かれた構造的な理由を、WUEの実データと株価で検証します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-24-datacenter-water-cooling-stocks-xylem-kurita.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIデータセンターの水需要は、誰がどう見ても増えていますわ。それなのに——**水インフラ株の代表格Xylem（XYL）は、この1年で-21.1%**。同じ期間、日本の**栗田工業（6370）は+55.2%**ですのよ。

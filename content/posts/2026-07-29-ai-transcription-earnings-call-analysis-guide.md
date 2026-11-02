@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "Otter.ai・Notta・Whisper・Claude/ChatGPTを組み合わせて、英語・日本語の決算説明会（アーニングスコール）を短時間で要約・分析する実践ワークフローを解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-29-ai-transcription-earnings-call-analysis-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 決算説明会（アーニングスコール）、最後まで聞いていますか？ 米国企業のカンファレンスコールは1時間前後、しかも早口の英語＋専門用語だらけ。全部聞いてから要点を整理していたら、他の作業をする時間がなくなってしまいますわ。

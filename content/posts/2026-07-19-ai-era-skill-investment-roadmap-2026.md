@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "2026年のAI時代に需要が急増しているスキルTop5と、それぞれを副業収入につなげる具体的なロードマップを徹底解説。スキル習得から案件獲得まで、実践的なステップを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-19-ai-era-skill-investment-roadmap-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「副業を始めたいけど、何を学べばいいか分からない」——そんな悩みを持つ方が急増していますわ。

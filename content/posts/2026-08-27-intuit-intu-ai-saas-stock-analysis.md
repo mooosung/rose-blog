@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Intuit（INTU）を2026年8月最新決算で徹底分析。FY26は売上21.4億ドル・14%増、EPS20%増と好調なのに株価は1年で48%下落。顧客増の鈍化、TurboTaxの価格敗北、来期9%成長ガイダンス、そして非GAAP定義変更の罠まで数字で解説しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-27-intuit-intu-ai-saas-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 売上は14%伸び、営業利益は20%増え、配当は15%増配、自社株買いは前年の約2倍——それでも株価は1年で**ほぼ半値**。**[Intuit](https://www.intuit.com/)（ティッカー：INTU）** の2026年8月25日発表の通期決算は、いまのAI SaaS市場がどんなルールで動いているかを、これ以上ないほど残酷に示していますわ。

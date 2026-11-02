@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "生活防衛資金の適切な金額・預け先・作り方を徹底解説。投資を始める前に必ず確保すべきお金の守りの基本と、高金利普通預金・定期預金の活用法を初心者向けに説明します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-20-emergency-fund-guide-2026.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 投資を始めたいけれど、「まず何から準備すればいい？」と悩んでいる方は多いのではないでしょうか。実は、**投資を始める前に必ず確保しておくべきお金**があります。それが「生活防衛資金」です。

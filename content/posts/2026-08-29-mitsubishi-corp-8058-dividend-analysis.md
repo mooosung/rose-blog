@@ -7,6 +7,11 @@ categories: ["高配当株・配当再投資"]
 description: "三菱商事（8058）の2027年3月期予想配当は年125円、株価4,786円で利回り2.61%。5大商社の比較、11期連続増配の実績、1兆円の自社株買いによる株数7.9%減まで、2026年8月時点の実数で配当妙味を検証しますわ。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-29-mitsubishi-corp-8058-dividend-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「三菱商事の配当」で検索する方が本当に知りたいのは、たぶん2つだけです。**今買ったら年間いくらもらえるのか**。そして**利回り2%台で高配当株と呼んでいいのか**。

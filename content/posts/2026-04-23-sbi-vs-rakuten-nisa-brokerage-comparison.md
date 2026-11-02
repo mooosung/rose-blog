@@ -7,6 +7,11 @@ categories: ["NISA・iDeCo"]
 description: "SBI証券と楽天証券をNISA・手数料・使いやすさで徹底比較。投資初心者がどちらの証券会社を選べばよいか、ポイント還元・銘柄数・アプリの違いを具体的に解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-23-sbi-vs-rakuten-nisa-brokerage-comparison.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 日本のネット証券といえば、**SBI証券**と**楽天証券**の2強が圧倒的なシェアを誇っています。特に新NISAが始まってから口座開設者が急増し、「どちらを選べばいいの？」という声が後を絶ちません。

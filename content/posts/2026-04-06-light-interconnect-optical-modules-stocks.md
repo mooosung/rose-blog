@@ -8,6 +8,11 @@ categories: ["ツルハシ投資"]
 description: "AI・データセンターの急成長で需要爆発する光モジュール半導体株（Coherent・Ciena・Lumentum・Infinera）の仕組み・成長見通し・投資戦略を解説。ツルハシ投資として注目の3銘柄を比較。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-light-interconnect-optical-modules-stocks.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## AIデータセンター爆発、「光の道」が需要を爆増させている

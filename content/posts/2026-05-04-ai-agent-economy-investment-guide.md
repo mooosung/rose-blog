@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "AIエージェント時代に個人投資家が注目すべき企業・ETFを徹底解説。自律型AIが経済を変えるなか、Nvidia・Palantir・BOTZ・ARKQなどへの投資戦略と銘柄選びを紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-04-ai-agent-economy-investment-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 2023年のChatGPT登場から約3年。AIは「質問に答えるツール」から、「自ら考えて行動するエージェント」へと進化しています。

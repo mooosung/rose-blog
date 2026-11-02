@@ -7,6 +7,11 @@ categories: ["ツルハシ投資"]
 description: "スマホからAIサーバーまで、あらゆるチップの設計図を提供するArm Holdings（ARM）。Apple・NVIDIA・Qualcommに設計IPをライセンスする「真のツルハシ」の投資価値・業績・バリュエーションを徹底分析します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-22-arm-holdings-ai-chip-architecture-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 AIチップ競争が激化するほど、Arm Holdingsは笑う——。

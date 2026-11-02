@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "トランプ政権の相互関税発動で世界株式が急落。長期投資家が取るべき5つの戦略を徹底解説。「今すぐ売るべきか？」の答えと暴落を味方につける積立投資の実践法を紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-06-trump-tariff-shock-investment-strategy.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 2026年4月上旬、トランプ政権が発動した「相互関税」により、米国株・日本株をはじめとする世界の株式市場が急落しました。S&P500は数日で10%超の下落、日経平均も大幅安を記録。SNSでは「今すぐ売るべきか」「投資をやめるべきか」という声があふれています。

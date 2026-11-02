@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "金融セクターETF（XLF・VFH・IYF）の特徴・経費率・構成銘柄・パフォーマンスを徹底比較。銀行・保険・証券・決済ネットワークに幅広く分散投資したい方向けの完全ガイドです。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-29-financial-sector-etf-xlf-vfh-iyf-complete-guide.jpg"
 featureimagecaption: "Photo by Unsplash"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 金融セクターは米国経済の根幹を支える重要な産業ですわ。銀行、保険、証券、資産運用会社など、お金の流れを司る企業群に一度で分散投資できるのが金融セクターETFの強みですわね。

@@ -7,6 +7,11 @@ categories: ["ETF・投資信託"]
 description: "ユーティリティETF（XLU・VPU・IDU）の特徴・経費率・配当利回りを徹底比較。景気後退に強いディフェンシブ投資として注目される電力・ガス・水道セクターへの投資方法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-31-utilities-etf-xlu-vpu-idu-complete-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## ユーティリティETFとは？

@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "2026年の日本株はなぜ強気なのか。日経平均61,500円・TOPIX4,100pt目標の根拠を、AI半導体需要拡大とコーポレートガバナンス改革から徹底解説。個人投資家が押さえるべき注目セクターもわかりやすく紹介します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-02-23-japan-stocks-ai-2026-outlook.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 {{< roze-summary >}}

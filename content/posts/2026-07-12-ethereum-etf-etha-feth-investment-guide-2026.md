@@ -9,6 +9,11 @@ description: "イーサリアムETFは日本の証券会社では買えません
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-12-ethereum-etf-etha-feth-investment-guide-2026.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 featured: true
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「イーサリアムETFが欲しいから、SBI証券で『ETHA』を検索した」——そして、何も出てこなかった。

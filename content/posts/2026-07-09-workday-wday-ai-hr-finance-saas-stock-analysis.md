@@ -7,6 +7,11 @@ categories: ["AI SaaS・ソフトウェア銘柄"]
 description: "Workday（WDAY）はHR・財務SaaSにAIエージェント「Illuminate」を組み込み企業の自動化を加速。97%超の継続率・ARR90億ドル・RPO230億ドルの盤石な財務体質と2026年成長戦略を徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-09-workday-wday-ai-hr-finance-saas-stock-analysis.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## Workday（WDAY）とは？

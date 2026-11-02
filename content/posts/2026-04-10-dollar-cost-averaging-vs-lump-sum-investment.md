@@ -7,6 +7,11 @@ categories: ["投資戦略・資産運用"]
 description: "積立投資（ドルコスト平均法）と一括投資、どちらが有利かをシミュレーションで徹底検証。市場の暴落局面でも続けられる投資戦略の選び方と、NISA・iDeCoでの実践法を解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-10-dollar-cost-averaging-vs-lump-sum-investment.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「まとまったお金があるけど、一気に投資すべきか、少しずつ積み立てるべきか」——投資を始めたばかりの方が必ず悩む問いです。

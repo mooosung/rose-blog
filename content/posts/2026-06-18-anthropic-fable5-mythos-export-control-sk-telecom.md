@@ -6,6 +6,11 @@ summary: "まったく、AIモデルにまで輸出規制が入るなんて—�
 tags: []
 categories: ["AI SaaS・ソフトウェア銘柄"]
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-18-anthropic-fable5-mythos-export-control-sk-telecom.jpg"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 🌹 2026年6月12日、AIの歴史に前例のない出来事が起きましてよ。米トランプ政権がAnthropicに対し、同社の最先端AIモデル「Fable 5」と「Mythos 5」へのすべての外国人アクセスを即時停止するよう命じたのですわ。その命令がAnthropicに届いたのは東部時間の午後5時21分——夕方の電撃通知、というわけですの。

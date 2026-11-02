@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "「スキル投資」は最も利回りの高い投資のひとつ。AI時代に需要が急騰している5つのスキル（Python・AI活用・動画編集・Webライティング等）と、副業収入に直結する具体的な学習ロードマップを徹底解説します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-29-skill-investment-side-job-guide.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 ## スキル投資こそ「最高利回りの投資」

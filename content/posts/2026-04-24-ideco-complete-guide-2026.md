@@ -9,6 +9,10 @@ categories: ["NISA・iDeCo"]
 description: "iDeCo（個人型確定拠出年金）の仕組み、税制メリット、運用商品の選び方、受け取り方まで2026年最新情報で徹底解説。新NISAとの併用戦略も紹介。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-04-24-ideco-complete-guide-2026.jpg"
 featureimagecaption: ""
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの4行を消す
+build:
+  list: never
 ---
 
 {{< alert >}}

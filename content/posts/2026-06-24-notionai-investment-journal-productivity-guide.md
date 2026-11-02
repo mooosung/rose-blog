@@ -7,6 +7,11 @@ categories: ["AI活用術"]
 description: "NotionAIを使って投資日記・ポートフォリオ管理を劇的に効率化する方法を解説。売買記録の自動構造化から銘柄メモのAI要約、感情ログ分析まで、個人投資家が実践すべき生産性ハックをまとめます。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-06-24-notionai-investment-journal-productivity-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
+# 2026-11-03 AdSense「有用性の低いコンテンツ」対応: 公開から2か月以上 Google・Bing の検索に一度も出ていないので、
+# 検索・一覧・サイトマップから外す（URL は残すので内部リンクは切れない）。戻すときはこの5行を消す
+robots: "noindex, follow"
+build:
+  list: never
 ---
 
 「投資日記をつけたいけど続かない」「ポートフォリオ管理が煩雑で放置している」——そんな悩みを抱えた個人投資家は多いですわ。
