@@ -1,9 +1,18 @@
 {
- "updated": "2026-11-02",
- "count": 61,
- "daily": 60,
+ "updated": "2026-11-04",
+ "count": 62,
+ "daily": 61,
  "work": 1,
  "items": [
+  {
+   "slug": "palantir-q3-2026-tcv-2026-11-04",
+   "thumb": "/img/gallery/palantir-q3-2026-tcv-2026-11-04_thumb.webp",
+   "full": "/img/gallery/palantir-q3-2026-tcv-2026-11-04.webp",
+   "caption": "窓辺で紅茶を楽しむ",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-04"
+  },
   {
    "slug": "spacex-anthropic-customer-b",
    "thumb": "/img/gallery/spacex-anthropic-customer-b_thumb.webp",
