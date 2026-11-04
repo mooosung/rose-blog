@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-05-mcp-model-context-protocol-saas-stocks",
+    "title": "MCPとは？AIとSaaSをつなぐ共通規格をやさしく解説｜SaaS銘柄への影響",
+    "date": "2026-11-05",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-05-mcp-model-context-protocol-saas-stocks.jpg"
+  },
+  {
     "path": "posts/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate",
     "title": "日東紡（3110）株価はなぜ下がった？Tガラスとは何か、高値から57%安の今を決算で読む",
     "date": "2026-11-02",
@@ -28,11 +34,5 @@
     "title": "iDeCoの運用指図者とは｜掛金を止めると退職所得控除が増えない理由と、12月改正で再開できる人",
     "date": "2026-10-24",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-24-ideco-unyou-sashizusha-guide.jpg"
-  },
-  {
-    "path": "posts/2026-10-22-sansan-4443-stock-price-q1-bill-one-analysis",
-    "title": "Sansan（4443）株価はなぜ急落した？｜営業利益4.4倍の1Q決算とBill One+34%を検証",
-    "date": "2026-10-22",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-22-sansan-4443-stock-price-q1-bill-one-analysis.jpg"
   }
 ]
