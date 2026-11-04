@@ -5,7 +5,7 @@ lastmod: 2026-10-16
 draft: false
 tags: ["NISA", "税金・確定申告"]
 categories: ["NISA・iDeCo"]
-description: "新NISAで売却した非課税枠は翌年1月に簿価分だけ復活します。翌年の枠は1月1日ではなく受渡日が翌年になる12月下旬の取引から使えること、使い残した年間枠は繰り越せないこと、金融機関変更や課税口座への移管時の扱い、受渡日判定、当年中復活の改正状況まで金融庁・国税庁資料で整理します。"
+description: "NISAの枠が復活するのはいつ？答えは売った翌年の1月で、戻るのは売却額ではなく買値（簿価）の分だけ。年末の売却は受渡日で1年ずれる点、使い残した枠は繰り越せない点、「2027年から当年中に復活」の改正がまだ決まっていない現状まで、金融庁・国税庁の資料で整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-08-11-nisa-tax-free-slot-recovery-timing-2027-guide.jpg"
 featureimagecaption: "Photo by rozenmaier.com"
 ---
