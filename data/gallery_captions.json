@@ -79,6 +79,11 @@
   "kind": "日常",
   "outfit": "メイド服"
  },
+ "ai-training-optout-robots-txt-2026-11-08": {
+  "caption": "美術館で芸術鑑賞",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "alphabet-google-q2-2026-eps-capex-guidance": {
   "caption": "チェスを指さす",
   "kind": "日常",
@@ -666,6 +671,11 @@
  },
  "weekly-summary-2026-10-31": {
   "caption": "ピアノを弾く",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
+ "weekly-summary-2026-11-07": {
+  "caption": "夕日を眺める",
   "kind": "日常",
   "outfit": "メイド服"
  },

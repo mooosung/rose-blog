@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-06",
- "count": 63,
- "daily": 62,
+ "updated": "2026-11-08",
+ "count": 65,
+ "daily": 64,
  "work": 1,
  "items": [
+  {
+   "slug": "ai-training-optout-robots-txt-2026-11-08",
+   "thumb": "/img/gallery/ai-training-optout-robots-txt-2026-11-08_thumb.webp",
+   "full": "/img/gallery/ai-training-optout-robots-txt-2026-11-08.webp",
+   "caption": "美術館で芸術鑑賞",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-08"
+  },
+  {
+   "slug": "weekly-summary-2026-11-07",
+   "thumb": "/img/gallery/weekly-summary-2026-11-07_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-11-07.webp",
+   "caption": "夕日を眺める",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-07"
+  },
   {
    "slug": "qualcomm-handset-memory-2026-11-06",
    "thumb": "/img/gallery/qualcomm-handset-memory-2026-11-06_thumb.webp",
