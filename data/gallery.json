@@ -1,9 +1,18 @@
 {
- "updated": "2026-11-08",
- "count": 65,
- "daily": 64,
+ "updated": "2026-11-09",
+ "count": 66,
+ "daily": 65,
  "work": 1,
  "items": [
+  {
+   "slug": "fujitv-ai-sandbox-drama-2026-11-11",
+   "thumb": "/img/gallery/fujitv-ai-sandbox-drama-2026-11-11_thumb.webp",
+   "full": "/img/gallery/fujitv-ai-sandbox-drama-2026-11-11.webp",
+   "caption": "ピアノを弾く",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-11"
+  },
   {
    "slug": "ai-training-optout-robots-txt-2026-11-08",
    "thumb": "/img/gallery/ai-training-optout-robots-txt-2026-11-08_thumb.webp",
