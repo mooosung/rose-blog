@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09",
- "count": 66,
- "daily": 65,
+ "updated": "2026-11-11",
+ "count": 67,
+ "daily": 66,
  "work": 1,
  "items": [
   {
@@ -9,6 +9,15 @@
    "thumb": "/img/gallery/fujitv-ai-sandbox-drama-2026-11-11_thumb.webp",
    "full": "/img/gallery/fujitv-ai-sandbox-drama-2026-11-11.webp",
    "caption": "ピアノを弾く",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-11"
+  },
+  {
+   "slug": "softbank-group-q2-loss-interest-2026-11-11",
+   "thumb": "/img/gallery/softbank-group-q2-loss-interest-2026-11-11_thumb.webp",
+   "full": "/img/gallery/softbank-group-q2-loss-interest-2026-11-11.webp",
+   "caption": "星空を眺める",
    "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-11-11"
