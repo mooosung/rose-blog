@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-12-ai-agent-toha-saas-business-model",
+    "title": "AIエージェントとは？生成AI・チャットボットとの違いとSaaS企業の稼ぎ方が変わる理由",
+    "date": "2026-11-12",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-12-ai-agent-toha-saas-business-model.jpg"
+  },
+  {
     "path": "posts/2026-11-09-cowos-tsmc-interposer-copos",
     "title": "CoWoSとは？TSMCの先端パッケージの仕組みとインターポーザ、CoPoSとの違い",
     "date": "2026-11-09",
@@ -28,11 +34,5 @@
     "title": "配当控除とは｜配当金を確定申告すると得する所得ラインは課税所得695万円",
     "date": "2026-10-31",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-31-haito-kojo-dividend-tax-return-guide.jpg"
-  },
-  {
-    "path": "posts/2026-10-29-cybozu-4776-stock-price-kintone-ai-q3",
-    "title": "サイボウズ（4776）株価の見方｜月次売上+11.8%に減速、kintone AIと3Q決算の注目点",
-    "date": "2026-10-29",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-29-cybozu-4776-stock-price-kintone-ai-q3.jpg"
   }
 ]
