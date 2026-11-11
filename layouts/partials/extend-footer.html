@@ -1,0 +1,5 @@
+{{/* パララックス・カルーセルなどの動き（assets/js/rose-ui.js）。全ページ共通なので footer から読む */}}
+{{ with resources.Get "js/rose-ui.js" }}
+  {{ $js := . | resources.Minify | resources.Fingerprint (site.Params.fingerprintAlgorithm | default "sha512") }}
+  <script defer src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ end }}

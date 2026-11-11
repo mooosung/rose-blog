@@ -1,0 +1,38 @@
+{{/* トップページ用の記事カード。
+     引数: page（記事）, class（追加クラス）, rank（人気順の番号・省略可）,
+           desc（説明文を出すか）, lead（大きい枠。題名と「この記事を読む」も文字で出す）
+     アイキャッチ画像には題名が焼き込んであるので、ふつうの枠では題名を alt にだけ入れて文字では重ねない。 */}}
+{{ $page := .page }}
+{{ $catColor := site.Data.category_colors._default }}
+{{ $catName := "" }}
+{{ with $page.GetTerms "categories" }}
+  {{ with index . 0 }}
+    {{ $catName = .LinkTitle }}
+    {{ with index site.Data.category_colors .LinkTitle }}{{ $catColor = . }}{{ end }}
+  {{ end }}
+{{ end }}
+{{/* 大きい枠は題名を文字でも出すので、画像の alt は空にして二重の読み上げを避ける */}}
+{{ $alt := cond (default false .lead) "" $page.Title }}
+{{ $img := $page.Params.featureimage | default site.Params.defaultFeaturedImage }}
+<a href="{{ $page.RelPermalink }}" class="rz-card {{ .class }}" style="--cat-color:{{ $catColor }};">
+  <span class="rz-card__media">
+    {{ if strings.HasSuffix $img ".jpg" }}
+      <picture>
+        <source srcset="{{ replace $img ".jpg" ".webp" }}" type="image/webp">
+        <img src="{{ $img }}" alt="{{ $alt }}" width="1200" height="630" class="nozoom" loading="lazy" decoding="async">
+      </picture>
+    {{ else }}
+      <img src="{{ $img }}" alt="{{ $alt }}" width="1200" height="630" class="nozoom" loading="lazy" decoding="async">
+    {{ end }}
+    {{ with .rank }}<span class="rz-card__rank" aria-hidden="true">{{ printf "%02d" . }}</span>{{ end }}
+  </span>
+  <span class="rz-card__body">
+    <span class="rz-card__meta">
+      {{ with $catName }}<span class="rz-card__cat">{{ . }}</span>{{ end }}
+      <time datetime="{{ $page.Date.Format "2006-01-02" }}">{{ $page.Date.Format "2006年1月2日" }}</time>
+    </span>
+    {{ if .lead }}<span class="rz-card__title">{{ $page.Title }}</span>{{ end }}
+    {{ if .desc }}{{ with $page.Description }}<span class="rz-card__desc">{{ . }}</span>{{ end }}{{ end }}
+    {{ if .lead }}<span class="rz-card__go" aria-hidden="true">この記事を読む →</span>{{ end }}
+  </span>
+</a>
