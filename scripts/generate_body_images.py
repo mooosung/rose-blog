@@ -12,9 +12,12 @@ featureimage（アイキャッチ）とは別に、本文中に1〜2枚の挿絵
 Usage:
     python3 scripts/generate_body_images.py --slug 2026-07-28-foo-slug
     python3 scripts/generate_body_images.py --slug ... --count 1
-    python3 scripts/generate_body_images.py --slug ... --scene1 "..." --scene2 "..."
+    python3 scripts/generate_body_images.py --slug ... --scene "..." --scene "..." --scene "..." --scene "..."
 
-Output: static/img/body/{slug}-1.jpg, static/img/body/{slug}-2.jpg (1200x630)
+2026-11-11: ChatGPT Pro のAPIクレジット付与を受けて既定を4枚に増量（御主人様2指示「もっと画像を入れるようにして」）。
+--scene を枚数分くり返して各H2の内容に合わせる。省略時は構図(COMPOSITIONS)だけ変えて描き分ける。
+
+Output: static/img/body/{slug}-1.jpg ... -{count}.jpg (1200x630)
 挿入用のMarkdown画像タグを標準出力に表示する。
 """
 import argparse
@@ -51,13 +54,25 @@ EXPRESSION_POOL = [
 ]
 
 
+# 1記事に4枚以上入るので、同じ記事内で構図が被らないようにする
+COMPOSITIONS = [
+    "medium shot, Rose in the foreground with the theme's setting behind her",
+    "wide establishing shot, Rose small in a richly detailed environment",
+    "close-up over-the-shoulder view of Rose examining something related to the theme",
+    "dynamic diagonal composition, Rose in motion interacting with props of the theme",
+    "cozy desk scene from a low angle, Rose working with documents and a laptop",
+    "symbolic still-life scene with Rose at the edge of the frame",
+]
+
+
 def pick_expression(slug: str, idx: int) -> str:
-    key = f"{slug}-{idx}"
-    h = int(hashlib.sha256(key.encode()).hexdigest(), 16)
-    return EXPRESSION_POOL[h % len(EXPRESSION_POOL)]
+    # 記事内で表情が重複しないよう、基点だけハッシュで決めて3つ飛ばしで回す（gcd(3,10)=1）
+    base = int(hashlib.sha256(slug.encode()).hexdigest(), 16) % len(EXPRESSION_POOL)
+    return EXPRESSION_POOL[(base + (idx - 1) * 3) % len(EXPRESSION_POOL)]
 
 
-def build_prompt(title: str, tags: list, scene: str | None, expression: str) -> str:
+def build_prompt(title: str, tags: list, scene: str | None, expression: str,
+                 composition: str = "") -> str:
     p = (
         "The attached image is the character reference for Rose, an elegant "
         "tsundere young-lady maid character with long curly blonde hair. Keep "
@@ -69,6 +84,8 @@ def build_prompt(title: str, tags: list, scene: str | None, expression: str) -> 
     )
     if scene:
         p += f"Scene direction: {scene}. "
+    if composition:
+        p += f"Composition: {composition}. "
     p += (
         f"Feature Rose naturally integrated into the theme's world and "
         f"setting (not floating or pasted on), with this expression and pose: "
@@ -121,10 +138,12 @@ def generate_one(api_key: str, prompt: str, out_path: Path) -> bool:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--slug", required=True, help="記事slug（content/posts/{slug}.md）")
-    ap.add_argument("--count", type=int, default=2, choices=[1, 2],
-                    help="生成する本文画像の枚数（デフォルト2）")
-    ap.add_argument("--scene1", default=None, help="1枚目の情景ヒント（英語1文、任意）")
-    ap.add_argument("--scene2", default=None, help="2枚目の情景ヒント（英語1文、任意）")
+    ap.add_argument("--count", type=int, default=4, choices=range(1, 7),
+                    help="生成する本文画像の枚数（デフォルト4・最大6）")
+    ap.add_argument("--scene", action="append", default=[],
+                    help="情景ヒント（英語1文）。枚数分くり返し指定。1つ目が1枚目")
+    ap.add_argument("--scene1", default=None, help="（旧）1枚目の情景ヒント")
+    ap.add_argument("--scene2", default=None, help="（旧）2枚目の情景ヒント")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
 
@@ -141,7 +160,8 @@ def main() -> None:
     if isinstance(tags, str):
         tags = [tags]
 
-    scenes = [args.scene1, args.scene2]
+    scenes = list(args.scene) or [args.scene1, args.scene2]
+    scenes += [None] * (args.count - len(scenes))
     snippets = []
     for i in range(1, args.count + 1):
         out_path = OUTPUT_DIR / f"{args.slug}-{i}.jpg"
@@ -150,7 +170,8 @@ def main() -> None:
         else:
             expression = pick_expression(args.slug, i)
             print(f"[{i}] Expression: {expression}")
-            prompt = build_prompt(title, tags, scenes[i - 1], expression)
+            composition = COMPOSITIONS[(i - 1) % len(COMPOSITIONS)]
+            prompt = build_prompt(title, tags, scenes[i - 1], expression, composition)
             ok = generate_one(api_key, prompt, out_path)
             if not ok:
                 raise SystemExit(f"ERROR: 画像{i}枚目の生成に失敗しました")
