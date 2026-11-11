@@ -4,7 +4,7 @@ date: 2026-05-10
 draft: false
 tags: ["ETF", "長期投資", "NISA"]
 categories: ["投資戦略・資産運用"]
-description: "ESG投資・サステナブル投資の基本から実践方法まで徹底解説。代表的なESG ETFの比較・NISA口座での活用法・リターンと社会貢献を両立する長期資産形成戦略を紹介します。"
+description: "ESG投資とは、環境（E）・社会（S）・ガバナンス（G）の非財務情報も加えて投資先を選ぶ方法です。SRI・サステナブル投資との違い、2022年にESGファンドが苦戦した理由、グリーンウォッシングや評価機関ごとにスコアが違う注意点、ESGU・ESGVなど米国ETFと新NISAでの始め方まで整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-05-10-esg-sustainable-investment-complete-guide.jpg"
 featureimagecaption: ""
 ---

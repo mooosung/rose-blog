@@ -6,7 +6,7 @@ draft: false
 featured: true
 tags: ["AIインフラ", "米国株", "銘柄分析", "成長株", "データセンター・電力", "Vertiv"]
 categories: ["ツルハシ投資"]
-description: "データセンターの液冷（水冷）関連株を、CDU・配管カプラ・コールドプレート・冷却液の部品別に一覧化。ニデック・古河電工・ダイキン・三菱重工・日東工器など日本株と、Vertiv・nVent・Ecolab・Modineなど米国株を、各社IRの一次情報で確認できた案件だけで整理します。"
+description: "液冷配管の銘柄は、配管をつなぐカプラの日東工器、CDUのニデック、水冷モジュールの古河電工・フジクラが近道。データセンター冷却関連株を部品別に、日本株とVertiv・nVent・Ecolab・Modineなど米国株で一覧化。各社IRの一次情報で確認できた案件だけで整理します。"
 featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-23-datacenter-liquid-cooling-stocks.jpg"
 featureimagecaption: ""
 ---
