@@ -1,0 +1,21 @@
+{{/* 見つからないページ。行き止まりにしないで、最新の記事と入口を出す。 */}}
+{{ define "main" }}
+  <div class="rz-page rz-page--404">
+    {{ partial "rz/page-head.html" (dict
+      "page" .
+      "eyebrow" "404 Not Found"
+      "title" "お探しのページは見つかりませんでしたわ"
+      "lead" "URL が変わったか、記事を取り下げたのかもしれません。下の入口から探してくださいまし。"
+      "inner" (printf "<a class=\"rz-btn rz-btn--primary\" href=\"%s\">トップへ戻る</a><a class=\"rz-btn rz-btn--ghost\" href=\"%s\">記事一覧を見る</a>" site.Home.RelPermalink ("posts/" | relURL) | safeHTML)
+    ) }}
+
+    {{ with first 3 (where site.RegularPages "Section" "posts") }}
+      <h2 class="rz-year"><span>最新の記事</span></h2>
+      <section class="rz-grid">
+        {{ range . }}
+          {{ partial "article-link/card.html" . }}
+        {{ end }}
+      </section>
+    {{ end }}
+  </div>
+{{ end }}

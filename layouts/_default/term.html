@@ -1,0 +1,45 @@
+{{/* タグ・カテゴリごとの記事一覧。テーマの term.html から、見出しを帯（rz/page-head.html）に、
+     記事の並びをカード固定にしたもの。見た目は assets/css/custom.css の「下層ページ」節。 */}}
+{{ define "main" }}
+  {{ .Scratch.Set "scope" "term" }}
+  {{ $isCategory := eq .Data.Plural "categories" }}
+  {{ $count := len .Pages }}
+
+  <div class="rz-page">
+    {{ partial "rz/page-head.html" (dict
+      "page" .
+      "eyebrow" (cond $isCategory "Category" "Tag")
+      "lead" .Description
+      "crumbs" true
+      "inner" (printf "<span class=\"rz-count\"><b>%d</b>本</span>" $count | safeHTML)
+    ) }}
+
+    {{ if $isCategory }}
+      {{ partial "rz/chips.html" (dict "current" .) }}
+    {{ end }}
+
+    {{ if .Content }}
+      <section class="rz-prose-block prose flex max-w-full flex-col dark:prose-invert lg:flex-row">
+        <div class="min-w-0 min-h-0 max-w-prose">
+          {{ .Content }}
+        </div>
+      </section>
+    {{ end }}
+
+    {{ if gt .Pages 0 }}
+      <section class="rz-grid">
+        {{ range (.Paginate .Pages).Pages }}
+          {{ partial "article-link/card.html" . }}
+        {{ end }}
+      </section>
+    {{ else }}
+      <section class="mt-10 prose dark:prose-invert">
+        <p class="py-8 border-t">
+          <em>{{ i18n "term.no_articles" | emojify }}</em>
+        </p>
+      </section>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

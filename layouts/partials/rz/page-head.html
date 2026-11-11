@@ -1,0 +1,35 @@
+{{/* トップ以外のページの見出しの帯。見た目は assets/css/custom.css の「下層ページ」節。
+     引数: page（必須）, eyebrow, title（省略時は page.Title）, lead, crumbs（true でパンくず）,
+           art（false で右の絵を出さない）, id（h1 の id）。
+     呼び出し側が帯の中に続けて置きたいもの（件数やボタン）は inner に HTML で渡す。 */}}
+{{ $page := .page }}
+{{ $title := .title | default $page.Title }}
+{{/* ページごとに絵を変える。写真集は毎日先頭に1枚足されるので、先頭から数えると全ページの絵が毎日ずれる。
+     古い順に並べ直し、決まった枚数（40枚）の中から URL で選ぶと、足されても同じ絵のままになる */}}
+{{ $gallery := slice }}
+{{ with site.Data.gallery }}{{ with .items }}{{ $gallery = collections.Reverse (where . "kind" "日常") }}{{ end }}{{ end }}
+{{ $pick := dict }}
+{{ with $gallery }}{{ $pick = index . (mod (hash.FNV32a $page.RelPermalink) (int (math.Min (len .) 40))) }}{{ end }}
+{{ $showArt := and $pick (ne .art false) }}
+<header class="rz-pagehead{{ if $showArt }} rz-pagehead--art{{ end }}{{ with .class }} {{ . }}{{ end }}">
+  <div class="rz-pagehead__bg" aria-hidden="true">
+    {{ with $pick }}
+      <img class="rz-pagehead__ambient nozoom" src="{{ .thumb }}" alt="" width="900" height="900" decoding="async" fetchpriority="low">
+    {{ end }}
+    <svg class="rz-pagehead__chart" viewBox="0 0 1200 420" preserveAspectRatio="none" focusable="false">
+      <path pathLength="1" d="M0 360 L90 330 L170 345 L260 290 L340 305 L430 240 L520 262 L610 190 L700 214 L790 150 L880 170 L970 96 L1060 118 L1200 40" fill="none" stroke="rgb(200,164,93)" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
+    </svg>
+  </div>
+  <div class="rz-pagehead__text">
+    {{ if .crumbs }}{{ partial "breadcrumbs.html" $page }}{{ end }}
+    {{ with .eyebrow }}<p class="rz-eyebrow">{{ . }}</p>{{ end }}
+    <h1 class="rz-pagehead__title"{{ with .id }} id="{{ . }}"{{ end }}>{{ $title | emojify }}</h1>
+    {{ with .lead }}<p class="rz-pagehead__lead">{{ . }}</p>{{ end }}
+    {{ with .inner }}<div class="rz-pagehead__meta">{{ . }}</div>{{ end }}
+  </div>
+  {{ if $showArt }}
+    <div class="rz-pagehead__art" aria-hidden="true">
+      <img src="{{ $pick.thumb }}" alt="" width="900" height="900" decoding="async" fetchpriority="low" class="nozoom">
+    </div>
+  {{ end }}
+</header>

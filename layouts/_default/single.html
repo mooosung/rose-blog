@@ -1,8 +1,11 @@
 {{ define "main" }}
   {{ .Scratch.Set "scope" "single" }}
-  <article>
+  {{/* 記事と特集はアイキャッチ（題名入りの絵）を大きく見せる。それ以外（運営者情報・写真集・用語集など）は
+       専用の絵が無いので、一覧ページと同じ見出しの帯にする */}}
+  {{ $plain := not (in (slice "posts" "features") .Section) }}
+  <article class="rz-article{{ if $plain }} rz-article--plain{{ end }}">
     {{/* Hero */}}
-    {{ if .Params.showHero | default (site.Params.article.showHero | default false) }}
+    {{ if and (not $plain) (.Params.showHero | default (site.Params.article.showHero | default false)) }}
       {{ $heroStyle := .Params.heroStyle }}
       {{ if not $heroStyle }}{{ $heroStyle = site.Params.article.heroStyle }}{{ end }}
       {{ $heroStyle := print "hero/" $heroStyle ".html" }}
@@ -14,6 +17,21 @@
     {{ end }}
 
     {{/* Header */}}
+    {{ if $plain }}
+      {{ $meta := partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
+      {{/* 日付も文字数も出さないページ（写真集など）は、空の枠だけ返ってくるので渡さない */}}
+      {{ if not (strings.TrimSpace (plainify $meta)) }}{{ $meta = "" }}{{ end }}
+      {{ partial "rz/page-head.html" (dict
+        "page" .
+        "eyebrow" (index (dict "glossary" "Glossary" "gallery" "Gallery" "about" "About" "contact" "Contact" "privacy-policy" "Privacy Policy") (.Section | default .File.ContentBaseName) | default "Page")
+        "lead" .Description
+        "crumbs" (.Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false))
+        "inner" $meta
+      ) }}
+      {{/* テーマの Zen モード（showZenMode。いまは使っていない）は #single_header があるものとして動く。
+           帯そのものに id を付けると幅のクラスを付け外しされて崩れるので、見えない目印だけ置く */}}
+      <span id="single_header" hidden></span>
+    {{ else }}
     <header id="single_header" class="mt-5 max-w-prose">
       {{ if .Params.showBreadcrumbs | default (site.Params.article.showBreadcrumbs | default false) }}
         {{ partial "breadcrumbs.html" . }}
@@ -29,6 +47,7 @@
         {{ template "SingleAuthor" . }}
       {{ end }}
     </header>
+    {{ end }}
 
     {{/* Body */}}
     <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">

@@ -1262,3 +1262,662 @@ html {
     opacity: 0.35;
   }
 }
+
+/* ============================================================
+   下層ページ（一覧・タグ・カテゴリ・記事・固定ページ・404）
+   見出しの帯は layouts/partials/rz/page-head.html。
+   ============================================================ */
+
+/* トップページ（.rz-home）と同じ色を、ほかのページでも使えるようにする */
+:root {
+  --rz-fg: rgb(23, 19, 29);
+  --rz-muted: rgb(96, 82, 96);
+  --rz-line: rgba(94, 74, 43, 0.22);
+  --rz-surface: rgba(255, 255, 255, 0.78);
+  --rz-page: rgb(255, 255, 255);
+  --rz-hero-base: rgb(244, 239, 232);
+  --rz-gold: rgb(128, 96, 42);
+  --rz-rose: rgb(184, 50, 86);
+  --rz-serif: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", "Noto Serif JP", "Noto Serif CJK JP", serif;
+}
+
+.dark {
+  --rz-fg: rgb(244, 239, 232);
+  --rz-muted: rgb(185, 175, 168);
+  --rz-line: rgba(200, 164, 93, 0.24);
+  --rz-surface: rgba(255, 255, 255, 0.045);
+  --rz-page: rgb(23, 19, 29);
+  --rz-hero-base: rgb(11, 11, 18);
+  --rz-gold: rgb(200, 164, 93);
+  --rz-rose: rgb(232, 93, 117);
+}
+
+/* --- 見出しの帯 --- */
+.rz-pagehead {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: center;
+  gap: 2rem;
+  /* 固定ヘッダーの下の余白（148px）まで帯の背景を敷く */
+  margin-top: -148px;
+  margin-bottom: 2.25rem;
+  padding: calc(148px - 2.5rem) 0 2.5rem;
+  color: var(--rz-fg);
+  isolation: isolate;
+}
+
+/* 本文と同じ幅の中に文字を置いたまま、背景だけ画面の幅いっぱいに広げる */
+.rz-pagehead__bg {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: calc(50% - 50vw);
+  width: 100vw;
+  z-index: -1;
+  overflow: hidden;
+  background: var(--rz-hero-base);
+  border-bottom: 1px solid var(--rz-line);
+}
+
+.rz-pagehead__ambient {
+  position: absolute;
+  top: -30%;
+  right: -4%;
+  width: 56%;
+  max-width: none;
+  height: 160%;
+  object-fit: cover;
+  filter: blur(64px) saturate(1.3);
+  opacity: 0.32;
+}
+
+.dark .rz-pagehead__ambient {
+  opacity: 0.46;
+}
+
+.rz-pagehead__chart {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 72%;
+  opacity: 0.32;
+}
+
+.rz-pagehead__title {
+  margin: 0;
+  font-family: var(--rz-serif);
+  font-size: clamp(1.65rem, 4vw, 2.5rem);
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+  color: var(--rz-fg);
+  overflow-wrap: anywhere;
+}
+
+.rz-pagehead__lead {
+  max-width: 42rem;
+  margin: 0.9rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.9;
+  color: var(--rz-muted);
+}
+
+.rz-pagehead__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1.2rem;
+  font-size: 0.85rem;
+  color: var(--rz-muted);
+}
+
+.rz-count b {
+  margin-right: 0.25rem;
+  font-family: var(--rz-serif);
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--rz-gold);
+}
+
+.rz-pagehead nav[aria-label] {
+  margin-bottom: 1.1rem !important;
+}
+
+/* パンくずの色はテンプレートに直書きされた暗い表示用の薄い色なので、明るい表示では読める色に替える */
+html:not(.dark) .rz-pagehead nav[aria-label] a,
+html:not(.dark) #single_header nav[aria-label] a {
+  color: var(--rz-muted) !important;
+}
+
+html:not(.dark) .rz-pagehead nav[aria-label] > span:last-child,
+html:not(.dark) #single_header nav[aria-label] > span:last-child {
+  color: var(--rz-fg) !important;
+}
+
+.rz-pagehead__art {
+  display: none;
+}
+
+@media (min-width: 900px) {
+  .rz-pagehead--art {
+    grid-template-columns: minmax(0, 1fr) 190px;
+  }
+
+  .rz-pagehead__art {
+    display: block;
+    justify-self: end;
+    width: 190px;
+    aspect-ratio: 4 / 5;
+    overflow: hidden;
+    border: 1px solid var(--rz-line);
+    border-radius: 999px 999px 1rem 1rem;
+    box-shadow: 0 30px 60px -36px rgba(184, 50, 86, 0.8);
+  }
+
+  .rz-pagehead__art img {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    object-fit: cover;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .rz-pagehead__chart path {
+    stroke-dasharray: 1;
+    animation: rz-draw 2.2s ease-out 0.2s both;
+  }
+}
+
+/* --- カテゴリの切り替え --- */
+.rz-chips {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0 0 2rem;
+  padding-bottom: 0.4rem;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+@media (min-width: 768px) {
+  .rz-chips {
+    flex-wrap: wrap;
+    padding-bottom: 0;
+    overflow: visible;
+  }
+}
+
+.rz-chip {
+  /* 中の読み上げ用の文字（sr-only）は absolute なので、基準をここに置かないと横スクロールの外へはみ出す */
+  position: relative;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.45rem 0.95rem;
+  border: 1px solid var(--rz-line);
+  border-radius: 999px;
+  background: var(--rz-surface);
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--rz-fg);
+  text-decoration: none;
+  transition: transform 0.25s ease, border-color 0.25s ease;
+}
+
+.rz-chip:hover {
+  transform: translateY(-1px);
+  border-color: var(--rz-gold);
+}
+
+.rz-chip i {
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+  background: var(--cat-color, var(--rz-gold));
+}
+
+.rz-chip small {
+  font-size: 0.72rem;
+  font-weight: 500;
+  color: var(--rz-muted);
+}
+
+.rz-chip[aria-current] {
+  border-color: transparent;
+  background: linear-gradient(120deg, rgb(184, 50, 86), rgb(152, 38, 70));
+  color: #fff;
+}
+
+.rz-chip[aria-current] small {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.rz-chip[aria-current] i {
+  background: #fff;
+}
+
+/* --- 記事カードの並び --- */
+.rz-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.25rem;
+}
+
+/* テーマはカードの絵に最小幅 300px を決めている。3列の並びでは列がそれより狭くなり、
+   題名の入った絵の右端が切れるので外す */
+.rz-grid .thumbnail_card {
+  min-width: 0;
+}
+
+/* 記事の下の関連記事は、目次の分だけ本文の幅が狭い。3列に固定すると絵の中の題名が読めない
+   大きさになるので、1枚が 220px を下回らない数だけ並べる */
+@media (min-width: 640px) {
+  .rz-grid.rz-grid--related {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  }
+}
+
+@media (min-width: 640px) {
+  .rz-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .rz-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.rz-year {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 2.75rem 0 1.2rem;
+  font-family: var(--rz-serif);
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: var(--rz-gold);
+}
+
+.rz-year::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--rz-line), transparent);
+}
+
+/* 関連記事の見出しは本文（.prose）の中にあるので、本文の h2 の下線を打ち消す */
+.rz-year.rz-year--related {
+  margin-top: 3.5rem;
+  padding-bottom: 0 !important;
+  border-bottom: 0 !important;
+}
+
+.rz-pagehead + .rz-year,
+.rz-chips + .rz-year {
+  margin-top: 0;
+}
+
+.rz-prose-block {
+  margin-bottom: 2.5rem;
+}
+
+.article-link--card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  border-right-color: var(--rz-line);
+  border-bottom-color: var(--rz-line);
+  border-left-color: var(--rz-line);
+  background: var(--rz-surface);
+  transition: transform 0.3s cubic-bezier(0.2, 0.7, 0.2, 1), box-shadow 0.3s ease;
+}
+
+.article-link--card > .p-4 {
+  padding: 0.95rem 1.1rem 1.2rem;
+}
+
+/* カテゴリの色は data/category_colors.json の生の色だと、明るい背景でも暗い背景でも沈むものがある。
+   トップページのカード（.rz-card__cat）と同じ補正をかける */
+.rz-acard__cat {
+  display: inline-block;
+  margin-bottom: 0.3rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: color-mix(in srgb, var(--cat-color, rgb(128, 96, 42)) 55%, rgb(23, 19, 29));
+}
+
+.dark .rz-acard__cat {
+  color: color-mix(in srgb, var(--cat-color, rgb(200, 164, 93)) 55%, rgb(244, 239, 232));
+}
+
+/* 関連記事のカードは本文（.prose）の中に並ぶ。本文の h2 用の下線は not-prose では外れないので、ここで外す */
+.prose .rz-grid h2,
+.dark .prose .rz-grid h2 {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.rz-acard__title {
+  margin: 0 0 0.3rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.article-link--card .article-link__summary {
+  font-size: 0.86rem;
+  line-height: 1.75;
+  color: var(--rz-muted);
+}
+
+/* ページ送り */
+.rz-page > ul.justify-center {
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 3rem;
+}
+
+.rz-page > ul.justify-center a {
+  min-width: 2.5rem;
+  margin: 0;
+  padding: 0 0.5rem;
+  border: 1px solid var(--rz-line);
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 2.4rem;
+}
+
+.rz-page > ul.justify-center li > span {
+  line-height: 2.4rem;
+}
+
+/* --- タグ一覧・カテゴリ一覧 --- */
+.rz-termpanels {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.5rem;
+}
+
+@media (min-width: 900px) {
+  .rz-termpanels--two {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.rz-termpanel {
+  padding: 1.3rem;
+  border: 1px solid var(--rz-line);
+  border-top: 3px solid var(--cat-color, var(--rz-gold));
+  border-radius: 1.1rem;
+  background: var(--rz-surface);
+}
+
+.rz-termpanel__head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.rz-termpanel__title {
+  margin: 0;
+  font-family: var(--rz-serif);
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.rz-termpanel__title a {
+  color: var(--rz-fg);
+  text-decoration: none;
+}
+
+.rz-termpanel__title a:hover {
+  color: var(--rz-rose);
+}
+
+.rz-termpanel__count {
+  padding: 0.15em 0.7em;
+  border: 1px solid var(--rz-gold);
+  border-radius: 999px;
+  font-size: 0.78rem;
+  color: var(--rz-gold);
+}
+
+.rz-termpanel__thumbs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.6rem;
+}
+
+@media (min-width: 560px) {
+  .rz-termpanel__thumbs {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* 2列のときに3枚だと1枚だけ余るので、狭い画面では2枚にする */
+@media (max-width: 559.98px) {
+  .rz-termpanels--two .rz-termpanel__thumb:nth-child(3) {
+    display: none;
+  }
+}
+
+.rz-termpanel__thumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1200 / 630;
+  overflow: hidden;
+  border-radius: 0.6rem;
+  background: rgba(184, 50, 86, 0.16);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  text-align: center;
+  color: var(--rz-muted);
+  text-decoration: none;
+}
+
+/* 絵の代わりに題名を出す枠。長い題名は2行で切る（読み上げには全文が渡る） */
+.rz-termpanel__thumb > span {
+  display: -webkit-box;
+  overflow: hidden;
+  margin: 0 0.5rem;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+}
+
+/* picture は flex の子になる。Chrome では枠に収まるが、絵の元の幅（1200px）を最小幅に取るブラウザでも
+   切れないよう、枠の大きさに固定しておく */
+.rz-termpanel__thumb picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+}
+
+.rz-termpanel__thumb img {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+  transition: transform 0.5s cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+.rz-termpanel__thumb:hover img {
+  transform: scale(1.05);
+}
+
+.rz-termpanel > .rz-more {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.6rem;
+  text-decoration: none;
+}
+
+.rz-termrest {
+  margin-top: 3rem;
+}
+
+.rz-termrest .rz-tag {
+  text-decoration: none;
+}
+
+/* --- 404 --- */
+.rz-page--404 .rz-btn {
+  text-decoration: none;
+}
+
+/* --- 記事ページ --- */
+.rz-article #single_header h1 {
+  font-size: clamp(1.6rem, 3.6vw, 2.25rem);
+  line-height: 1.45;
+}
+
+/* 目次。狭い画面ではテーマが折りたたみの箱にするので、枠を付けるのは横に並ぶ幅だけ */
+@media (min-width: 1024px) {
+  .rz-article .toc,
+  .rz-page .toc {
+    padding: 1rem 1rem 1rem 1.1rem;
+    border: 1px solid var(--rz-line);
+    border-left: 3px solid var(--rz-gold);
+    border-radius: 0 0.9rem 0.9rem 0;
+    background: var(--rz-surface);
+  }
+
+  /* テーマが目次の中に引いている点線は、上の金の線と重なって二重に見えるので消す */
+  .rz-article .toc #TOCView > div,
+  .rz-page .toc #TOCView > div {
+    border-inline-start-width: 0;
+  }
+}
+
+/* 見出し */
+.rz-article .article-content h2 {
+  position: relative;
+  padding-left: 0.95rem;
+}
+
+.rz-article .article-content h2::before {
+  content: "";
+  position: absolute;
+  top: 0.2em;
+  bottom: 0.6em;
+  left: 0;
+  width: 4px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, rgb(232, 93, 117), rgb(200, 164, 93));
+}
+
+/* 表 */
+.rz-article .article-content thead th {
+  background: rgba(200, 164, 93, 0.12);
+}
+
+.rz-article .article-content tbody tr {
+  transition: background-color 0.2s ease;
+}
+
+.rz-article .article-content tbody tr:hover {
+  background: rgba(200, 164, 93, 0.07);
+}
+
+.rz-article .article-content th,
+.rz-article .article-content td {
+  padding: 0.6rem 0.75rem;
+}
+
+/* 引用 */
+.rz-article .article-content blockquote {
+  padding: 0.9rem 1.1rem;
+  border-left: 3px solid var(--rz-rose);
+  border-radius: 0 0.8rem 0.8rem 0;
+  background: var(--rz-surface);
+  font-style: normal;
+}
+
+/* 内側に余白を付けると、中の段落の上下の余白が外へ逃げず二重に空くので、端だけ消す */
+.rz-article .article-content blockquote > :first-child {
+  margin-top: 0;
+}
+
+.rz-article .article-content blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* 本文の画像 */
+.rz-article .article-content p > img,
+.rz-article .article-content figure > img {
+  border-radius: 0.8rem;
+}
+
+/* 前後の記事 */
+.rz-article > footer .flex.justify-between {
+  gap: 1rem;
+}
+
+.rz-article > footer .flex.justify-between > span {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+/* 前か次が無い端の記事では、中身が空白だけの span が残る（:empty には当たらない）ので、リンクの有無で見分ける */
+.rz-article > footer .flex.justify-between > span:has(a) {
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--rz-line);
+  border-radius: 1rem;
+  position: relative;
+  background: var(--rz-surface);
+  transition: border-color 0.25s ease, transform 0.25s ease;
+}
+
+/* 枠の全体が浮くのに押せるのが題名の文字だけだと空振りするので、リンクを枠いっぱいに広げる */
+.rz-article > footer .flex.justify-between > span:has(a) > a::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+}
+
+.rz-article > footer .flex.justify-between > span:has(a):hover {
+  transform: translateY(-2px);
+  border-color: var(--rz-gold);
+}
+
+@media (max-width: 639.98px) {
+  .rz-article > footer .flex.justify-between {
+    flex-direction: column;
+  }
+
+  .rz-article > footer .flex.justify-between > span:not(:has(a)) {
+    display: none;
+  }
+}
+
+/* --- フッター --- */
+#site-footer {
+  position: relative;
+  margin-top: 4rem;
+  border-top: 1px solid var(--rz-line);
+}
+
+#site-footer::before {
+  content: "";
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: min(9rem, 40%);
+  height: 2px;
+  background: linear-gradient(90deg, rgb(184, 50, 86), rgb(200, 164, 93));
+}

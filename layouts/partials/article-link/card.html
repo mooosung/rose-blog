@@ -99,7 +99,7 @@
   {{ end }}
   <div class="p-4">
     {{ with $catTerm }}
-      <span class="relative z-10" style="display:inline-block; font-size:0.7rem; font-weight:600; color:{{ $catColor }}; margin-bottom:0.3rem;">{{ .LinkTitle }}</span>
+      <span class="rz-acard__cat" style="--cat-color:{{ $catColor }};">{{ .LinkTitle }}</span>
     {{ end }}
     <header>
       <a
@@ -109,7 +109,9 @@
           href="{{ $page.RelPermalink }}"
         {{ end }}
         class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2 class="sr-only">
+        {{/* 自分の題名が絵に焼き込んであるのは記事（posts）の専用の絵だけ。特集は別の記事の絵を借りていて、
+             用語集は共通の絵なので、題名を文字で見せる。絵が無くて共通の絵になる記事も同じ */}}
+        <h2 class="{{ if and $page.Params.featureimage (eq $page.Section "posts") }}sr-only{{ else }}rz-acard__title{{ end }}">
           {{ .Title | emojify }}
           {{ if .Params.externalUrl }}
             <span class="cursor-default align-top text-xs text-neutral-400 dark:text-neutral-500">
@@ -124,10 +126,9 @@
       {{ partial "article-meta/basic.html" . }}
     </div>
     {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
-      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-3">
         {{ .Summary | plainify }}
       </div>
     {{ end }}
   </div>
-  <div class="px-6 pt-4 pb-2"></div>
 </article>

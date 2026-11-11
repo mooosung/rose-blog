@@ -253,7 +253,7 @@
 
   /* ---------- 記事の読み進みバー ---------- */
   function initProgress() {
-    var content = document.querySelector("#single_header ~ section .article-content");
+    var content = document.querySelector("article.rz-article .article-content");
     if (!content) return;
     var bar = document.createElement("div");
     bar.className = "rz-progress";

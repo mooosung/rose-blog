@@ -1,0 +1,13 @@
+{{/* 関連記事。テーマの related.html から、カードを一覧ページと同じ article-link/card.html にそろえたもの
+     （テーマの card-related.html は絵の左右が切れ、絵に入っている題名を文字でも重ねて出す）。 */}}
+{{ if .Params.showRelatedContent | default (.Site.Params.article.showRelatedContent | default false) }}
+  {{ $related := .Site.RegularPages.Related . | first .Site.Params.article.relatedContentLimit }}
+  {{ with $related }}
+    <h2 class="rz-year rz-year--related"><span>{{ i18n "article.related_articles" | emojify }}</span></h2>
+    <section class="rz-grid rz-grid--related not-prose">
+      {{ range . }}
+        {{ partial "article-link/card.html" . }}
+      {{ end }}
+    </section>
+  {{ end }}
+{{ end }}

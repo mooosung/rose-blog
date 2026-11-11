@@ -1,0 +1,14 @@
+{{/* カテゴリの切り替え（記事一覧とカテゴリごとのページの上に置く）。引数: current（いま開いているページ） */}}
+{{ $current := .current }}
+{{ $posts := site.GetPage "/posts" }}
+<nav class="rz-chips" aria-label="カテゴリで絞り込む">
+  {{ with $posts }}
+    <a class="rz-chip" href="{{ .RelPermalink }}"{{ if eq $current . }} aria-current="page"{{ end }}>すべて</a>
+  {{ end }}
+  {{ range site.Taxonomies.categories.ByCount }}
+    {{ $color := index site.Data.category_colors .Page.LinkTitle | default site.Data.category_colors._default }}
+    <a class="rz-chip" href="{{ .Page.RelPermalink }}" style="--cat-color:{{ $color }};"{{ if eq $current .Page }} aria-current="page"{{ end }}>
+      <i aria-hidden="true"></i>{{ .Page.LinkTitle }}<small aria-hidden="true">{{ .Count }}</small><span class="sr-only">（{{ .Count }}件）</span>
+    </a>
+  {{ end }}
+</nav>

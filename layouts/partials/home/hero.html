@@ -1,12 +1,6 @@
 {{/* 節の見出しの枠を header 要素にしないこと: custom.css の「.dark header a」が効いてリンクの色が白に変わる。 */}}
 {{/* トップページ。見た目は assets/css/custom.css の「トップページ」節、動きは assets/js/rose-ui.js。
-     JS が読めなかったときに中身が隠れたままにならないよう、rz-js は3秒で外す。 */}}
-<script>
-  document.documentElement.classList.add("rz-js");
-  setTimeout(function () {
-    if (!window.__rzReady) document.documentElement.classList.remove("rz-js");
-  }, 3000);
-</script>
+     スクロールで現れる表示の準備（html.rz-js）は全ページ共通なので layouts/partials/extend-head.html にある。 */}}
 
 {{ $gallery := slice }}
 {{ with site.Data.gallery }}{{ with .items }}{{ $gallery = . }}{{ end }}{{ end }}
