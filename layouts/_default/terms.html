@@ -36,9 +36,10 @@
               {{ range first $thumbCount $term.Pages }}
                 {{ $article := . }}
                 <a href="{{ .RelPermalink }}" class="rz-termpanel__thumb">
-                  {{/* 自分の題名が絵に入っているのは記事（posts）だけ。特集は別の記事の絵を借りていて、
+                  {{/* 自分の題名が絵に入っているのは、記事（posts）の絵と特集専用の絵（feature-*.jpg）だけ。
                        用語集は共通の絵なので、題名を文字で出す */}}
-                  {{ with and (eq $article.Section "posts") $article.Params.featureimage }}
+                  {{ $own := or (eq $article.Section "posts") (and (eq $article.Section "features") (strings.Contains ($article.Params.featureimage | default "") "/feature-")) }}
+                  {{ with and $own $article.Params.featureimage }}
                     {{ if strings.HasSuffix . ".jpg" }}
                       <picture>
                         <source srcset="{{ replace . ".jpg" ".webp" }}" type="image/webp">
