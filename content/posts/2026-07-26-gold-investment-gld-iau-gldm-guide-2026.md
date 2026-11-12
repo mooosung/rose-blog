@@ -1,6 +1,6 @@
 ---
 title: "GLD・GLDM・IAUの違い｜金ETF比較と選び方2026"
-aliases: ["/posts/2026-05-14-gold-etf-investment-complete-guide/", "/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/", "/posts/2026-04-06-gold-etf-investment-complete-guide/"]
+aliases: ["/posts/2026-05-14-gold-etf-investment-complete-guide/", "/posts/2026-06-05-gold-etf-gld-iau-gldm-complete-guide/", "/posts/2026-04-06-gold-etf-investment-complete-guide/", "/features/gold-investment-guide/"]
 date: 2026-07-26
 lastmod: 2026-08-27
 draft: false

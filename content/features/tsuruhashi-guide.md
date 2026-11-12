@@ -1,9 +1,10 @@
 ---
-title: "ツルハシ投資完全ガイド｜AIインフラ株まとめ特集"
+title: "ツルハシ投資の記事まとめ｜AIインフラ株を分野別に読む"
 date: 2026-07-28
+lastmod: 2026-11-12
 draft: false
-description: "ゴールドラッシュで儲かるのは金を掘る人ではなくツルハシを売る人。AIブームを裏側で支えるインフラ株を、半導体・電力・冷却・素材まで29記事から厳選してまとめた完全ガイドですわ"
-featureimage: "https://rozenmaier.com/img/thumbnails/2026-07-14-tsuruhashi-investment-complete-guide.jpg"
+description: "ゴールドラッシュで儲かるのは金を掘る人ではなくツルハシを売る人。AIブームを裏側で支えるインフラ株を、半導体・電力・冷却・素材と個別銘柄の決算分析まで、30記事を分野別にまとめましたわ"
+featureimage: "https://rozenmaier.com/img/thumbnails/feature-tsuruhashi-guide.jpg"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -14,61 +15,71 @@ categories: ["ツルハシ投資"]
 
 「ツルハシ投資」とは——ゴールドラッシュで本当に儲かったのは金を掘る人ではなく、ツルハシやジーンズを売った人だった、という有名な逸話に由来しますの。AIブームも同じですわ。派手なAIモデル企業の裏側で、半導体・電力・冷却・素材といった「掘る道具」を提供する企業こそが、静かに恩恵を受け続けていますの。
 
-このカテゴリだけで**29記事**書いてきましたから、まずは総論から読んで、気になる分野を深掘りしてくださいまし 🌹
+このカテゴリだけで**30記事**書いてきましたから、まずは総論から読んで、気になる分野を深掘りしてくださいまし 🌹
 
 ## まず読むべき総論
 
 まずはこの1本で全体像を掴んでくださいまし。「ツルハシ投資」がなぜ有効な戦略なのか、どんな分野に分散すればいいのかを俯瞰できる内容になっていますわ。
 
-- [ツルハシ投資完全ガイド2026年版｜AIインフラ株（液冷・半導体基板・電線・MLCCなど）で長期資産形成する方法](/posts/2026-07-14-tsuruhashi-investment-complete-guide/)
+- [AIツルハシ銘柄一覧2026｜半導体・電力・冷却の日米株](/posts/2026-07-14-tsuruhashi-investment-complete-guide/) — AIツルハシ銘柄とは何か、どんな業種があるのかを一覧で整理。
 
 ## 半導体・チップ関連
 
 AIモデルを動かすには膨大な計算資源が要りますの。その計算資源を作る側——製造装置・素材・設計・ネットワーク半導体まで、AI半導体サプライチェーンの各段階を担う企業をまとめましたわ。GPU企業そのものより地味だけど、代替が効きにくい分だけ長期投資に向いていますの。
 
-- [半導体製造装置株とは？東京エレクトロン・ASML・レーザーテックがAI時代に不可欠な理由](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/)
-- [シリコンウェハとは？SUMCO・信越化学がAI時代に不可欠な理由【投資家向け完全解説】](/posts/2026-02-28-silicon-wafer-sumco-shinetsu-ai/)
-- [パワー半導体（SiC・GaN）とは？ローム・富士電機・インフィニオンがAIデータセンターに不可欠な理由](/posts/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure/)
-- [HBM（高帯域幅メモリ）とは？SK Hynix・Micron・SamsungがAI時代の最重要メモリな理由](/posts/2026-03-09-hbm-high-bandwidth-memory-ai-infrastructure-stocks/)
-- [ICパッケージ基板（ABF基板）とは？イビデン・新光電気工業がAI時代の最重要インフラな理由](/posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai/)
-- [Arm Holdings（ARM）完全分析2026年版｜AIチップ設計の黒幕は真のツルハシ銘柄か？](/posts/2026-06-22-arm-holdings-ai-chip-architecture-stock-analysis/)
-- [AIネットワーク半導体株｜Broadcom・Arista Networks・Marvellが注目される理由を徹底解説](/posts/2026-03-30-ai-networking-broadcom-arista-marvell-stocks/)
-- [Super Micro Computer（SMCI）株 徹底分析2026年版｜AIサーバーラック市場のツルハシ銘柄](/posts/2026-07-06-supermicro-smci-ai-server-rack-investment/)
+- [半導体製造装置シェア｜ASML・東京エレクトロン・レーザーテック](/posts/2026-03-04-semiconductor-equipment-tel-asml-lasertec/) — 半導体製造装置の世界シェアを工程別に一次情報で整理。
+- [シリコンウェハとは？SUMCO・信越化学がAI時代に不可欠な理由【投資家向け完全解説】](/posts/2026-02-28-silicon-wafer-sumco-shinetsu-ai/) — シリコンウェハとは何かをやさしく解説。
+- [パワー半導体（SiC・GaN）とは？ローム・富士電機・インフィニオンがAIデータセンターに不可欠な理由](/posts/2026-03-08-power-semiconductors-sic-gan-ai-infrastructure/) — AIデータセンターの電力効率化を支えるパワー半導体（SiC・GaN）を徹底解説。
+- [ICパッケージ基板（ABF基板）とは？構造・種類とイビデン](/posts/2026-03-05-pcb-ic-package-substrate-ibiden-ai/) — ICパッケージ基板とは、半導体チップとマザーボードの間に入る中間の基板ですわ。
+- [CoWoSとは？TSMCの先端パッケージの仕組みとインターポーザ、CoPoSとの違い](/posts/2026-11-09-cowos-tsmc-interposer-copos/) — CoWoS（コワス）はTSMCの先端パッケージ技術で、GPUとHBMを「インターポーザ」という中間の板に並べてつなぐ方式ですわ。
+- [ガラスコア基板とは？関連銘柄6社の量産時期と「売上までの距離」【2026年】](/posts/2026-10-12-glass-core-substrate-stocks-dnp-neg/) — ガラスコア基板は、AI半導体を載せるパッケージ基板の芯材を樹脂からガラスに替える技術ですわ。
+- [半導体関連株の一覧｜10層×日本株20銘柄をPERで比較](/posts/2026-08-27-ai-semiconductor-stocks-map/) — 半導体関連株を設計から電力まで10の層に分け、日本株20銘柄の株価・予想PER・PBR・最低投資額を2026年9月18日終値で一覧にしました。
+- [NVIDIA Vera Rubin徹底解説｜前世代比10倍効率・AI半導体次世代覇者の全貌](/posts/2026-02-27-nvidia-vera-rubin/) — NVIDIAの次世代AIプラットフォーム「Vera Rubin」の詳細スペック・効率向上の仕組み・競合AMDとの差別化ポイントを徹底解説。
+- [エヌビディア（NVDA）Q4 FY2026決算速報｜AI覇者の業績と今後の株価見通し](/posts/2026-02-26-nvidia-q4-fy2026-earnings/) — 2026年2月25日発表のエヌビディアQ4 FY2026決算を詳しく解説。
+- [Taalasの株価は？2026年AMD買収で上場は消滅へ](/posts/2026-02-24-taalas-hc1-ai-chip/) — Taalas（タアラス）の株価を2026年9月時点の一次情報で更新。
 
 ## 電力・冷却インフラ
 
 AIデータセンターは電気を大量に食う上に、大量の熱を出しますの。「電力をどう確保するか」「発熱をどう冷やすか」は、AIブームの持続性を左右する死活問題ですわ。原発・ガスタービンから液浸冷却まで、電力・熱問題の受益株を集めましたの。
 
-- [液浸冷却（Immersion Cooling）とは？AIデータセンター向け最先端冷却技術と注目株](/posts/2026-03-02-immersion-cooling-ai-datacenter-stocks/)
-- [データセンターUPS・電源インフラとは？富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/)
-- [変圧器（トランス）不足とAI｜日立エナジー・ダイヘン・明電舎など注目インフラ株を解説](/posts/2026-03-10-power-transformer-grid-ai-datacenter-stocks/)
-- [Vertiv（VRT）とEaton（ETN）で狙う「AIの電力需要」受益株 2026年版](/posts/2026-07-20-vertiv-eaton-ai-power-infrastructure-stocks/)
-- [SMR（小型モジュール炉）株2026年版｜NuScale・Oklo・CCJなどAIデータセンター電力株を徹底解説](/posts/2026-06-15-nuclear-smr-ai-datacenter-power-stocks/)
-- [ガスタービン株が「売り切れ」に：GEヴァーノバ・シーメンスエナジーで狙う2026年AI電力ツルハシ投資](/posts/2026-07-27-ge-vernova-siemens-energy-gas-turbine-ai-power-stocks/)
+- [データセンターUPS・電源インフラとは？AI急成長で注目の富士電機・Vertiv・Eaton株を解説](/posts/2026-03-07-datacenter-power-ups-ai-infrastructure-stocks/) — AI需要の爆発でデータセンターの電力消費が急増中。
+- [ガスタービン株が「売り切れ」に：GEヴァーノバ・シーメンスエナジーで狙う2026年AI電力ツルハシ投資](/posts/2026-07-27-ge-vernova-siemens-energy-gas-turbine-ai-power-stocks/) — AIデータセンターの電力不足がガスタービン受注残を押し上げ続けている2026年。
+- [既存原発が「金脈」に変わる2026年：Constellation・Vistra・TalenがAI電力需要で急騰する理由【ツルハシ投資】](/posts/2026-08-10-constellation-vistra-talen-nuclear-ipp-ai-power-stocks/) — 新しい原発を建てるより早い手がある——既存の稼働中原発を持つ独立系発電事業者（IPP）に、ハイパースケーラーが殺到中。
+- [データセンター冷却関連株2026｜液冷配管の日本株・米国株一覧](/posts/2026-03-23-datacenter-liquid-cooling-stocks/) — 液冷配管の銘柄は、配管をつなぐカプラの日東工器、CDUのニデック、水冷モジュールの古河電工・フジクラが近道。
 
 ## 通信・ネットワーク
 
 AIサーバー同士が学習・推論のために膨大なデータをやり取りするには、光ファイバー・光モジュール・電線といった「土台」が必要ですの。データ爆発の裏で静かに需要が伸び続けている通信インフラ株をまとめましたわ。
 
-- [光通信・光ファイバーとは？AIデータ爆発を支えるインフラと注目株【ツルハシ投資】](/posts/2026-03-03-optical-communication-fiber-ai-stocks/)
-- [光インターコネクト・光モジュール株徹底解説｜Coherent・Ciena・Lumentum【AI半導体】](/posts/2026-04-06-light-interconnect-optical-modules-stocks/)
-- [光ネットワーク株2026年版｜Coherent・Lumentum・FabrinetがAIデータセンターの「光の血管」として急成長](/posts/2026-07-13-optical-networking-ai-datacenter-stocks/)
-- [電線御三家（フジクラ・住友電工・古河電工）AI需要で急成長｜注目3銘柄と投資メリット【2026年】](/posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter/)
+- [フジクラ・古河電工・住友電工を数字で比較｜電線株4社の選び方](/posts/2026-03-11-electric-wire-cable-stocks-ai-datacenter/) — フジクラ（5803）・古河電工（5801）・住友電工（5802）・SWCC（5805）を、2027年3月期第1四半期の決算短信と2026年8月31日終値で横並び比較。
 
 ## 素材・部品
 
 チップの中や基板の上で使われるコンデンサ・レアメタル・特殊ガスなど、目立たないけどAIハードウェアに必須な部材メーカーですわ。個別の技術トレンドに左右されにくく、業界全体の需要増の恩恵を受けやすいのが特徴ですの。
 
-- [MLCC（積層セラミックコンデンサ）とは？村田製作所・TDKがAI需要で注目される理由](/posts/2026-03-01-mlcc-murata-tdk-ai-infra/)
-- [銅・レアメタル需要がAI時代に急増する理由｜住友金属鉱山・JX金属など注目株を解説](/posts/2026-03-06-copper-rare-metals-ai-infrastructure-stocks/)
-- [産業用ガス・特殊化学品株とは？大陽日酸・Linde・Air Liquideがツルハシ投資の本命な理由](/posts/industrial-gas-specialty-chemicals-ai-semiconductor/)
+- [MLCC（積層セラミックコンデンサ）とは？村田製作所・TDKがAI需要で注目される理由](/posts/2026-03-01-mlcc-murata-tdk-ai-infra/) — AI時代のツルハシ株「MLCC（積層セラミックコンデンサ）」を徹底解説。
+- [レアアース銘柄と銅関連株15社｜PER・ETFで比較](/posts/2026-03-06-copper-rare-metals-ai-infrastructure-stocks/) — レアアース銘柄・銅関連株の日本株9社と米国株6社を、株価・予想PER・PBR・配当利回り・最低投資額で一覧にしました。
+
+## 個別銘柄の分析
+
+分野の全体像をつかんだら、次は1社ずつですわ。決算の数字と株価の位置を、銘柄ごとに確かめた記事を新しい順に並べていますの。
+
+- [日東紡（3110）株価はなぜ下がった？Tガラスとは何か、高値から57%安の今を決算で読む](/posts/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate/) — 日東紡（3110）の株価は2,814.5円（10/30終値）、5月の高値6,580円（分割調整後）から-57%。
+- [ディスコ（6146）株価はなぜ下がる？営業益48%増でも高値から46%安、10〜12月の出荷額ガイダンスを読む](/posts/2026-10-26-disco-6146-stock-price-q2-shipment-guidance/) — ディスコ（6146）の株価は49,290円（10/23終値）、6月の高値91,680円から-46%。
+- [京セラ（6971）株価は今後どうなる？AI向け半導体パッケージで営業益2.6倍、KDDI株1.5兆円の重み](/posts/2026-10-19-kyocera-6971-stock-ai-semiconductor-package/) — 京セラ（6971）の株価は3,629円（10/16終値）、1年で約1.8倍。
+- [レゾナック（4004）株価分析｜半導体材料の利益率27%、コア営業利益2.5倍の中身とスピンオフ後の見方](/posts/2026-10-05-resonac-4004-stock-semiconductor-materials/) — レゾナック（4004）の株価は17,280円（10/2終値）。
+- [味の素（2802）株価分析｜売上6%のABF事業が利益の3割を稼ぐ「食品株の皮をかぶった半導体株」](/posts/2026-09-28-ajinomoto-2802-abf-stock-analysis/) — 味の素（2802）の株価は5,051円。
+- [イビデン（4062）株価は今後どうなる？急騰理由と株式分割｜PER81.4倍](/posts/2026-09-21-ibiden-4062-abf-substrate-stock-analysis/) — イビデン（4062）の株価は10月2日終値12,100円、10月1日の1→2株式分割後は100株121万円。
+- [東京エレクトロン（8035）株価はなぜ高値から35%下げたのか｜営業利益+46%の決算でも売られた理由を5つの数字で検証](/posts/2026-09-14-tokyo-electron-8035-stock-drawdown-analysis/) — 東京エレクトロン（8035）の株価は7月1日の78,800円から9月11日に51,460円へ、34.7%下げましたわ。
+- [アドバンテスト（6857）営業利益率51.7%の決算を解剖｜株価33,090円・PER36倍は割高か](/posts/2026-09-07-advantest-6857-ai-tester-stock-analysis/) — アドバンテスト（6857）は2027年3月期1Qで営業利益率51.7%、通期を営業利益8,460億円へ上方修正しましたわ。
 
 ## データセンター建設・関連テーマ
 
-データセンターそのものを建てるゼネコン系企業や、隣接する次世代テーマ（量子コンピュータ・国産マルチエージェントAI）まで、ツルハシ投資の周辺領域も押さえておきたい方向けにまとめましたわ。
+データセンターそのものを建てるゼネコン系企業や、データセンターREIT、隣接するテーマ（国産マルチエージェントAI）まで、ツルハシ投資の周辺領域も押さえておきたい方向けにまとめましたわ。
 
-- [AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】](/posts/2026-06-08-datacenter-construction-epc-stocks/)
-- [量子コンピュータ株投資ガイド2026年版｜IonQ・IBM・Quantinuumで押さえる次世代テーマ株の選び方とリスク](/posts/2026-05-05-quantum-computing-investment-guide-2026/)
-- [Sakana AI「Fugu Ultra（フグ）」とは？｜日本発マルチエージェントAIがフロンティアモデルに並んだ日【AI投資2026】](/posts/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment/)
+- [AIデータセンター建設EPC株3選｜Quanta Services・MYR Group・Aecomを徹底分析【ツルハシ投資2026】](/posts/2026-06-08-datacenter-construction-epc-stocks/) — AIデータセンターの急増で需要が爆発する電気工事・EPC（設計・調達・建設）企業を分析。
+- [Sakana Fugu（サカナ・フグ）とは？使い方・性能・最新動向と、投資家が見るべき関連銘柄【2026年8月更新】](/posts/2026-06-29-sakana-ai-fugu-multi-agent-orchestration-investment/) — Sakana Fugu（サカナ・フグ）の使い方を解説。
+- [Digital Realty（DLR）とEquinix（EQIX）で狙う「AIデータセンターREIT」2026年版](/posts/2026-08-03-digital-realty-equinix-datacenter-reit-ai-guide/) — AIインフラ投資の中でも見落とされがちな「不動産」の切り口。
+- [Equinix（EQIX）とは？決算後14%急騰の相互接続REITを徹底解説【2026年版】](/posts/2026-08-03-equinix-eqix-interconnection-reit-stock-analysis/) — Equinix（EQIX）のビジネスモデル・決算後14%急騰の背景・配当成長率13%の実力・新規予約42%増の中身を徹底解説。
 
 もっと深く知りたい方は、[「ツルハシ投資」カテゴリ一覧](/categories/%E3%83%84%E3%83%AB%E3%83%8F%E3%82%B7%E6%8A%95%E8%B3%87/)から全記事をチェックしてくださいまし。ふん、これだけ揃えたんですから、しっかり読んで資産形成に役立ててくださいませね 🌹

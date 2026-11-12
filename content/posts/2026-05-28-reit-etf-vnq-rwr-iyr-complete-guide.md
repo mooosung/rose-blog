@@ -1,5 +1,6 @@
 ---
 title: "VNQ・RWR・IYR比較｜米国REIT ETFの選び方・利回り・リスクを徹底解説"
+aliases: ["/features/reit-investment-guide/"]
 date: 2026-05-28
 draft: false
 tags: ["ETF", "REIT・不動産", "米国株"]

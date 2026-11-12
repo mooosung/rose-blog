@@ -1,9 +1,10 @@
 ---
-title: "高配当株・配当再投資完全ガイド特集｜SCHD・VYMから配当生活まで"
+title: "高配当株・配当再投資完全ガイド特集｜SCHD・VYMから個別株の配当まで"
 date: 2026-08-03
+lastmod: 2026-11-12
 draft: false
-description: "高配当株の選び方からDRIP複利シミュレーション、配当生活の資産設計、罠の見抜き方まで。配当投資を体系的に学べる記事をまとめた特集ですわ"
-featureimage: "https://rozenmaier.com/img/thumbnails/2026-03-14-high-dividend-etf-drip-compound-simulation.jpg"
+description: "高配当株の選び方から配当再投資、配当控除と外国税額控除、三菱UFJ・KDDI・JTなど個別株の配当の検証まで。配当投資を体系的に学べる記事をまとめた特集ですわ"
+featureimage: "https://rozenmaier.com/img/thumbnails/feature-dividend-etf-guide.jpg"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -12,30 +13,38 @@ tags: ["高配当・配当再投資", "長期投資", "米国株", "老後資金
 categories: ["高配当株・配当再投資"]
 ---
 
-配当投資は「利回りが高い銘柄を買えばいい」という単純な話ではありませんの。銘柄の選び方・複利の効かせ方・出口までの設計、全部セットで考えないと、後で減配や罠に泣くことになりますわ。このページでは基礎から実践まで、順番に読めるようにまとめましたの 🌹
+配当投資は「利回りが高い銘柄を買えばいい」という単純な話ではありませんの。銘柄の選び方・複利の効かせ方・税金まで、全部セットで考えないと、後で減配や罠に泣くことになりますわ。このページでは基礎から実践まで、順番に読めるようにまとめましたの 🌹
 
 ## まず選び方を押さえる
 
 高配当株・高配当ETF選びで失敗しないための基本から入りますわ。利回りの数字だけを見て飛びつくのは一番危険ですの。
 
-- [日本高配当株の選び方完全ガイド｜配当利回りだけで選ぶと失敗する5つの理由と正しい基準](/posts/2026-03-21-japan-high-dividend-stocks-selection-guide/)
-- [米国高配当株おすすめ10選2026｜配当利回り4%以上・連続増配銘柄の選び方](/posts/2026-05-16-us-high-dividend-stocks-top10-selection-guide/)
-- [高配当株の罠を見抜く5つのチェック項目｜配当性向・フリーキャッシュフローで選ぶ減配リスク回避スクリーニング術](/posts/2026-08-01-dividend-yield-trap-payout-ratio-fcf-screening-guide/)
-- [連続増配株 vs 高配当株 徹底比較｜VIG vs VYMで10年後のトータルリターンと使い分け戦略](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/)
+- [日本高配当株の選び方完全ガイド｜配当利回りだけで選ぶと失敗する5つの理由と正しい基準](/posts/2026-03-21-japan-high-dividend-stocks-selection-guide/) — 日本の高配当株を選ぶ際にチェックすべき5つの指標と、配当利回りランキングだけで選ぶと失敗する理由を徹底解説。
+- [米国高配当株おすすめ10選2026｜配当利回り4%以上・連続増配銘柄の選び方](/posts/2026-05-16-us-high-dividend-stocks-top10-selection-guide/) — コカ・コーラ・JNJ・Chevronなど配当利回り4%以上の米国高配当株10銘柄を厳選。
+- [連続増配株 vs 高配当株 徹底比較｜VIG vs VYMで10年後のトータルリターンと使い分け戦略](/posts/2026-06-27-dividend-growth-vs-high-yield-stocks-comparison/) — 連続増配株（Dividend Growth）と高配当株（High Yield）の違いをVIG vs VYMで徹底比較。
+- [累進配当とは｜「減配しない」宣言の仕組みと撤回例、日経30銘柄で見る見分け方](/posts/2026-11-07-ruishin-haito-progressive-dividend-guide/) — 累進配当は「減配せず、維持か増配する」という配当方針です。
 
 ## DRIP・複利シミュレーション
 
 配当をもらって終わりではなく、再投資して雪だるま式に増やすのが配当投資の本領ですわ。実際にどれくらい増えるのか、数字で確認してくださいまし。
 
-- [配当再投資のやり方｜SBI・楽天・マネックス3社比較](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/)
-- [SCHD vs DVY vs SDY - 長期配当ETF比較2026年版](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/)
+- [配当再投資のやり方｜米国ETFの自動再投資はマネックスだけ](/posts/2026-03-14-high-dividend-etf-drip-compound-simulation/) — 米国ETFの配当を同一銘柄へ自動再投資できるのは主要3社でマネックス証券だけ。
+- [SCHD・VYM・HDV比較2026｜楽天SCHDとSBI版](/posts/2026-05-13-high-dividend-etf-schd-vym-hdv-comparison/) — SCHD・VYM・HDVを2026年9月11日終値と一次資料で比較。
 
-## 資産設計・出口戦略
+## 税金で手取りを増やす
 
-「いくら貯めれば、月いくらの配当生活ができるのか」を具体的なロードマップに落とし込んだ記事ですの。税金対策まで含めて、手取りを最大化する視点も忘れずに。
+配当は税金を引かれたあとの手取りで考えるものですわ。外国税額控除や配当控除で取り戻せる分を、ここで確かめてくださいまし。
 
-- [500万円から始める配当生活シミュレーション｜10年・20年後の資産推移と段階的ロードマップ](/posts/2026-07-04-500man-dividend-life-portfolio-simulation/)
-- [月10万円の配当収入を実現するポートフォリオ設計｜必要資産額と銘柄選びのロードマップ](/posts/2026-06-13-monthly-100k-dividend-income-portfolio-design/)
-- [米国株配当の外国税額控除・NISA活用ガイド｜二重課税を回避して手取り配当を最大化する方法](/posts/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide/)
+- [米国株配当の外国税額控除・NISA活用ガイド｜二重課税を回避して手取り配当を最大化する方法](/posts/2026-06-20-high-dividend-tax-strategy-foreign-tax-credit-guide/) — 米国株配当の二重課税問題を徹底解説。
+- [配当控除とは｜配当金を確定申告すると得する所得ラインは課税所得695万円](/posts/2026-10-31-haito-kojo-dividend-tax-return-guide/) — 日本株の配当金は20.315%が天引きされて終わりですが、確定申告で総合課税を選ぶと配当控除で税率が下がる人がいます。
+
+## 個別銘柄の配当を確かめる
+
+1社ずつ、100株でいくら受け取れるのか、その配当は続きそうかを数字で確かめた記事ですわ。
+
+- [三菱UFJの配当は100株でいくら？株価3,475円で年96円・利回り2.76%を検証【2026年10月】](/posts/2026-10-17-mufg-8306-dividend-96yen-stock-price/) — 三菱UFJフィナンシャル・グループ（8306）の2027年3月期の予想配当は96円、株価3,475円で利回り2.76%。
+- [KDDIの配当は100株でいくら？株価2,896円で年84円・利回り2.9%を検証【2026年10月】](/posts/2026-10-03-kddi-9433-dividend-84yen-stock-price/) — KDDI（9433）の2027年3月期の予想配当は84円、株価2,896.5円で利回り2.90%。
+- [JTの株価6,886円で配当272円は買いか｜利回り3.95%を配当性向75%方針から検証【2026年9月】](/posts/2026-09-19-jt-2914-stock-price-dividend-272yen/) — JT（2914）の株価は6,886円、2026年12月期の予想配当は272円で利回り3.95%。
+- [INPEX（1605）の配当は年112円・利回り3.09%｜支払日と権利確定日](/posts/2026-09-05-inpex-1605-dividend-yield-total-payout/) — INPEX（1605）の配当は2026年12月期が年112円、100株で年11,200円・利回り3.09%。
 
 もっと深く知りたい方は、[「高配当株・配当再投資」カテゴリ一覧](/categories/%E9%AB%98%E9%85%8D%E5%BD%93%E6%A0%AA%E9%85%8D%E5%BD%93%E5%86%8D%E6%8A%95%E8%B3%87/)から全記事をチェックしてくださいまし。ふん、配当生活は一日にしてならず、ですわよ 🌹
