@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-14-taishoku-shotoku-kojo-ideco-taishokukin",
+    "title": "退職所得控除とは？iDeCoと退職金の計算方法と「控除オーバー」の目安【2026年】",
+    "date": "2026-11-14",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-14-taishoku-shotoku-kojo-ideco-taishokukin.jpg"
+  },
+  {
     "path": "posts/2026-11-12-ai-agent-toha-saas-business-model",
     "title": "AIエージェントとは？生成AI・チャットボットとの違いとSaaS企業の稼ぎ方が変わる理由",
     "date": "2026-11-12",
@@ -28,11 +34,5 @@
     "title": "日東紡（3110）株価はなぜ下がった？Tガラスとは何か、高値から57%安の今を決算で読む",
     "date": "2026-11-02",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate.jpg"
-  },
-  {
-    "path": "posts/2026-10-31-haito-kojo-dividend-tax-return-guide",
-    "title": "配当控除とは｜配当金を確定申告すると得する所得ラインは課税所得695万円",
-    "date": "2026-10-31",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-10-31-haito-kojo-dividend-tax-return-guide.jpg"
   }
 ]
