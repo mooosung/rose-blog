@@ -164,6 +164,11 @@
   "kind": "お仕事",
   "outfit": "メイド服"
  },
+ "applied-materials-fy26q4-2026-11-16": {
+  "caption": "落ち葉を集める",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
  "asml-q2-2026-earnings-eur45b-outlook-20260715": {
   "caption": "本を読んで考える",
   "kind": "日常",
@@ -691,6 +696,11 @@
  },
  "weekly-summary-2026-11-07": {
   "caption": "夕日を眺める",
+  "kind": "日常",
+  "outfit": "メイド服"
+ },
+ "weekly-summary-2026-11-14": {
+  "caption": "本を紹介する",
   "kind": "日常",
   "outfit": "メイド服"
  },

@@ -1,9 +1,27 @@
 {
- "updated": "2026-11-13",
- "count": 68,
- "daily": 67,
+ "updated": "2026-11-15",
+ "count": 70,
+ "daily": 69,
  "work": 1,
  "items": [
+  {
+   "slug": "applied-materials-fy26q4-2026-11-16",
+   "thumb": "/img/gallery/applied-materials-fy26q4-2026-11-16_thumb.webp",
+   "full": "/img/gallery/applied-materials-fy26q4-2026-11-16.webp",
+   "caption": "落ち葉を集める",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-16"
+  },
+  {
+   "slug": "weekly-summary-2026-11-14",
+   "thumb": "/img/gallery/weekly-summary-2026-11-14_thumb.webp",
+   "full": "/img/gallery/weekly-summary-2026-11-14.webp",
+   "caption": "本を紹介する",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-14"
+  },
   {
    "slug": "nvidia-huang-resigns-keyperson-risk-2026-11-13",
    "thumb": "/img/gallery/nvidia-huang-resigns-keyperson-risk-2026-11-13_thumb.webp",
