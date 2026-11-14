@@ -1,7 +1,7 @@
 {
  "updated": "2026-11-15",
- "count": 70,
- "daily": 69,
+ "count": 71,
+ "daily": 70,
  "work": 1,
  "items": [
   {
@@ -12,6 +12,15 @@
    "outfit": "メイド服",
    "kind": "日常",
    "date": "2026-11-16"
+  },
+  {
+   "slug": "photo-autumn-pond-2026-11-15",
+   "thumb": "/img/gallery/photo-autumn-pond-2026-11-15_thumb.webp",
+   "full": "/img/gallery/photo-autumn-pond-2026-11-15.webp",
+   "caption": "紅葉を楽しむ",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-15"
   },
   {
    "slug": "weekly-summary-2026-11-14",
