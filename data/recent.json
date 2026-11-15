@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-16-kouden-yugo-cpo-photonics",
+    "title": "光電融合とは？CPOとの関係、NVIDIAの量産と日本企業の役割をやさしく解説",
+    "date": "2026-11-16",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-16-kouden-yugo-cpo-photonics.jpg"
+  },
+  {
     "path": "posts/2026-11-14-taishoku-shotoku-kojo-ideco-taishokukin",
     "title": "退職所得控除とは？iDeCoと退職金の計算方法と「控除オーバー」の目安【2026年】",
     "date": "2026-11-14",
@@ -28,11 +34,5 @@
     "title": "MCPとは？AIとSaaSをつなぐ共通規格をやさしく解説｜SaaS銘柄への影響",
     "date": "2026-11-05",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-05-mcp-model-context-protocol-saas-stocks.jpg"
-  },
-  {
-    "path": "posts/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate",
-    "title": "日東紡（3110）株価はなぜ下がった？Tガラスとは何か、高値から57%安の今を決算で読む",
-    "date": "2026-11-02",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate.jpg"
   }
 ]

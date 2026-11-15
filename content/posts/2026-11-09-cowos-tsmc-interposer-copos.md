@@ -173,6 +173,8 @@ CoWoSが大きくなるほど、1個のパッケージに載る部品の値段�
 - 材料：[味の素（2802）](/posts/2026-09-28-ajinomoto-2802-abf-stock-analysis/)／[日東紡（3110）](/posts/2026-11-02-nittobo-3110-stock-t-glass-ai-substrate/)／[レゾナック（4004）](/posts/2026-10-05-resonac-4004-stock-semiconductor-materials/)
 - 装置：[ディスコ（6146）](/posts/2026-10-26-disco-6146-stock-price-q2-shipment-guidance/)
 
+チップ同士を電気でなく光でつなぐ次の段階は、[光電融合とは？CPOとの関係と日本企業の役割](/posts/2026-11-16-kouden-yugo-cpo-photonics/)で解説しておりますわ。
+
 ---
 
 ## 気をつけたい点──3つ
