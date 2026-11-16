@@ -20,7 +20,7 @@ AIブームの主役は半導体だけじゃありませんの。企業にAIを�
 企業データを分析・活用するプラットフォーム企業ですわ。PalantirのAIP、SnowflakeのCortex AIなど、各社の看板AI機能ごとに強みが分かれますの。
 
 - [Palantir（PLTR）徹底解説【2026年版】｜AI SaaSの本命銘柄の強みとリスクを分析](/posts/2026-03-19-palantir-pltr-ai-saas-stock-analysis/) — Palantir Technologies（PLTR）のビジネスモデル・AI Platform（AIP）の強み・業績推移・バリュエーションリスクをわかりやすく解説。
-- [パランティア（PLTR）徹底分析2026年版｜AIエンタープライズ分析プラットフォームAIPの成長と投資判断](/posts/2026-07-02-palantir-pltr-ai-enterprise-analytics-stock-analysis/) — パランティア・テクノロジーズ（PLTR）の事業モデル・AIプラットフォーム（AIP）戦略・政府部門と民間部門の二本柱・財務分析を徹底解説。
+- [パランティア（PLTR）とは｜AI分析の強み・成長性・将来性](/posts/2026-07-02-palantir-pltr-ai-enterprise-analytics-stock-analysis/) — パランティアの事業内容（Gotham・Foundry・Apollo・AIP）、オントロジーという強み、2026年7〜9月期の売上96%増という成長性、PSR約50倍の企業価値と将来性のリスクを決算の一次情報で整理。
 - [Snowflake（SNOW）徹底分析2026年版｜Cortex AI・Snowflake Intelligenceで制するAIデータクラウド株の投資価値](/posts/2026-06-18-snowflake-snow-ai-data-cloud-stock-analysis/) — Snowflake（SNOW）の事業モデル・AI戦略（Cortex AI・Snowflake Intelligence）・財務分析・Databricksとの競合比較を徹底解説。
 - [Databricks 徹底分析2026年版｜非上場AIレイクハウス王者のIPO後投資価値とSnowflake比較](/posts/2026-06-17-databricks-ai-lakehouse-ipo-investment-analysis/) — Databricksの事業モデル・AI戦略（Mosaic AI・DBRX）・財務概要・Snowflakeとの比較を徹底解説。
 - [オラクル（ORCL）株価が高値から半値になった理由｜受注残6,380億ドルとBBB-格下げを5つの数字で読む](/posts/2026-09-03-oracle-orcl-rpo-credit-downgrade-stock-analysis/) — オラクル（ORCL）の株価が高値345ドルから145ドルへ約58%下落した理由を、受注残（RPO）6,380億ドル、S&PによるBBB-格下げ、6四半期連続のフリーキャッシュフロー赤字、R…
