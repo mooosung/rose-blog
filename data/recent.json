@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-19-rag-toha-retrieval-augmented-generation-saas",
+    "title": "RAGとは？検索拡張生成の仕組みとファインチューニングとの違い、SaaS企業がRAGで売っているもの",
+    "date": "2026-11-19",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-19-rag-toha-retrieval-augmented-generation-saas.jpg"
+  },
+  {
     "path": "posts/2026-11-16-kouden-yugo-cpo-photonics",
     "title": "光電融合とは？CPOとの関係、NVIDIAの量産と日本企業の役割をやさしく解説",
     "date": "2026-11-16",
@@ -28,11 +34,5 @@
     "title": "累進配当とは｜「減配しない」宣言の仕組みと撤回例、日経30銘柄で見る見分け方",
     "date": "2026-11-07",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-07-ruishin-haito-progressive-dividend-guide.jpg"
-  },
-  {
-    "path": "posts/2026-11-05-mcp-model-context-protocol-saas-stocks",
-    "title": "MCPとは？AIとSaaSをつなぐ共通規格をやさしく解説｜SaaS銘柄への影響",
-    "date": "2026-11-05",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-05-mcp-model-context-protocol-saas-stocks.jpg"
   }
 ]

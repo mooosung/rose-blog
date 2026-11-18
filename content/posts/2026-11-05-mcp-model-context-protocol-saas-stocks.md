@@ -54,6 +54,8 @@ USB-Cが登場する前は、機器ごとに違う形のケーブルが必要で
 
 ChatGPTのプラグインのような「特定のAI専用の拡張」とも違いますわ。MCPは**特定の会社のものではない共通規格**なので、一度作ればClaudeでもChatGPTでもGeminiでも使えますの。ここが普及した最大の理由ですわね。
 
+AIがMCP経由で社内の資料を検索してから答える使い方は「RAG」と呼ばれますの。仕組みは[RAGとは？検索拡張生成の仕組みとファインチューニングとの違い](/posts/2026-11-19-rag-toha-retrieval-augmented-generation-saas/)で解説しておりますわ。
+
 ![MCPでAIとSaaSがつながるイメージ](/img/body/2026-11-05-mcp-model-context-protocol-saas-stocks-1.jpg)
 
 ---
