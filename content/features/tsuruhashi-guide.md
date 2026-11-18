@@ -3,7 +3,7 @@ title: "ツルハシ投資の記事まとめ｜AIインフラ株を分野別に�
 date: 2026-07-28
 lastmod: 2026-11-12
 draft: false
-description: "ゴールドラッシュで儲かるのは金を掘る人ではなくツルハシを売る人。AIブームを裏側で支えるインフラ株を、半導体・電力・冷却・素材と個別銘柄の決算分析まで、30記事を分野別にまとめましたわ"
+description: "ツルハシ銘柄とは、AIブームで金を掘る側ではなく道具を売る側＝半導体・電力・冷却・素材などAIインフラを支える企業の株のこと。言葉の由来と分野ごとの考え方、日米の銘柄一覧記事への入口、個別銘柄の決算分析まで30記事を分野別にまとめましたわ"
 featureimage: "https://rozenmaier.com/img/thumbnails/feature-tsuruhashi-guide.jpg"
 showDate: false
 showAuthor: false
