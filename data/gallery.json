@@ -1,9 +1,18 @@
 {
- "updated": "2026-11-18",
- "count": 73,
- "daily": 72,
+ "updated": "2026-11-20",
+ "count": 74,
+ "daily": 73,
  "work": 1,
  "items": [
+  {
+   "slug": "anthropic-ipo-debut-2026-11-19",
+   "thumb": "/img/gallery/anthropic-ipo-debut-2026-11-19_thumb.webp",
+   "full": "/img/gallery/anthropic-ipo-debut-2026-11-19.webp",
+   "caption": "お茶を準備する",
+   "outfit": "メイド服",
+   "kind": "日常",
+   "date": "2026-11-19"
+  },
   {
    "slug": "us-ai-chip-remote-access-rule-2026-11-18",
    "thumb": "/img/gallery/us-ai-chip-remote-access-rule-2026-11-18_thumb.webp",
