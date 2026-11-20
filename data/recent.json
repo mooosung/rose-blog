@@ -1,5 +1,11 @@
 [
   {
+    "path": "posts/2026-11-21-doe-kabunushi-shihon-haitouritsu-guide",
+    "title": "DOEとは？株主資本配当率の計算式・目安と配当性向との違い",
+    "date": "2026-11-21",
+    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-21-doe-kabunushi-shihon-haitouritsu-guide.jpg"
+  },
+  {
     "path": "posts/2026-11-19-rag-toha-retrieval-augmented-generation-saas",
     "title": "RAGとは？検索拡張生成の仕組みとファインチューニングとの違い、SaaS企業がRAGで売っているもの",
     "date": "2026-11-19",
@@ -28,11 +34,5 @@
     "title": "CoWoSとは？TSMCの先端パッケージの仕組みとインターポーザ、CoPoSとの違い",
     "date": "2026-11-09",
     "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-09-cowos-tsmc-interposer-copos.jpg"
-  },
-  {
-    "path": "posts/2026-11-07-ruishin-haito-progressive-dividend-guide",
-    "title": "累進配当とは｜「減配しない」宣言の仕組みと撤回例、日経30銘柄で見る見分け方",
-    "date": "2026-11-07",
-    "featureimage": "https://rozenmaier.com/img/thumbnails/2026-11-07-ruishin-haito-progressive-dividend-guide.jpg"
   }
 ]

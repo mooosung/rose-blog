@@ -49,7 +49,7 @@ featureimagecaption: "Photo by rozenmaier.com"
 
 大和総研のレポートも、累進配当やDOEは減配リスクが低い一方で、**利益が急増しても配当の伸びは配当性向型より小さくなりやすい**と指摘しています。安定と引き換えに、上振れの取り分を少し手放す方針、と覚えておけば十分ですわ。
 
-DOEや総還元性向まで含めた株主還元の見方は、[総還元性向の記事](/posts/2026-08-15-total-shareholder-yield-dividend-stock-guide/)で詳しく扱っております。
+DOEや総還元性向まで含めた株主還元の見方は、[総還元性向の記事](/posts/2026-08-15-total-shareholder-yield-dividend-stock-guide/)で詳しく扱っております。DOEの計算式・目安・採用企業の実例は[DOE（株主資本配当率）の解説記事](/posts/2026-11-21-doe-kabunushi-shihon-haitouritsu-guide/)をどうぞ。
 
 ---
 
